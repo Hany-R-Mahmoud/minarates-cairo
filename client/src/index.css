@@ -1,0 +1,387 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import url("https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap");
+
+@custom-variant dark (&:is(.dark *));
+
+/* ─── Design Tokens ─────────────────────────────────────────────────────────── */
+@theme inline {
+  /* Palette: Stone, Light & Manuscript */
+  --color-stone-950: oklch(14% 0.025 45);
+  --color-stone-900: oklch(18% 0.025 45);
+  --color-stone-800: oklch(25% 0.022 45);
+  --color-stone-700: oklch(35% 0.020 45);
+  --color-stone-600: oklch(45% 0.018 45);
+  --color-stone-500: oklch(55% 0.015 45);
+  --color-stone-400: oklch(65% 0.012 45);
+  --color-stone-300: oklch(75% 0.010 45);
+  --color-stone-200: oklch(85% 0.008 45);
+  --color-stone-100: oklch(92% 0.006 45);
+  --color-stone-50:  oklch(96% 0.005 45);
+
+  --color-parchment-50:  oklch(97% 0.018 75);
+  --color-parchment-100: oklch(94% 0.022 75);
+  --color-parchment-200: oklch(90% 0.028 75);
+  --color-parchment-300: oklch(84% 0.032 75);
+
+  --color-terracotta-400: oklch(62% 0.14 42);
+  --color-terracotta-500: oklch(55% 0.16 42);
+  --color-terracotta-600: oklch(48% 0.17 42);
+  --color-terracotta-700: oklch(40% 0.15 42);
+
+  --color-gold-300: oklch(82% 0.12 80);
+  --color-gold-400: oklch(74% 0.14 80);
+  --color-gold-500: oklch(66% 0.15 80);
+
+  --color-teal-400: oklch(62% 0.10 195);
+  --color-teal-500: oklch(55% 0.12 195);
+  --color-teal-600: oklch(48% 0.13 195);
+  --color-teal-700: oklch(40% 0.11 195);
+
+  /* Semantic tokens */
+  --color-background: var(--color-parchment-50);
+  --color-foreground: var(--color-stone-900);
+  --color-card: oklch(99% 0.010 75);
+  --color-card-foreground: var(--color-stone-900);
+  --color-popover: oklch(99% 0.010 75);
+  --color-popover-foreground: var(--color-stone-900);
+  --color-primary: var(--color-terracotta-600);
+  --color-primary-foreground: oklch(98% 0.005 75);
+  --color-secondary: var(--color-teal-600);
+  --color-secondary-foreground: oklch(98% 0.005 195);
+  --color-muted: var(--color-parchment-200);
+  --color-muted-foreground: var(--color-stone-600);
+  --color-accent: var(--color-gold-400);
+  --color-accent-foreground: var(--color-stone-900);
+  --color-destructive: oklch(55% 0.18 25);
+  --color-destructive-foreground: oklch(98% 0.005 25);
+  --color-border: var(--color-parchment-300);
+  --color-input: var(--color-parchment-200);
+  --color-ring: var(--color-terracotta-500);
+
+  /* Era period colors */
+  --color-era-tulunid: oklch(55% 0.08 200);
+  --color-era-fatimid: oklch(55% 0.12 150);
+  --color-era-ayyubid: oklch(55% 0.14 80);
+  --color-era-mamluk: oklch(55% 0.16 42);
+  --color-era-ottoman: oklch(55% 0.12 260);
+  --color-era-modern: oklch(55% 0.08 320);
+
+  /* Typography */
+  --font-sans: "Source Sans 3", system-ui, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-arabic: "Amiri", "Noto Naskh Arabic", serif;
+  --font-arabic-sans: "Noto Naskh Arabic", sans-serif;
+
+  /* Radius */
+  --radius: 0.5rem;
+
+  /* Shadows */
+  --shadow-heritage: 0 2px 8px oklch(14% 0.025 45 / 0.12), 0 1px 3px oklch(14% 0.025 45 / 0.08);
+  --shadow-card: 0 4px 16px oklch(14% 0.025 45 / 0.10), 0 1px 4px oklch(14% 0.025 45 / 0.06);
+  --shadow-elevated: 0 8px 32px oklch(14% 0.025 45 / 0.14), 0 2px 8px oklch(14% 0.025 45 / 0.08);
+
+  /* Easing */
+  --ease-heritage: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out-heritage: cubic-bezier(0.77, 0, 0.175, 1);
+}
+
+/* ─── Base Layer ─────────────────────────────────────────────────────────────── */
+@layer base {
+  *, *::before, *::after { box-sizing: border-box; }
+
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    font-family: var(--font-sans);
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Arabic RTL */
+  [lang="ar"], .lang-ar, [dir="rtl"] {
+    font-family: var(--font-arabic);
+    direction: rtl;
+    text-align: right;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+    font-weight: 600;
+    line-height: 1.2;
+    color: var(--color-stone-900);
+  }
+
+  [lang="ar"] h1, [lang="ar"] h2, [lang="ar"] h3,
+  [lang="ar"] h4, [lang="ar"] h5, [lang="ar"] h6,
+  .lang-ar h1, .lang-ar h2, .lang-ar h3 {
+    font-family: var(--font-arabic);
+  }
+
+  a { color: var(--color-terracotta-600); text-decoration: none; }
+  a:hover { color: var(--color-terracotta-700); }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--color-parchment-100); }
+  ::-webkit-scrollbar-thumb { background: var(--color-stone-300); border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--color-stone-400); }
+
+  /* Selection */
+  ::selection {
+    background-color: oklch(74% 0.14 80 / 0.3);
+    color: var(--color-stone-900);
+  }
+
+  /* Focus ring */
+  :focus-visible {
+    outline: 2px solid var(--color-terracotta-500);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  /* Container */
+  .container {
+    width: 100%;
+    max-width: 1280px;
+    margin-inline: auto;
+    padding-inline: 1.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .container { padding-inline: 2rem; }
+  }
+  @media (min-width: 1024px) {
+    .container { padding-inline: 3rem; }
+  }
+
+  /* Flex min-width fix */
+  .flex { min-width: 0; min-height: 0; }
+}
+
+/* ─── Heritage Components ────────────────────────────────────────────────────── */
+@layer components {
+  /* Period badge */
+  .period-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.25rem 0.625rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    letter-spacing: 0.025em;
+    text-transform: uppercase;
+  }
+
+  /* Era color classes */
+  .era-tulunid  { background: oklch(55% 0.08 200 / 0.15); color: oklch(40% 0.08 200); border: 1px solid oklch(55% 0.08 200 / 0.3); }
+  .era-fatimid  { background: oklch(55% 0.12 150 / 0.15); color: oklch(40% 0.12 150); border: 1px solid oklch(55% 0.12 150 / 0.3); }
+  .era-ayyubid  { background: oklch(55% 0.14 80 / 0.15);  color: oklch(40% 0.14 80);  border: 1px solid oklch(55% 0.14 80 / 0.3); }
+  .era-mamluk   { background: oklch(55% 0.16 42 / 0.15);  color: oklch(40% 0.16 42);  border: 1px solid oklch(55% 0.16 42 / 0.3); }
+  .era-ottoman  { background: oklch(55% 0.12 260 / 0.15); color: oklch(40% 0.12 260); border: 1px solid oklch(55% 0.12 260 / 0.3); }
+  .era-modern   { background: oklch(55% 0.08 320 / 0.15); color: oklch(40% 0.08 320); border: 1px solid oklch(55% 0.08 320 / 0.3); }
+
+  /* Monument card */
+  .monument-card {
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-heritage);
+    transition: box-shadow 200ms var(--ease-heritage), transform 200ms var(--ease-heritage);
+    overflow: hidden;
+  }
+  .monument-card:hover {
+    box-shadow: var(--shadow-card);
+    transform: translateY(-2px);
+  }
+
+  /* Heritage button */
+  .btn-heritage {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.625rem 1.25rem;
+    background: var(--color-terracotta-600);
+    color: oklch(98% 0.005 75);
+    border-radius: var(--radius);
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: background 160ms var(--ease-heritage), transform 100ms var(--ease-heritage);
+    cursor: pointer;
+    border: none;
+  }
+  .btn-heritage:hover { background: var(--color-terracotta-700); }
+  .btn-heritage:active { transform: scale(0.97); }
+
+  /* Section divider with geometric pattern */
+  .heritage-divider {
+    height: 1px;
+    background: linear-gradient(to right, transparent, var(--color-gold-400), transparent);
+    margin: 2rem 0;
+  }
+
+  /* Arabic text block */
+  .arabic-text {
+    font-family: var(--font-arabic);
+    direction: rtl;
+    text-align: right;
+    line-height: 1.8;
+  }
+
+  /* Bilingual block */
+  .bilingual-block {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+  @media (max-width: 768px) {
+    .bilingual-block { grid-template-columns: 1fr; }
+  }
+
+  /* Map container */
+  .map-container {
+    width: 100%;
+    height: 100%;
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+
+  /* Cinematic hero */
+  .hero-cinematic {
+    position: relative;
+    min-height: 100vh;
+    background: var(--color-stone-950);
+    overflow: hidden;
+  }
+
+  /* Period ribbon */
+  .period-ribbon {
+    display: flex;
+    overflow-x: auto;
+    gap: 0;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .period-ribbon::-webkit-scrollbar { display: none; }
+
+  .period-ribbon-item {
+    flex: 1;
+    min-width: 120px;
+    padding: 0.75rem 1rem;
+    text-align: center;
+    cursor: pointer;
+    transition: background 180ms var(--ease-heritage);
+    border-bottom: 3px solid transparent;
+    white-space: nowrap;
+  }
+  .period-ribbon-item.active {
+    border-bottom-color: var(--color-terracotta-500);
+    background: oklch(55% 0.16 42 / 0.08);
+  }
+
+  /* Stale info warning */
+  .stale-warning {
+    background: oklch(74% 0.14 80 / 0.15);
+    border: 1px solid oklch(66% 0.15 80 / 0.4);
+    border-radius: var(--radius);
+    padding: 0.75rem 1rem;
+    font-size: 0.875rem;
+    color: oklch(40% 0.12 70);
+  }
+
+  /* Sacred site notice */
+  .sacred-notice {
+    background: oklch(55% 0.12 150 / 0.1);
+    border-left: 3px solid oklch(55% 0.12 150);
+    padding: 0.75rem 1rem;
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-size: 0.875rem;
+  }
+
+  /* Clarification callout */
+  .clarification-callout {
+    background: oklch(55% 0.08 200 / 0.08);
+    border: 1px solid oklch(55% 0.08 200 / 0.3);
+    border-radius: var(--radius);
+    padding: 1rem;
+  }
+
+  /* Notebook card */
+  .notebook-card {
+    background: oklch(99% 0.018 75);
+    border: 1px solid var(--color-parchment-300);
+    border-radius: var(--radius);
+    padding: 1.25rem;
+    box-shadow: var(--shadow-heritage);
+  }
+
+  /* Comparison grid */
+  .comparison-grid {
+    display: grid;
+    gap: 1.5rem;
+  }
+  .comparison-grid[data-count="2"] { grid-template-columns: 1fr 1fr; }
+  .comparison-grid[data-count="3"] { grid-template-columns: 1fr 1fr 1fr; }
+  .comparison-grid[data-count="4"] { grid-template-columns: 1fr 1fr 1fr 1fr; }
+  @media (max-width: 768px) {
+    .comparison-grid[data-count="2"],
+    .comparison-grid[data-count="3"],
+    .comparison-grid[data-count="4"] { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 1024px) {
+    .comparison-grid[data-count="3"],
+    .comparison-grid[data-count="4"] { grid-template-columns: 1fr 1fr; }
+  }
+
+  /* Detective activity card */
+  .detective-card {
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    box-shadow: var(--shadow-heritage);
+  }
+
+  /* Geometric pattern overlay (non-sacred, abstract) */
+  .geometric-pattern {
+    background-image:
+      repeating-linear-gradient(45deg, oklch(74% 0.14 80 / 0.04) 0px, oklch(74% 0.14 80 / 0.04) 1px, transparent 1px, transparent 20px),
+      repeating-linear-gradient(-45deg, oklch(74% 0.14 80 / 0.04) 0px, oklch(74% 0.14 80 / 0.04) 1px, transparent 1px, transparent 20px);
+  }
+
+  /* Smooth page transitions */
+  .page-enter {
+    animation: pageEnter 250ms var(--ease-heritage) both;
+  }
+  @keyframes pageEnter {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Loading skeleton */
+  .skeleton {
+    background: linear-gradient(90deg, var(--color-parchment-200) 25%, var(--color-parchment-100) 50%, var(--color-parchment-200) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+    border-radius: var(--radius);
+  }
+  @keyframes shimmer {
+    0%   { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+
+  /* Reduce motion */
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}

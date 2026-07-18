@@ -1,0 +1,13 @@
+{
+  "name": "Minarets of Cairo | مآذن القاهرة",
+  "short_name": "Minarets",
+  "description": "Islamic Cairo Heritage Companion",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5EDD8",
+  "theme_color": "#1C1410",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+  ]
+}
