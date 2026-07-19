@@ -1,30 +1,36 @@
 import {
   boolean,
-  decimal,
-  int,
-  json,
-  mysqlEnum,
-  mysqlTable,
+  integer as int,
+  jsonb as json,
+  numeric as decimal,
+  pgTable,
   text,
   timestamp,
   varchar,
-} from "drizzle-orm/mysql-core";
+} from "drizzle-orm/pg-core";
+
+const enumText = <const T extends readonly [string, ...string[]]>(
+  name: string,
+  values: T
+) => varchar(name, { length: 64, enum: values });
 
 // ============================================================
 // IDENTITY
 // ============================================================
 
-export const users = mysqlTable("users", {
-  id: int("id").autoincrement().primaryKey(),
+export const users = pgTable("users", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   openId: varchar("openId", { length: 64 }).notNull().unique(),
   name: text("name"),
   email: varchar("email", { length: 320 }),
   loginMethod: varchar("loginMethod", { length: 64 }),
-  role: mysqlEnum("role", ["user", "admin", "curator", "editor", "researcher"]).default("user").notNull(),
+  role: enumText("role", ["user", "admin", "curator", "editor", "researcher"])
+    .default("user")
+    .notNull(),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
   lastSignedIn: timestamp("lastSignedIn").defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type User = typeof users.$inferSelect;
 export type InsertUser = typeof users.$inferInsert;
@@ -33,8 +39,8 @@ export type InsertUser = typeof users.$inferInsert;
 // HISTORICAL TAXONOMY
 // ============================================================
 
-export const periods = mysqlTable("periods", {
-  id: int("id").autoincrement().primaryKey(),
+export const periods = pgTable("periods", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 64 }).notNull().unique(),
   nameEn: varchar("nameEn", { length: 128 }).notNull(),
   nameAr: varchar("nameAr", { length: 128 }).notNull(),
@@ -45,12 +51,12 @@ export const periods = mysqlTable("periods", {
   colorToken: varchar("colorToken", { length: 64 }),
   sortOrder: int("sortOrder").default(0),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type Period = typeof periods.$inferSelect;
 
-export const dynasties = mysqlTable("dynasties", {
-  id: int("id").autoincrement().primaryKey(),
+export const dynasties = pgTable("dynasties", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 64 }).notNull().unique(),
   nameEn: varchar("nameEn", { length: 128 }).notNull(),
   nameAr: varchar("nameAr", { length: 128 }).notNull(),
@@ -60,12 +66,12 @@ export const dynasties = mysqlTable("dynasties", {
   descriptionEn: text("descriptionEn"),
   descriptionAr: text("descriptionAr"),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type Dynasty = typeof dynasties.$inferSelect;
 
-export const districts = mysqlTable("districts", {
-  id: int("id").autoincrement().primaryKey(),
+export const districts = pgTable("districts", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 64 }).notNull().unique(),
   nameEn: varchar("nameEn", { length: 128 }).notNull(),
   nameAr: varchar("nameAr", { length: 128 }).notNull(),
@@ -74,18 +80,18 @@ export const districts = mysqlTable("districts", {
   lat: decimal("lat", { precision: 10, scale: 7 }),
   lng: decimal("lng", { precision: 10, scale: 7 }),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type District = typeof districts.$inferSelect;
 
-export const placeTypes = mysqlTable("placeTypes", {
-  id: int("id").autoincrement().primaryKey(),
+export const placeTypes = pgTable("placeTypes", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 64 }).notNull().unique(),
   nameEn: varchar("nameEn", { length: 128 }).notNull(),
   nameAr: varchar("nameAr", { length: 128 }).notNull(),
   icon: varchar("icon", { length: 64 }),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type PlaceType = typeof placeTypes.$inferSelect;
 
@@ -93,8 +99,8 @@ export type PlaceType = typeof placeTypes.$inferSelect;
 // PLACES
 // ============================================================
 
-export const places = mysqlTable("places", {
-  id: int("id").autoincrement().primaryKey(),
+export const places = pgTable("places", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 128 }).notNull().unique(),
   nameEn: varchar("nameEn", { length: 256 }).notNull(),
   nameAr: varchar("nameAr", { length: 256 }).notNull(),
@@ -103,87 +109,112 @@ export const places = mysqlTable("places", {
   dynastyId: int("dynastyId"),
   districtId: int("districtId"),
   placeTypeId: int("placeTypeId"),
-  
+
   // Dates
   foundedYear: int("foundedYear"),
   foundedYearEnd: int("foundedYearEnd"),
-  dateCertainty: mysqlEnum("dateCertainty", ["certain", "approximate", "disputed", "unknown"]).default("approximate"),
+  dateCertainty: enumText("dateCertainty", [
+    "certain",
+    "approximate",
+    "disputed",
+    "unknown",
+  ]).default("approximate"),
   dateDisplayEn: varchar("dateDisplayEn", { length: 128 }),
   dateDisplayAr: varchar("dateDisplayAr", { length: 128 }),
-  
+
   // Patron
   patronEn: varchar("patronEn", { length: 256 }),
   patronAr: varchar("patronAr", { length: 256 }),
   architectEn: varchar("architectEn", { length: 256 }),
   architectAr: varchar("architectAr", { length: 256 }),
-  
+
   // Functions
   originalFunctionEn: varchar("originalFunctionEn", { length: 256 }),
   originalFunctionAr: varchar("originalFunctionAr", { length: 256 }),
   currentFunctionEn: varchar("currentFunctionEn", { length: 256 }),
   currentFunctionAr: varchar("currentFunctionAr", { length: 256 }),
-  
+
   // History briefs (90-160 words EN)
   briefEn: text("briefEn"),
   briefAr: text("briefAr"),
-  
+
   // Clarification note
   clarificationEn: text("clarificationEn"),
   clarificationAr: text("clarificationAr"),
-  
+
   // Key dates (JSON array of {year, labelEn, labelAr})
   keyDates: json("keyDates"),
-  
+
   // Architectural phases (JSON array)
   architecturalPhases: json("architecturalPhases"),
-  
+
   // Location
   lat: decimal("lat", { precision: 10, scale: 7 }),
   lng: decimal("lng", { precision: 10, scale: 7 }),
-  locationPrecision: mysqlEnum("locationPrecision", ["exact", "approximate", "district"]).default("approximate"),
-  
+  locationPrecision: enumText("locationPrecision", [
+    "exact",
+    "approximate",
+    "district",
+  ]).default("approximate"),
+
   // Status flags
   activeWorship: boolean("activeWorship").default(false),
   funerarySensitive: boolean("funerarySensitive").default(false),
   ticketed: boolean("ticketed"),
-  photographyAllowed: mysqlEnum("photographyAllowed", ["yes", "exterior_only", "no", "ask", "unknown"]).default("unknown"),
-  
+  photographyAllowed: enumText("photographyAllowed", [
+    "yes",
+    "exterior_only",
+    "no",
+    "ask",
+    "unknown",
+  ]).default("unknown"),
+
   // Practical info
   openingHoursEn: text("openingHoursEn"),
   openingHoursAr: text("openingHoursAr"),
   practicalInfoFreshness: timestamp("practicalInfoFreshness"),
   practicalInfoSource: varchar("practicalInfoSource", { length: 512 }),
-  
+
   // Accessibility
-  accessibilityConfidence: mysqlEnum("accessibilityConfidence", ["high", "medium", "low", "unknown"]).default("unknown"),
+  accessibilityConfidence: enumText("accessibilityConfidence", [
+    "high",
+    "medium",
+    "low",
+    "unknown",
+  ]).default("unknown"),
   accessibilityNotesEn: text("accessibilityNotesEn"),
   accessibilityNotesAr: text("accessibilityNotesAr"),
-  
+
   // Visit
   recommendedDurationMin: int("recommendedDurationMin"),
   recommendedDurationMax: int("recommendedDurationMax"),
-  
+
   // Cover image
   coverImageUrl: varchar("coverImageUrl", { length: 512 }),
   coverImageAlt: varchar("coverImageAlt", { length: 512 }),
   coverImageAltAr: varchar("coverImageAltAr", { length: 512 }),
   coverImageAttribution: text("coverImageAttribution"),
   coverImageLicense: varchar("coverImageLicense", { length: 128 }),
-  
+
   // Publication
-  status: mysqlEnum("status", ["draft", "review", "published", "archived"]).default("draft"),
+  status: enumText("status", [
+    "draft",
+    "review",
+    "published",
+    "archived",
+  ]).default("draft"),
   publishedAt: timestamp("publishedAt"),
-  
+
   // Priority visual story
   priorityVisualStoryEn: text("priorityVisualStoryEn"),
   priorityVisualStoryAr: text("priorityVisualStoryAr"),
-  
+
   // Sources (JSON array of source IDs)
   sourceIds: json("sourceIds"),
-  
+
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
-});
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}).enableRLS();
 
 export type Place = typeof places.$inferSelect;
 export type InsertPlace = typeof places.$inferInsert;
@@ -192,8 +223,8 @@ export type InsertPlace = typeof places.$inferInsert;
 // SOURCES
 // ============================================================
 
-export const sources = mysqlTable("sources", {
-  id: int("id").autoincrement().primaryKey(),
+export const sources = pgTable("sources", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 128 }).notNull().unique(),
   titleEn: varchar("titleEn", { length: 512 }).notNull(),
   titleAr: varchar("titleAr", { length: 512 }),
@@ -201,10 +232,19 @@ export const sources = mysqlTable("sources", {
   publisher: varchar("publisher", { length: 256 }),
   year: int("year"),
   url: varchar("url", { length: 1024 }),
-  sourceType: mysqlEnum("sourceType", ["academic", "institution", "archive", "museum", "conservation", "government", "journalism", "oral"]).default("academic"),
+  sourceType: enumText("sourceType", [
+    "academic",
+    "institution",
+    "archive",
+    "museum",
+    "conservation",
+    "government",
+    "journalism",
+    "oral",
+  ]).default("academic"),
   reliabilityNote: text("reliabilityNote"),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type Source = typeof sources.$inferSelect;
 
@@ -212,11 +252,19 @@ export type Source = typeof sources.$inferSelect;
 // MEDIA
 // ============================================================
 
-export const mediaAssets = mysqlTable("mediaAssets", {
-  id: int("id").autoincrement().primaryKey(),
-  assetId: varchar("assetId", { length: 128 }).notNull().unique(),
+export const mediaAssets = pgTable("mediaAssets", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
+  assetId: varchar("assetId", { length: 128 })
+    .notNull()
+    .unique()
+    .$defaultFn(() => crypto.randomUUID()),
   placeId: int("placeId"),
-  
+  uploadedBy: int("uploadedBy"),
+  mediaType: varchar("mediaType", {
+    length: 32,
+    enum: ["photo", "plan", "illustration", "map"] as const,
+  }).default("photo"),
+
   // File info
   originalFilename: varchar("originalFilename", { length: 512 }),
   cdnKey: varchar("cdnKey", { length: 512 }),
@@ -226,7 +274,7 @@ export const mediaAssets = mysqlTable("mediaAssets", {
   mimeType: varchar("mimeType", { length: 64 }),
   fileSizeBytes: int("fileSizeBytes"),
   checksum: varchar("checksum", { length: 128 }),
-  
+
   // Attribution
   creator: varchar("creator", { length: 256 }),
   sourcePage: varchar("sourcePage", { length: 1024 }),
@@ -234,28 +282,50 @@ export const mediaAssets = mysqlTable("mediaAssets", {
   licenseUrl: varchar("licenseUrl", { length: 512 }),
   attribution: text("attribution"),
   modifications: text("modifications"),
-  
+
   // Alt text
   altEn: text("altEn"),
   altAr: text("altAr"),
   captionEn: text("captionEn"),
   captionAr: text("captionAr"),
-  
+
   // Classification
-  visualType: mysqlEnum("visualType", ["exterior", "interior", "portal", "minaret", "dome", "courtyard", "detail", "plan", "map", "archival", "street", "aerial", "material", "inscription", "other"]).default("exterior"),
-  documentaryStatus: mysqlEnum("documentaryStatus", ["documentary", "archival", "illustration", "decorative", "generated"]).default("documentary"),
-  
+  visualType: enumText("visualType", [
+    "exterior",
+    "interior",
+    "portal",
+    "minaret",
+    "dome",
+    "courtyard",
+    "detail",
+    "plan",
+    "map",
+    "archival",
+    "street",
+    "aerial",
+    "material",
+    "inscription",
+    "other",
+  ]).default("exterior"),
+  documentaryStatus: enumText("documentaryStatus", [
+    "documentary",
+    "archival",
+    "illustration",
+    "decorative",
+    "generated",
+  ]).default("documentary"),
+
   // Focal point
   focalPointX: decimal("focalPointX", { precision: 4, scale: 3 }),
   focalPointY: decimal("focalPointY", { precision: 4, scale: 3 }),
-  
+
   // Status
   approved: boolean("approved").default(false),
   rejectionReason: text("rejectionReason"),
-  
+
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
-});
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}).enableRLS();
 
 export type MediaAsset = typeof mediaAssets.$inferSelect;
 
@@ -263,47 +333,51 @@ export type MediaAsset = typeof mediaAssets.$inferSelect;
 // WALKS
 // ============================================================
 
-export const walks = mysqlTable("walks", {
-  id: int("id").autoincrement().primaryKey(),
+export const walks = pgTable("walks", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 128 }).notNull().unique(),
   nameEn: varchar("nameEn", { length: 256 }).notNull(),
   nameAr: varchar("nameAr", { length: 256 }).notNull(),
   descriptionEn: text("descriptionEn"),
   descriptionAr: text("descriptionAr"),
-  
+
   // Metrics
   durationMinutes: int("durationMinutes"),
   distanceMeters: int("distanceMeters"),
-  difficulty: mysqlEnum("difficulty", ["easy", "moderate", "challenging"]).default("moderate"),
-  
+  difficulty: enumText("difficulty", [
+    "easy",
+    "moderate",
+    "challenging",
+  ]).default("moderate"),
+
   // Metadata
   districtId: int("districtId"),
   periodIds: json("periodIds"),
   stops: json("stops"), // JSON array of {placeId, orderIndex, noteEn, noteAr, activeWorship}
-  
+
   // Accessibility
   accessibilityNotesEn: text("accessibilityNotesEn"),
   accessibilityNotesAr: text("accessibilityNotesAr"),
   stairsAndSurfaces: text("stairsAndSurfaces"),
-  
+
   // Warnings
   hasStaleInfo: boolean("hasStaleInfo").default(false),
   staleInfoNoteEn: text("staleInfoNoteEn"),
   staleInfoNoteAr: text("staleInfoNoteAr"),
   requiresFuneraryApproval: boolean("requiresFuneraryApproval").default(false),
-  
+
   // Offline
   offlineSizeKb: int("offlineSizeKb"),
-  
+
   // Cover
   coverImageUrl: varchar("coverImageUrl", { length: 512 }),
   coverImageAttribution: text("coverImageAttribution"),
-  
-  status: mysqlEnum("status", ["draft", "review", "published"]).default("draft"),
+
+  status: enumText("status", ["draft", "review", "published"]).default("draft"),
   sortOrder: int("sortOrder").default(0),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
-});
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}).enableRLS();
 
 export type Walk = typeof walks.$inferSelect;
 
@@ -311,8 +385,8 @@ export type Walk = typeof walks.$inferSelect;
 // COMPARISONS
 // ============================================================
 
-export const comparisons = mysqlTable("comparisons", {
-  id: int("id").autoincrement().primaryKey(),
+export const comparisons = pgTable("comparisons", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 128 }).notNull().unique(),
   titleEn: varchar("titleEn", { length: 256 }).notNull(),
   titleAr: varchar("titleAr", { length: 256 }).notNull(),
@@ -322,10 +396,10 @@ export const comparisons = mysqlTable("comparisons", {
   explanationAr: text("explanationAr"),
   placeIds: json("placeIds"), // 2-4 place IDs
   comparisonAspects: json("comparisonAspects"), // JSON array of {labelEn, labelAr, values}
-  status: mysqlEnum("status", ["draft", "published"]).default("draft"),
+  status: enumText("status", ["draft", "published"]).default("draft"),
   sortOrder: int("sortOrder").default(0),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type Comparison = typeof comparisons.$inferSelect;
 
@@ -333,14 +407,14 @@ export type Comparison = typeof comparisons.$inferSelect;
 // DETECTIVE ACTIVITIES
 // ============================================================
 
-export const detectiveActivities = mysqlTable("detectiveActivities", {
-  id: int("id").autoincrement().primaryKey(),
+export const detectiveActivities = pgTable("detectiveActivities", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 128 }).notNull().unique(),
   titleEn: varchar("titleEn", { length: 256 }).notNull(),
   titleAr: varchar("titleAr", { length: 256 }).notNull(),
   descriptionEn: text("descriptionEn"),
   descriptionAr: text("descriptionAr"),
-  activityType: mysqlEnum("activityType", [
+  activityType: enumText("activityType", [
     "find_detail",
     "match_silhouette",
     "street_or_qibla",
@@ -350,7 +424,7 @@ export const detectiveActivities = mysqlTable("detectiveActivities", {
     "layer_reveal",
     "route_riddle",
     "patron_network",
-    "vocabulary_deck"
+    "vocabulary_deck",
   ]).notNull(),
   placeId: int("placeId"),
   promptEn: text("promptEn"),
@@ -361,11 +435,15 @@ export const detectiveActivities = mysqlTable("detectiveActivities", {
   correctAnswer: varchar("correctAnswer", { length: 256 }),
   explanationEn: text("explanationEn"),
   explanationAr: text("explanationAr"),
-  difficulty: mysqlEnum("difficulty", ["beginner", "intermediate", "advanced"]).default("intermediate"),
-  status: mysqlEnum("status", ["draft", "published"]).default("draft"),
+  difficulty: enumText("difficulty", [
+    "beginner",
+    "intermediate",
+    "advanced",
+  ]).default("intermediate"),
+  status: enumText("status", ["draft", "published"]).default("draft"),
   sortOrder: int("sortOrder").default(0),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type DetectiveActivity = typeof detectiveActivities.$inferSelect;
 
@@ -373,8 +451,8 @@ export type DetectiveActivity = typeof detectiveActivities.$inferSelect;
 // STORIES
 // ============================================================
 
-export const stories = mysqlTable("stories", {
-  id: int("id").autoincrement().primaryKey(),
+export const stories = pgTable("stories", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   slug: varchar("slug", { length: 128 }).notNull().unique(),
   titleEn: varchar("titleEn", { length: 256 }).notNull(),
   titleAr: varchar("titleAr", { length: 256 }).notNull(),
@@ -384,14 +462,19 @@ export const stories = mysqlTable("stories", {
   bodyAr: text("bodyAr"),
   coverImageUrl: varchar("coverImageUrl", { length: 512 }),
   coverImageAttribution: text("coverImageAttribution"),
+  descriptionEn: text("descriptionEn"),
+  descriptionAr: text("descriptionAr"),
+  placeId: int("placeId"),
+  storyType: varchar("storyType", { length: 64 }),
+  chaptersJson: text("chaptersJson"),
   relatedPlaceIds: json("relatedPlaceIds"),
   periodIds: json("periodIds"),
   tags: json("tags"),
-  status: mysqlEnum("status", ["draft", "published"]).default("draft"),
+  status: enumText("status", ["draft", "published"]).default("draft"),
   sortOrder: int("sortOrder").default(0),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
-});
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}).enableRLS();
 
 export type Story = typeof stories.$inferSelect;
 
@@ -399,15 +482,15 @@ export type Story = typeof stories.$inferSelect;
 // USER PLANNING (Guest-local + optional sync)
 // ============================================================
 
-export const userFavorites = mysqlTable("userFavorites", {
-  id: int("id").autoincrement().primaryKey(),
+export const userFavorites = pgTable("userFavorites", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   userId: int("userId").notNull(),
   placeId: int("placeId").notNull(),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}).enableRLS();
 
-export const userCollections = mysqlTable("userCollections", {
-  id: int("id").autoincrement().primaryKey(),
+export const userCollections = pgTable("userCollections", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   userId: int("userId").notNull(),
   nameEn: varchar("nameEn", { length: 256 }).notNull(),
   nameAr: varchar("nameAr", { length: 256 }),
@@ -415,30 +498,30 @@ export const userCollections = mysqlTable("userCollections", {
   descriptionAr: text("descriptionAr"),
   placeIds: json("placeIds"),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
-});
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}).enableRLS();
 
-export const userNotes = mysqlTable("userNotes", {
-  id: int("id").autoincrement().primaryKey(),
+export const userNotes = pgTable("userNotes", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   userId: int("userId").notNull(),
   placeId: int("placeId"),
   content: text("content").notNull(),
-  language: mysqlEnum("language", ["en", "ar"]).default("en"),
+  language: enumText("language", ["en", "ar"]).default("en"),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
-});
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}).enableRLS();
 
-export const userVisited = mysqlTable("userVisited", {
-  id: int("id").autoincrement().primaryKey(),
+export const userVisited = pgTable("userVisited", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   userId: int("userId").notNull(),
   placeId: int("placeId").notNull(),
   visitedAt: timestamp("visitedAt").defaultNow().notNull(),
   noteEn: text("noteEn"),
   noteAr: text("noteAr"),
-});
+}).enableRLS();
 
-export const userItineraries = mysqlTable("userItineraries", {
-  id: int("id").autoincrement().primaryKey(),
+export const userItineraries = pgTable("userItineraries", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   userId: int("userId").notNull(),
   nameEn: varchar("nameEn", { length: 256 }).notNull(),
   nameAr: varchar("nameAr", { length: 256 }),
@@ -448,15 +531,15 @@ export const userItineraries = mysqlTable("userItineraries", {
   hasStaleInfo: boolean("hasStaleInfo").default(false),
   hasWorshipSites: boolean("hasWorshipSites").default(false),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-  updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
-});
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}).enableRLS();
 
 // ============================================================
 // AUDIT LOG
 // ============================================================
 
-export const auditLog = mysqlTable("auditLog", {
-  id: int("id").autoincrement().primaryKey(),
+export const auditLog = pgTable("auditLog", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
   userId: int("userId"),
   action: varchar("action", { length: 128 }).notNull(),
   entityType: varchar("entityType", { length: 64 }),
@@ -466,6 +549,6 @@ export const auditLog = mysqlTable("auditLog", {
   ipAddress: varchar("ipAddress", { length: 64 }),
   userAgent: text("userAgent"),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type AuditLog = typeof auditLog.$inferSelect;

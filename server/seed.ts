@@ -2,8 +2,9 @@
  * Seed script for Minarets of Cairo
  * Run: npx tsx server/seed.ts
  */
-import { drizzle } from "drizzle-orm/mysql2";
-import mysql from "mysql2/promise";
+import { drizzle } from "drizzle-orm/postgres-js";
+import postgres from "postgres";
+import "./_core/loadEnv";
 import {
   periods,
   districts,
@@ -17,13 +18,15 @@ import {
 } from "../drizzle/schema";
 
 async function seed() {
-  const connection = await mysql.createConnection(process.env.DATABASE_URL!);
+  const databaseUrl = process.env.DATABASE_URL;
+  if (!databaseUrl) throw new Error("DATABASE_URL is required to seed the database");
+  const connection = postgres(databaseUrl, { max: 1 });
   const db = drizzle(connection);
   console.log("🌱 Seeding Minarets of Cairo database...");
 
   // PERIODS
   console.log("  → Seeding periods...");
-  await db.insert(periods).ignore().values([
+  await db.insert(periods).values([
     { slug: "rashidun-umayyad", nameEn: "Rashidun & Umayyad Foundations", nameAr: "الفتح الإسلامي والأمويون", startYear: 641, endYear: 750, descriptionEn: "The Arab conquest of Egypt in 641 CE established Fustat as the first Islamic capital.", descriptionAr: "أسس الفتح العربي لمصر عام ٦٤١م مدينة الفسطاط أولى العواصم الإسلامية.", colorToken: "period-rashidun", sortOrder: 1 },
     { slug: "abbasid", nameEn: "Abbasid Administration", nameAr: "الإدارة العباسية", startYear: 750, endYear: 868, descriptionEn: "Under Abbasid rule, Egypt was governed by appointed governors. The Nilometer exemplifies Abbasid scientific achievement.", descriptionAr: "في عهد العباسيين حُكمت مصر بولاة معيّنين. يجسّد مقياس النيل الإنجاز العلمي العباسي.", colorToken: "period-abbasid", sortOrder: 2 },
     { slug: "tulunid", nameEn: "Tulunid Cairo", nameAr: "القاهرة الطولونية", startYear: 868, endYear: 905, descriptionEn: "Ahmad Ibn Tulun established al-Qata'i as a new capital. His great mosque remains one of Cairo's most important early Islamic monuments.", descriptionAr: "أسس أحمد بن طولون مدينة القطائع عاصمة جديدة. لا يزال جامعه أحد أهم المعالم الإسلامية المبكرة في القاهرة.", colorToken: "period-tulunid", sortOrder: 3 },
@@ -35,11 +38,11 @@ async function seed() {
     { slug: "ottoman-late", nameEn: "Late Ottoman Cairo", nameAr: "القاهرة العثمانية المتأخرة", startYear: 1650, endYear: 1798, descriptionEn: "The late Ottoman period saw the rise of powerful Mamluk beys who commissioned sabils, kuttabs, and mosques.", descriptionAr: "شهدت الحقبة العثمانية المتأخرة صعود أمراء المماليك الأقوياء الذين أنشأوا السبل والكتاتيب والمساجد.", colorToken: "period-ottoman-late", sortOrder: 9 },
     { slug: "muhammad-ali", nameEn: "Muhammad Ali Dynasty", nameAr: "أسرة محمد علي", startYear: 1805, endYear: 1952, descriptionEn: "Muhammad Ali modernized Egypt and transformed the Citadel skyline with his great mosque.", descriptionAr: "حدّث محمد علي مصر وغيّر أفق القلعة بجامعه العظيم.", colorToken: "period-muhammad-ali", sortOrder: 10 },
     { slug: "modern", nameEn: "Modern Conservation & Living Heritage", nameAr: "الصون الحديث والتراث الحي", startYear: 1952, endYear: 2025, descriptionEn: "UNESCO listing, the Aga Khan Trust for Culture, and Egyptian heritage bodies work to conserve Historic Cairo.", descriptionAr: "تعمل قوائم اليونسكو وصندوق الآغا خان للثقافة والهيئات المصرية على صون القاهرة التاريخية.", colorToken: "period-modern", sortOrder: 11 },
-  ]);
+  ]).onConflictDoNothing();
 
   // DISTRICTS
   console.log("  → Seeding districts...");
-  await db.insert(districts).ignore().values([
+  await db.insert(districts).values([
     { slug: "fustat", nameEn: "Fustat", nameAr: "الفسطاط", descriptionEn: "The first Islamic capital of Egypt, founded 641 CE.", descriptionAr: "أولى عواصم مصر الإسلامية، تأسست عام ٦٤١م.", lat: "30.0050000", lng: "31.2300000" },
     { slug: "al-muizz", nameEn: "Al-Muizz Street & Bayn al-Qasrayn", nameAr: "شارع المعز وبين القصرين", descriptionEn: "The historic spine of Fatimid Cairo, lined with monuments from ten centuries.", descriptionAr: "العمود الفقري التاريخي للقاهرة الفاطمية.", lat: "30.0500000", lng: "31.2620000" },
     { slug: "darb-al-ahmar", nameEn: "Darb al-Ahmar", nameAr: "الدرب الأحمر", descriptionEn: "A living historic district east of al-Muizz.", descriptionAr: "حي تاريخي حي شرق شارع المعز.", lat: "30.0430000", lng: "31.2640000" },
@@ -48,11 +51,11 @@ async function seed() {
     { slug: "al-azhar-hussein", nameEn: "Al-Azhar & Al-Hussein", nameAr: "الأزهر والحسين", descriptionEn: "The religious and commercial heart of Islamic Cairo.", descriptionAr: "القلب الديني والتجاري للقاهرة الإسلامية.", lat: "30.0460000", lng: "31.2630000" },
     { slug: "al-saliba", nameEn: "Al-Saliba & Ibn Tulun", nameAr: "الصليبة وابن طولون", descriptionEn: "The neighborhood around Ibn Tulun Mosque.", descriptionAr: "الحي المحيط بجامع ابن طولون.", lat: "30.0370000", lng: "31.2490000" },
     { slug: "roda-island", nameEn: "Roda Island", nameAr: "جزيرة الروضة", descriptionEn: "An island in the Nile containing the Nilometer.", descriptionAr: "جزيرة في النيل تضم مقياس النيل.", lat: "30.0100000", lng: "31.2250000" },
-  ]);
+  ]).onConflictDoNothing();
 
   // PLACE TYPES
   console.log("  → Seeding place types...");
-  await db.insert(placeTypes).ignore().values([
+  await db.insert(placeTypes).values([
     { slug: "mosque", nameEn: "Mosque", nameAr: "مسجد", icon: "mosque" },
     { slug: "madrasa", nameEn: "Madrasa", nameAr: "مدرسة", icon: "school" },
     { slug: "mausoleum", nameEn: "Mausoleum", nameAr: "ضريح", icon: "landmark" },
@@ -70,18 +73,18 @@ async function seed() {
     { slug: "park", nameEn: "Park / Garden", nameAr: "حديقة", icon: "tree" },
     { slug: "market", nameEn: "Market / Khan", nameAr: "سوق / خان", icon: "store" },
     { slug: "shrine", nameEn: "Shrine", nameAr: "مقام", icon: "heart" },
-  ]);
+  ]).onConflictDoNothing();
 
   // SOURCES
   console.log("  → Seeding sources...");
-  await db.insert(sources).ignore().values([
+  await db.insert(sources).values([
     { slug: "unesco-historic-cairo", titleEn: "UNESCO World Heritage: Historic Cairo", titleAr: "اليونسكو: القاهرة التاريخية", url: "https://whc.unesco.org/en/list/89", sourceType: "institution", year: 1979 },
     { slug: "behrens-abouseif-1989", titleEn: "Islamic Architecture in Cairo: An Introduction", titleAr: "العمارة الإسلامية في القاهرة: مقدمة", authors: "Doris Behrens-Abouseif", publisher: "Brill", year: 1989, sourceType: "academic" },
     { slug: "williams-2008", titleEn: "Islamic Monuments in Cairo: The Practical Guide", titleAr: "المعالم الإسلامية في القاهرة: الدليل العملي", authors: "Caroline Williams", publisher: "American University in Cairo Press", year: 2008, sourceType: "academic" },
     { slug: "aga-khan-trust", titleEn: "Aga Khan Trust for Culture: Historic Cairo", titleAr: "صندوق الآغا خان للثقافة: القاهرة التاريخية", url: "https://www.akdn.org/architecture/project/historic-cairo", sourceType: "conservation", year: 2005 },
     { slug: "mia-cairo", titleEn: "Museum of Islamic Art, Cairo", titleAr: "متحف الفن الإسلامي، القاهرة", url: "https://mia.gov.eg", sourceType: "museum" },
     { slug: "creswell-1952", titleEn: "The Muslim Architecture of Egypt", titleAr: "العمارة الإسلامية في مصر", authors: "K.A.C. Creswell", publisher: "Clarendon Press", year: 1952, sourceType: "academic" },
-  ]);
+  ]).onConflictDoNothing();
 
   // PLACES
   console.log("  → Seeding 22 places...");
@@ -113,7 +116,7 @@ async function seed() {
   ];
 
   for (const place of placesData) {
-    await db.insert(places).ignore().values(place as any);
+    await db.insert(places).values(place as any).onConflictDoNothing();
   }
 
   // WALKS
@@ -140,21 +143,21 @@ async function seed() {
   ];
 
   for (const walk of walksData) {
-    await db.insert(walks).ignore().values(walk as any);
+    await db.insert(walks).values(walk as any).onConflictDoNothing();
   }
 
   // COMPARISONS
   console.log("  → Seeding comparisons...");
-  await db.insert(comparisons).ignore().values([
+  await db.insert(comparisons).values([
     { slug: "sultan-hasan-vs-rifai", titleEn: "Sultan Hasan vs. Al-Rifa'i: Medieval vs. Modern", titleAr: "السلطان حسن مقابل الرفاعي: الوسيط مقابل الحديث", descriptionEn: "Compare the 14th-century Mamluk masterpiece with its 19th-century historicist neighbor.", descriptionAr: "قارن بين التحفة المملوكية من القرن الرابع عشر وجارها التاريخاني من القرن التاسع عشر.", explanationEn: "These two monuments face each other across a narrow street, yet are separated by five centuries of architectural history. Sultan Hasan uses hand-cut stone, organic muqarnas, and massive proportions born of medieval craft. Al-Rifa'i uses machine-cut stone and historicist detailing to evoke the same tradition.", explanationAr: "يتواجه هذان المعلمان عبر شارع ضيق رغم فصل خمسة قرون من التاريخ المعماري بينهما.", placeIds: [12, 13], status: "published" as const, sortOrder: 1 },
     { slug: "bab-futuh-vs-bab-nasr", titleEn: "Bab al-Futuh vs. Bab al-Nasr: Two Gates, One Wall", titleAr: "باب الفتوح مقابل باب النصر: بوابتان وسور واحد", descriptionEn: "Compare the two northern Fatimid gates built simultaneously by Badr al-Jamali.", descriptionAr: "قارن بين البوابتين الفاطميتين الشماليتين المبنيتين في آن واحد بيد بدر الجمالي.", explanationEn: "Built at the same time by the same patron, these two gates use different tower forms — rounded at Bab al-Futuh, rectangular at Bab al-Nasr — and different decorative programs.", explanationAr: "بُنيت البوابتان في الوقت ذاته من قبل الراعي نفسه لكنهما تستخدمان أشكال أبراج مختلفة.", placeIds: [6, 7], status: "published" as const, sortOrder: 2 },
     { slug: "ibn-tulun-vs-al-azhar", titleEn: "Ibn Tulun vs. Al-Azhar: Two Founding Mosques", titleAr: "ابن طولون مقابل الأزهر: جامعان مؤسسان", descriptionEn: "Compare the Tulunid and Fatimid founding mosques of Cairo's two early capitals.", descriptionAr: "قارن بين الجامعين المؤسسين الطولوني والفاطمي لعاصمتي القاهرة المبكرتين.", explanationEn: "Both mosques were built as the congregational centers of new capitals, yet they differ radically in scale, material, plan, and decorative approach.", explanationAr: "بُني كلا الجامعين مركزين جامعين لعاصمتين جديدتين لكنهما يختلفان اختلافاً جذرياً في الحجم والمادة والمخطط والنهج الزخرفي.", placeIds: [3, 4], status: "published" as const, sortOrder: 3 },
     { slug: "qalawun-vs-barquq", titleEn: "Qalawun vs. Barquq: Bahri and Burji Mamluk Patronage", titleAr: "قلاوون مقابل برقوق: رعاية المماليك البحرية والبرجية", descriptionEn: "Compare the two great complexes that face each other at Bayn al-Qasrayn.", descriptionAr: "قارن بين المجمعين العظيمين المتقابلين في بين القصرين.", explanationEn: "Separated by a century, these two complexes both served as royal foundations combining mosque, madrasa, and mausoleum.", explanationAr: "يفصل بين هذين المجمعين قرن من الزمن وكلاهما خدم بوصفه تأسيساً ملكياً يجمع مسجداً ومدرسة وضريحاً.", placeIds: [11, 20], status: "published" as const, sortOrder: 4 },
-  ] as any[]);
+  ] as any[]).onConflictDoNothing();
 
   // DETECTIVE ACTIVITIES
   console.log("  → Seeding detective activities...");
-  await db.insert(detectiveActivities).ignore().values([
+  await db.insert(detectiveActivities).values([
     { slug: "find-spiral-minaret", titleEn: "Find the Spiral Minaret", titleAr: "ابحث عن المئذنة الحلزونية", activityType: "find_detail" as const, placeId: 3, promptEn: "Which mosque in Cairo has a minaret with an external spiral staircase, unique in Egypt and echoing a famous mosque in Iraq?", promptAr: "أي جامع في القاهرة يضم مئذنة بدرج خارجي حلزوني، فريد في مصر ويستحضر جامعاً مشهوراً في العراق؟", options: ["Mosque of Ibn Tulun", "Al-Azhar Mosque", "Mosque of al-Hakim", "Bab al-Futuh"], correctAnswer: "Mosque of Ibn Tulun", explanationEn: "The Mosque of Ibn Tulun has the only external spiral staircase minaret in Egypt, echoing the famous spiral minaret of the Great Mosque of Samarra in Iraq.", explanationAr: "جامع ابن طولون هو الوحيد في مصر الذي يضم مئذنة بدرج خارجي حلزوني.", difficulty: "beginner" as const, status: "published" as const, sortOrder: 1 },
     { slug: "street-or-qibla-aqmar", titleEn: "Street or Qibla? The Aqmar Puzzle", titleAr: "الشارع أم القبلة؟ لغز الأقمر", activityType: "street_or_qibla" as const, placeId: 9, promptEn: "Al-Aqmar Mosque faces al-Muizz Street, but the prayer hall must face Mecca. How did the builders solve this geometric conflict?", promptAr: "يواجه جامع الأقمر شارع المعز، لكن قاعة الصلاة يجب أن تتجه نحو مكة. كيف حلّ البناؤون هذا التعارض الهندسي؟", options: ["They built two separate prayer halls", "They used an angled interior plan", "They ignored the qibla direction", "They rotated the entire building"], correctAnswer: "They used an angled interior plan", explanationEn: "The builders of al-Aqmar aligned the façade with al-Muizz Street while using an angled interior plan to orient the prayer hall correctly toward Mecca.", explanationAr: "واجه بناؤو الأقمر الواجهة مع شارع المعز مع استخدام مخطط داخلي مائل لتوجيه قاعة الصلاة نحو مكة.", difficulty: "intermediate" as const, status: "published" as const, sortOrder: 2 },
     { slug: "which-century-dome", titleEn: "Which Century? Identify the Dome Style", titleAr: "أي قرن؟ حدّد طراز القبة", activityType: "which_century" as const, promptEn: "Mamluk carved stone domes evolved over two centuries. Which period produced the most elaborate floral and geometric dome patterns?", promptAr: "تطورت القباب الحجرية المملوكية المنحوتة على مدى قرنين. أي حقبة أنتجت أكثر أنماط القباب الزهرية والهندسية تفصيلاً؟", options: ["14th century Bahri Mamluk", "15th century Burji Mamluk", "16th century early Ottoman", "13th century Ayyubid"], correctAnswer: "15th century Burji Mamluk", explanationEn: "The most elaborate carved stone domes, combining geometric and floral patterns, date to the Burji Mamluk period of the 15th century.", explanationAr: "أكثر القباب الحجرية المنحوتة تفصيلاً تعود إلى عصر المماليك البرجية في القرن الخامس عشر.", difficulty: "intermediate" as const, status: "published" as const, sortOrder: 3 },
@@ -165,37 +168,37 @@ async function seed() {
     { slug: "date-the-minaret", titleEn: "Date the Minaret: Tulunid, Fatimid, or Mamluk?", titleAr: "أرّخ المئذنة: طولونية أم فاطمية أم مملوكية؟", activityType: "which_century" as const, promptEn: "Cairo's minarets evolved significantly over the centuries. Which minaret type typically features a square base, octagonal middle, and cylindrical top?", promptAr: "تطورت مآذن القاهرة تطوراً كبيراً على مر القرون. أي نوع من المآذن يتميز عادةً بقاعدة مربعة وجزء أوسط مثمن وقمة أسطوانية؟", options: ["Tulunid spiral", "Fatimid cylindrical", "Mamluk three-tiered", "Ottoman pencil"], correctAnswer: "Mamluk three-tiered", explanationEn: "The classic Mamluk minaret has three tiers: a square base, an octagonal middle section, and a cylindrical top with a bulbous finial.", explanationAr: "للمئذنة المملوكية الكلاسيكية ثلاثة طوابق: قاعدة مربعة وجزء أوسط مثمن وقمة أسطوانية بتاج بصلي.", difficulty: "intermediate" as const, status: "published" as const, sortOrder: 8 },
     { slug: "sacred-site-protocol", titleEn: "Sacred Site Protocol: What to Do", titleAr: "بروتوكول الموقع المقدس: ماذا تفعل", activityType: "find_detail" as const, promptEn: "When visiting an active mosque in Cairo, which of the following is most important?", promptAr: "عند زيارة مسجد نشط في القاهرة، أي مما يلي هو الأهم؟", options: ["Take as many photos as possible", "Remove shoes before entering the prayer hall and dress modestly", "Visit during prayer times for the best atmosphere", "Touch the decorative elements for a closer look"], correctAnswer: "Remove shoes before entering the prayer hall and dress modestly", explanationEn: "Removing shoes before entering the prayer hall and dressing modestly are the most important protocols when visiting active mosques. Photography inside active prayer halls is often not appropriate.", explanationAr: "خلع الحذاء قبل دخول قاعة الصلاة والتلبس بشكل محتشم هما أهم البروتوكولات عند زيارة المساجد النشطة.", difficulty: "beginner" as const, status: "published" as const, sortOrder: 9 },
     { slug: "identify-period-facade", titleEn: "Identify the Period from the Façade", titleAr: "حدّد الحقبة من الواجهة", activityType: "which_century" as const, promptEn: "A mosque façade features a large central dome, pencil-thin minarets, and extensive tile work with Iznik patterns. Which period does this suggest?", promptAr: "تتميز واجهة مسجد بقبة مركزية كبيرة ومآذن قلمية رفيعة وأعمال بلاط واسعة بأنماط إزنيق. أي حقبة يشير إليه هذا؟", options: ["Fatimid", "Bahri Mamluk", "Early Ottoman", "Muhammad Ali dynasty"], correctAnswer: "Early Ottoman", explanationEn: "Large central domes, pencil minarets, and Iznik tile work are characteristic of Early Ottoman architecture in Cairo, introduced after the Ottoman conquest of 1517.", explanationAr: "القباب المركزية الكبيرة والمآذن القلمية وأعمال بلاط إزنيق سمات مميزة للعمارة العثمانية المبكرة في القاهرة.", difficulty: "intermediate" as const, status: "published" as const, sortOrder: 10 },
-  ] as any[]);
+  ] as any[]).onConflictDoNothing();
 
   // STORIES
   console.log("  → Seeding stories...");
-  await db.insert(stories).ignore().values([
-    { slug: "the-spiral-staircase-secret", titleEn: "The Secret of the Spiral Staircase", titleAr: "سر الدرج الحلزوني", descriptionEn: "How did the builders of Ibn Tulun's mosque create a minaret unlike any other in Egypt?", descriptionAr: "كيف أنشأ بناؤو جامع ابن طولون مئذنة لا مثيل لها في مصر؟", placeId: 3, storyType: "architectural" as const, chaptersJson: JSON.stringify([
+  await db.insert(stories).values([
+    { slug: "the-spiral-staircase-secret", titleEn: "The Secret of the Spiral Staircase", titleAr: "سر الدرج الحلزوني", summaryEn: "How did the builders of Ibn Tulun's mosque create a minaret unlike any other in Egypt?", summaryAr: "كيف أنشأ بناؤو جامع ابن طولون مئذنة لا مثيل لها في مصر؟", placeId: 3, storyType: "architectural" as const, chaptersJson: JSON.stringify([
       { order: 1, titleEn: "A New Capital Needs a New Mosque", titleAr: "عاصمة جديدة تحتاج جامعاً جديداً", bodyEn: "When Ahmad Ibn Tulun established his new capital al-Qata'i north of Fustat in 868 CE, he needed a congregational mosque that would express his independence from the Abbasid caliphate in Baghdad.", bodyAr: "حين أسس أحمد بن طولون عاصمته الجديدة القطائع شمال الفسطاط عام ٨٦٨م، احتاج إلى جامع يعبّر عن استقلاليته عن الخلافة العباسية في بغداد." },
       { order: 2, titleEn: "The Samarra Connection", titleAr: "الصلة بسامراء", bodyEn: "Ibn Tulun had grown up in Samarra, the Abbasid capital in Iraq, where the Great Mosque had a famous spiral minaret. When he built his own mosque, he echoed that form — but made it his own by placing the spiral stair on the outside.", bodyAr: "نشأ ابن طولون في سامراء، العاصمة العباسية في العراق، حيث كان للجامع الكبير مئذنة حلزونية مشهورة. حين بنى جامعه، استحضر ذلك الشكل لكنه جعله خاصاً به بوضع الدرج الحلزوني في الخارج." },
       { order: 3, titleEn: "The Only One in Egypt", titleAr: "الوحيد في مصر", bodyEn: "The external spiral staircase minaret of Ibn Tulun remains the only one of its kind in Egypt. It was damaged and rebuilt in the 13th century by Sultan Lajin, but the spiral form was preserved.", bodyAr: "تبقى مئذنة جامع ابن طولون ذات الدرج الحلزوني الخارجي الوحيدة من نوعها في مصر. تضررت وأُعيد بناؤها في القرن الثالث عشر بيد السلطان لاجين، لكن الشكل الحلزوني حُفظ." },
     ]), status: "published" as const, sortOrder: 1 },
-    { slug: "the-hospital-that-healed-all", titleEn: "The Hospital That Healed All", titleAr: "البيمارستان الذي شفى الجميع", descriptionEn: "The remarkable story of Qalawun's hospital that served patients of all faiths and backgrounds.", descriptionAr: "القصة الرائعة لبيمارستان قلاوون الذي خدم مرضى من جميع الأديان والخلفيات.", placeId: 11, storyType: "social" as const, chaptersJson: JSON.stringify([
+    { slug: "the-hospital-that-healed-all", titleEn: "The Hospital That Healed All", titleAr: "البيمارستان الذي شفى الجميع", summaryEn: "The remarkable story of Qalawun's hospital that served patients of all faiths and backgrounds.", summaryAr: "القصة الرائعة لبيمارستان قلاوون الذي خدم مرضى من جميع الأديان والخلفيات.", placeId: 11, storyType: "social" as const, chaptersJson: JSON.stringify([
       { order: 1, titleEn: "A Sultan's Vow", titleAr: "نذر سلطان", bodyEn: "Sultan Qalawun is said to have vowed to build a hospital after recovering from an illness while staying in Damascus, where he was treated at the famous Nuri hospital.", bodyAr: "يُقال إن السلطان قلاوون نذر أن يبني بيمارستاناً بعد شفائه من مرض أثناء إقامته في دمشق، حيث عولج في البيمارستان النوري الشهير." },
       { order: 2, titleEn: "Open to All", titleAr: "مفتوح للجميع", bodyEn: "The bimaristan of Qalawun was remarkable for its time: it served patients regardless of religion, gender, or social status. It had separate wards for men and women, for different illnesses, and even a section for the mentally ill.", bodyAr: "تميّز بيمارستان قلاوون لعصره: خدم المرضى بصرف النظر عن دينهم أو جنسهم أو وضعهم الاجتماعي. كانت له أجنحة منفصلة للرجال والنساء ولأمراض مختلفة وحتى قسم للمرضى النفسيين." },
       { order: 3, titleEn: "A Living Legacy", titleAr: "إرث حي", bodyEn: "The hospital continued to function for centuries. Today, the site still contains a hospital — the Qalawun Hospital — making it one of the longest continuously operating medical sites in the world.", bodyAr: "استمر البيمارستان في العمل لقرون. يضم الموقع اليوم مستشفى قلاوون، مما يجعله أحد أطول المواقع الطبية استمراراً في العالم." },
     ]), status: "published" as const, sortOrder: 2 },
-    { slug: "the-gate-that-witnessed-history", titleEn: "The Gate That Witnessed History", titleAr: "البوابة التي شهدت التاريخ", descriptionEn: "Bab Zuweila has witnessed Cairo's greatest processions and its darkest moments.", descriptionAr: "شهد باب زويلة أعظم مواكب القاهرة وأحلك لحظاتها.", placeId: 8, storyType: "historical" as const, chaptersJson: JSON.stringify([
+    { slug: "the-gate-that-witnessed-history", titleEn: "The Gate That Witnessed History", titleAr: "البوابة التي شهدت التاريخ", summaryEn: "Bab Zuweila has witnessed Cairo's greatest processions and its darkest moments.", summaryAr: "شهد باب زويلة أعظم مواكب القاهرة وأحلك لحظاتها.", placeId: 8, storyType: "historical" as const, chaptersJson: JSON.stringify([
       { order: 1, titleEn: "The Southern Gate", titleAr: "البوابة الجنوبية", bodyEn: "Built in 1092 CE as the southern gate of Fatimid Cairo, Bab Zuweila controlled the main road leading south from the city.", bodyAr: "بُني باب زويلة عام ١٠٩٢م بوصفه البوابة الجنوبية للقاهرة الفاطمية، يتحكم في الطريق الرئيسي المؤدي جنوباً من المدينة." },
       { order: 2, titleEn: "Processions and Executions", titleAr: "المواكب والإعدامات", bodyEn: "For centuries, Bab Zuweila was the starting point for great Fatimid processions and later the site of public punishments. The last Mamluk sultan, Tumanbay, was hanged here in 1517 after the Ottoman conquest.", bodyAr: "لقرون، كان باب زويلة نقطة انطلاق المواكب الفاطمية الكبرى وموقعاً للعقوبات العامة لاحقاً. شُنق آخر سلاطين المماليك طومان باي هنا عام ١٥١٧م بعد الفتح العثماني." },
       { order: 3, titleEn: "The Minarets Above", titleAr: "المآذن في الأعلى", bodyEn: "In the early 15th century, Sultan al-Mu'ayyad Shaykh built his mosque directly against the gate, placing its twin minarets on top of the gate's towers — creating one of Cairo's most distinctive skyline compositions.", bodyAr: "في مطلع القرن الخامس عشر، بنى السلطان المؤيد شيخ جامعه مباشرةً إلى جانب البوابة، واضعاً مآذنه التوأم فوق أبراج البوابة، مما خلق أحد أكثر تأليفات أفق القاهرة تميزاً." },
     ]), status: "published" as const, sortOrder: 3 },
-    { slug: "the-street-of-ten-centuries", titleEn: "The Street of Ten Centuries", titleAr: "شارع عشرة قرون", descriptionEn: "Al-Muizz Street has been the spine of Cairo for over a thousand years.", descriptionAr: "كان شارع المعز عموداً فقرياً للقاهرة لأكثر من ألف عام.", placeId: 18, storyType: "urban" as const, chaptersJson: JSON.stringify([
+    { slug: "the-street-of-ten-centuries", titleEn: "The Street of Ten Centuries", titleAr: "شارع عشرة قرون", summaryEn: "Al-Muizz Street has been the spine of Cairo for over a thousand years.", summaryAr: "كان شارع المعز عموداً فقرياً للقاهرة لأكثر من ألف عام.", placeId: 18, storyType: "urban" as const, chaptersJson: JSON.stringify([
       { order: 1, titleEn: "The Fatimid Axis", titleAr: "المحور الفاطمي", bodyEn: "When the Fatimid general Jawhar al-Siqilli founded al-Qahira in 969 CE, he laid out a ceremonial axis running north to south between two royal palaces. This became al-Muizz Street.", bodyAr: "حين أسس القائد الفاطمي جوهر الصقلي القاهرة عام ٩٦٩م، رسم محوراً احتفالياً يمتد من الشمال إلى الجنوب بين قصرين ملكيين. أصبح هذا شارع المعز." },
       { order: 2, titleEn: "The Mamluk Transformation", titleAr: "التحول المملوكي", bodyEn: "After the Fatimid palaces were demolished, the Mamluk sultans transformed the street into a showcase of royal patronage. Complex after complex rose along its length, each sultan competing with his predecessors.", bodyAr: "بعد هدم القصور الفاطمية، حوّل سلاطين المماليك الشارع إلى عرض للرعاية الملكية. تتالت المجمعات على امتداده، كل سلطان ينافس أسلافه." },
       { order: 3, titleEn: "A Living Street Today", titleAr: "شارع حي اليوم", bodyEn: "Today, al-Muizz Street is pedestrianized and bustling with daily life, commerce, and worship. It contains more major medieval Islamic monuments per meter than almost any other street in the world.", bodyAr: "اليوم، شارع المعز مخصص للمشاة ومفعم بالحياة اليومية والتجارة والعبادة. يضم أكثر المعالم الإسلامية الوسيطة الكبرى لكل متر من أي شارع آخر في العالم تقريباً." },
     ]), status: "published" as const, sortOrder: 4 },
-    { slug: "reading-the-dome", titleEn: "Reading the Dome: A Visual Language", titleAr: "قراءة القبة: لغة بصرية", descriptionEn: "How to read the carved stone domes of the Mamluk period as a visual language of power and faith.", descriptionAr: "كيفية قراءة القباب الحجرية المنحوتة في العصر المملوكي بوصفها لغة بصرية للسلطة والإيمان.", storyType: "architectural" as const, chaptersJson: JSON.stringify([
+    { slug: "reading-the-dome", titleEn: "Reading the Dome: A Visual Language", titleAr: "قراءة القبة: لغة بصرية", summaryEn: "How to read the carved stone domes of the Mamluk period as a visual language of power and faith.", summaryAr: "كيفية قراءة القباب الحجرية المنحوتة في العصر المملوكي بوصفها لغة بصرية للسلطة والإيمان.", storyType: "architectural" as const, chaptersJson: JSON.stringify([
       { order: 1, titleEn: "Why Domes?", titleAr: "لماذا القباب؟", bodyEn: "The dome is the most visible element of an Islamic mausoleum. It marks the presence of a tomb from a distance and signals the importance of the person buried beneath.", bodyAr: "القبة هي العنصر الأكثر ظهوراً في الضريح الإسلامي. تُشير إلى وجود قبر من بعيد وتدل على أهمية الشخص المدفون تحتها." },
       { order: 2, titleEn: "The Evolution of Carving", titleAr: "تطور النحت", bodyEn: "Early Mamluk domes were plain or had simple ribbing. By the 15th century, Burji Mamluk craftsmen had developed elaborate geometric and floral patterns that covered the entire dome surface.", bodyAr: "كانت القباب المملوكية المبكرة سادة أو ذات تضليع بسيط. بحلول القرن الخامس عشر، طور حرفيو المماليك البرجية أنماطاً هندسية وزهرية متقنة تغطي سطح القبة بأكمله." },
       { order: 3, titleEn: "Reading the Pattern", titleAr: "قراءة النمط", bodyEn: "The patterns on Mamluk domes are not random decoration. Geometric patterns reflect mathematical and cosmological thinking; floral patterns reference paradise gardens. Together they create a visual theology.", bodyAr: "الأنماط على القباب المملوكية ليست زخرفة عشوائية. تعكس الأنماط الهندسية التفكير الرياضي والكوني؛ وتستحضر الأنماط الزهرية حدائق الجنة. معاً تخلق لاهوتاً بصرياً." },
     ]), status: "published" as const, sortOrder: 5 },
-  ] as any[]);
+  ] as any[]).onConflictDoNothing();
 
   console.log("✅ Seeding complete!");
   await connection.end();

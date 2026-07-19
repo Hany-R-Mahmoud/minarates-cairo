@@ -5,6 +5,7 @@ import { useAuth } from "@/_core/hooks/useAuth";
 import { startLogin } from "@/const";
 import { toast } from "sonner";
 import { ArrowLeft, ArrowRight, MapPin, Calendar, User, Building, BookOpen, AlertTriangle, Heart, CheckCircle, Camera } from "lucide-react";
+import { buildImageKitSrcSet, buildImageKitUrl } from "@shared/media";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -73,6 +74,7 @@ export default function MonumentDetail() {
 
   const keyDates = (place!.keyDates as Array<{ year: number; labelEn: string; labelAr: string }> | null) ?? [];
   const phases = (place!.architecturalPhases as Array<{ nameEn: string; nameAr: string; startYear?: number; endYear?: number; descEn?: string; descAr?: string }> | null) ?? [];
+  const media = (meta?.media ?? []).slice(0, 8);
 
   const isStale = place!.practicalInfoFreshness
     ? (Date.now() - new Date(place!.practicalInfoFreshness).getTime()) > 365 * 24 * 60 * 60 * 1000
@@ -174,6 +176,51 @@ export default function MonumentDetail() {
                   </p>
                 </div>
               </div>
+            )}
+
+            {media.length > 0 && (
+              <section aria-labelledby="monument-gallery-heading" className="space-y-4">
+                <div className={`flex items-end justify-between gap-4 ${isRTL ? "flex-row-reverse" : ""}`}>
+                  <h2 id="monument-gallery-heading" className={`text-xl font-semibold text-[var(--color-stone-900)] ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
+                    {t("Visual record", "السجل البصري")}
+                  </h2>
+                  <span className="text-xs text-[var(--color-stone-500)]">
+                    {media.length} {t("images", "صور")}
+                  </span>
+                </div>
+                <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+                  {media.map((asset, index) => {
+                    if (!asset.url) return null;
+                    const alt = lang === "ar" ? (asset.altAr ?? asset.altEn ?? name) : (asset.altEn ?? asset.altAr ?? name);
+                    const caption = lang === "ar" ? asset.captionAr ?? asset.captionEn : asset.captionEn ?? asset.captionAr;
+                    return (
+                      <figure key={asset.assetId} className={index === 0 ? "col-span-2 sm:col-span-3" : ""}>
+                        <img
+                          src={buildImageKitUrl(asset.url, index === 0 ? 1280 : 800)}
+                          srcSet={buildImageKitSrcSet(asset.url)}
+                          sizes={index === 0 ? "(min-width: 1024px) 66vw, 100vw" : "(min-width: 640px) 33vw, 50vw"}
+                          alt={alt}
+                          loading={index === 0 ? "eager" : "lazy"}
+                          decoding="async"
+                          className={`w-full rounded-sm object-cover ${index === 0 ? "aspect-[16/9]" : "aspect-[4/3]"}`}
+                        />
+                        {(caption || asset.attribution) && (
+                          <figcaption className={`mt-2 text-xs leading-relaxed text-[var(--color-stone-500)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                            {caption && <span>{caption}</span>}
+                            {caption && asset.attribution && <span> · </span>}
+                            {asset.attribution && <span>{asset.attribution}</span>}
+                            {asset.sourcePage && (
+                              <a href={asset.sourcePage} target="_blank" rel="noopener noreferrer" className="ml-1 text-[var(--color-terracotta-600)] hover:underline">
+                                {t("Source", "المصدر")}
+                              </a>
+                            )}
+                          </figcaption>
+                        )}
+                      </figure>
+                    );
+                  })}
+                </div>
+              </section>
             )}
 
             {/* Tabs */}

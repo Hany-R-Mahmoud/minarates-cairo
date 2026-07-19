@@ -9,7 +9,7 @@ import {
   userNotes as privateNotes, userVisited as visitedRecords, userItineraries as itineraries,
   auditLog, mediaAssets,
 } from "../drizzle/schema";
-import { eq, and, like, inArray, desc, asc, sql } from "drizzle-orm";
+import { eq, and, ilike, inArray, desc, asc, isNotNull, sql } from "drizzle-orm";
 import { z } from "zod";
 import { TRPCError } from "@trpc/server";
 
@@ -43,7 +43,7 @@ const placesRouter = router({
       periodId: z.number().optional(),
       districtId: z.number().optional(),
       placeTypeId: z.number().optional(),
-      status: z.enum(["published", "draft", "review"]).optional().default("published"),
+      status: z.literal("published").optional().default("published"),
       search: z.string().optional(),
       limit: z.number().min(1).max(100).optional().default(50),
       offset: z.number().min(0).optional().default(0),
@@ -57,7 +57,7 @@ const placesRouter = router({
       if (input.placeTypeId) conditions.push(eq(places.placeTypeId, input.placeTypeId));
       if (input.search) {
         conditions.push(
-          sql`(${places.nameEn} LIKE ${`%${input.search}%`} OR ${places.nameAr} LIKE ${`%${input.search}%`})`
+          sql`(${ilike(places.nameEn, `%${input.search}%`)} OR ${ilike(places.nameAr, `%${input.search}%`)})`
         );
       }
       const items = await db.select().from(places)
@@ -72,29 +72,68 @@ const placesRouter = router({
   bySlug: publicProcedure.input(z.object({ slug: z.string() })).query(async ({ input }) => {
     const db = await getDb();
     if (!db) return null;
-    const result = await db.select().from(places).where(eq(places.slug, input.slug)).limit(1);
+    const result = await db.select().from(places)
+      .where(and(eq(places.slug, input.slug), eq(places.status, "published")))
+      .limit(1);
     return result[0] ?? null;
   }),
 
   byId: publicProcedure.input(z.object({ id: z.number() })).query(async ({ input }) => {
     const db = await getDb();
     if (!db) return null;
-    const result = await db.select().from(places).where(eq(places.id, input.id)).limit(1);
+    const result = await db.select().from(places)
+      .where(and(eq(places.id, input.id), eq(places.status, "published")))
+      .limit(1);
     return result[0] ?? null;
   }),
 
   withMeta: publicProcedure.input(z.object({ slug: z.string() })).query(async ({ input }) => {
     const db = await getDb();
     if (!db) return null;
-    const placeResult = await db.select().from(places).where(eq(places.slug, input.slug)).limit(1);
+    const placeResult = await db.select().from(places)
+      .where(and(eq(places.slug, input.slug), eq(places.status, "published")))
+      .limit(1);
     const place = placeResult[0];
     if (!place) return null;
-    const [period, district, placeType] = await Promise.all([
+    const [period, district, placeType, media] = await Promise.all([
       place.periodId ? db.select().from(periods).where(eq(periods.id, place.periodId)).limit(1) : [],
       place.districtId ? db.select().from(districts).where(eq(districts.id, place.districtId)).limit(1) : [],
       place.placeTypeId ? db.select().from(placeTypes).where(eq(placeTypes.id, place.placeTypeId)).limit(1) : [],
+      db.select({
+        id: mediaAssets.id,
+        assetId: mediaAssets.assetId,
+        mediaType: mediaAssets.mediaType,
+        url: mediaAssets.url,
+        width: mediaAssets.width,
+        height: mediaAssets.height,
+        altEn: mediaAssets.altEn,
+        altAr: mediaAssets.altAr,
+        captionEn: mediaAssets.captionEn,
+        captionAr: mediaAssets.captionAr,
+        visualType: mediaAssets.visualType,
+        documentaryStatus: mediaAssets.documentaryStatus,
+        creator: mediaAssets.creator,
+        sourcePage: mediaAssets.sourcePage,
+        license: mediaAssets.license,
+        licenseUrl: mediaAssets.licenseUrl,
+        attribution: mediaAssets.attribution,
+        modifications: mediaAssets.modifications,
+      })
+        .from(mediaAssets)
+        .where(and(
+          eq(mediaAssets.placeId, place.id),
+          eq(mediaAssets.approved, true),
+          isNotNull(mediaAssets.url),
+        ))
+        .orderBy(asc(mediaAssets.id)),
     ]);
-    return { place, period: period[0] ?? null, district: district[0] ?? null, placeType: placeType[0] ?? null };
+    return {
+      place,
+      period: period[0] ?? null,
+      district: district[0] ?? null,
+      placeType: placeType[0] ?? null,
+      media,
+    };
   }),
 
   // Admin: upsert
@@ -120,8 +159,10 @@ const placesRouter = router({
         await db.insert(auditLog).values({ entityType: "place", entityId: input.id, action: "update", userId: ctx.user.id, afterData: { summary: `Updated place ${input.slug}` } } as any);
         return { success: true };
       } else {
-        const result = await db.insert(places).values({ ...input, publishedAt: input.status === "published" ? new Date() : undefined } as any);
-        const newId = (result as any)[0]?.insertId ?? 0;
+        const result = await db.insert(places)
+          .values({ ...input, publishedAt: input.status === "published" ? new Date() : undefined } as any)
+          .returning({ id: places.id });
+        const newId = result[0]?.id ?? 0;
         await db.insert(auditLog).values({ entityType: "place", entityId: newId, action: "create", userId: ctx.user.id, afterData: { summary: `Created place ${input.slug}` } } as any);
         return { success: true, id: newId };
       }
@@ -130,7 +171,7 @@ const placesRouter = router({
 
 const walksRouter = router({
   list: publicProcedure
-    .input(z.object({ status: z.enum(["published", "draft"]).optional().default("published") }))
+    .input(z.object({ status: z.literal("published").optional().default("published") }))
     .query(async ({ input }) => {
       const db = await getDb();
       if (!db) return [];
@@ -139,7 +180,9 @@ const walksRouter = router({
   bySlug: publicProcedure.input(z.object({ slug: z.string() })).query(async ({ input }) => {
     const db = await getDb();
     if (!db) return null;
-    const result = await db.select().from(walks).where(eq(walks.slug, input.slug)).limit(1);
+    const result = await db.select().from(walks)
+      .where(and(eq(walks.slug, input.slug), eq(walks.status, "published")))
+      .limit(1);
     return result[0] ?? null;
   }),
 });
@@ -153,13 +196,16 @@ const comparisonsRouter = router({
   bySlug: publicProcedure.input(z.object({ slug: z.string() })).query(async ({ input }) => {
     const db = await getDb();
     if (!db) return null;
-    const result = await db.select().from(comparisons).where(eq(comparisons.slug, input.slug)).limit(1);
+    const result = await db.select().from(comparisons)
+      .where(and(eq(comparisons.slug, input.slug), eq(comparisons.status, "published")))
+      .limit(1);
     return result[0] ?? null;
   }),
   custom: publicProcedure.input(z.object({ placeIds: z.array(z.number()).min(2).max(4) })).query(async ({ input }) => {
     const db = await getDb();
     if (!db) return [];
-    return db.select().from(places).where(inArray(places.id, input.placeIds));
+    return db.select().from(places)
+      .where(and(inArray(places.id, input.placeIds), eq(places.status, "published")));
   }),
 });
 
@@ -176,7 +222,9 @@ const detectiveRouter = router({
   bySlug: publicProcedure.input(z.object({ slug: z.string() })).query(async ({ input }) => {
     const db = await getDb();
     if (!db) return null;
-    const result = await db.select().from(detectiveActivities).where(eq(detectiveActivities.slug, input.slug)).limit(1);
+    const result = await db.select().from(detectiveActivities)
+      .where(and(eq(detectiveActivities.slug, input.slug), eq(detectiveActivities.status, "published")))
+      .limit(1);
     return result[0] ?? null;
   }),
 });
@@ -190,7 +238,9 @@ const storiesRouter = router({
   bySlug: publicProcedure.input(z.object({ slug: z.string() })).query(async ({ input }) => {
     const db = await getDb();
     if (!db) return null;
-    const result = await db.select().from(stories).where(eq(stories.slug, input.slug)).limit(1);
+    const result = await db.select().from(stories)
+      .where(and(eq(stories.slug, input.slug), eq(stories.status, "published")))
+      .limit(1);
     return result[0] ?? null;
   }),
 });
@@ -282,7 +332,9 @@ const notebookRouter = router({
     .mutation(async ({ input, ctx }) => {
       const db = await getDb();
       if (!db) throw new TRPCError({ code: "INTERNAL_SERVER_ERROR" });
-      await db.insert(visitedRecords).ignore().values({ userId: ctx.user.id, placeId: input.placeId, visitedAt: input.visitedAt ? new Date(input.visitedAt) : new Date() });
+      await db.insert(visitedRecords)
+        .values({ userId: ctx.user.id, placeId: input.placeId, visitedAt: input.visitedAt ? new Date(input.visitedAt) : new Date() })
+        .onConflictDoNothing();
       return { success: true };
     }),
 });
@@ -376,8 +428,10 @@ const curatorRouter = router({
       if (ctx.user.role !== "admin") throw new TRPCError({ code: "FORBIDDEN" });
       const db = await getDb();
       if (!db) throw new TRPCError({ code: "INTERNAL_SERVER_ERROR" });
-      const result = await db.insert(mediaAssets).values({ ...input, uploadedBy: ctx.user.id } as any);
-      const newId = (result as any)[0]?.insertId ?? 0;
+      const result = await db.insert(mediaAssets)
+        .values({ ...input, uploadedBy: ctx.user.id } as any)
+        .returning({ id: mediaAssets.id });
+      const newId = result[0]?.id ?? 0;
       await db.insert(auditLog).values({ entityType: "media", entityId: newId, action: "create", userId: ctx.user.id, afterData: { summary: `Added media: ${input.url}` } } as any);
       return { success: true, id: newId };
     }),

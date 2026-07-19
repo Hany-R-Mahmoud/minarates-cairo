@@ -1,6 +1,7 @@
 import { describe, expect, it, beforeAll } from "vitest";
 import { appRouter } from "./routers";
 import type { TrpcContext } from "./_core/context";
+import { buildImageKitSrcSet, buildImageKitUrl } from "../shared/media";
 
 // Helper: create a minimal public context
 function publicCtx(): TrpcContext {
@@ -69,6 +70,33 @@ describe("places router", () => {
     expect(place).toHaveProperty("nameEn");
     expect(place).toHaveProperty("nameAr");
     expect(place).toHaveProperty("slug");
+  });
+
+  it("withMeta exposes the approved public media collection", async () => {
+    const caller = appRouter.createCaller(publicCtx());
+    const list = await caller.places.list({ limit: 1, offset: 0 });
+    if (list.items.length === 0) return;
+
+    const result = await caller.places.withMeta({ slug: list.items[0]!.slug });
+    expect(result).not.toBeNull();
+    expect(result).toHaveProperty("media");
+    expect(Array.isArray(result?.media)).toBe(true);
+  });
+});
+
+describe("ImageKit media URLs", () => {
+  it("adds a responsive transformation only to ImageKit URLs", () => {
+    const source = "https://ik.imagekit.io/example/places/ibn-tulun.jpg";
+    expect(buildImageKitUrl(source, 800)).toContain("tr=w-800%2Cq-80%2Cf-auto");
+    expect(buildImageKitUrl("https://example.com/image.jpg", 800)).toBe("https://example.com/image.jpg");
+  });
+
+  it("builds the four-width srcset used by the gallery", () => {
+    const source = "https://ik.imagekit.io/example/places/ibn-tulun.jpg";
+    const srcSet = buildImageKitSrcSet(source);
+    expect(srcSet.split(", ")).toHaveLength(4);
+    expect(srcSet).toContain("800w");
+    expect(srcSet).toContain("1600w");
   });
 });
 

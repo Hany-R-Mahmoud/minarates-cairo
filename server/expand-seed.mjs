@@ -2,19 +2,32 @@
  * Expansion seed: adds 30+ more monument places, 10 more comparisons, 10 more stories
  * to reach the target of 48+ places, 14 comparisons, 15 stories.
  */
-import { createConnection } from 'mysql2/promise';
+import { config } from 'dotenv';
+import postgres from 'postgres';
 
-const conn = await createConnection(process.env.DATABASE_URL);
+config({ path: ['.env.local', '.env'] });
+
+if (!process.env.DATABASE_URL) {
+  throw new Error('DATABASE_URL is required to run the expansion seed');
+}
+
+const conn = postgres(process.env.DATABASE_URL, { max: 1 });
+
+async function execute(query, params = []) {
+  let parameterIndex = 0;
+  const postgresQuery = query.replace(/\?/g, () => `$${++parameterIndex}`);
+  return [await conn.unsafe(postgresQuery, params)];
+}
 
 // Helper to get period/district IDs
-const [periods] = await conn.execute('SELECT id, slug FROM periods');
-const [districts] = await conn.execute('SELECT id, slug FROM districts');
+const [periods] = await execute('SELECT id, slug FROM periods');
+const [districts] = await execute('SELECT id, slug FROM districts');
 
 const periodMap = Object.fromEntries(periods.map(p => [p.slug, p.id]));
 const districtMap = Object.fromEntries(districts.map(d => [d.slug, d.id]));
 
 // Get placeType IDs
-const [placeTypes] = await conn.execute('SELECT id, slug FROM place_types');
+const [placeTypes] = await execute('SELECT id, slug FROM "placeTypes"');
 const typeMap = Object.fromEntries(placeTypes.map(t => [t.slug, t.id]));
 
 console.log('Period IDs:', periodMap);
@@ -566,39 +579,24 @@ const newPlaces = [
 ];
 
 // Get existing slugs to avoid duplicates
-const [existingPlaces] = await conn.execute('SELECT slug FROM places');
+const [existingPlaces] = await execute('SELECT slug FROM places');
 const existingSlugs = new Set(existingPlaces.map(p => p.slug));
 
 let inserted = 0;
 for (const place of newPlaces) {
   if (existingSlugs.has(place.slug)) {
-    // Update existing place with richer content
-    await conn.execute(
-      `UPDATE places SET 
-        historyEn=?, historyAr=?, clarificationEn=?, clarificationAr=?,
-        architecturalStyle=?, currentFunction=?, activeWorship=?,
-        lat=?, lng=?, status=?
-       WHERE slug=?`,
-      [
-        place.historyEn, place.historyAr,
-        place.clarificationEn || null, place.clarificationAr || null,
-        place.architecturalStyle || null, place.currentFunction || null,
-        place.activeWorship ? 1 : 0,
-        place.lat, place.lng, place.status,
-        place.slug
-      ]
-    );
-    console.log(`Updated: ${place.slug}`);
+    console.log(`Place already exists; skipped without changes: ${place.slug}`);
   } else {
     const periodId = periodMap[place.period] || null;
     const districtId = districtMap[place.district] || null;
     const typeId = typeMap[place.type] || null;
 
-    await conn.execute(
-      `INSERT INTO places (slug, nameEn, nameAr, periodId, districtId, placeTypeId, foundedYear, 
-        founderEn, founderAr, historyEn, historyAr, clarificationEn, clarificationAr,
-        architecturalStyle, currentFunction, activeWorship, lat, lng, status, sortOrder)
-       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+    await execute(
+      `INSERT INTO places
+        ("slug", "nameEn", "nameAr", "periodId", "districtId", "placeTypeId", "foundedYear",
+         "patronEn", "patronAr", "briefEn", "briefAr", "clarificationEn", "clarificationAr",
+         "currentFunctionEn", "activeWorship", "lat", "lng", "status")
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
       [
         place.slug, place.nameEn, place.nameAr,
         periodId, districtId, typeId,
@@ -606,10 +604,10 @@ for (const place of newPlaces) {
         place.founder || null, place.founderAr || null,
         place.historyEn, place.historyAr,
         place.clarificationEn || null, place.clarificationAr || null,
-        place.architecturalStyle || null, place.currentFunction || null,
-        place.activeWorship ? 1 : 0,
+        place.currentFunction || null,
+        Boolean(place.activeWorship),
         place.lat, place.lng,
-        place.status, 50
+        place.status
       ]
     );
     inserted++;
@@ -617,10 +615,10 @@ for (const place of newPlaces) {
   }
 }
 
-console.log(`Done. Inserted ${inserted} new places, updated ${newPlaces.length - inserted} existing.`);
+console.log(`Done. Inserted ${inserted} new places; skipped ${newPlaces.length - inserted} existing places without changes.`);
 
 // Add more curated comparisons (target: 14 total)
-const [existingComparisons] = await conn.execute('SELECT slug FROM comparisons');
+const [existingComparisons] = await execute('SELECT slug FROM comparisons');
 const existingCompSlugs = new Set(existingComparisons.map(c => c.slug));
 
 const newComparisons = [
@@ -723,14 +721,14 @@ for (const comp of newComparisons) {
     continue;
   }
   // Get place IDs for the comparison
-  const [p1] = await conn.execute('SELECT id FROM places WHERE slug=?', [comp.placeSlug1]);
-  const [p2] = await conn.execute('SELECT id FROM places WHERE slug=?', [comp.placeSlug2]);
-  const [p3] = comp.placeSlug3 ? await conn.execute('SELECT id FROM places WHERE slug=?', [comp.placeSlug3]) : [[]];
+  const [p1] = await execute('SELECT id FROM places WHERE slug=?', [comp.placeSlug1]);
+  const [p2] = await execute('SELECT id FROM places WHERE slug=?', [comp.placeSlug2]);
+  const [p3] = comp.placeSlug3 ? await execute('SELECT id FROM places WHERE slug=?', [comp.placeSlug3]) : [[]];
   
   const placeIds = [p1[0]?.id, p2[0]?.id, p3[0]?.id].filter(Boolean);
   
-  await conn.execute(
-    `INSERT INTO comparisons (slug, titleEn, titleAr, descriptionEn, descriptionAr, placeIdsJson, status, sortOrder)
+  await execute(
+    `INSERT INTO comparisons ("slug", "titleEn", "titleAr", "descriptionEn", "descriptionAr", "placeIds", "status", "sortOrder")
      VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
     [comp.slug, comp.titleEn, comp.titleAr, comp.descriptionEn, comp.descriptionAr, JSON.stringify(placeIds), comp.status, comp.sortOrder]
   );
@@ -740,7 +738,7 @@ for (const comp of newComparisons) {
 console.log(`Inserted ${compInserted} new comparisons.`);
 
 // Add more stories (target: 15 total)
-const [existingStories] = await conn.execute('SELECT slug FROM stories');
+const [existingStories] = await execute('SELECT slug FROM stories');
 const existingStorySlugs = new Set(existingStories.map(s => s.slug));
 
 const newStories = [
@@ -832,8 +830,8 @@ for (const story of newStories) {
     console.log(`Story already exists: ${story.slug}`);
     continue;
   }
-  await conn.execute(
-    `INSERT INTO stories (slug, titleEn, titleAr, summaryEn, summaryAr, status, sortOrder)
+  await execute(
+    `INSERT INTO stories ("slug", "titleEn", "titleAr", "summaryEn", "summaryAr", "status", "sortOrder")
      VALUES (?, ?, ?, ?, ?, ?, ?)`,
     [story.slug, story.titleEn, story.titleAr, story.summaryEn, story.summaryAr, story.status, story.sortOrder]
   );
