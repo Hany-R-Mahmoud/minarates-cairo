@@ -129,6 +129,7 @@ temp/
 .codex/
 .agents/
 .codegraph
+.playwright-mcp/
 
 # Manus runtime artifacts
 client/public/__manus__/

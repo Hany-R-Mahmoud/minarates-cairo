@@ -29,38 +29,64 @@ const isImageKitUrl = (value) => {
 const readyAssets = manifest.assets.filter((asset) =>
   ["approved", "source-verified"].includes(asset.status) &&
   isImageKitUrl(asset.cdnUrl) &&
-  ["assetId", "placeId", "imageKitPath", "sourcePage", "creator", "license", "licenseUrl", "attribution", "altEn", "altAr"].every((field) => hasText(String(asset[field] ?? ""))),
+  ["assetId", "placeSlug", "imageKitPath", "sourcePage", "creator", "license", "licenseUrl", "attribution", "altEn", "altAr"].every((field) => hasText(String(asset[field] ?? ""))),
 );
 const skippedAssets = manifest.assets.length - readyAssets.length;
 
 try {
-  for (const asset of readyAssets) {
-    await sql`
-      INSERT INTO "mediaAssets" (
-        "assetId", "placeId", "mediaType", "cdnKey", "url",
-        "creator", "sourcePage", "license", "licenseUrl", "attribution",
-        "altEn", "altAr", "visualType", "documentaryStatus", "approved", "updatedAt"
-      ) VALUES (
-        ${asset.assetId}, ${asset.placeId}, 'photo', ${asset.imageKitPath}, ${asset.cdnUrl},
-        ${asset.creator}, ${asset.sourcePage}, ${asset.license}, ${asset.licenseUrl}, ${asset.attribution},
-        ${asset.altEn}, ${asset.altAr}, 'exterior', 'documentary', true, now()
-      )
-      ON CONFLICT ("assetId") DO UPDATE SET
-        "placeId" = EXCLUDED."placeId",
-        "mediaType" = EXCLUDED."mediaType",
-        "cdnKey" = EXCLUDED."cdnKey",
-        "url" = EXCLUDED."url",
-        "creator" = EXCLUDED."creator",
-        "sourcePage" = EXCLUDED."sourcePage",
-        "license" = EXCLUDED."license",
-        "licenseUrl" = EXCLUDED."licenseUrl",
-        "attribution" = EXCLUDED."attribution",
-        "altEn" = EXCLUDED."altEn",
-        "altAr" = EXCLUDED."altAr",
-        "approved" = true,
-        "updatedAt" = now()
-    `;
+  const placeRows = await sql`SELECT "id", "slug" FROM "places" WHERE "status" = 'published'`;
+  const placeIdsBySlug = new Map(placeRows.map((place) => [place.slug, place.id]));
+  const unresolvedSlugs = [...new Set(readyAssets.map((asset) => asset.placeSlug))]
+    .filter((slug) => !placeIdsBySlug.has(slug));
+  if (unresolvedSlugs.length > 0) {
+    throw new Error(`Published place not found for slug(s): ${unresolvedSlugs.join(", ")}`);
   }
+
+  await sql.begin(async (transaction) => {
+    for (const asset of readyAssets) {
+      await transaction`
+        INSERT INTO "mediaAssets" (
+          "assetId", "placeId", "mediaType", "originalFilename", "cdnKey", "url",
+          "width", "height", "mimeType", "fileSizeBytes", "checksum",
+          "creator", "sourcePage", "license", "licenseUrl", "attribution",
+          "altEn", "altAr", "captionEn", "captionAr", "modifications",
+          "visualType", "documentaryStatus", "approved", "updatedAt"
+        ) VALUES (
+          ${asset.assetId}, ${placeIdsBySlug.get(asset.placeSlug)}, ${asset.mediaType ?? 'photo'},
+          ${asset.localFile ? path.basename(asset.localFile) : null}, ${asset.imageKitPath}, ${asset.cdnUrl},
+          ${asset.width ?? null}, ${asset.height ?? null}, ${asset.mimeType ?? null}, ${asset.fileSizeBytes ?? null}, ${asset.checksum ?? null},
+          ${asset.creator}, ${asset.sourcePage}, ${asset.license}, ${asset.licenseUrl}, ${asset.attribution},
+          ${asset.altEn}, ${asset.altAr}, ${asset.captionEn ?? null}, ${asset.captionAr ?? null}, ${asset.modifications ?? null},
+          ${asset.visualType ?? 'exterior'}, ${asset.documentaryStatus ?? 'documentary'}, true, now()
+        )
+        ON CONFLICT ("assetId") DO UPDATE SET
+          "placeId" = EXCLUDED."placeId",
+          "mediaType" = EXCLUDED."mediaType",
+          "originalFilename" = EXCLUDED."originalFilename",
+          "cdnKey" = EXCLUDED."cdnKey",
+          "url" = EXCLUDED."url",
+          "width" = EXCLUDED."width",
+          "height" = EXCLUDED."height",
+          "mimeType" = EXCLUDED."mimeType",
+          "fileSizeBytes" = EXCLUDED."fileSizeBytes",
+          "checksum" = EXCLUDED."checksum",
+          "creator" = EXCLUDED."creator",
+          "sourcePage" = EXCLUDED."sourcePage",
+          "license" = EXCLUDED."license",
+          "licenseUrl" = EXCLUDED."licenseUrl",
+          "attribution" = EXCLUDED."attribution",
+          "altEn" = EXCLUDED."altEn",
+          "altAr" = EXCLUDED."altAr",
+          "captionEn" = EXCLUDED."captionEn",
+          "captionAr" = EXCLUDED."captionAr",
+          "modifications" = EXCLUDED."modifications",
+          "visualType" = EXCLUDED."visualType",
+          "documentaryStatus" = EXCLUDED."documentaryStatus",
+          "approved" = true,
+          "updatedAt" = now()
+      `;
+    }
+  });
   console.log(`Synced ${readyAssets.length} approved media assets to Supabase; skipped ${skippedAssets} incomplete assets.`);
 } finally {
   await sql.end({ timeout: 5 });
