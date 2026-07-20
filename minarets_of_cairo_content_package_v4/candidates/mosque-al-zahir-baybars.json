@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "mosque-al-zahir-baybars",
+  "nameEn": "Mosque of al-Zahir Baybars",
+  "nameAr": "جامع الظاهر بيبرس",
+  "alternateNames": [],
+  "candidateType": "mosque",
+  "historicalPeriod": "Bahri Mamluk",
+  "dynasty": "Bahri Mamluk",
+  "district": "al-Zahir",
+  "whyCandidateMatters": "Mosque of al-Zahir Baybars would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Bahri Mamluk layer in al-Zahir through a mosque rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mosque+al+zahir+baybars+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "low priority",
+  "status": "research-only"
+}

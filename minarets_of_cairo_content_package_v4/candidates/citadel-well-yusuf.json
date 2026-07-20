@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "citadel-well-yusuf",
+  "nameEn": "Well of Yusuf at the Citadel",
+  "nameAr": "بئر يوسف بالقلعة",
+  "alternateNames": [],
+  "candidateType": "water infrastructure",
+  "historicalPeriod": "Ayyubid",
+  "dynasty": "Ayyubid",
+  "district": "Cairo Citadel",
+  "whyCandidateMatters": "Well of Yusuf at the Citadel would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Ayyubid layer in Cairo Citadel through a water infrastructure rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=citadel+well+yusuf+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "medium priority",
+  "status": "research-only"
+}

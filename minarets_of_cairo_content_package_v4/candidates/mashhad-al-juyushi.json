@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "mashhad-al-juyushi",
+  "nameEn": "Mashhad al-Juyushi",
+  "nameAr": "مشهد الجيوشي",
+  "alternateNames": [],
+  "candidateType": "mashhad/mosque",
+  "historicalPeriod": "Fatimid",
+  "dynasty": "Fatimid",
+  "district": "Moqattam",
+  "whyCandidateMatters": "Mashhad al-Juyushi would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Fatimid layer in Moqattam through a mashhad/mosque rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mashhad+al+juyushi+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "low priority",
+  "status": "research-only"
+}

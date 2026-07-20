@@ -1,0 +1,81 @@
+{
+  "slug": "mosque-sabil-sulayman-agha-al-silahdar",
+  "nameEn": "Mosque-Sabil-Kuttab of Sulayman Agha al-Silahdar",
+  "nameAr": "مسجد وسبيل وكتاب سليمان أغا السلحدار",
+  "alternateNames": [
+    "Sulayman Agha al-Silahdar Complex"
+  ],
+  "historicalPeriod": "Muhammad Ali and nineteenth-century Cairo",
+  "dynasty": "Muhammad Ali dynasty",
+  "district": "al-Muizz / Burjuan",
+  "placeType": "mosque, sabil and kuttab",
+  "foundedYearOrRange": "1837–1839 CE",
+  "dateCertainty": "certain",
+  "dateDisplayEn": "1837–1839 CE",
+  "dateDisplayAr": "1837–1839م",
+  "patronEn": "Sulayman Agha al-Silahdar",
+  "patronAr": "سليمان أغا السلحدار",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "mosque, water charity, and school",
+  "originalFunctionAr": "مسجد وسبيل وكتاب",
+  "currentFunctionEn": "active mosque and historic monument",
+  "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+  "historicalBriefEn": "This nineteenth-century foundation combines mosque, sabil, and kuttab in a narrow urban plot. Painted ceilings, window grilles, marble, and stacked functions show how the Muhammad Ali period renewed older Cairo traditions of worship, water charity, and teaching. Its narrow frontage demonstrates how a patron inserted a complex institution into an already crowded historic street. The visual program combines Ottoman and Cairene references without reproducing a medieval building exactly. Current worship gives the mosque a continuing function, while the sabil and kuttab preserve the memory of public services that no longer operate in their original form.",
+  "historicalBriefAr": "تجمع هذه المنشأة من القرن التاسع عشر بين المسجد والسبيل والكتاب في قطعة حضرية ضيقة. وتوضح الأسقف المصورة والمصبعات والرخام والوظائف المتراكبة كيف جدد عصر محمد علي تقاليد قاهرية أقدم للعبادة وخدمة الماء والتعليم. وتوضح واجهته الضيقة كيف أدخل الراعي مؤسسة مركبة في شارع تاريخي مزدحم أصلًا. ويجمع البرنامج البصري بين إشارات عثمانية وقاهرية من دون نسخ مبنى وسيط حرفيًا. ويمنح استمرار الصلاة الجامع وظيفة حية، بينما يحفظ السبيل والكتاب ذاكرة خدمات عامة لم تعد تعمل بصورتها الأصلية.",
+  "clarificationNoteEn": "Its date is nineteenth-century even though its functions recall older traditions.",
+  "clarificationNoteAr": "يرجع المبنى إلى القرن التاسع عشر رغم أن وظائفه تحيل إلى تقاليد أقدم.",
+  "keyDates": [
+    {
+      "year": 1837,
+      "labelEn": "Principal documented phase",
+      "labelAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "nameEn": "Original or principal construction",
+      "nameAr": "الإنشاء الأصلي أو الرئيسي",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Original or principal construction",
+      "descAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "nameEn": "Later repairs, additions, or conservation",
+      "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Later repairs, additions, or conservation",
+      "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.0527,
+  "longitude": 31.26,
+  "locationPrecision": "approximate",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "priorityVisualStoryEn": "Painted ceiling, patterned grilles, marble interior, and stacked charitable functions.",
+  "priorityVisualStoryAr": "السقف المصور والمصبعات المزخرفة والداخل الرخامي والوظائف الخيرية المتراكبة.",
+  "sourceIds": [
+    "src-silahdar-archnet",
+    "src-silahdar-ottoman"
+  ],
+  "claimIds": [
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-date",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-period",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-patron",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-function",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-clarification",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+  "photographyAllowed": "unknown",
+  "activeWorship": true,
+  "funerarySensitive": false,
+  "ticketed": null,
+  "recommendedDurationMin": 26,
+  "recommendedDurationMax": 43
+}

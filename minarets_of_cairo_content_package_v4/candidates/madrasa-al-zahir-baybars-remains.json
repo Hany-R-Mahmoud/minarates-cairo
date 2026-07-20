@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "madrasa-al-zahir-baybars-remains",
+  "nameEn": "Madrasa of al-Zahir Baybars Remains",
+  "nameAr": "بقايا مدرسة الظاهر بيبرس",
+  "alternateNames": [],
+  "candidateType": "madrasa remains",
+  "historicalPeriod": "Bahri Mamluk",
+  "dynasty": "Bahri Mamluk",
+  "district": "Bayn al-Qasrayn",
+  "whyCandidateMatters": "Madrasa of al-Zahir Baybars Remains would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Bahri Mamluk layer in Bayn al-Qasrayn through a madrasa remains rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=madrasa+al+zahir+baybars+remains+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "low priority",
+  "status": "research-only"
+}

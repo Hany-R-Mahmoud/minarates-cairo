@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "mosque-qijmas-al-ishaqi",
+  "nameEn": "Mosque of Qijmas al-Ishaqi",
+  "nameAr": "جامع قجماس الإسحاقي",
+  "alternateNames": [],
+  "candidateType": "mosque",
+  "historicalPeriod": "Burji Mamluk",
+  "dynasty": "Burji Mamluk",
+  "district": "Darb al-Ahmar",
+  "whyCandidateMatters": "Mosque of Qijmas al-Ishaqi would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Burji Mamluk layer in Darb al-Ahmar through a mosque rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mosque+qijmas+al+ishaqi+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "high priority",
+  "status": "research-only"
+}

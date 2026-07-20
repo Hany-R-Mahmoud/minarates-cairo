@@ -1,0 +1,83 @@
+{
+  "slug": "aqsunqur-blue-mosque",
+  "nameEn": "Aqsunqur Mosque (Blue Mosque)",
+  "nameAr": "جامع آق سنقر (الجامع الأزرق)",
+  "alternateNames": [
+    "Blue Mosque",
+    "Mosque of Ibrahim Agha",
+    "جامع إبراهيم أغا"
+  ],
+  "historicalPeriod": "Bahri Mamluk with Ottoman decorative phase",
+  "dynasty": "Bahri Mamluk / Ottoman",
+  "district": "Darb al-Ahmar",
+  "placeType": "mosque and funerary complex",
+  "foundedYearOrRange": "1346–1347 CE; major later Ottoman tile phase",
+  "dateCertainty": "certain",
+  "dateDisplayEn": "1346–1347 CE; major later Ottoman tile phase",
+  "dateDisplayAr": "1346–1347م؛ ومرحلة عثمانية كبرى للبلاطات في القرن السابع عشر",
+  "patronEn": "Amir Aqsunqur; later Ibrahim Agha",
+  "patronAr": "الأمير آق سنقر؛ ثم إبراهيم أغا",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "mosque and funerary foundation",
+  "originalFunctionAr": "مسجد ومنشأة جنائزية",
+  "currentFunctionEn": "active mosque and historic monument",
+  "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+  "historicalBriefEn": "Aqsunqur Mosque combines a fourteenth-century Mamluk foundation with a major Ottoman decorative phase. Blue and turquoise tiles transformed the qibla wall and created the popular modern name. Its plan, mausoleums, minbar, stonework, and tiles should be read as layers rather than one style. Conservation has also become part of the monument’s modern history, because stabilizing the roof, masonry, minaret, and tile panels required close study of how different phases were joined. A visitor should therefore compare structure and surface rather than assuming that the celebrated blue interior belongs to the founding campaign.",
+  "historicalBriefAr": "يجمع جامع آق سنقر بين منشأة مملوكية من القرن الرابع عشر ومرحلة زخرفية عثمانية كبيرة. وقد غيرت البلاطات الزرقاء والفيروزية جدار القبلة وصنعت الاسم الشائع الحديث. ويجب قراءة الخطة والأضرحة والمنبر والحجر والبلاطات بوصفها طبقات لا طرازًا واحدًا. وأصبح الترميم جزءًا من التاريخ الحديث للأثر، إذ تطلب تثبيت السقف والبناء والمئذنة ولوحات البلاطات دراسة دقيقة لكيفية اتصال المراحل المختلفة. لذلك ينبغي للزائر أن يقارن بين الهيكل والسطح، وألا يفترض أن الداخل الأزرق الشهير يعود كله إلى حملة التأسيس.",
+  "clarificationNoteEn": "The famous blue tiles belong mainly to a later Ottoman phase.",
+  "clarificationNoteAr": "تنتمي البلاطات الزرقاء الشهيرة أساسًا إلى مرحلة عثمانية لاحقة.",
+  "keyDates": [
+    {
+      "year": 1346,
+      "labelEn": "Principal documented phase",
+      "labelAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "nameEn": "Original or principal construction",
+      "nameAr": "الإنشاء الأصلي أو الرئيسي",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Original or principal construction",
+      "descAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "nameEn": "Later repairs, additions, or conservation",
+      "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Later repairs, additions, or conservation",
+      "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.036,
+  "longitude": 31.26,
+  "locationPrecision": "exact",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "priorityVisualStoryEn": "Blue tiles, mihrab, minbar, striped arches, and the contrast between Mamluk structure and Ottoman surface.",
+  "priorityVisualStoryAr": "البلاطات الزرقاء والمحراب والمنبر والعقود المخططة والتباين بين الهيكل المملوكي والسطح العثماني.",
+  "sourceIds": [
+    "src-aqsunqur-wmf",
+    "src-aqsunqur-archnet"
+  ],
+  "claimIds": [
+    "claim-aqsunqur-blue-mosque-date",
+    "claim-aqsunqur-blue-mosque-period",
+    "claim-aqsunqur-blue-mosque-patron",
+    "claim-aqsunqur-blue-mosque-function",
+    "claim-aqsunqur-blue-mosque-clarification",
+    "claim-aqsunqur-blue-mosque-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+  "photographyAllowed": "unknown",
+  "activeWorship": true,
+  "funerarySensitive": true,
+  "ticketed": null,
+  "recommendedDurationMin": 33,
+  "recommendedDurationMax": 56
+}

@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "imam-shafii-cemetery-landscape",
+  "nameEn": "Imam al-Shafi’i Cemetery Landscape",
+  "nameAr": "مشهد جبانة الإمام الشافعي",
+  "alternateNames": [],
+  "candidateType": "funerary landscape",
+  "historicalPeriod": "Early Islamic–modern",
+  "dynasty": null,
+  "district": "Southern Cemetery",
+  "whyCandidateMatters": "Imam al-Shafi’i Cemetery Landscape would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Early Islamic–modern layer in Southern Cemetery through a funerary landscape rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=imam+shafii+cemetery+landscape+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "low priority",
+  "status": "research-only"
+}

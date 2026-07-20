@@ -1,0 +1,82 @@
+{
+  "slug": "gayer-anderson-museum",
+  "nameEn": "Gayer-Anderson Museum",
+  "nameAr": "متحف جاير أندرسون",
+  "alternateNames": [
+    "Bayt al-Kritliyya",
+    "بيت الكريتلية"
+  ],
+  "historicalPeriod": "Ottoman Cairo with modern museum history",
+  "dynasty": "Ottoman / modern museum",
+  "district": "Al-Saliba / Sayyida Zaynab",
+  "placeType": "historic houses and museum",
+  "foundedYearOrRange": "16th–17th centuries; museum adaptation from 1935",
+  "dateCertainty": "approximate",
+  "dateDisplayEn": "16th–17th centuries; museum adaptation from 1935",
+  "dateDisplayAr": "بيتان ترجع مراحلهما الرئيسية إلى القرنين السادس عشر والسابع عشر؛ وتكييف متحفي منذ 1935م",
+  "patronEn": "Multiple house patrons; later Gayer-Anderson",
+  "patronAr": "رعاة متعددون للبيتين؛ ثم جاير أندرسون",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "urban residences",
+  "originalFunctionAr": "مساكن حضرية",
+  "currentFunctionEn": "museum of domestic architecture and collections",
+  "currentFunctionAr": "متحف للعمارة المنزلية والمقتنيات",
+  "historicalBriefEn": "The museum occupies two connected historic houses beside Ibn Tulun Mosque. Courtyards, reception halls, mashrabiyas, and service routes reveal domestic architecture, while Gayer-Anderson’s twentieth-century residence added a separate museum layer. The interpretation must distinguish the older houses from the later collection and display choices. The two houses are conventionally associated with different construction dates and owners, but their present arrangement is the result of later connection and museum use. The collection includes objects from several cultures and periods; it should be interpreted as a twentieth-century curatorial layer rather than evidence that every object originally belonged to the houses.",
+  "historicalBriefAr": "يشغل المتحف بيتين تاريخيين متصلين بجوار جامع ابن طولون. وتكشف الأفنية وقاعات الاستقبال والمشربيات ومسارات الخدمة عمارة السكن، بينما أضافت إقامة جاير أندرسون في القرن العشرين طبقة متحفية منفصلة. ويجب التمييز بين البيتين الأقدم والمجموعة وطرق العرض اللاحقة. ويرتبط البيتان عادة بتواريخ إنشاء وملاك مختلفين، لكن ترتيبهما الحالي نتج عن ربط لاحق واستخدام متحفي. وتضم المجموعة أشياء من ثقافات وعصور متعددة؛ لذا ينبغي تفسيرها بوصفها طبقة تنسيق من القرن العشرين، لا دليلًا على أن كل قطعة كانت أصلًا جزءًا من البيتين.",
+  "clarificationNoteEn": "The houses were not built for Gayer-Anderson.",
+  "clarificationNoteAr": "لم يُشيد البيتان من أجل جاير أندرسون.",
+  "keyDates": [
+    {
+      "year": 1935,
+      "labelEn": "Principal documented phase",
+      "labelAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "nameEn": "Original or principal construction",
+      "nameAr": "الإنشاء الأصلي أو الرئيسي",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Original or principal construction",
+      "descAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "nameEn": "Later repairs, additions, or conservation",
+      "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Later repairs, additions, or conservation",
+      "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.028703,
+  "longitude": 31.250808,
+  "locationPrecision": "exact",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "priorityVisualStoryEn": "Courtyard depth, mashrabiya screens, and the difference between historic fabric and museum display.",
+  "priorityVisualStoryAr": "عمق الفناء والمشربيات والفارق بين النسيج التاريخي والعرض المتحفي.",
+  "sourceIds": [
+    "src-gayer-mota",
+    "src-gayer-archnet"
+  ],
+  "claimIds": [
+    "claim-gayer-anderson-museum-date",
+    "claim-gayer-anderson-museum-period",
+    "claim-gayer-anderson-museum-patron",
+    "claim-gayer-anderson-museum-function",
+    "claim-gayer-anderson-museum-clarification",
+    "claim-gayer-anderson-museum-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+  "photographyAllowed": "unknown",
+  "activeWorship": false,
+  "funerarySensitive": false,
+  "ticketed": null,
+  "recommendedDurationMin": 45,
+  "recommendedDurationMax": 75
+}

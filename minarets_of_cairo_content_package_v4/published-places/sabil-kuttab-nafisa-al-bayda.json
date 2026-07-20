@@ -1,0 +1,81 @@
+{
+  "slug": "sabil-kuttab-nafisa-al-bayda",
+  "nameEn": "Sabil-Kuttab of Nafisa al-Bayda",
+  "nameAr": "سبيل وكتاب نفيسة البيضاء",
+  "alternateNames": [
+    "Sabil Nafisa al-Bayda"
+  ],
+  "historicalPeriod": "Late Ottoman Cairo",
+  "dynasty": "Ottoman",
+  "district": "near Bab Zuweila",
+  "placeType": "sabil-kuttab",
+  "foundedYearOrRange": "1796 CE",
+  "dateCertainty": "certain",
+  "dateDisplayEn": "1796 CE",
+  "dateDisplayAr": "1796م",
+  "patronEn": "Nafisa al-Bayda",
+  "patronAr": "نفيسة البيضاء",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "public water fountain and elementary school",
+  "originalFunctionAr": "سبيل عام وكتاب لتعليم الأطفال",
+  "currentFunctionEn": "historic monument",
+  "currentFunctionAr": "أثر تاريخي",
+  "historicalBriefEn": "Commissioned by Nafisa al-Bayda, the building placed a charitable water fountain below and a school above. Its projecting façade, carved stone, metal grilles, and wooden upper level address the street directly and provide a major story of women’s patronage and public charity in Ottoman Cairo. Nafisa’s biography complicates simple assumptions about status and patronage: she rose from enslavement to become a wealthy and influential benefactor. The building therefore connects architecture with gender, property, charity, and social mobility. Its street façade should be read as a public interface designed to make the endowment visible and useful.",
+  "historicalBriefAr": "أنشأت نفيسة البيضاء المبنى ليضم سبيلًا خيريًا في الأسفل وكتابًا للتعليم في الأعلى. وتخاطب واجهته البارزة وحجره المنحوت ومصبعاته المعدنية وطابقه الخشبي العلوي الشارع مباشرة، وتقدم قصة مهمة عن رعاية النساء والعمل الخيري العام في القاهرة العثمانية. وتعقد سيرة نفيسة الافتراضات البسيطة عن المكانة والرعاية؛ فقد انتقلت من الرق إلى موقع الثراء والنفوذ والعمل الخيري. ولذلك يربط المبنى العمارة بالنوع الاجتماعي والملكية والصدقة والحراك الاجتماعي. وينبغي قراءة واجهته بوصفها مساحة عامة تجعل الوقف ظاهرًا ونافعًا.",
+  "clarificationNoteEn": "Its primary identity is a public charitable foundation, not a private house.",
+  "clarificationNoteAr": "هويته الأساسية منشأة خيرية عامة وليست بيتًا خاصًا.",
+  "keyDates": [
+    {
+      "year": 1796,
+      "labelEn": "Principal documented phase",
+      "labelAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "nameEn": "Original or principal construction",
+      "nameAr": "الإنشاء الأصلي أو الرئيسي",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Original or principal construction",
+      "descAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "nameEn": "Later repairs, additions, or conservation",
+      "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Later repairs, additions, or conservation",
+      "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.043032,
+  "longitude": 31.257944,
+  "locationPrecision": "approximate",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "priorityVisualStoryEn": "Sabil windows, upper kuttab, grilles, inscriptions, water charity, and female patronage.",
+  "priorityVisualStoryAr": "نوافذ السبيل والكتاب العلوي والمصبعات والنقوش وخدمة الماء ورعاية النساء.",
+  "sourceIds": [
+    "src-nafisa-archnet",
+    "src-nafisa-women"
+  ],
+  "claimIds": [
+    "claim-sabil-kuttab-nafisa-al-bayda-date",
+    "claim-sabil-kuttab-nafisa-al-bayda-period",
+    "claim-sabil-kuttab-nafisa-al-bayda-patron",
+    "claim-sabil-kuttab-nafisa-al-bayda-function",
+    "claim-sabil-kuttab-nafisa-al-bayda-clarification",
+    "claim-sabil-kuttab-nafisa-al-bayda-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+  "photographyAllowed": "unknown",
+  "activeWorship": false,
+  "funerarySensitive": false,
+  "ticketed": null,
+  "recommendedDurationMin": 20,
+  "recommendedDurationMax": 31
+}

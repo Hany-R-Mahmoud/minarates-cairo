@@ -1,0 +1,81 @@
+{
+  "slug": "sinan-pasha-mosque-bulaq",
+  "nameEn": "Sinan Pasha Mosque",
+  "nameAr": "جامع سنان باشا",
+  "alternateNames": [
+    "Mosque of Sinan Pasha in Bulaq"
+  ],
+  "historicalPeriod": "Ottoman Cairo",
+  "dynasty": "Ottoman",
+  "district": "Bulaq",
+  "placeType": "mosque",
+  "foundedYearOrRange": "1571 CE",
+  "dateCertainty": "certain",
+  "dateDisplayEn": "1571 CE",
+  "dateDisplayAr": "1571م",
+  "patronEn": "Sinan Pasha",
+  "patronAr": "سنان باشا",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "congregational mosque in the port district",
+  "originalFunctionAr": "مسجد جامع في الحي المينائي",
+  "currentFunctionEn": "active mosque and historic monument",
+  "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+  "historicalBriefEn": "Sinan Pasha Mosque stands in Bulaq, Cairo’s historic port and commercial district. Its central dome, surrounding portico, stone walls, and minaret demonstrate an Ottoman mosque type adapted to an Egyptian urban setting. The story connects architecture to river trade and the transformed Nile edge. The mosque’s relationship to Bulaq is essential. The district linked Cairo to river transport and regional trade, yet later urban works altered the shoreline and street pattern. Architectural interpretation should therefore combine the surviving mosque with historical maps and avoid presenting the modern surroundings as an unchanged sixteenth-century port.",
+  "historicalBriefAr": "يقع جامع سنان باشا في بولاق، الحي المينائي والتجاري التاريخي للقاهرة. وتوضح قبته المركزية ورواقه المحيط وجدرانه الحجرية ومئذنته نموذجًا عثمانيًا جرى تكييفه مع بيئة حضرية مصرية. وتربط القصة العمارة بتجارة النهر وتحول حافة النيل. وتعد علاقة الجامع ببولاق أساسية؛ فقد ربط الحي القاهرة بالنقل النهري والتجارة الإقليمية، لكن الأعمال العمرانية اللاحقة غيرت الشاطئ وشبكة الشوارع. لذلك ينبغي أن يجمع التفسير بين الجامع الباقي والخرائط التاريخية، وألا يقدم المحيط الحديث بوصفه ميناء القرن السادس عشر دون تغير.",
+  "clarificationNoteEn": "The present streets are not the original sixteenth-century port landscape.",
+  "clarificationNoteAr": "الشوارع الحالية ليست مشهد الميناء الأصلي في القرن السادس عشر.",
+  "keyDates": [
+    {
+      "year": 1571,
+      "labelEn": "Principal documented phase",
+      "labelAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "nameEn": "Original or principal construction",
+      "nameAr": "الإنشاء الأصلي أو الرئيسي",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Original or principal construction",
+      "descAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "nameEn": "Later repairs, additions, or conservation",
+      "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Later repairs, additions, or conservation",
+      "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.062583,
+  "longitude": 31.229144,
+  "locationPrecision": "exact",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "priorityVisualStoryEn": "Central dome, portico, minaret, and modern Bulaq around the monument.",
+  "priorityVisualStoryAr": "القبة المركزية والرواق والمئذنة وبولاق الحديثة حول الأثر.",
+  "sourceIds": [
+    "src-sinan-archnet",
+    "src-sinan-swelim"
+  ],
+  "claimIds": [
+    "claim-sinan-pasha-mosque-bulaq-date",
+    "claim-sinan-pasha-mosque-bulaq-period",
+    "claim-sinan-pasha-mosque-bulaq-patron",
+    "claim-sinan-pasha-mosque-bulaq-function",
+    "claim-sinan-pasha-mosque-bulaq-clarification",
+    "claim-sinan-pasha-mosque-bulaq-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+  "photographyAllowed": "unknown",
+  "activeWorship": true,
+  "funerarySensitive": false,
+  "ticketed": null,
+  "recommendedDurationMin": 26,
+  "recommendedDurationMax": 43
+}

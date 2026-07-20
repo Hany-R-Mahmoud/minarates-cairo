@@ -1,0 +1,1175 @@
+{
+  "schemaVersion": 1,
+  "claims": [
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-date",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Aqsunqur Mosque (Blue Mosque) is dated to 1346–1347 CE; major later Ottoman tile phase.",
+      "claimTextAr": "يؤرخ جامع آق سنقر (الجامع الأزرق) إلى 1346–1347 م; major later Ottoman tile phase.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-period",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Bahri Mamluk with Ottoman decorative phase.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى Bahri Mamluk with Ottoman decorative phase.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-patron",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Amir Aqsunqur; later Ibrahim Agha.",
+      "claimTextAr": "الراعي المسجل هو الأمير آق سنقر؛ ثم إبراهيم أغا.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-function",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was mosque and funerary foundation.",
+      "claimTextAr": "كانت وظيفته الأصلية مسجد ومنشأة جنائزية.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-clarification",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The famous blue tiles belong mainly to a later Ottoman phase.",
+      "claimTextAr": "تنتمي البلاطات الزرقاء الشهيرة أساسًا إلى مرحلة عثمانية لاحقة.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-location",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in Darb al-Ahmar with exact coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة الدرب الأحمر، مع دقة مكانية مصنفة بوصفها دقيقة.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-story-1",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "Aqsunqur Mosque (Blue Mosque) belongs to Bahri Mamluk with Ottoman decorative phase, but its significance becomes clearer when placed within the political and urban history of Darb al-Ahmar. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "ينتمي جامع آق سنقر (الجامع الأزرق) إلى العصر المملوكي البحري مع مرحلة زخرفية عثمانية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة الدرب الأحمر. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-story-2",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "The monument rewards a slow visual reading of Mamluk plan, mausoleums, minbar, blue Iznik-style tiles and conservation. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل الخطة المملوكية والأضرحة والمنبر والبلاطات الزرقاء ذات الطابع الإزنيقي والترميم. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-story-3",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-date",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Bayt al-Razzaz is dated to 15th–18th centuries.",
+      "claimTextAr": "يؤرخ بيت الرزاز إلى 15th–18th centuries.",
+      "sourceIds": [
+        "src-razzaz-archnet",
+        "src-razzaz-behrens"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-period",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Mamluk and Ottoman Cairo.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى القاهرة المملوكية والعثمانية.",
+      "sourceIds": [
+        "src-razzaz-archnet",
+        "src-razzaz-behrens"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-patron",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Multiple owners; later associated with Ahmad Katkhuda al-Razzaz.",
+      "claimTextAr": "الراعي المسجل هو مالكون متعددون؛ وارتبط لاحقًا بأحمد كتخدا الرزاز.",
+      "sourceIds": [
+        "src-razzaz-archnet",
+        "src-razzaz-behrens"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-function",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was elite urban residences joined over time.",
+      "claimTextAr": "كانت وظيفته الأصلية مساكن حضرية للنخبة اتصلت عبر الزمن.",
+      "sourceIds": [
+        "src-razzaz-archnet",
+        "src-razzaz-behrens"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-clarification",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "A single patron or date cannot describe the entire complex.",
+      "claimTextAr": "لا يمكن وصف المجموعة كلها براعي واحد أو تاريخ واحد.",
+      "sourceIds": [
+        "src-razzaz-archnet",
+        "src-razzaz-behrens"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-location",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in Darb al-Ahmar with approximate coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة الدرب الأحمر، مع دقة مكانية مصنفة بوصفها تقريبية.",
+      "sourceIds": [
+        "src-razzaz-archnet",
+        "src-razzaz-behrens"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-story-1",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": "story-bayt-al-razzaz",
+      "claimType": "story-chapter",
+      "claimTextEn": "Bayt al-Razzaz belongs to Mamluk and Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of Darb al-Ahmar. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "ينتمي بيت الرزاز إلى القاهرة المملوكية والعثمانية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة الدرب الأحمر. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-razzaz-archnet",
+        "src-razzaz-behrens"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-story-2",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": "story-bayt-al-razzaz",
+      "claimType": "story-chapter",
+      "claimTextEn": "The monument rewards a slow visual reading of connected courtyards, reception halls, mashrabiyas, service spaces and phased construction. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل الأفنية المتصلة وقاعات الاستقبال والمشربيات ومساحات الخدمة والإنشاء المتعدد المراحل. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-razzaz-archnet",
+        "src-razzaz-behrens"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-story-3",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": "story-bayt-al-razzaz",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-razzaz-archnet",
+        "src-razzaz-behrens"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-date",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Gayer-Anderson Museum is dated to 16th–17th centuries; museum adaptation from 1935.",
+      "claimTextAr": "يؤرخ متحف جاير أندرسون إلى 16th–17th centuries; museum adaptation from 1935.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-period",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Ottoman Cairo with modern museum history.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى Ottoman Cairo with modern museum history.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-patron",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Multiple house patrons; later Gayer-Anderson.",
+      "claimTextAr": "الراعي المسجل هو رعاة متعددون للبيتين؛ ثم جاير أندرسون.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-function",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was urban residences.",
+      "claimTextAr": "كانت وظيفته الأصلية مساكن حضرية.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-clarification",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The houses were not built for Gayer-Anderson.",
+      "claimTextAr": "لم يُشيد البيتان من أجل جاير أندرسون.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-location",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in Al-Saliba / Sayyida Zaynab with exact coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة الصليبة / السيدة زينب، مع دقة مكانية مصنفة بوصفها دقيقة.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-story-1",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": "story-gayer-anderson-museum",
+      "claimType": "story-chapter",
+      "claimTextEn": "The museum began as two neighboring Ottoman-period houses beside the Mosque of Ibn Tulun, not as a purpose-built gallery. Their rooms were shaped by successive owners, changing households, and the practical requirements of urban life. Courtyards admitted air and indirect light, while bent entrances, screened windows, and separate circulation routes controlled movement and privacy. The houses later became known through names such as Bayt al-Kritliyya and Bayt Amna bint Salim. Reading them historically means resisting the temptation to treat every room as one coherent seventeenth-century design. Their value lies precisely in accumulation: masonry, timber, service areas, reception halls, and upper rooms preserve evidence of several building campaigns and patterns of occupation. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "بدأ المتحف بيتين متجاورين من العصر العثماني بجوار جامع ابن طولون، ولم يُنشأ في الأصل معرضًا للمقتنيات. تشكلت غرفه عبر ملاك متعاقبين وأسر متغيرة ومتطلبات الحياة الحضرية. سمحت الأفنية بدخول الهواء والضوء غير المباشر، بينما نظمت المداخل المنكسرة والنوافذ المحجوبة ومسارات الحركة المنفصلة الانتقال والخصوصية. وعُرف البيتان لاحقًا بأسماء منها بيت الكريتلية وبيت آمنة بنت سالم. وتقتضي قراءتهما تاريخيًا ألا نتعامل مع كل الغرف بوصفها تصميمًا واحدًا متجانسًا من القرن السابع عشر. فقيمتهما تكمن في التراكم نفسه؛ إذ تحفظ أعمال البناء والخشب ومساحات الخدمة وقاعات الاستقبال والغرف العليا شواهد على حملات إنشاء وأنماط سكن متعددة. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-story-2",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": "story-gayer-anderson-museum",
+      "claimType": "story-chapter",
+      "claimTextEn": "The visual experience of the houses depends less on a monumental façade than on a sequence of controlled views. A visitor passes from the street into shaded transitional spaces, then reaches courtyards framed by mashrabiyas, stone arches, and projecting upper rooms. Reception halls use raised iwans, central floor areas, decorated ceilings, and carefully placed openings to organize hospitality. Wooden screens allow occupants to observe without being fully exposed, while courtyards support ventilation and moderate heat. These elements should not be reduced to picturesque decoration. Together they reveal a domestic technology of climate, social boundaries, sound, and visibility. The museum’s strongest interpretation therefore compares the architecture’s original spatial logic with the later placement of collected objects. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "لا تعتمد التجربة البصرية للبيتين على واجهة ضخمة بقدر اعتمادها على سلسلة من المناظر المحكومة. ينتقل الزائر من الشارع إلى فراغات انتقالية مظللة، ثم يصل إلى أفنية تحيط بها المشربيات والعقود الحجرية والغرف العليا البارزة. وتستخدم قاعات الاستقبال الإيوانات المرتفعة والمساحات الوسطى والأسقف المزخرفة والفتحات المدروسة لتنظيم الضيافة. وتسمح الشاشات الخشبية بالمراقبة من دون انكشاف كامل، بينما تساعد الأفنية على التهوية وتخفيف الحرارة. ولا ينبغي اختزال هذه العناصر في زخرفة جميلة؛ فهي تكشف معًا تقنية منزلية لإدارة المناخ والحدود الاجتماعية والصوت والرؤية. لذلك تقارن القراءة المتحفية الأفضل بين منطق العمارة الأصلي ومواضع المقتنيات اللاحقة. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-story-3",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": "story-gayer-anderson-museum",
+      "claimType": "story-chapter",
+      "claimTextEn": "In 1935, R. G. Gayer-Anderson received permission to reside in the houses and furnish them with his collection, under an arrangement that transferred the objects to Egypt. His occupation preserved and popularized the ensemble, but it also introduced a powerful twentieth-century layer. Rooms were named, staged, and filled with objects from different regions and periods, creating an atmosphere that reflects the collector’s taste as much as the earlier households. A responsible story does not dismiss that layer, nor does it confuse it with the original use of the houses. Instead, it asks how museums transform domestic buildings, how collections construct ideas of the past, and how conservation can protect architecture while making later interventions legible. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "في عام 1935م حصل ر. ج. جاير أندرسون على إذن بالإقامة في البيتين وتأثيثهما بمجموعته، وفق ترتيب تؤول بموجبه المقتنيات إلى مصر. أسهمت إقامته في حفظ المجموعة المعمارية والتعريف بها، لكنها أضافت أيضًا طبقة قوية من القرن العشرين. فقد سميت الغرف ورُتبت وامتلأت بأشياء من مناطق وعصور مختلفة، فصنعت أجواء تعكس ذوق الجامع بقدر ما تعكس الأسر الأقدم. ولا ترفض القصة المسؤولة هذه الطبقة، كما لا تخلطها بالاستخدام الأصلي للبيتين. بل تسأل كيف تحول المتاحف المباني المنزلية، وكيف تبني المجموعات تصورات عن الماضي، وكيف يحمي الترميم العمارة مع إبقاء التدخلات اللاحقة قابلة للقراءة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-date",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Mausoleum of Imam al-Shafi’i is dated to major surviving phase early 13th century; tomb tradition earlier.",
+      "claimTextAr": "يؤرخ ضريح الإمام الشافعي إلى major surviving phase early 13th century; tomb tradition earlier.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-period",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Ayyubid Cairo with later phases.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى القاهرة الأيوبية مع مراحل لاحقة.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-patron",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Ayyubid rulers and later patrons.",
+      "claimTextAr": "الراعي المسجل هو حكام أيوبيون ورعاة لاحقون.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-function",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was mausoleum and devotional shrine.",
+      "claimTextAr": "كانت وظيفته الأصلية ضريح ومزار.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-clarification",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The early tomb and the later standing architecture must be distinguished.",
+      "claimTextAr": "يجب التمييز بين القبر المبكر والعمارة القائمة اللاحقة.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-location",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in Southern Cemetery / al-Khalifa with approximate coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة القرافة الجنوبية / الخليفة، مع دقة مكانية مصنفة بوصفها تقريبية.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-story-1",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "claimType": "story-chapter",
+      "claimTextEn": "Mausoleum of Imam al-Shafi’i belongs to Ayyubid Cairo with later phases, but its significance becomes clearer when placed within the political and urban history of Southern Cemetery / al-Khalifa. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "ينتمي ضريح الإمام الشافعي إلى القاهرة الأيوبية مع مراحل لاحقة، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة القرافة الجنوبية / الخليفة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-story-2",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "claimType": "story-chapter",
+      "claimTextEn": "The monument rewards a slow visual reading of great dome, wooden enclosure, inscriptions, Ayyubid patronage and living shrine. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة الكبرى والحاجز الخشبي والنقوش والرعاية الأيوبية والمزار الحي. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-story-3",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-date",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Mausoleum of Shajarat al-Durr is dated to 1250 CE.",
+      "claimTextAr": "يؤرخ قبة شجرة الدر إلى 1250 م.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-period",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Ayyubid–Mamluk transition.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى مرحلة الانتقال الأيوبي المملوكي.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-patron",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Shajarat al-Durr.",
+      "claimTextAr": "الراعي المسجل هو شجرة الدر.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-function",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was royal mausoleum.",
+      "claimTextAr": "كانت وظيفته الأصلية ضريح سلطاني.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-clarification",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "Popular stories must not replace sourced political and architectural history.",
+      "claimTextAr": "يجب ألا تحل الروايات الشعبية محل التاريخ السياسي والمعماري الموثق.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-location",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in al-Khalifa with approximate coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة الخليفة، مع دقة مكانية مصنفة بوصفها تقريبية.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-story-1",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "claimType": "story-chapter",
+      "claimTextEn": "Mausoleum of Shajarat al-Durr belongs to Ayyubid–Mamluk transition, but its significance becomes clearer when placed within the political and urban history of al-Khalifa. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "ينتمي قبة شجرة الدر إلى مرحلة الانتقال الأيوبي المملوكي، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة الخليفة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-story-2",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "claimType": "story-chapter",
+      "claimTextEn": "The monument rewards a slow visual reading of compact dome, mihrab, mother-of-pearl tree motif, royal memory and Ayyubid-Mamluk transition. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة المدمجة والمحراب وزخرفة الشجرة بالصدف والذاكرة السلطانية والانتقال الأيوبي المملوكي. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-story-3",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-date",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Mosque-Sabil-Kuttab of Sulayman Agha al-Silahdar is dated to 1837–1839 CE.",
+      "claimTextAr": "يؤرخ مسجد وسبيل وكتاب سليمان أغا السلحدار إلى 1837–1839 م.",
+      "sourceIds": [
+        "src-silahdar-archnet",
+        "src-silahdar-ottoman"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-period",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Muhammad Ali and nineteenth-century Cairo.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى عصر محمد علي والقاهرة في القرن التاسع عشر.",
+      "sourceIds": [
+        "src-silahdar-archnet",
+        "src-silahdar-ottoman"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-patron",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Sulayman Agha al-Silahdar.",
+      "claimTextAr": "الراعي المسجل هو سليمان أغا السلحدار.",
+      "sourceIds": [
+        "src-silahdar-archnet",
+        "src-silahdar-ottoman"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-function",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was mosque, water charity, and school.",
+      "claimTextAr": "كانت وظيفته الأصلية مسجد وسبيل وكتاب.",
+      "sourceIds": [
+        "src-silahdar-archnet",
+        "src-silahdar-ottoman"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-clarification",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "Its date is nineteenth-century even though its functions recall older traditions.",
+      "claimTextAr": "يرجع المبنى إلى القرن التاسع عشر رغم أن وظائفه تحيل إلى تقاليد أقدم.",
+      "sourceIds": [
+        "src-silahdar-archnet",
+        "src-silahdar-ottoman"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-location",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in al-Muizz / Burjuan with approximate coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة المعز / برجوان، مع دقة مكانية مصنفة بوصفها تقريبية.",
+      "sourceIds": [
+        "src-silahdar-archnet",
+        "src-silahdar-ottoman"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-story-1",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": "story-mosque-sabil-sulayman-agha-al-silahdar",
+      "claimType": "story-chapter",
+      "claimTextEn": "Mosque-Sabil-Kuttab of Sulayman Agha al-Silahdar belongs to Muhammad Ali and nineteenth-century Cairo, but its significance becomes clearer when placed within the political and urban history of al-Muizz / Burjuan. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "ينتمي مسجد وسبيل وكتاب سليمان أغا السلحدار إلى عصر محمد علي والقاهرة في القرن التاسع عشر، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة المعز / برجوان. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-silahdar-archnet",
+        "src-silahdar-ottoman"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-story-2",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": "story-mosque-sabil-sulayman-agha-al-silahdar",
+      "claimType": "story-chapter",
+      "claimTextEn": "The monument rewards a slow visual reading of mosque, sabil, kuttab, painted ceiling, marble, grilles and revival under Muhammad Ali. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل المسجد والسبيل والكتاب والسقف المصور والرخام والمصبعات والإحياء في عصر محمد علي. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-silahdar-archnet",
+        "src-silahdar-ottoman"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-story-3",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": "story-mosque-sabil-sulayman-agha-al-silahdar",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-silahdar-archnet",
+        "src-silahdar-ottoman"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-date",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Sabil-Kuttab of Nafisa al-Bayda is dated to 1796 CE.",
+      "claimTextAr": "يؤرخ سبيل وكتاب نفيسة البيضاء إلى 1796 م.",
+      "sourceIds": [
+        "src-nafisa-archnet",
+        "src-nafisa-women"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-period",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Late Ottoman Cairo.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى أواخر العصر العثماني في القاهرة.",
+      "sourceIds": [
+        "src-nafisa-archnet",
+        "src-nafisa-women"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-patron",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Nafisa al-Bayda.",
+      "claimTextAr": "الراعي المسجل هو نفيسة البيضاء.",
+      "sourceIds": [
+        "src-nafisa-archnet",
+        "src-nafisa-women"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-function",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was public water fountain and elementary school.",
+      "claimTextAr": "كانت وظيفته الأصلية سبيل عام وكتاب لتعليم الأطفال.",
+      "sourceIds": [
+        "src-nafisa-archnet",
+        "src-nafisa-women"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-clarification",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "Its primary identity is a public charitable foundation, not a private house.",
+      "claimTextAr": "هويته الأساسية منشأة خيرية عامة وليست بيتًا خاصًا.",
+      "sourceIds": [
+        "src-nafisa-archnet",
+        "src-nafisa-women"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-location",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in near Bab Zuweila with approximate coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة near Bab Zuweila، مع دقة مكانية مصنفة بوصفها تقريبية.",
+      "sourceIds": [
+        "src-nafisa-archnet",
+        "src-nafisa-women"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-story-1",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": "story-sabil-kuttab-nafisa-al-bayda",
+      "claimType": "story-chapter",
+      "claimTextEn": "Sabil-Kuttab of Nafisa al-Bayda belongs to Late Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of near Bab Zuweila. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "ينتمي سبيل وكتاب نفيسة البيضاء إلى أواخر العصر العثماني في القاهرة، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة قرب باب زويلة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-nafisa-archnet",
+        "src-nafisa-women"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-story-2",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": "story-sabil-kuttab-nafisa-al-bayda",
+      "claimType": "story-chapter",
+      "claimTextEn": "The monument rewards a slow visual reading of street-facing sabil windows, upper kuttab, charitable endowment and late Ottoman urban life. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل نوافذ السبيل المطلة على الشارع والكتاب العلوي والوقف الخيري والحياة الحضرية العثمانية المتأخرة. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-nafisa-archnet",
+        "src-nafisa-women"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-story-3",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": "story-sabil-kuttab-nafisa-al-bayda",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-nafisa-archnet",
+        "src-nafisa-women"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-date",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Sinan Pasha Mosque is dated to 1571 CE.",
+      "claimTextAr": "يؤرخ جامع سنان باشا إلى 1571 م.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-period",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Ottoman Cairo.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى القاهرة العثمانية.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-patron",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Sinan Pasha.",
+      "claimTextAr": "الراعي المسجل هو سنان باشا.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-function",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was congregational mosque in the port district.",
+      "claimTextAr": "كانت وظيفته الأصلية مسجد جامع في الحي المينائي.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-clarification",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The present streets are not the original sixteenth-century port landscape.",
+      "claimTextAr": "الشوارع الحالية ليست مشهد الميناء الأصلي في القرن السادس عشر.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-location",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in Bulaq with exact coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة بولاق، مع دقة مكانية مصنفة بوصفها دقيقة.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-story-1",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "claimType": "story-chapter",
+      "claimTextEn": "Sinan Pasha Mosque belongs to Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of Bulaq. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "ينتمي جامع سنان باشا إلى القاهرة العثمانية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة بولاق. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-story-2",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "claimType": "story-chapter",
+      "claimTextEn": "The monument rewards a slow visual reading of single stone dome, portico, minaret, Bulaq commerce and the displaced Nile edge. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة الحجرية الواحدة والرواق والمئذنة وتجارة بولاق وتحول حافة النيل. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-story-3",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-date",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Mosque of Sulayman Pasha al-Khadim is dated to 1528 CE.",
+      "claimTextAr": "يؤرخ جامع سليمان باشا الخادم إلى 1528 م.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-period",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Early Ottoman Cairo.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى بدايات العصر العثماني في القاهرة.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-patron",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Sulayman Pasha al-Khadim.",
+      "claimTextAr": "الراعي المسجل هو سليمان باشا الخادم.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-function",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was mosque for the Citadel community.",
+      "claimTextAr": "كانت وظيفته الأصلية مسجد لمجتمع القلعة.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-clarification",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "It is distinct from the nineteenth-century Mosque of Muhammad Ali.",
+      "claimTextAr": "يختلف عن مسجد محمد علي الذي يعود إلى القرن التاسع عشر.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-location",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in Cairo Citadel with exact coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة قلعة القاهرة، مع دقة مكانية مصنفة بوصفها دقيقة.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-story-1",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "Mosque of Sulayman Pasha al-Khadim belongs to Early Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of Cairo Citadel. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "ينتمي جامع سليمان باشا الخادم إلى بدايات العصر العثماني في القاهرة، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة قلعة القاهرة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-story-2",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "The monument rewards a slow visual reading of central dome, half-domes, pencil minaret, arcade and comparison with al-Nasir Muhammad. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة المركزية وأنصاف القباب والمئذنة القلمية والرواق والمقارنة بجامع الناصر محمد. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-story-3",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-date",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "Funerary Complex of Sultan Qaytbay is dated to 1472–1474 CE.",
+      "claimTextAr": "يؤرخ مجموعة السلطان الأشرف قايتباي إلى 1472–1474 م.",
+      "sourceIds": [
+        "src-qaytbay-mota",
+        "src-qaytbay-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-period",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "The monument belongs primarily to Burji Mamluk Cairo.",
+      "claimTextAr": "ينتمي الأثر أساسًا إلى القاهرة المملوكية البرجية.",
+      "sourceIds": [
+        "src-qaytbay-mota",
+        "src-qaytbay-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-patron",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "patron",
+      "claimTextEn": "The recorded patron is Sultan al-Ashraf Qaytbay.",
+      "claimTextAr": "الراعي المسجل هو السلطان الأشرف قايتباي.",
+      "sourceIds": [
+        "src-qaytbay-mota",
+        "src-qaytbay-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-function",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "Its original function was royal funerary and charitable foundation.",
+      "claimTextAr": "كانت وظيفته الأصلية منشأة سلطانية جنائزية وخيرية.",
+      "sourceIds": [
+        "src-qaytbay-mota",
+        "src-qaytbay-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-clarification",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The surrounding cemetery is an inhabited and sensitive cultural landscape.",
+      "claimTextAr": "الجبانة المحيطة مشهد ثقافي مأهول وحساس.",
+      "sourceIds": [
+        "src-qaytbay-mota",
+        "src-qaytbay-archnet"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-location",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "The record locates the monument in Northern Cemetery with exact coordinate precision.",
+      "claimTextAr": "يضع السجل الأثر في منطقة صحراء المماليك، مع دقة مكانية مصنفة بوصفها دقيقة.",
+      "sourceIds": [
+        "src-qaytbay-mota",
+        "src-qaytbay-archnet"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-story-1",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": "story-sultan-qaytbay-funerary-complex",
+      "claimType": "story-chapter",
+      "claimTextEn": "Funerary Complex of Sultan Qaytbay belongs to Burji Mamluk Cairo, but its significance becomes clearer when placed within the political and urban history of Northern Cemetery. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "claimTextAr": "ينتمي مجموعة السلطان الأشرف قايتباي إلى القاهرة المملوكية البرجية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة صحراء المماليك. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "sourceIds": [
+        "src-qaytbay-mota",
+        "src-qaytbay-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-story-2",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": "story-sultan-qaytbay-funerary-complex",
+      "claimType": "story-chapter",
+      "claimTextEn": "The monument rewards a slow visual reading of carved stone dome, minaret, mosque-madrasa, sabil, residential rab and cemetery landscape. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "claimTextAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة الحجرية المنحوتة والمئذنة والمسجد والمدرسة والسبيل والربع السكني ومشهد الجبانة. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "sourceIds": [
+        "src-qaytbay-mota",
+        "src-qaytbay-archnet"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-story-3",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": "story-sultan-qaytbay-funerary-complex",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "claimTextAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "sourceIds": [
+        "src-qaytbay-mota",
+        "src-qaytbay-archnet"
+      ],
+      "certainty": "supported"
+    }
+  ]
+}

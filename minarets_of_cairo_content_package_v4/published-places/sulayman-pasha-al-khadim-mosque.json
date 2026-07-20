@@ -1,0 +1,82 @@
+{
+  "slug": "sulayman-pasha-al-khadim-mosque",
+  "nameEn": "Mosque of Sulayman Pasha al-Khadim",
+  "nameAr": "جامع سليمان باشا الخادم",
+  "alternateNames": [
+    "Sariyat al-Jabal Mosque",
+    "مسجد سارية الجبل"
+  ],
+  "historicalPeriod": "Early Ottoman Cairo",
+  "dynasty": "Ottoman",
+  "district": "Cairo Citadel",
+  "placeType": "mosque",
+  "foundedYearOrRange": "1528 CE",
+  "dateCertainty": "certain",
+  "dateDisplayEn": "1528 CE",
+  "dateDisplayAr": "1528م",
+  "patronEn": "Sulayman Pasha al-Khadim",
+  "patronAr": "سليمان باشا الخادم",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "mosque for the Citadel community",
+  "originalFunctionAr": "مسجد لمجتمع القلعة",
+  "currentFunctionEn": "active mosque and historic monument",
+  "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+  "historicalBriefEn": "Built inside the Citadel in 1528, the mosque is an early expression of Ottoman architectural language in Cairo. Its central dome, arcades, pencil minaret, and painted or tiled surfaces contrast with nearby Mamluk forms and make a direct comparison with al-Nasir Muhammad possible. The forecourt and associated shrine of Sidi Sariya add local devotional history to the imported Ottoman courtly vocabulary. This mixture is important: the mosque demonstrates political change after 1517, but it was built within an Egyptian fortress using local labor, materials, and inherited sacred associations. Its meaning emerges from both connection and contrast.",
+  "historicalBriefAr": "شُيد الجامع داخل القلعة سنة 1528م، وهو تعبير مبكر عن اللغة المعمارية العثمانية في القاهرة. وتختلف قبته المركزية وأروقته ومئذنته القلمية وأسطحه المصورة أو المكسوة عن الأشكال المملوكية القريبة، مما يتيح مقارنته مباشرة بجامع الناصر محمد. ويضيف الفناء الأمامي والمشهد المرتبط بسيدي سارية تاريخًا دينيًا محليًا إلى المفردات العثمانية ذات الطابع الرسمي. وهذا المزج مهم؛ فالجامع يعبر عن تغير سياسي بعد 1517م، لكنه شُيد داخل قلعة مصرية بعمالة ومواد وارتباطات دينية موروثة. وينشأ معناه من الاتصال والتباين معًا.",
+  "clarificationNoteEn": "It is distinct from the nineteenth-century Mosque of Muhammad Ali.",
+  "clarificationNoteAr": "يختلف عن مسجد محمد علي الذي يعود إلى القرن التاسع عشر.",
+  "keyDates": [
+    {
+      "year": 1528,
+      "labelEn": "Principal documented phase",
+      "labelAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "nameEn": "Original or principal construction",
+      "nameAr": "الإنشاء الأصلي أو الرئيسي",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Original or principal construction",
+      "descAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "nameEn": "Later repairs, additions, or conservation",
+      "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Later repairs, additions, or conservation",
+      "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.031104,
+  "longitude": 31.264357,
+  "locationPrecision": "exact",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "priorityVisualStoryEn": "Arcades, central dome, pencil minaret, and comparison with the Mamluk Citadel mosque.",
+  "priorityVisualStoryAr": "الأروقة والقبة المركزية والمئذنة القلمية والمقارنة مع جامع القلعة المملوكي.",
+  "sourceIds": [
+    "src-sulayman-pasha-archnet",
+    "src-sulayman-pasha-plan"
+  ],
+  "claimIds": [
+    "claim-sulayman-pasha-al-khadim-mosque-date",
+    "claim-sulayman-pasha-al-khadim-mosque-period",
+    "claim-sulayman-pasha-al-khadim-mosque-patron",
+    "claim-sulayman-pasha-al-khadim-mosque-function",
+    "claim-sulayman-pasha-al-khadim-mosque-clarification",
+    "claim-sulayman-pasha-al-khadim-mosque-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+  "photographyAllowed": "unknown",
+  "activeWorship": true,
+  "funerarySensitive": false,
+  "ticketed": null,
+  "recommendedDurationMin": 30,
+  "recommendedDurationMax": 50
+}

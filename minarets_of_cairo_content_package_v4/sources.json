@@ -1,0 +1,294 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "sourceId": "unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "author": "UNESCO World Heritage Centre",
+      "publisher": "UNESCO",
+      "year": 1979,
+      "url": "https://whc.unesco.org/en/list/89/",
+      "sourceType": "institution"
+    },
+    {
+      "sourceId": "src-gayer-mota",
+      "title": "Gayer Anderson Museum",
+      "author": "Ministry of Tourism and Antiquities",
+      "publisher": "Government of Egypt",
+      "year": null,
+      "url": "https://egymonuments.gov.eg/en/museums/gayer-anderson-museum",
+      "sourceType": "museum"
+    },
+    {
+      "sourceId": "src-gayer-archnet",
+      "title": "Bayt al-Kritliyya Restoration",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/6210",
+      "sourceType": "conservation"
+    },
+    {
+      "sourceId": "src-qaytbay-mota",
+      "title": "The complex of Sultan Qayitbay in the Mamluk Cemetery",
+      "author": "Ministry of Tourism and Antiquities",
+      "publisher": "Government of Egypt",
+      "year": null,
+      "url": "https://egymonuments.gov.eg/en/monuments/the-complex-of-sultan-qayitbay-in-the-mamluk-cemetery",
+      "sourceType": "government"
+    },
+    {
+      "sourceId": "src-qaytbay-archnet",
+      "title": "Masjid al-Sultan al-Ashraf Qaytbay",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/2234",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-aqsunqur-wmf",
+      "title": "Jama’a al-Aqsunqur, Blue Mosque",
+      "author": "World Monuments Fund",
+      "publisher": "World Monuments Fund",
+      "year": null,
+      "url": "https://www.wmf.org/monuments/jamaa-al-aqsunqur-blue-mosque",
+      "sourceType": "conservation"
+    },
+    {
+      "sourceId": "src-aqsunqur-archnet",
+      "title": "Amir Aqsunqur Funerary Complex",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/2302",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-razzaz-archnet",
+      "title": "Manzil Ahmad Katkhuda al-Razzaz",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/2192",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-razzaz-behrens",
+      "title": "Domestic Architecture in Cairo",
+      "author": "Doris Behrens-Abouseif",
+      "publisher": "E. J. Brill / Archnet record",
+      "year": 1989,
+      "url": "https://www.archnet.org/publications/3149",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-sulayman-pasha-archnet",
+      "title": "Masjid Suleyman Pasha",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/1548",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-sulayman-pasha-plan",
+      "title": "Floor plan of Suleyman Pasha Mosque at the Cairo Citadel",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/publications/1442",
+      "sourceType": "archive"
+    },
+    {
+      "sourceId": "src-sinan-archnet",
+      "title": "Masjid Sinan Basha",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/1546",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-sinan-swelim",
+      "title": "An Interpretation of the Mosque of Sinan Pasha in Cairo",
+      "author": "Tarek Swelim",
+      "publisher": "Archnet bibliographic record",
+      "year": null,
+      "url": "https://www.archnet.org/authorities/8763",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-shafii-mulder",
+      "title": "The Mausoleum of Imam al-Shafi’i",
+      "author": "Stephennie Mulder",
+      "publisher": "Muqarnas / Archnet",
+      "year": 2006,
+      "url": "https://www.archnet.org/publications/6743",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-shafii-archnet",
+      "title": "Mausoleum of Imam al-Shafi’i site record",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/1527",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-shajarat-archnet",
+      "title": "Darih Shajara al-Durr",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/1544",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-shajarat-patronage",
+      "title": "The Architectural Patronage of Shajar al-Durr",
+      "author": "D. Fairchild Ruggles",
+      "publisher": "Archnet bibliographic record",
+      "year": null,
+      "url": "https://www.archnet.org/publications/14154",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-nafisa-archnet",
+      "title": "Sabil Nafisa al-Bayda",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/2436",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-nafisa-women",
+      "title": "Women in Islamic architecture: towards acknowledging their role",
+      "author": "Archnet publication record",
+      "publisher": "Archnet",
+      "year": null,
+      "url": "https://www.archnet.org/publications/15561",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-silahdar-archnet",
+      "title": "Sulayman Agha al-Silahdar Mosque and Sabil-Kuttab",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/1547",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "src-silahdar-ottoman",
+      "title": "Architecture of the Ottoman Period",
+      "author": "Doris Behrens-Abouseif",
+      "publisher": "Archnet bibliographic record",
+      "year": 1989,
+      "url": "https://www.archnet.org/publications/3155",
+      "sourceType": "academic"
+    },
+    {
+      "sourceId": "media-gayer-anderson-museum",
+      "title": "Central Courtyard of the Gayer-Anderson Museum.jpg",
+      "author": "Peter Astbury",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+      "sourceType": "archive",
+      "mediaOnly": true
+    },
+    {
+      "sourceId": "media-sultan-qaytbay-funerary-complex",
+      "title": "Sultan Al-Ashraf Qaytbay Mosque and Mausoleum.jpg",
+      "author": "Michal Huniewicz",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Sultan_Al-Ashraf_Qaytbay_Mosque_and_Mausoleum.jpg",
+      "sourceType": "archive",
+      "mediaOnly": true
+    },
+    {
+      "sourceId": "media-aqsunqur-blue-mosque",
+      "title": "Blue-mosque-bradybd.JPG",
+      "author": "Brady Brim-DeForest",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Blue-mosque-bradybd.JPG",
+      "sourceType": "archive",
+      "mediaOnly": true
+    },
+    {
+      "sourceId": "media-bayt-al-razzaz",
+      "title": "Bayt al-Razzaz courtyard2.jpg",
+      "author": "Robert Prazeres",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Bayt_al-Razzaz_courtyard2.jpg",
+      "sourceType": "archive",
+      "mediaOnly": true
+    },
+    {
+      "sourceId": "media-sulayman-pasha-al-khadim-mosque",
+      "title": "Sulayman Pasha al-Khadem Mosque (26065).jpg",
+      "author": "Amr F. Nagy",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Sulayman_Pasha_al-Khadem_Mosque_(26065).jpg",
+      "sourceType": "archive",
+      "mediaOnly": true
+    },
+    {
+      "sourceId": "media-sinan-pasha-mosque-bulaq",
+      "title": "Sinan Pasha Mosque Cairo 17 from north.jpg",
+      "author": "Marsupium",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+      "sourceType": "archive",
+      "mediaOnly": true
+    },
+    {
+      "sourceId": "media-mausoleum-imam-al-shafii",
+      "title": "Imam Shafii Tomb.jpg",
+      "author": "Imam Khairul Annas",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Imam_Shafii_Tomb.jpg",
+      "sourceType": "archive",
+      "mediaOnly": true
+    },
+    {
+      "sourceId": "media-mausoleum-shajarat-al-durr",
+      "title": "Mausoleum of Shajar al-Durr DSCF2771.jpg",
+      "author": "R Prazeres",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+      "sourceType": "archive",
+      "mediaOnly": true
+    },
+    {
+      "sourceId": "media-sabil-kuttab-nafisa-al-bayda",
+      "title": "Nafisa Al Bayda Sabil 01.jpg",
+      "author": "Peter Astbury",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Nafisa_Al_Bayda_Sabil_01.jpg",
+      "sourceType": "archive",
+      "mediaOnly": true
+    },
+    {
+      "sourceId": "media-mosque-sabil-sulayman-agha-al-silahdar",
+      "title": "Mosque-Sabil of Sulayman Agha al-Silahdar.jpg",
+      "author": "Mohammed Moussa",
+      "publisher": "Wikimedia Commons",
+      "year": null,
+      "url": "https://commons.wikimedia.org/wiki/File:Mosque-Sabil_of_Sulayman_Agha_al-Silahdar.jpg",
+      "sourceType": "archive",
+      "mediaOnly": true
+    }
+  ]
+}

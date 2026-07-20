@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "excavated-houses-fustat",
+  "nameEn": "Excavated Houses of Fustat",
+  "nameAr": "منازل الفسطاط المكتشفة",
+  "alternateNames": [],
+  "candidateType": "domestic archaeology",
+  "historicalPeriod": "Abbasid–Fatimid",
+  "dynasty": "Abbasid/Fatimid",
+  "district": "Fustat",
+  "whyCandidateMatters": "Excavated Houses of Fustat would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Abbasid–Fatimid layer in Fustat through a domestic archaeology rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=excavated+houses+fustat+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "high priority",
+  "status": "research-only"
+}

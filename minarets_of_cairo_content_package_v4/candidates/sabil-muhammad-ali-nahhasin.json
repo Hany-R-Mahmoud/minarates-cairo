@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "sabil-muhammad-ali-nahhasin",
+  "nameEn": "Sabil-Kuttab of Muhammad Ali at al-Nahhasin",
+  "nameAr": "سبيل وكتاب محمد علي بالنحاسين",
+  "alternateNames": [],
+  "candidateType": "sabil-kuttab",
+  "historicalPeriod": "Muhammad Ali period",
+  "dynasty": "Muhammad Ali dynasty",
+  "district": "Al-Muizz",
+  "whyCandidateMatters": "Sabil-Kuttab of Muhammad Ali at al-Nahhasin would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Muhammad Ali period layer in Al-Muizz through a sabil-kuttab rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=sabil+muhammad+ali+nahhasin+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "medium priority",
+  "status": "research-only"
+}

@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "historic-crafts-darb-al-ahmar",
+  "nameEn": "Historic Crafts of Darb al-Ahmar",
+  "nameAr": "الحرف التاريخية بالدرب الأحمر",
+  "alternateNames": [],
+  "candidateType": "living heritage",
+  "historicalPeriod": "Mamluk–modern",
+  "dynasty": null,
+  "district": "Darb al-Ahmar",
+  "whyCandidateMatters": "Historic Crafts of Darb al-Ahmar would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Mamluk–modern layer in Darb al-Ahmar through a living heritage rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=historic+crafts+darb+al+ahmar+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "low priority",
+  "status": "research-only"
+}

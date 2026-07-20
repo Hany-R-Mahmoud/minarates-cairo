@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "mosque-al-lulua",
+  "nameEn": "Mosque of al-Lu’lu’a",
+  "nameAr": "جامع اللؤلؤة",
+  "alternateNames": [],
+  "candidateType": "mosque/shrine",
+  "historicalPeriod": "Fatimid",
+  "dynasty": "Fatimid",
+  "district": "Moqattam",
+  "whyCandidateMatters": "Mosque of al-Lu’lu’a would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Fatimid layer in Moqattam through a mosque/shrine rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mosque+al+lulua+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "low priority",
+  "status": "research-only"
+}

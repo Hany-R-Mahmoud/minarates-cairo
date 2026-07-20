@@ -1,0 +1,82 @@
+{
+  "slug": "sultan-qaytbay-funerary-complex",
+  "nameEn": "Funerary Complex of Sultan Qaytbay",
+  "nameAr": "مجموعة السلطان الأشرف قايتباي",
+  "alternateNames": [
+    "Qaytbay Complex",
+    "مجموعة قايتباي"
+  ],
+  "historicalPeriod": "Burji Mamluk Cairo",
+  "dynasty": "Burji Mamluk",
+  "district": "Northern Cemetery",
+  "placeType": "funerary, religious, educational and charitable complex",
+  "foundedYearOrRange": "1472–1474 CE",
+  "dateCertainty": "certain",
+  "dateDisplayEn": "1472–1474 CE",
+  "dateDisplayAr": "1472–1474م",
+  "patronEn": "Sultan al-Ashraf Qaytbay",
+  "patronAr": "السلطان الأشرف قايتباي",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "royal funerary and charitable foundation",
+  "originalFunctionAr": "منشأة سلطانية جنائزية وخيرية",
+  "currentFunctionEn": "historic monument in a living cemetery district",
+  "currentFunctionAr": "أثر تاريخي في منطقة جبانات حية",
+  "historicalBriefEn": "Qaytbay’s foundation joined a mosque-madrasa and royal mausoleum with charitable and residential components. Its carved stone dome, minaret, striped masonry, colored glass, and compact interior represent late Mamluk craftsmanship. The place must be read within the living Qarafa rather than as an isolated monument. The foundation also included supporting structures beyond the celebrated mosque and mausoleum, among them residential and charitable components that helped sustain the endowment. This wider institutional landscape explains why the complex should be studied as a small urban foundation. Modern interpretation must acknowledge both conservation achievements and the rights and daily life of cemetery residents.",
+  "historicalBriefAr": "جمعت منشأة قايتباي بين المسجد والمدرسة والضريح السلطاني وعناصر خيرية وسكنية. وتمثل القبة الحجرية المنحوتة والمئذنة والبناء المخطط والزجاج الملون والداخل المدمج حرفية أواخر العصر المملوكي. ويجب قراءة الموقع ضمن القرافة الحية لا كأثر معزول. وضمت المنشأة مباني مساندة تتجاوز المسجد والضريح الشهيرين، منها عناصر سكنية وخيرية ساعدت على استمرار الوقف. ويشرح هذا المشهد المؤسسي الأوسع ضرورة دراسة المجموعة بوصفها منشأة عمرانية صغيرة. كما يجب أن يعترف التفسير الحديث بإنجازات الترميم وبحقوق سكان الجبانة وحياتهم اليومية.",
+  "clarificationNoteEn": "The surrounding cemetery is an inhabited and sensitive cultural landscape.",
+  "clarificationNoteAr": "الجبانة المحيطة مشهد ثقافي مأهول وحساس.",
+  "keyDates": [
+    {
+      "year": 1472,
+      "labelEn": "Principal documented phase",
+      "labelAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "nameEn": "Original or principal construction",
+      "nameAr": "الإنشاء الأصلي أو الرئيسي",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Original or principal construction",
+      "descAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "nameEn": "Later repairs, additions, or conservation",
+      "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Later repairs, additions, or conservation",
+      "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.0446,
+  "longitude": 31.2765,
+  "locationPrecision": "exact",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "priorityVisualStoryEn": "Carved dome, minaret, interior glass, and relationship to the Northern Cemetery skyline.",
+  "priorityVisualStoryAr": "القبة المنحوتة والمئذنة والزجاج الداخلي وعلاقة المجموعة بأفق صحراء المماليك.",
+  "sourceIds": [
+    "src-qaytbay-mota",
+    "src-qaytbay-archnet"
+  ],
+  "claimIds": [
+    "claim-sultan-qaytbay-funerary-complex-date",
+    "claim-sultan-qaytbay-funerary-complex-period",
+    "claim-sultan-qaytbay-funerary-complex-patron",
+    "claim-sultan-qaytbay-funerary-complex-function",
+    "claim-sultan-qaytbay-funerary-complex-clarification",
+    "claim-sultan-qaytbay-funerary-complex-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+  "photographyAllowed": "unknown",
+  "activeWorship": false,
+  "funerarySensitive": true,
+  "ticketed": null,
+  "recommendedDurationMin": 45,
+  "recommendedDurationMax": 75
+}

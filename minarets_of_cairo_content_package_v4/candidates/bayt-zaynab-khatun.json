@@ -1,0 +1,29 @@
+{
+  "candidateSlug": "bayt-zaynab-khatun",
+  "nameEn": "Bayt Zaynab Khatun",
+  "nameAr": "بيت زينب خاتون",
+  "alternateNames": [],
+  "candidateType": "historic house",
+  "historicalPeriod": "Mamluk–Ottoman",
+  "dynasty": "Mamluk/Ottoman",
+  "district": "Al-Azhar",
+  "whyCandidateMatters": "Bayt Zaynab Khatun would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Mamluk–Ottoman layer in Al-Azhar through a historic house rather than duplicating an existing published monument.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only; monument-specific verification incomplete",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover",
+    "Confirm a direct monument-specific institutional or academic source.",
+    "Validate current identity, coordinates, and survival condition.",
+    "Verify a reusable documentary image and its exact license."
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=bayt+zaynab+khatun+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "high priority",
+  "status": "research-only"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "bayt-al-razzaz",
+  "nameEn": "Bayt al-Razzaz",
+  "nameAr": "بيت الرزاز",
+  "alternateNames": [
+    "House of al-Razzaz"
+  ],
+  "historicalPeriod": "Mamluk and Ottoman Cairo",
+  "dynasty": "Burji Mamluk / Ottoman",
+  "district": "Darb al-Ahmar",
+  "placeType": "historic domestic complex",
+  "foundedYearOrRange": "15th–18th centuries",
+  "dateCertainty": "approximate",
+  "dateDisplayEn": "15th–18th centuries",
+  "dateDisplayAr": "من القرن الخامس عشر إلى القرن الثامن عشر",
+  "patronEn": "Multiple owners; later associated with Ahmad Katkhuda al-Razzaz",
+  "patronAr": "مالكون متعددون؛ وارتبط لاحقًا بأحمد كتخدا الرزاز",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "elite urban residences joined over time",
+  "originalFunctionAr": "مساكن حضرية للنخبة اتصلت عبر الزمن",
+  "currentFunctionEn": "historic monument and conservation site",
+  "currentFunctionAr": "أثر تاريخي وموقع ترميم",
+  "historicalBriefEn": "Bayt al-Razzaz is a large domestic ensemble created by joining and expanding houses over several centuries. Courtyards, reception halls, service zones, ceilings, and mashrabiyas preserve Mamluk and Ottoman layers and show how elite households grew inside dense streets. The ensemble’s scale also makes it a record of household labor and maintenance, not only elite reception. Kitchens, storerooms, passages, and service courts belong beside the decorated halls in any balanced interpretation. Conservation has had to address structural movement, timber, plaster, and the relationship between the house and its densely occupied neighborhood.",
+  "historicalBriefAr": "بيت الرزاز مجموعة منزلية كبيرة تكونت بضم بيوت وتوسيعها عبر قرون. وتحفظ الأفنية وقاعات الاستقبال ومساحات الخدمة والأسقف والمشربيات طبقات مملوكية وعثمانية وتوضح نمو بيوت النخبة داخل الشوارع الكثيفة. كما يجعل حجم المجموعة منها سجلًا لعمل الأسرة وصيانة البيت، لا مجرد فضاء لاستقبال النخبة. فالمطابخ والمخازن والممرات وأفنية الخدمة يجب أن تظهر إلى جانب القاعات المزخرفة في أي تفسير متوازن. وقد تعامل الترميم مع حركة المبنى والأخشاب والبياض وعلاقة البيت بحيه الكثيف.",
+  "clarificationNoteEn": "A single patron or date cannot describe the entire complex.",
+  "clarificationNoteAr": "لا يمكن وصف المجموعة كلها براعي واحد أو تاريخ واحد.",
+  "keyDates": [
+    {
+      "year": null,
+      "labelEn": "Principal documented phase",
+      "labelAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "nameEn": "Original or principal construction",
+      "nameAr": "الإنشاء الأصلي أو الرئيسي",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Original or principal construction",
+      "descAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "nameEn": "Later repairs, additions, or conservation",
+      "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+      "startYear": null,
+      "endYear": null,
+      "descEn": "Later repairs, additions, or conservation",
+      "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.0349,
+  "longitude": 31.2589,
+  "locationPrecision": "approximate",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "priorityVisualStoryEn": "Connected courtyards, mashrabiyas, ceilings, and a phased-growth diagram.",
+  "priorityVisualStoryAr": "الأفنية المتصلة والمشربيات والأسقف ورسم يوضح مراحل النمو.",
+  "sourceIds": [
+    "src-razzaz-archnet",
+    "src-razzaz-behrens"
+  ],
+  "claimIds": [
+    "claim-bayt-al-razzaz-date",
+    "claim-bayt-al-razzaz-period",
+    "claim-bayt-al-razzaz-patron",
+    "claim-bayt-al-razzaz-function",
+    "claim-bayt-al-razzaz-clarification",
+    "claim-bayt-al-razzaz-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+  "photographyAllowed": "unknown",
+  "activeWorship": false,
+  "funerarySensitive": false,
+  "ticketed": null,
+  "recommendedDurationMin": 45,
+  "recommendedDurationMax": 75
+}
