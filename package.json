@@ -15,6 +15,7 @@
     "db:migrate": "drizzle-kit migrate",
     "db:seed": "tsx server/seed.ts",
     "db:seed:expansion": "node server/expand-seed.mjs",
+    "db:canonicalize:places": "node server/canonicalize-place-slugs.mjs",
     "db:import:content": "node server/import-content-package.mjs",
     "media:manifest": "node server/export-media-manifest.mjs",
     "media:check": "node server/check-media-manifest.mjs",

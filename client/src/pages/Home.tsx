@@ -2,7 +2,7 @@ import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
 import { Link } from "wouter";
 import { ArrowRight, ArrowLeft, Map, Compass, BarChart2, Zap, BookMarked, BookOpen, ChevronRight, ImageOff } from "lucide-react";
-import { buildImageKitSrcSet, buildImageKitUrl } from "@shared/media";
+import { buildImageKitSrcSet, buildImageKitUrl, isImageKitUrl } from "@shared/media";
 import type { Place } from "@shared/types";
 
 const ERA_COLORS: Record<string, string> = {
@@ -20,13 +20,15 @@ const ERA_COLORS: Record<string, string> = {
 };
 
 const ENTRY_POINTS = [
-  { href: "/monuments", icon: <BookOpen size={28} />, labelEn: "Monuments", labelAr: "المعالم", descEn: "48+ published places", descAr: "٤٨+ موقعاً منشوراً" },
+  { href: "/monuments", icon: <BookOpen size={28} />, labelEn: "Monuments", labelAr: "المعالم", descEn: "Curated heritage places", descAr: "معالم تراثية منتقاة" },
   { href: "/map", icon: <Map size={28} />, labelEn: "Interactive Map", labelAr: "الخريطة التفاعلية", descEn: "Explore by location", descAr: "استكشف حسب الموقع" },
   { href: "/walks", icon: <Compass size={28} />, labelEn: "District Walks", labelAr: "جولات الأحياء", descEn: "18 curated routes", descAr: "١٨ مسار منسق" },
   { href: "/compare", icon: <BarChart2 size={28} />, labelEn: "Compare Eras", labelAr: "مقارنة الحقب", descEn: "Side-by-side analysis", descAr: "تحليل جنباً إلى جنب" },
   { href: "/detective", icon: <Zap size={28} />, labelEn: "Play Detective", labelAr: "العب المحقق", descEn: "Visual learning activities", descAr: "أنشطة تعلم بصري" },
   { href: "/stories", icon: <BookMarked size={28} />, labelEn: "Visual Stories", labelAr: "القصص البصرية", descEn: "Deep architectural dives", descAr: "تعمق معماري" },
 ];
+
+const HERO_IMAGE_URL = "https://ik.imagekit.io/hrim/images/minarates/mosque-al-azhar/mosque-al-azhar-cover-courtyard-minarets.jpg";
 
 export default function Home() {
   const { lang, isRTL, t } = useLang();
@@ -40,6 +42,7 @@ export default function Home() {
     lang === "ar" ? (place.coverImageAltAr ?? place.coverImageAlt) : place.coverImageAlt;
   const hasVerifiedPlaceImage = (place: Place) => Boolean(
     place.coverImageUrl &&
+    isImageKitUrl(place.coverImageUrl) &&
     getPlaceImageAlt(place) &&
     place.coverImageAttribution &&
     place.coverImageLicense,
@@ -49,6 +52,16 @@ export default function Home() {
     <div className="page-enter" dir={isRTL ? "rtl" : "ltr"}>
       {/* ── Cinematic Hero ── */}
       <section className="relative min-h-screen bg-[var(--color-stone-950)] flex flex-col justify-end overflow-hidden">
+        <img
+          src={buildImageKitUrl(HERO_IMAGE_URL, 1600)}
+          srcSet={buildImageKitSrcSet(HERO_IMAGE_URL)}
+          sizes="100vw"
+          alt=""
+          aria-hidden="true"
+          fetchPriority="high"
+          decoding="async"
+          className="absolute inset-0 h-full w-full object-cover object-center opacity-70"
+        />
         {/* Cinematic tonal field */}
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_70%_20%,oklch(32%_0.04_42_/_0.45),transparent_55%)]" />
         {/* Gradient overlay */}
@@ -153,7 +166,9 @@ export default function Home() {
                     {lang === "ar" ? ep.labelAr : ep.labelEn}
                   </h3>
                   <p className={`text-sm text-[var(--color-stone-500)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
-                    {lang === "ar" ? ep.descAr : ep.descEn}
+                    {ep.href === "/monuments" && placesData?.total
+                      ? t(`${placesData.total} published places`, `${placesData.total} موقعاً منشوراً`)
+                      : (lang === "ar" ? ep.descAr : ep.descEn)}
                   </p>
                   <div className={`flex items-center gap-1 mt-4 text-[var(--color-terracotta-600)] text-sm font-medium ${isRTL ? "flex-row-reverse" : ""}`}>
                     <span>{t("Explore", "استكشف")}</span>

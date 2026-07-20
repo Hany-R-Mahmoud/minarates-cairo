@@ -15,6 +15,22 @@ import { TRPCError } from "@trpc/server";
 
 // ─── Heritage Routers ──────────────────────────────────────────────────────────
 
+const PLACE_SLUG_ALIASES: Record<string, string> = {
+  "al-aqmar-mosque": "mosque-al-aqmar",
+  "al-azhar-mosque": "mosque-al-azhar",
+  "al-hussein-mosque": "mosque-al-hussein",
+  "al-rifai-mosque": "mosque-al-rifai",
+  "cairo-citadel": "citadel-of-cairo",
+  "faraj-ibn-barquq-khanqah": "complex-barquq-muizz",
+  "sultan-hasan-mosque": "complex-sultan-hasan",
+  "muhammad-ali-mosque": "mosque-muhammad-ali-citadel",
+  "museum-islamic-art": "museum-of-islamic-art",
+  "qalawun-complex": "complex-qalawun",
+  "sabil-abd-al-rahman-katkhuda": "sabil-kuttab-abd-al-rahman-katkhuda",
+};
+
+const canonicalPlaceSlug = (slug: string) => PLACE_SLUG_ALIASES[slug] ?? slug;
+
 const periodsRouter = router({
   list: publicProcedure.query(async () => {
     const db = await getDb();
@@ -73,7 +89,7 @@ const placesRouter = router({
     const db = await getDb();
     if (!db) return null;
     const result = await db.select().from(places)
-      .where(and(eq(places.slug, input.slug), eq(places.status, "published")))
+      .where(and(eq(places.slug, canonicalPlaceSlug(input.slug)), eq(places.status, "published")))
       .limit(1);
     return result[0] ?? null;
   }),
@@ -91,7 +107,7 @@ const placesRouter = router({
     const db = await getDb();
     if (!db) return null;
     const placeResult = await db.select().from(places)
-      .where(and(eq(places.slug, input.slug), eq(places.status, "published")))
+      .where(and(eq(places.slug, canonicalPlaceSlug(input.slug)), eq(places.status, "published")))
       .limit(1);
     const place = placeResult[0];
     if (!place) return null;

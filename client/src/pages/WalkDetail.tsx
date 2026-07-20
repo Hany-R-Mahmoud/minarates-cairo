@@ -15,7 +15,7 @@ export default function WalkDetail() {
   const { lang, isRTL, t } = useLang();
   const BackIcon = isRTL ? ArrowRight : ArrowLeft;
 
-  const { data: walk, isLoading } = trpc.walks.bySlug.useQuery({ slug: slug ?? "" }, { enabled: !!slug });
+  const { data: walk, isLoading, isError, refetch } = trpc.walks.bySlug.useQuery({ slug: slug ?? "" }, { enabled: !!slug });
 
   if (isLoading) {
     return (
@@ -24,6 +24,20 @@ export default function WalkDetail() {
           <div className="skeleton h-8 w-32 rounded" />
           <div className="skeleton h-12 w-3/4 rounded" />
           <div className="skeleton h-48 rounded" />
+        </div>
+      </div>
+    );
+  }
+
+  if (isError) {
+    return (
+      <div className="min-h-screen bg-[var(--color-background)] flex items-center justify-center">
+        <div className="text-center">
+          <p className="text-[var(--color-stone-500)] mb-4">{t("This walk could not be loaded.", "تعذر تحميل هذه الجولة.")}</p>
+          <div className="flex justify-center gap-2">
+            <Button variant="outline" onClick={() => refetch()}>{t("Try again", "حاول مرة أخرى")}</Button>
+            <Link href="/walks"><Button variant="outline">{t("Back to Walks", "العودة إلى الجولات")}</Button></Link>
+          </div>
         </div>
       </div>
     );
@@ -44,7 +58,7 @@ export default function WalkDetail() {
   const description = lang === "ar" ? walk.descriptionAr : walk.descriptionEn;
   const accessibilityNotes = lang === "ar" ? walk.accessibilityNotesAr : walk.accessibilityNotesEn;
   const staleNote = lang === "ar" ? walk.staleInfoNoteAr : walk.staleInfoNoteEn;
-  const stops = (walk.stops as Array<{ placeId: number; orderIndex: number; noteEn?: string; noteAr?: string; activeWorship?: boolean }> | null) ?? [];
+  const stops = (walk.stops as Array<{ placeSlug?: string; order?: number; placeId?: number; orderIndex?: number; noteEn?: string; noteAr?: string; activeWorship?: boolean }> | null) ?? [];
 
   const formatDuration = (minutes: number | null) => {
     if (!minutes) return null;
@@ -134,17 +148,25 @@ export default function WalkDetail() {
                 </h2>
                 <div className="space-y-3">
                   {stops.map((stop, i) => (
-                    <div key={i} className={`flex items-start gap-3 p-4 bg-[var(--color-parchment-100)] rounded-lg border border-[var(--color-border)] ${isRTL ? "flex-row-reverse" : ""}`}>
+                    <div key={`${stop.placeSlug ?? stop.placeId ?? "stop"}-${i}`} className={`flex items-start gap-3 p-4 bg-[var(--color-parchment-100)] rounded-lg border border-[var(--color-border)] ${isRTL ? "flex-row-reverse" : ""}`}>
                       <div className="w-7 h-7 rounded-full bg-[var(--color-terracotta-600)] text-white text-xs flex items-center justify-center shrink-0 font-semibold">
-                        {i + 1}
+                        {stop.order ?? stop.orderIndex ?? i + 1}
                       </div>
                       <div className="flex-1">
-                        <div className={`text-sm font-medium text-[var(--color-stone-700)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
-                          {t(`Stop ${i + 1}`, `المحطة ${i + 1}`)}
-                          {stop.activeWorship && (
-                            <span className="ml-2 text-xs text-[var(--color-teal-600)]">{t("Active worship", "عبادة نشطة")}</span>
-                          )}
-                        </div>
+                        {stop.placeSlug ? (
+                          <Link href={`/monuments/${stop.placeSlug}`}>
+                            <span className={`text-sm font-medium text-[var(--color-terracotta-600)] hover:underline cursor-pointer ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+                              {stop.placeSlug.replaceAll("-", " ")}
+                            </span>
+                          </Link>
+                        ) : (
+                          <div className={`text-sm font-medium text-[var(--color-stone-700)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                            {t(`Stop ${i + 1}`, `المحطة ${i + 1}`)}
+                          </div>
+                        )}
+                        {stop.activeWorship && (
+                          <span className="ml-2 text-xs text-[var(--color-teal-600)]">{t("Active worship", "عبادة نشطة")}</span>
+                        )}
                         {(lang === "ar" ? stop.noteAr : stop.noteEn) && (
                           <p className={`text-xs text-[var(--color-stone-500)] mt-1 ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
                             {lang === "ar" ? stop.noteAr : stop.noteEn}

@@ -6,6 +6,15 @@ function isImageKitHostname(hostname: string): boolean {
   return hostname === "ik.imagekit.io" || hostname.endsWith(".ik.imagekit.io");
 }
 
+export function isImageKitUrl(sourceUrl: string | null | undefined): sourceUrl is string {
+  if (!sourceUrl) return false;
+  try {
+    return isImageKitHostname(new URL(sourceUrl).hostname);
+  } catch {
+    return false;
+  }
+}
+
 export function buildImageKitUrl(sourceUrl: string, width: ImageKitWidth): string {
   let url: URL;
 

@@ -5,7 +5,7 @@ import { trpc } from "@/lib/trpc";
 import { Input } from "@/components/ui/input";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Search, Calendar, ChevronRight, ImageOff } from "lucide-react";
-import { buildImageKitSrcSet, buildImageKitUrl } from "@shared/media";
+import { buildImageKitSrcSet, buildImageKitUrl, isImageKitUrl } from "@shared/media";
 import type { Place } from "@shared/types";
 import PageIntro from "@/components/PageIntro";
 
@@ -34,6 +34,7 @@ export default function Monuments() {
     lang === "ar" ? (place.coverImageAltAr ?? place.coverImageAlt) : place.coverImageAlt;
   const hasVerifiedPlaceImage = (place: Place) => Boolean(
     place.coverImageUrl &&
+    isImageKitUrl(place.coverImageUrl) &&
     getPlaceImageAlt(place) &&
     place.coverImageAttribution &&
     place.coverImageLicense,
@@ -44,7 +45,9 @@ export default function Monuments() {
       <PageIntro
         variant="explore"
         title={t("Monuments of Islamic Cairo", "معالم القاهرة الإسلامية")}
-        description={t("48+ published places across a thousand years", "٤٨+ موقعاً منشوراً عبر ألف عام")}
+        description={placesData
+          ? t(`${placesData.total} published places across a thousand years`, `${placesData.total} موقعاً منشوراً عبر ألف عام`)
+          : t("Published places across a thousand years", "معالم منشورة عبر ألف عام")}
       />
 
       <div className="container py-8">

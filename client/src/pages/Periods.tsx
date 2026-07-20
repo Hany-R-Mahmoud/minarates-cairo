@@ -58,6 +58,9 @@ export default function Periods() {
                 <div key={period.id} className="monument-card overflow-hidden">
                   {/* Period header */}
                   <button
+                    id={`period-${period.id}-trigger`}
+                    aria-expanded={isOpen}
+                    aria-controls={`period-${period.id}-content`}
                     className={`w-full text-left p-5 flex items-center gap-4 hover:bg-[var(--color-parchment-200)]/50 transition-colors ${isRTL ? "flex-row-reverse text-right" : ""}`}
                     onClick={() => setExpanded(isOpen ? null : period.id)}
                   >
@@ -92,7 +95,7 @@ export default function Periods() {
 
                   {/* Expanded content */}
                   {isOpen && (
-                    <div className="border-t border-[var(--color-border)] px-5 pb-5 pt-4">
+                    <div id={`period-${period.id}-content`} role="region" aria-labelledby={`period-${period.id}-trigger`} className="border-t border-[var(--color-border)] px-5 pb-5 pt-4">
                       {(lang === "ar" ? period.descriptionAr : period.descriptionEn) && (
                         <p className={`text-sm text-[var(--color-stone-600)] mb-4 leading-relaxed ${lang === "ar" ? "font-[var(--font-arabic)] text-right" : ""}`}>
                           {lang === "ar" ? period.descriptionAr : period.descriptionEn}

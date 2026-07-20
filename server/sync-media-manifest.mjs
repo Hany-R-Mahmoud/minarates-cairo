@@ -33,10 +33,26 @@ const readyAssets = manifest.assets.filter((asset) =>
 );
 const skippedAssets = manifest.assets.length - readyAssets.length;
 
+const PLACE_SLUG_ALIASES = {
+  "al-aqmar-mosque": "mosque-al-aqmar",
+  "al-azhar-mosque": "mosque-al-azhar",
+  "al-hussein-mosque": "mosque-al-hussein",
+  "al-rifai-mosque": "mosque-al-rifai",
+  "cairo-citadel": "citadel-of-cairo",
+  "faraj-ibn-barquq-khanqah": "complex-barquq-muizz",
+  "sultan-hasan-mosque": "complex-sultan-hasan",
+  "muhammad-ali-mosque": "mosque-muhammad-ali-citadel",
+  "museum-islamic-art": "museum-of-islamic-art",
+  "qalawun-complex": "complex-qalawun",
+  "sabil-abd-al-rahman-katkhuda": "sabil-kuttab-abd-al-rahman-katkhuda",
+};
+
+const canonicalPlaceSlug = (slug) => PLACE_SLUG_ALIASES[slug] ?? slug;
+
 try {
   const placeRows = await sql`SELECT "id", "slug" FROM "places" WHERE "status" = 'published'`;
   const placeIdsBySlug = new Map(placeRows.map((place) => [place.slug, place.id]));
-  const unresolvedSlugs = [...new Set(readyAssets.map((asset) => asset.placeSlug))]
+  const unresolvedSlugs = [...new Set(readyAssets.map((asset) => canonicalPlaceSlug(asset.placeSlug)))]
     .filter((slug) => !placeIdsBySlug.has(slug));
   if (unresolvedSlugs.length > 0) {
     throw new Error(`Published place not found for slug(s): ${unresolvedSlugs.join(", ")}`);
@@ -44,6 +60,7 @@ try {
 
   await sql.begin(async (transaction) => {
     for (const asset of readyAssets) {
+      const placeSlug = canonicalPlaceSlug(asset.placeSlug);
       await transaction`
         INSERT INTO "mediaAssets" (
           "assetId", "placeId", "mediaType", "originalFilename", "cdnKey", "url",
@@ -52,7 +69,7 @@ try {
           "altEn", "altAr", "captionEn", "captionAr", "modifications",
           "visualType", "documentaryStatus", "approved", "updatedAt"
         ) VALUES (
-          ${asset.assetId}, ${placeIdsBySlug.get(asset.placeSlug)}, ${asset.mediaType ?? 'photo'},
+          ${asset.assetId}, ${placeIdsBySlug.get(placeSlug)}, ${asset.mediaType ?? 'photo'},
           ${asset.localFile ? path.basename(asset.localFile) : null}, ${asset.imageKitPath}, ${asset.cdnUrl},
           ${asset.width ?? null}, ${asset.height ?? null}, ${asset.mimeType ?? null}, ${asset.fileSizeBytes ?? null}, ${asset.checksum ?? null},
           ${asset.creator}, ${asset.sourcePage}, ${asset.license}, ${asset.licenseUrl}, ${asset.attribution},
@@ -85,7 +102,33 @@ try {
           "approved" = true,
           "updatedAt" = now()
       `;
+
+      if (asset.assetId.startsWith("cover-")) {
+        await transaction`
+          UPDATE "places"
+          SET "coverImageUrl" = ${asset.cdnUrl},
+              "coverImageAlt" = ${asset.altEn},
+              "coverImageAltAr" = ${asset.altAr},
+              "coverImageAttribution" = ${asset.attribution},
+              "coverImageLicense" = ${asset.license},
+              "updatedAt" = now()
+          WHERE "id" = ${placeIdsBySlug.get(placeSlug)}
+        `;
+      }
     }
+
+    await transaction`
+      UPDATE "places"
+      SET "coverImageUrl" = NULL,
+          "coverImageAlt" = NULL,
+          "coverImageAltAr" = NULL,
+          "coverImageAttribution" = NULL,
+          "coverImageLicense" = NULL,
+          "updatedAt" = now()
+      WHERE "status" = 'published'
+        AND "coverImageUrl" IS NOT NULL
+        AND "coverImageUrl" NOT LIKE 'https://ik.imagekit.io/%'
+    `;
   });
   console.log(`Synced ${readyAssets.length} approved media assets to Supabase; skipped ${skippedAssets} incomplete assets.`);
 } finally {
