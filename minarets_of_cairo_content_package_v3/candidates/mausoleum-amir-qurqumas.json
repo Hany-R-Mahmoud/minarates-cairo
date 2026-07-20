@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "mausoleum-amir-qurqumas",
+  "nameEn": "Mausoleum of Amir Qurqumas",
+  "nameAr": "قبة الأمير قرقماس",
+  "alternateNames": [],
+  "candidateType": "mausoleum complex",
+  "historicalPeriod": "Burji Mamluk",
+  "dynasty": "Burji Mamluk",
+  "district": "Northern Cemetery",
+  "whyCandidateMatters": "Mausoleum of Amir Qurqumas would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mausoleum+amir+qurqumas+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "low priority"
+}

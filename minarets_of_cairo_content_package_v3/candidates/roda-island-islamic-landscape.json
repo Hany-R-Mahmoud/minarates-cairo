@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "roda-island-islamic-landscape",
+  "nameEn": "Roda Island Islamic Landscape",
+  "nameAr": "المشهد الإسلامي لجزيرة الروضة",
+  "alternateNames": [],
+  "candidateType": "cultural landscape",
+  "historicalPeriod": "Abbasid–Ottoman",
+  "dynasty": null,
+  "district": "Roda Island",
+  "whyCandidateMatters": "Roda Island Islamic Landscape would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=roda+island+islamic+landscape+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "medium priority"
+}

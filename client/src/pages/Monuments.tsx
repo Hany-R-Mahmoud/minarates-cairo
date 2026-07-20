@@ -1,18 +1,13 @@
-import { useState, useMemo } from "react";
+import { useState } from "react";
 import { Link } from "wouter";
 import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
 import { Input } from "@/components/ui/input";
-import { Badge } from "@/components/ui/badge";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { Search, MapPin, Calendar, ChevronRight } from "lucide-react";
-
-const ERA_CLASS: Record<string, string> = {
-  tulunid: "era-tulunid", fatimid: "era-fatimid", ayyubid: "era-ayyubid",
-  mamluk: "era-mamluk", "bahri-mamluk": "era-mamluk", "burji-mamluk": "era-mamluk",
-  ottoman: "era-ottoman", "early-ottoman": "era-ottoman", "late-ottoman": "era-ottoman",
-  "muhammad-ali": "era-modern", modern: "era-modern",
-};
+import { Search, Calendar, ChevronRight, ImageOff } from "lucide-react";
+import { buildImageKitSrcSet, buildImageKitUrl } from "@shared/media";
+import type { Place } from "@shared/types";
+import PageIntro from "@/components/PageIntro";
 
 export default function Monuments() {
   const { lang, isRTL, t } = useLang();
@@ -35,35 +30,46 @@ export default function Monuments() {
   });
 
   const places = placesData?.items ?? [];
+  const getPlaceImageAlt = (place: Place) =>
+    lang === "ar" ? (place.coverImageAltAr ?? place.coverImageAlt) : place.coverImageAlt;
+  const hasVerifiedPlaceImage = (place: Place) => Boolean(
+    place.coverImageUrl &&
+    getPlaceImageAlt(place) &&
+    place.coverImageAttribution &&
+    place.coverImageLicense,
+  );
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
-      {/* Header */}
-      <div className="bg-[var(--color-stone-900)] py-16">
-        <div className="container">
-          <h1 className={`text-4xl md:text-5xl font-bold text-[var(--color-parchment-100)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-            {t("Monuments of Islamic Cairo", "معالم القاهرة الإسلامية")}
-          </h1>
-          <p className={`text-[var(--color-stone-400)] text-lg ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
-            {t("48+ published places across a thousand years", "٤٨+ موقعاً منشوراً عبر ألف عام")}
-          </p>
-        </div>
-      </div>
+      <PageIntro
+        variant="explore"
+        title={t("Monuments of Islamic Cairo", "معالم القاهرة الإسلامية")}
+        description={t("48+ published places across a thousand years", "٤٨+ موقعاً منشوراً عبر ألف عام")}
+      />
 
       <div className="container py-8">
         {/* Filters */}
         <div className="flex flex-wrap gap-3 mb-8">
           <div className="relative flex-1 min-w-48">
             <Search size={16} className={`absolute top-1/2 -translate-y-1/2 text-[var(--color-stone-400)] ${isRTL ? "right-3" : "left-3"}`} />
+            <label htmlFor="monuments-search" className="sr-only">
+              {t("Search monuments", "البحث عن المعالم")}
+            </label>
             <Input
+              id="monuments-search"
+              aria-label={t("Search monuments", "البحث عن المعالم")}
               placeholder={t("Search monuments...", "ابحث عن معالم...")}
               value={search}
               onChange={e => setSearch(e.target.value)}
               className={`${isRTL ? "pr-9 text-right font-[var(--font-arabic-sans)]" : "pl-9"} bg-white border-[var(--color-border)]`}
             />
           </div>
-          <Select value={periodFilter} onValueChange={setPeriodFilter}>
-            <SelectTrigger className="w-44 bg-white border-[var(--color-border)]">
+          <div className="flex flex-col gap-1">
+            <label htmlFor="monuments-period" className="text-xs font-medium text-[var(--color-stone-600)]">
+              {t("Period", "الحقبة")}
+            </label>
+            <Select value={periodFilter} onValueChange={setPeriodFilter}>
+            <SelectTrigger id="monuments-period" className="w-44 bg-white border-[var(--color-border)]">
               <SelectValue placeholder={t("All Periods", "جميع الحقب")} />
             </SelectTrigger>
             <SelectContent>
@@ -74,9 +80,14 @@ export default function Monuments() {
                 </SelectItem>
               ))}
             </SelectContent>
-          </Select>
-          <Select value={districtFilter} onValueChange={setDistrictFilter}>
-            <SelectTrigger className="w-44 bg-white border-[var(--color-border)]">
+            </Select>
+          </div>
+          <div className="flex flex-col gap-1">
+            <label htmlFor="monuments-district" className="text-xs font-medium text-[var(--color-stone-600)]">
+              {t("District", "الحي")}
+            </label>
+            <Select value={districtFilter} onValueChange={setDistrictFilter}>
+            <SelectTrigger id="monuments-district" className="w-44 bg-white border-[var(--color-border)]">
               <SelectValue placeholder={t("All Districts", "جميع الأحياء")} />
             </SelectTrigger>
             <SelectContent>
@@ -87,9 +98,14 @@ export default function Monuments() {
                 </SelectItem>
               ))}
             </SelectContent>
-          </Select>
-          <Select value={typeFilter} onValueChange={setTypeFilter}>
-            <SelectTrigger className="w-44 bg-white border-[var(--color-border)]">
+            </Select>
+          </div>
+          <div className="flex flex-col gap-1">
+            <label htmlFor="monuments-type" className="text-xs font-medium text-[var(--color-stone-600)]">
+              {t("Type", "النوع")}
+            </label>
+            <Select value={typeFilter} onValueChange={setTypeFilter}>
+            <SelectTrigger id="monuments-type" className="w-44 bg-white border-[var(--color-border)]">
               <SelectValue placeholder={t("All Types", "جميع الأنواع")} />
             </SelectTrigger>
             <SelectContent>
@@ -100,7 +116,8 @@ export default function Monuments() {
                 </SelectItem>
               ))}
             </SelectContent>
-          </Select>
+            </Select>
+          </div>
         </div>
 
         {/* Count */}
@@ -120,12 +137,25 @@ export default function Monuments() {
             {places.map(place => (
               <Link key={place.id} href={`/monuments/${place.slug}`}>
                 <div className="monument-card cursor-pointer group h-full flex flex-col">
-                  {/* Image area */}
-                  <div className="h-40 bg-[var(--color-stone-800)] geometric-pattern relative overflow-hidden shrink-0">
-                    <div className="absolute inset-0 flex items-center justify-center">
-                      <span className="text-[var(--color-gold-400)]/40 text-4xl font-[var(--font-arabic)]">م</span>
-                    </div>
-                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-stone-900)]/50 to-transparent" />
+                  {/* Use only media with complete provenance and descriptive text. */}
+                  <div className="h-40 bg-[var(--color-stone-800)] relative overflow-hidden shrink-0">
+                    {hasVerifiedPlaceImage(place) ? (
+                      <img
+                        src={buildImageKitUrl(place.coverImageUrl!, 800)}
+                        srcSet={buildImageKitSrcSet(place.coverImageUrl!)}
+                        sizes="(min-width: 1280px) 25vw, (min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+                        alt={getPlaceImageAlt(place)!}
+                        loading="lazy"
+                        decoding="async"
+                        className="w-full h-full object-cover"
+                      />
+                    ) : (
+                      <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-[var(--color-stone-400)]">
+                        <ImageOff size={22} aria-hidden="true" />
+                        <span className="text-xs">{t("Image not yet verified", "الصورة لم تُتحقق بعد")}</span>
+                      </div>
+                    )}
+                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-stone-900)]/50 to-transparent pointer-events-none" />
                     {place.activeWorship && (
                       <div className="absolute top-2 right-2 bg-[var(--color-teal-600)] text-white text-[10px] px-2 py-0.5 rounded-full font-medium">
                         {t("Active Worship", "عبادة نشطة")}

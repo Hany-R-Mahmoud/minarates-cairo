@@ -1,0 +1,73 @@
+{
+  "slug": "bayt-al-razzaz",
+  "nameEn": "Bayt al-Razzaz",
+  "nameAr": "بيت الرزاز",
+  "alternateNames": [
+    "House of al-Razzaz"
+  ],
+  "historicalPeriod": "Mamluk and Ottoman Cairo",
+  "dynasty": "Burji Mamluk / Ottoman",
+  "district": "Darb al-Ahmar",
+  "placeType": "historic domestic complex",
+  "foundedYearOrRange": "15th–18th centuries",
+  "dateCertainty": "multi-phase",
+  "dateDisplayEn": "15th–18th centuries",
+  "dateDisplayAr": "15th–18th centuries",
+  "patronEn": "Multiple owners; later associated with Ahmad Katkhuda al-Razzaz",
+  "patronAr": "مالكون متعددون؛ وارتبط لاحقًا بأحمد كتخدا الرزاز",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "elite urban residences joined over time",
+  "originalFunctionAr": "مساكن حضرية للنخبة اتصلت عبر الزمن",
+  "currentFunctionEn": "historic monument and conservation site",
+  "currentFunctionAr": "أثر تاريخي وموقع ترميم",
+  "historicalBriefEn": "Bayt al-Razzaz is a large domestic ensemble created by joining and expanding houses over several centuries. Courtyards, reception halls, service zones, ceilings, and mashrabiyas preserve Mamluk and Ottoman layers and show how elite households grew inside dense streets.",
+  "historicalBriefAr": "بيت الرزاز مجموعة منزلية كبيرة تكونت بضم بيوت وتوسيعها عبر قرون. وتحفظ الأفنية وقاعات الاستقبال ومساحات الخدمة والأسقف والمشربيات طبقات مملوكية وعثمانية وتوضح نمو بيوت النخبة داخل الشوارع الكثيفة.",
+  "clarificationNoteEn": "A single patron or date cannot describe the entire complex.",
+  "clarificationNoteAr": "لا يمكن وصف المجموعة كلها براعي واحد أو تاريخ واحد.",
+  "keyDates": [
+    {
+      "dateEn": "15th–18th centuries",
+      "dateAr": "15th–18th centuries",
+      "eventEn": "Principal documented phase",
+      "eventAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "phaseEn": "Original or principal construction",
+      "phaseAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "phaseEn": "Later repairs, additions, or conservation",
+      "phaseAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.0349,
+  "longitude": 31.2589,
+  "locationPrecision": "approximate site centroid; validate",
+  "activeWorshipStatus": "not-active-worship",
+  "funerarySensitivity": "none",
+  "ticketingStatus": "current ticketing requires official verification",
+  "photographyPolicy": "current photography policy requires on-site or official verification",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "recommendedVisitDurationMinutes": 60,
+  "priorityVisualStoryEn": "Connected courtyards, mashrabiyas, ceilings, and a phased-growth diagram.",
+  "priorityVisualStoryAr": "الأفنية المتصلة والمشربيات والأسقف ورسم يوضح مراحل النمو.",
+  "sourceIds": [
+    "src-egy-historic",
+    "src-unesco",
+    "src-media-razzaz"
+  ],
+  "claimIds": [
+    "claim-bayt-al-razzaz-date",
+    "claim-bayt-al-razzaz-period",
+    "claim-bayt-al-razzaz-function",
+    "claim-bayt-al-razzaz-clarification",
+    "claim-bayt-al-razzaz-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "mosque-altinbugha-al-maridani",
+  "nameEn": "Mosque of Altinbugha al-Maridani",
+  "nameAr": "جامع ألطنبغا المارداني",
+  "alternateNames": [],
+  "candidateType": "mosque",
+  "historicalPeriod": "Bahri Mamluk",
+  "dynasty": "Bahri Mamluk",
+  "district": "Darb al-Ahmar",
+  "whyCandidateMatters": "Mosque of Altinbugha al-Maridani would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mosque+altinbugha+al+maridani+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "high priority"
+}

@@ -1,0 +1,60 @@
+{
+  "storySlug": "story-sabil-kuttab-nafisa-al-bayda",
+  "relatedPlaceSlug": "sabil-kuttab-nafisa-al-bayda",
+  "titleEn": "Reading Sabil-Kuttab of Nafisa al-Bayda",
+  "titleAr": "قراءة سبيل وكتاب نفيسة البيضاء",
+  "summaryEn": "A bilingual architectural and historical journey through Sabil-Kuttab of Nafisa al-Bayda.",
+  "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في سبيل وكتاب نفيسة البيضاء.",
+  "storyType": "place-deep-dive",
+  "chapters": [
+    {
+      "chapterSlug": "sabil-kuttab-nafisa-al-bayda-chapter-1",
+      "titleEn": "Water at Street Level",
+      "titleAr": "الماء عند مستوى الشارع",
+      "bodyEn": "Commissioned by Nafisa al-Bayda, the building placed a charitable water fountain below and a school above. Its projecting façade, carved stone, metal grilles, and wooden upper level address the street directly and provide a major story of women’s patronage and public charity in Ottoman Cairo.",
+      "bodyAr": "أنشأت نفيسة البيضاء المبنى ليضم سبيلًا خيريًا في الأسفل وكتابًا للتعليم في الأعلى. وتخاطب واجهته البارزة وحجره المنحوت ومصبعاته المعدنية وطابقه الخشبي العلوي الشارع مباشرة، وتقدم قصة مهمة عن رعاية النساء والعمل الخيري العام في القاهرة العثمانية.",
+      "claimIds": [
+        "claim-sabil-kuttab-nafisa-al-bayda-story-1"
+      ]
+    },
+    {
+      "chapterSlug": "sabil-kuttab-nafisa-al-bayda-chapter-2",
+      "titleEn": "Learning Above",
+      "titleAr": "التعليم في الأعلى",
+      "bodyEn": "Sabil windows, upper kuttab, grilles, inscriptions, water charity, and female patronage.",
+      "bodyAr": "نوافذ السبيل والكتاب العلوي والمصبعات والنقوش وخدمة الماء ورعاية النساء.",
+      "claimIds": [
+        "claim-sabil-kuttab-nafisa-al-bayda-story-2"
+      ]
+    },
+    {
+      "chapterSlug": "sabil-kuttab-nafisa-al-bayda-chapter-3",
+      "titleEn": "A Woman’s Public Foundation",
+      "titleAr": "منشأة عامة لامرأة",
+      "bodyEn": "Its primary identity is a public charitable foundation, not a private house.",
+      "bodyAr": "هويته الأساسية منشأة خيرية عامة وليست بيتًا خاصًا.",
+      "claimIds": [
+        "claim-sabil-kuttab-nafisa-al-bayda-story-3"
+      ]
+    }
+  ],
+  "relatedPeriods": [
+    "Late Ottoman Cairo"
+  ],
+  "relatedPlaces": [],
+  "tags": [
+    "sabil-kuttab",
+    "near Bab Zuweila",
+    "Ottoman"
+  ],
+  "sourceIds": [
+    "src-egy-historic",
+    "src-media-nafisa"
+  ],
+  "claimIds": [
+    "claim-sabil-kuttab-nafisa-al-bayda-story-1",
+    "claim-sabil-kuttab-nafisa-al-bayda-story-2",
+    "claim-sabil-kuttab-nafisa-al-bayda-story-3"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "mosque-sabil-sulayman-agha-al-silahdar",
+  "nameEn": "Mosque-Sabil-Kuttab of Sulayman Agha al-Silahdar",
+  "nameAr": "مسجد وسبيل وكتاب سليمان أغا السلحدار",
+  "alternateNames": [
+    "Sulayman Agha al-Silahdar Complex"
+  ],
+  "historicalPeriod": "Muhammad Ali and nineteenth-century Cairo",
+  "dynasty": "Muhammad Ali dynasty",
+  "district": "al-Muizz / Burjuan",
+  "placeType": "mosque, sabil and kuttab",
+  "foundedYearOrRange": "1837–1839 CE",
+  "dateCertainty": "commonly cited; validate",
+  "dateDisplayEn": "1837–1839 CE",
+  "dateDisplayAr": "1837–1839 م",
+  "patronEn": "Sulayman Agha al-Silahdar",
+  "patronAr": "سليمان أغا السلحدار",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "mosque, water charity, and school",
+  "originalFunctionAr": "مسجد وسبيل وكتاب",
+  "currentFunctionEn": "active mosque and historic monument",
+  "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+  "historicalBriefEn": "This nineteenth-century foundation combines mosque, sabil, and kuttab in a narrow urban plot. Painted ceilings, window grilles, marble, and stacked functions show how the Muhammad Ali period renewed older Cairo traditions of worship, water charity, and teaching.",
+  "historicalBriefAr": "تجمع هذه المنشأة من القرن التاسع عشر بين المسجد والسبيل والكتاب في قطعة حضرية ضيقة. وتوضح الأسقف المصورة والمصبعات والرخام والوظائف المتراكبة كيف جدد عصر محمد علي تقاليد قاهرية أقدم للعبادة وخدمة الماء والتعليم.",
+  "clarificationNoteEn": "Its date is nineteenth-century even though its functions recall older traditions.",
+  "clarificationNoteAr": "يرجع المبنى إلى القرن التاسع عشر رغم أن وظائفه تحيل إلى تقاليد أقدم.",
+  "keyDates": [
+    {
+      "dateEn": "1837–1839 CE",
+      "dateAr": "1837–1839 م",
+      "eventEn": "Principal documented phase",
+      "eventAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "phaseEn": "Original or principal construction",
+      "phaseAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "phaseEn": "Later repairs, additions, or conservation",
+      "phaseAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.0527,
+  "longitude": 31.26,
+  "locationPrecision": "approximate site centroid; validate",
+  "activeWorshipStatus": "active-worship",
+  "funerarySensitivity": "none",
+  "ticketingStatus": "current ticketing requires official verification",
+  "photographyPolicy": "current photography policy requires on-site or official verification",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "recommendedVisitDurationMinutes": 35,
+  "priorityVisualStoryEn": "Painted ceiling, patterned grilles, marble interior, and stacked charitable functions.",
+  "priorityVisualStoryAr": "السقف المصور والمصبعات المزخرفة والداخل الرخامي والوظائف الخيرية المتراكبة.",
+  "sourceIds": [
+    "src-egy-historic",
+    "src-media-silahdar"
+  ],
+  "claimIds": [
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-date",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-period",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-function",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-clarification",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

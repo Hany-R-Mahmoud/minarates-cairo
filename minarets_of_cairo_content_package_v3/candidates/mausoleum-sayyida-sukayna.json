@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "mausoleum-sayyida-sukayna",
+  "nameEn": "Mausoleum of Sayyida Sukayna",
+  "nameAr": "مشهد السيدة سكينة",
+  "alternateNames": [],
+  "candidateType": "mausoleum/shrine",
+  "historicalPeriod": "multi-period",
+  "dynasty": null,
+  "district": "al-Khalifa",
+  "whyCandidateMatters": "Mausoleum of Sayyida Sukayna would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mausoleum+sayyida+sukayna+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "low priority"
+}

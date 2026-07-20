@@ -1,9 +1,8 @@
 import { useParams, Link } from "wouter";
 import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
-import { ArrowLeft, ArrowRight, Clock, MapPin, AlertTriangle, Accessibility, Download, CheckCircle } from "lucide-react";
+import { ArrowLeft, ArrowRight, Clock, MapPin, AlertTriangle, Accessibility, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { toast } from "sonner";
 
 const DIFFICULTY_LABELS: Record<string, { en: string; ar: string }> = {
   easy: { en: "Easy", ar: "سهل" },
@@ -17,10 +16,6 @@ export default function WalkDetail() {
   const BackIcon = isRTL ? ArrowRight : ArrowLeft;
 
   const { data: walk, isLoading } = trpc.walks.bySlug.useQuery({ slug: slug ?? "" }, { enabled: !!slug });
-
-  const handleDownload = () => {
-    toast.info(t("Offline download feature coming soon.", "ميزة التنزيل دون اتصال قريباً."));
-  };
 
   if (isLoading) {
     return (
@@ -93,15 +88,12 @@ export default function WalkDetail() {
                 )}
               </div>
             </div>
-            <Button
-              variant="outline"
-              size="sm"
-              onClick={handleDownload}
-              className="border-[var(--color-stone-600)] text-[var(--color-stone-300)] hover:bg-[var(--color-stone-800)] shrink-0"
-            >
-              <Download size={14} className="mr-1" />
-              {t("Download Offline", "تنزيل دون اتصال")}
-            </Button>
+            {walk.offlineSizeKb && (
+              <div className="flex items-center gap-2 text-sm text-[var(--color-stone-400)]" role="status">
+                <Download size={14} />
+                {t("Offline pack planned", "حزمة الاستخدام دون اتصال مخططة")}
+              </div>
+            )}
           </div>
         </div>
       </div>

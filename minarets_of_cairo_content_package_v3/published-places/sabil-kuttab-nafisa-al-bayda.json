@@ -1,0 +1,72 @@
+{
+  "slug": "sabil-kuttab-nafisa-al-bayda",
+  "nameEn": "Sabil-Kuttab of Nafisa al-Bayda",
+  "nameAr": "سبيل وكتاب نفيسة البيضاء",
+  "alternateNames": [
+    "Sabil Nafisa al-Bayda"
+  ],
+  "historicalPeriod": "Late Ottoman Cairo",
+  "dynasty": "Ottoman",
+  "district": "near Bab Zuweila",
+  "placeType": "sabil-kuttab",
+  "foundedYearOrRange": "1796 CE",
+  "dateCertainty": "widely accepted",
+  "dateDisplayEn": "1796 CE",
+  "dateDisplayAr": "1796 م",
+  "patronEn": "Nafisa al-Bayda",
+  "patronAr": "نفيسة البيضاء",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "public water fountain and elementary school",
+  "originalFunctionAr": "سبيل عام وكتاب لتعليم الأطفال",
+  "currentFunctionEn": "historic monument",
+  "currentFunctionAr": "أثر تاريخي",
+  "historicalBriefEn": "Commissioned by Nafisa al-Bayda, the building placed a charitable water fountain below and a school above. Its projecting façade, carved stone, metal grilles, and wooden upper level address the street directly and provide a major story of women’s patronage and public charity in Ottoman Cairo.",
+  "historicalBriefAr": "أنشأت نفيسة البيضاء المبنى ليضم سبيلًا خيريًا في الأسفل وكتابًا للتعليم في الأعلى. وتخاطب واجهته البارزة وحجره المنحوت ومصبعاته المعدنية وطابقه الخشبي العلوي الشارع مباشرة، وتقدم قصة مهمة عن رعاية النساء والعمل الخيري العام في القاهرة العثمانية.",
+  "clarificationNoteEn": "Its primary identity is a public charitable foundation, not a private house.",
+  "clarificationNoteAr": "هويته الأساسية منشأة خيرية عامة وليست بيتًا خاصًا.",
+  "keyDates": [
+    {
+      "dateEn": "1796 CE",
+      "dateAr": "1796 م",
+      "eventEn": "Principal documented phase",
+      "eventAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "phaseEn": "Original or principal construction",
+      "phaseAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "phaseEn": "Later repairs, additions, or conservation",
+      "phaseAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.043032,
+  "longitude": 31.257944,
+  "locationPrecision": "source-image geotag; frontage point requires validation",
+  "activeWorshipStatus": "not-active-worship",
+  "funerarySensitivity": "none",
+  "ticketingStatus": "current ticketing requires official verification",
+  "photographyPolicy": "current photography policy requires on-site or official verification",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "recommendedVisitDurationMinutes": 25,
+  "priorityVisualStoryEn": "Sabil windows, upper kuttab, grilles, inscriptions, water charity, and female patronage.",
+  "priorityVisualStoryAr": "نوافذ السبيل والكتاب العلوي والمصبعات والنقوش وخدمة الماء ورعاية النساء.",
+  "sourceIds": [
+    "src-egy-historic",
+    "src-media-nafisa"
+  ],
+  "claimIds": [
+    "claim-sabil-kuttab-nafisa-al-bayda-date",
+    "claim-sabil-kuttab-nafisa-al-bayda-period",
+    "claim-sabil-kuttab-nafisa-al-bayda-function",
+    "claim-sabil-kuttab-nafisa-al-bayda-clarification",
+    "claim-sabil-kuttab-nafisa-al-bayda-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

@@ -5,6 +5,7 @@ import { trpc } from "@/lib/trpc";
 import { Clock, MapPin, ChevronRight, AlertTriangle, Accessibility, Download } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { toast } from "sonner";
+import PageIntro from "@/components/PageIntro";
 
 const DIFFICULTY_COLORS: Record<string, string> = {
   easy: "bg-green-100 text-green-700 border-green-200",
@@ -38,17 +39,11 @@ export default function Walks() {
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
-      {/* Header */}
-      <div className="bg-[var(--color-stone-900)] py-16">
-        <div className="container">
-          <h1 className={`text-4xl md:text-5xl font-bold text-[var(--color-parchment-100)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-            {t("District Walks", "جولات الأحياء")}
-          </h1>
-          <p className={`text-[var(--color-stone-400)] text-lg ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
-            {t("18 curated walking routes through Islamic Cairo", "١٨ مسار مشي منتقى عبر القاهرة الإسلامية")}
-          </p>
-        </div>
-      </div>
+      <PageIntro
+        variant="explore"
+        title={t("District Walks", "جولات الأحياء")}
+        description={t("18 curated walking routes through Islamic Cairo", "١٨ مسار مشي منتقى عبر القاهرة الإسلامية")}
+      />
 
       <div className="container py-10">
         {isLoading ? (

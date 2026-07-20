@@ -8,6 +8,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { toast } from "sonner";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import PageIntro from "@/components/PageIntro";
 
 export default function Itinerary() {
   const { lang, isRTL, t } = useLang();
@@ -39,13 +40,10 @@ export default function Itinerary() {
   if (!isAuthenticated) {
     return (
       <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
-        <div className="bg-[var(--color-stone-900)] py-16">
-          <div className="container">
-            <h1 className={`text-4xl font-bold text-[var(--color-parchment-100)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-              {t("Itinerary Builder", "منشئ خط السير")}
-            </h1>
-          </div>
-        </div>
+        <PageIntro
+          variant="utility"
+          title={t("Itinerary Builder", "منشئ خط السير")}
+        />
         <div className="container py-20 text-center">
           <Lock size={40} className="mx-auto text-[var(--color-stone-300)] mb-4" />
           <p className={`text-[var(--color-stone-500)] mb-6 text-lg ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
@@ -63,16 +61,11 @@ export default function Itinerary() {
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
-      <div className="bg-[var(--color-stone-900)] py-16">
-        <div className="container">
-          <h1 className={`text-4xl md:text-5xl font-bold text-[var(--color-parchment-100)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-            {t("Itinerary Builder", "منشئ خط السير")}
-          </h1>
-          <p className={`text-[var(--color-stone-400)] ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
-            {t("Plan your visit to Islamic Cairo", "خطط لزيارتك للقاهرة الإسلامية")}
-          </p>
-        </div>
-      </div>
+      <PageIntro
+        variant="utility"
+        title={t("Itinerary Builder", "منشئ خط السير")}
+        description={t("Plan your visit to Islamic Cairo", "خطط لزيارتك للقاهرة الإسلامية")}
+      />
 
       <div className="container py-10">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">

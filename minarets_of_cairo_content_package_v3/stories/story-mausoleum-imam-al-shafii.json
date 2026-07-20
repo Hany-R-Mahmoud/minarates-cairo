@@ -1,0 +1,61 @@
+{
+  "storySlug": "story-mausoleum-imam-al-shafii",
+  "relatedPlaceSlug": "mausoleum-imam-al-shafii",
+  "titleEn": "Reading Mausoleum of Imam al-Shafi’i",
+  "titleAr": "قراءة ضريح الإمام الشافعي",
+  "summaryEn": "A bilingual architectural and historical journey through Mausoleum of Imam al-Shafi’i.",
+  "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في ضريح الإمام الشافعي.",
+  "storyType": "place-deep-dive",
+  "chapters": [
+    {
+      "chapterSlug": "mausoleum-imam-al-shafii-chapter-1",
+      "titleEn": "Scholar, Tomb, and City",
+      "titleAr": "العالم والقبر والمدينة",
+      "bodyEn": "The mausoleum marks the burial place of Imam al-Shafi’i. The standing monumental building belongs mainly to later Ayyubid and subsequent phases, not to the date of the imam’s death. Its dome, wooden enclosure, inscriptions, ornament, and cemetery setting connect scholarship, political patronage, devotion, and funerary urbanism.",
+      "bodyAr": "يحدد الضريح موضع دفن الإمام الشافعي. وينتمي المبنى الضخم القائم أساسًا إلى مراحل أيوبية ولاحقة، لا إلى تاريخ وفاة الإمام. وتربط القبة والحاجز الخشبي والنقوش والزخرفة وموقع الجبانة بين العلم والرعاية السياسية والزيارة والعمران الجنائزي.",
+      "claimIds": [
+        "claim-mausoleum-imam-al-shafii-story-1"
+      ]
+    },
+    {
+      "chapterSlug": "mausoleum-imam-al-shafii-chapter-2",
+      "titleEn": "The Ayyubid Monument",
+      "titleAr": "الأثر الأيوبي",
+      "bodyEn": "Dome, carved wooden enclosure, inscriptions, filtered light, and cemetery context.",
+      "bodyAr": "القبة والحاجز الخشبي المنحوت والنقوش والضوء المرشح وسياق الجبانة.",
+      "claimIds": [
+        "claim-mausoleum-imam-al-shafii-story-2"
+      ]
+    },
+    {
+      "chapterSlug": "mausoleum-imam-al-shafii-chapter-3",
+      "titleEn": "Visiting with Respect",
+      "titleAr": "زيارة باحترام",
+      "bodyEn": "The early tomb and the later standing architecture must be distinguished.",
+      "bodyAr": "يجب التمييز بين القبر المبكر والعمارة القائمة اللاحقة.",
+      "claimIds": [
+        "claim-mausoleum-imam-al-shafii-story-3"
+      ]
+    }
+  ],
+  "relatedPeriods": [
+    "Ayyubid Cairo with later phases"
+  ],
+  "relatedPlaces": [],
+  "tags": [
+    "mausoleum and active shrine",
+    "Southern Cemetery / al-Khalifa",
+    "Ayyubid and later"
+  ],
+  "sourceIds": [
+    "src-egy-historic",
+    "src-unesco",
+    "src-media-shafii"
+  ],
+  "claimIds": [
+    "claim-mausoleum-imam-al-shafii-story-1",
+    "claim-mausoleum-imam-al-shafii-story-2",
+    "claim-mausoleum-imam-al-shafii-story-3"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

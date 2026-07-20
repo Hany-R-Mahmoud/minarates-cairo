@@ -1,5 +1,5 @@
-import { useState, useEffect } from "react";
-import { useSearch } from "wouter";
+import { useState } from "react";
+import { Link, useSearch } from "wouter";
 import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
 import { Plus, X, ArrowLeftRight } from "lucide-react";
@@ -19,14 +19,18 @@ export default function Compare() {
   const { lang, isRTL, t } = useLang();
   const search = useSearch();
   const params = new URLSearchParams(search);
-  const addId = params.get("add");
+  const addIds = (params.get("add") ?? "")
+    .split(",")
+    .map(value => Number(value))
+    .filter((value, index, values) => Number.isInteger(value) && value > 0 && values.indexOf(value) === index)
+    .slice(0, 4);
 
-  const [selectedIds, setSelectedIds] = useState<number[]>(addId ? [parseInt(addId)] : []);
+  const [selectedIds, setSelectedIds] = useState<number[]>(addIds);
   const [addingSlot, setAddingSlot] = useState<boolean>(false);
   const [selectValue, setSelectValue] = useState<string>("");
 
-  const { data: allPlaces } = trpc.places.list.useQuery({ limit: 100, offset: 0, status: "published" });
-  const { data: comparedPlaces } = trpc.comparisons.custom.useQuery(
+  const { data: allPlaces, isLoading: isPlacesLoading, isError: isPlacesError } = trpc.places.list.useQuery({ limit: 100, offset: 0, status: "published" });
+  const { data: comparedPlaces, isLoading: isComparisonLoading, isError: isComparisonError } = trpc.comparisons.custom.useQuery(
     { placeIds: selectedIds },
     { enabled: selectedIds.length >= 2 }
   );
@@ -62,6 +66,11 @@ export default function Compare() {
 
       <div className="container py-10">
         {/* Place selector */}
+        {isPlacesError && (
+          <div role="alert" className={`mb-6 rounded-lg border border-[var(--color-terracotta-600)]/30 bg-[var(--color-parchment-100)] p-4 text-sm text-[var(--color-stone-700)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+            {t("We could not load the monument list. Please refresh and try again.", "تعذر تحميل قائمة المعالم. حدّث الصفحة وحاول مرة أخرى.")}
+          </div>
+        )}
         <div className={`flex flex-wrap gap-3 mb-8 items-center ${isRTL ? "flex-row-reverse" : ""}`}>
           {selectedIds.map(id => {
             const place = (allPlaces?.items ?? []).find(p => p.id === id);
@@ -71,8 +80,12 @@ export default function Compare() {
                 <span className={`text-sm font-medium text-[var(--color-stone-800)] ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
                   {lang === "ar" ? place.nameAr : place.nameEn}
                 </span>
-                <button onClick={() => removePlace(id)} className="text-[var(--color-stone-400)] hover:text-[var(--color-stone-700)] transition-colors">
-                  <X size={13} />
+                <button
+                  onClick={() => removePlace(id)}
+                  aria-label={t(`Remove ${place.nameEn} from comparison`, `إزالة ${place.nameAr} من المقارنة`)}
+                  className="text-[var(--color-stone-400)] hover:text-[var(--color-stone-700)] transition-colors"
+                >
+                  <X size={13} aria-hidden="true" />
                 </button>
               </div>
             );
@@ -80,8 +93,12 @@ export default function Compare() {
 
           {selectedIds.length < 4 && (
             addingSlot ? (
-              <Select value={selectValue} onValueChange={v => { setSelectValue(v); addPlace(parseInt(v)); }}>
-                <SelectTrigger className="w-56 bg-white border-[var(--color-border)]">
+              <div className="flex flex-col gap-1">
+                <label htmlFor="compare-monument-select" className="text-xs font-medium text-[var(--color-stone-600)]">
+                  {t("Monument to add", "المعلم المراد إضافته")}
+                </label>
+                <Select value={selectValue} onValueChange={v => { setSelectValue(v); addPlace(parseInt(v)); }}>
+                <SelectTrigger id="compare-monument-select" className="w-56 bg-white border-[var(--color-border)]">
                   <SelectValue placeholder={t("Select a monument...", "اختر معلماً...")} />
                 </SelectTrigger>
                 <SelectContent>
@@ -91,7 +108,8 @@ export default function Compare() {
                     </SelectItem>
                   ))}
                 </SelectContent>
-              </Select>
+                </Select>
+              </div>
             ) : (
               <Button
                 variant="outline"
@@ -123,6 +141,21 @@ export default function Compare() {
         )}
 
         {/* Comparison table */}
+        {selectedIds.length >= 2 && isComparisonLoading && (
+          <div role="status" className="rounded-lg border border-[var(--color-border)] bg-white p-8 text-center text-[var(--color-stone-500)]">
+            {t("Loading comparison…", "جارٍ تحميل المقارنة…")}
+          </div>
+        )}
+        {selectedIds.length >= 2 && isComparisonError && (
+          <div role="alert" className={`rounded-lg border border-[var(--color-terracotta-600)]/30 bg-[var(--color-parchment-100)] p-6 text-center text-[var(--color-stone-700)] ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+            {t("We could not load this comparison. Try removing a monument and adding it again.", "تعذر تحميل هذه المقارنة. جرّب إزالة أحد المعالم وإضافته مرة أخرى.")}
+          </div>
+        )}
+        {selectedIds.length >= 2 && !isComparisonLoading && !isComparisonError && places.length < 2 && (
+          <div role="status" className={`rounded-lg border border-[var(--color-border)] bg-[var(--color-parchment-100)] p-6 text-center text-[var(--color-stone-600)] ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+            {t("Those monuments are not available for comparison.", "هذه المعالم غير متاحة للمقارنة.")}
+          </div>
+        )}
         {selectedIds.length >= 2 && places.length >= 2 && (
           <div className="overflow-x-auto">
             <table className="w-full border-collapse">
@@ -187,25 +220,59 @@ export default function Compare() {
 
 function CuratedComparisons() {
   const { lang, isRTL, t } = useLang();
-  const { data: comparisons } = trpc.comparisons.list.useQuery();
+  const { data: comparisons, isLoading, isError } = trpc.comparisons.list.useQuery();
+
+  if (isLoading) {
+    return <div role="status" className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">{Array.from({ length: 4 }).map((_, index) => <div key={index} className="skeleton h-32 rounded-lg" />)}</div>;
+  }
+
+  if (isError) {
+    return <p role="alert" className={`text-sm text-[var(--color-stone-600)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+      {t("Curated comparisons are unavailable right now.", "المقارنات المنتقاة غير متاحة الآن.")}
+    </p>;
+  }
+
+  if (!comparisons?.length) {
+    return <p className={`text-sm text-[var(--color-stone-500)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+      {t("No curated comparisons are published yet.", "لا توجد مقارنات منتقاة منشورة بعد.")}
+    </p>;
+  }
 
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-      {(comparisons ?? []).map(comp => (
-        <div key={comp.id} className="monument-card p-4 cursor-pointer hover:border-[var(--color-terracotta-600)] transition-colors group">
-          <h3 className={`font-medium text-[var(--color-stone-900)] mb-2 text-sm leading-snug ${lang === "ar" ? "font-[var(--font-arabic)] text-right" : ""}`}>
-            {lang === "ar" ? comp.titleAr : comp.titleEn}
-          </h3>
-          {(lang === "ar" ? comp.descriptionAr : comp.descriptionEn) && (
-            <p className={`text-xs text-[var(--color-stone-500)] line-clamp-2 ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
-              {lang === "ar" ? comp.descriptionAr : comp.descriptionEn}
-            </p>
-          )}
-          <span className={`text-xs text-[var(--color-terracotta-600)] mt-3 inline-flex items-center gap-1 group-hover:underline ${isRTL ? "flex-row-reverse" : ""}`}>
-            {t("Compare →", "قارن ←")}
-          </span>
-        </div>
-      ))}
+      {comparisons.map(comp => {
+        const placeIds = Array.isArray(comp.placeIds)
+          ? comp.placeIds.filter((id): id is number => typeof id === "number" && Number.isInteger(id)).slice(0, 4)
+          : [];
+        const href = placeIds.length >= 2 ? `/compare?add=${placeIds.join(",")}` : "/compare";
+        const content = (
+          <>
+            <h3 className={`font-medium text-[var(--color-stone-900)] mb-2 text-sm leading-snug ${lang === "ar" ? "font-[var(--font-arabic)] text-right" : ""}`}>
+              {lang === "ar" ? comp.titleAr : comp.titleEn}
+            </h3>
+            {(lang === "ar" ? comp.descriptionAr : comp.descriptionEn) && (
+              <p className={`text-xs text-[var(--color-stone-500)] line-clamp-2 ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                {lang === "ar" ? comp.descriptionAr : comp.descriptionEn}
+              </p>
+            )}
+            {placeIds.length >= 2 && (
+              <span className={`text-xs text-[var(--color-terracotta-600)] mt-3 inline-flex items-center gap-1 group-hover:underline ${isRTL ? "flex-row-reverse" : ""}`}>
+                {t("Compare →", "قارن ←")}
+              </span>
+            )}
+          </>
+        );
+
+        return placeIds.length >= 2 ? (
+          <Link key={comp.id} href={href} className="monument-card block p-4 hover:border-[var(--color-terracotta-600)] transition-colors group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--color-terracotta-600)] focus-visible:ring-offset-2">
+            {content}
+          </Link>
+        ) : (
+          <div key={comp.id} className="monument-card p-4 opacity-75">
+            {content}
+          </div>
+        );
+      })}
     </div>
   );
 }

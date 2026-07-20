@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "mausoleum-tarabay-al-sharifi",
+  "nameEn": "Mausoleum of Tarabay al-Sharifi",
+  "nameAr": "قبة طرباي الشريفي",
+  "alternateNames": [],
+  "candidateType": "mausoleum",
+  "historicalPeriod": "Burji Mamluk",
+  "dynasty": "Burji Mamluk",
+  "district": "Northern Cemetery",
+  "whyCandidateMatters": "Mausoleum of Tarabay al-Sharifi would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mausoleum+tarabay+al+sharifi+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "medium priority"
+}

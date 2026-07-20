@@ -9,6 +9,7 @@ import { Input } from "@/components/ui/input";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { toast } from "sonner";
 import { Badge } from "@/components/ui/badge";
+import PageIntro from "@/components/PageIntro";
 
 export default function CuratorStudio() {
   const { lang, isRTL, t } = useLang();
@@ -17,13 +18,10 @@ export default function CuratorStudio() {
   if (!isAuthenticated) {
     return (
       <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
-        <div className="bg-[var(--color-stone-900)] py-16">
-          <div className="container">
-            <h1 className={`text-4xl font-bold text-[var(--color-parchment-100)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-              {t("Curator Studio", "استوديو المنسق")}
-            </h1>
-          </div>
-        </div>
+        <PageIntro
+          variant="studio"
+          title={t("Curator Studio", "استوديو المنسق")}
+        />
         <div className="container py-20 text-center">
           <Lock size={40} className="mx-auto text-[var(--color-stone-300)] mb-4" />
           <p className={`text-[var(--color-stone-500)] mb-6 ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
@@ -52,19 +50,12 @@ export default function CuratorStudio() {
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
-      <div className="bg-[var(--color-stone-900)] py-12">
-        <div className="container">
-          <div className={`flex items-center gap-3 mb-2 ${isRTL ? "flex-row-reverse" : ""}`}>
-            <BookOpen size={24} className="text-[var(--color-gold-400)]" />
-            <h1 className={`text-3xl font-bold text-[var(--color-parchment-100)] ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-              {t("Curator Studio", "استوديو المنسق")}
-            </h1>
-          </div>
-          <p className={`text-[var(--color-stone-400)] ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
-            {t("Manage places, media, sources, and review publication workflow", "إدارة الأماكن والوسائط والمصادر ومراجعة سير عمل النشر")}
-          </p>
-        </div>
-      </div>
+      <PageIntro
+        variant="studio"
+        icon={<BookOpen size={24} />}
+        title={t("Curator Studio", "استوديو المنسق")}
+        description={t("Manage places, media, sources, and review publication workflow", "إدارة الأماكن والوسائط والمصادر ومراجعة سير عمل النشر")}
+      />
 
       <div className="container py-8">
         <Tabs defaultValue="places" dir={isRTL ? "rtl" : "ltr"}>
@@ -184,9 +175,18 @@ function MediaTab() {
         <h3 className={`font-semibold text-[var(--color-stone-900)] text-sm ${lang === "ar" ? "font-[var(--font-arabic)]" : ""}`}>
           {t("Ingest Media Asset", "استيراد أصل وسائط")}
         </h3>
-        <Input placeholder={t("Image URL (Wikimedia Commons, Openverse...)", "رابط الصورة...")} value={url} onChange={e => setUrl(e.target.value)} className="bg-white border-[var(--color-border)]" />
-        <Input placeholder={t("Alt text (English)", "النص البديل (إنجليزي)")} value={altEn} onChange={e => setAltEn(e.target.value)} className="bg-white border-[var(--color-border)]" />
-        <Input placeholder={t("Attribution / License", "الإسناد / الترخيص")} value={attribution} onChange={e => setAttribution(e.target.value)} className="bg-white border-[var(--color-border)]" />
+        <label htmlFor="curator-media-url" className="text-sm font-medium text-[var(--color-stone-700)]">
+          {t("Image URL", "رابط الصورة")}
+        </label>
+        <Input id="curator-media-url" placeholder={t("Image URL (Wikimedia Commons, Openverse...)", "رابط الصورة...")} value={url} onChange={e => setUrl(e.target.value)} className="bg-white border-[var(--color-border)]" />
+        <label htmlFor="curator-media-alt" className="text-sm font-medium text-[var(--color-stone-700)]">
+          {t("Alt text (English)", "النص البديل (إنجليزي)")}
+        </label>
+        <Input id="curator-media-alt" placeholder={t("Alt text (English)", "النص البديل (إنجليزي)")} value={altEn} onChange={e => setAltEn(e.target.value)} className="bg-white border-[var(--color-border)]" />
+        <label htmlFor="curator-media-attribution" className="text-sm font-medium text-[var(--color-stone-700)]">
+          {t("Attribution / License", "الإسناد / الترخيص")}
+        </label>
+        <Input id="curator-media-attribution" placeholder={t("Attribution / License", "الإسناد / الترخيص")} value={attribution} onChange={e => setAttribution(e.target.value)} className="bg-white border-[var(--color-border)]" />
         <Button
           size="sm"
           onClick={() => url && altEn && addMedia.mutate({ url, altEn, attribution: attribution || undefined })}
@@ -243,10 +243,22 @@ function SourcesTab() {
         <h3 className={`font-semibold text-[var(--color-stone-900)] text-sm ${lang === "ar" ? "font-[var(--font-arabic)]" : ""}`}>
           {t("Register Source", "تسجيل مصدر")}
         </h3>
-        <Input placeholder={t("Slug (e.g. creswell-1952)", "المعرف (مثال: creswell-1952)")} value={slug} onChange={e => setSlug(e.target.value)} className="bg-white border-[var(--color-border)]" />
-        <Input placeholder={t("Title (English)", "العنوان (إنجليزي)")} value={titleEn} onChange={e => setTitleEn(e.target.value)} className="bg-white border-[var(--color-border)]" />
-        <Input placeholder={t("Authors", "المؤلفون")} value={authors} onChange={e => setAuthors(e.target.value)} className="bg-white border-[var(--color-border)]" />
-        <Input placeholder={t("Year", "السنة")} value={year} onChange={e => setYear(e.target.value)} type="number" className="bg-white border-[var(--color-border)]" />
+        <label htmlFor="curator-source-slug" className="text-sm font-medium text-[var(--color-stone-700)]">
+          {t("Slug", "المعرف")}
+        </label>
+        <Input id="curator-source-slug" placeholder={t("Slug (e.g. creswell-1952)", "المعرف (مثال: creswell-1952)")} value={slug} onChange={e => setSlug(e.target.value)} className="bg-white border-[var(--color-border)]" />
+        <label htmlFor="curator-source-title" className="text-sm font-medium text-[var(--color-stone-700)]">
+          {t("Title (English)", "العنوان (إنجليزي)")}
+        </label>
+        <Input id="curator-source-title" placeholder={t("Title (English)", "العنوان (إنجليزي)")} value={titleEn} onChange={e => setTitleEn(e.target.value)} className="bg-white border-[var(--color-border)]" />
+        <label htmlFor="curator-source-authors" className="text-sm font-medium text-[var(--color-stone-700)]">
+          {t("Authors", "المؤلفون")}
+        </label>
+        <Input id="curator-source-authors" placeholder={t("Authors", "المؤلفون")} value={authors} onChange={e => setAuthors(e.target.value)} className="bg-white border-[var(--color-border)]" />
+        <label htmlFor="curator-source-year" className="text-sm font-medium text-[var(--color-stone-700)]">
+          {t("Year", "السنة")}
+        </label>
+        <Input id="curator-source-year" placeholder={t("Year", "السنة")} value={year} onChange={e => setYear(e.target.value)} type="number" className="bg-white border-[var(--color-border)]" />
         <Button
           size="sm"
           onClick={() => slug && titleEn && addSource.mutate({ slug, titleEn, authors: authors || undefined, year: year ? parseInt(year) : undefined })}

@@ -4,6 +4,7 @@ import { trpc } from "@/lib/trpc";
 import { ArrowLeft, ArrowRight, BookOpen } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Streamdown } from "streamdown";
+import { buildImageKitSrcSet, buildImageKitUrl } from "@shared/media";
 
 export default function StoryDetail() {
   const { slug } = useParams<{ slug: string }>();
@@ -65,8 +66,13 @@ export default function StoryDetail() {
       {story.coverImageUrl && (
         <div className="w-full h-64 md:h-96 overflow-hidden">
           <img
-            src={story.coverImageUrl}
+            src={buildImageKitUrl(story.coverImageUrl, 1280)}
+            srcSet={buildImageKitSrcSet(story.coverImageUrl)}
+            sizes="100vw"
             alt={title}
+            loading="eager"
+            decoding="async"
+            fetchPriority="high"
             className="w-full h-full object-cover"
           />
           {story.coverImageAttribution && (

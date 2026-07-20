@@ -1,0 +1,61 @@
+{
+  "storySlug": "story-gayer-anderson-museum",
+  "relatedPlaceSlug": "gayer-anderson-museum",
+  "titleEn": "Reading Gayer-Anderson Museum",
+  "titleAr": "قراءة متحف جاير أندرسون",
+  "summaryEn": "A bilingual architectural and historical journey through Gayer-Anderson Museum.",
+  "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في متحف جاير أندرسون.",
+  "storyType": "place-deep-dive",
+  "chapters": [
+    {
+      "chapterSlug": "gayer-anderson-museum-chapter-1",
+      "titleEn": "Two Houses, Many Lives",
+      "titleAr": "بيتان وحيوات متعددة",
+      "bodyEn": "The museum occupies two connected historic houses beside Ibn Tulun Mosque. Courtyards, reception halls, mashrabiyas, and service routes reveal domestic architecture, while Gayer-Anderson’s twentieth-century residence added a separate museum layer. The interpretation must distinguish the older houses from the later collection and display choices.",
+      "bodyAr": "يشغل المتحف بيتين تاريخيين متصلين بجوار جامع ابن طولون. وتكشف الأفنية وقاعات الاستقبال والمشربيات ومسارات الخدمة عمارة السكن، بينما أضافت إقامة جاير أندرسون في القرن العشرين طبقة متحفية منفصلة. ويجب التمييز بين البيتين الأقدم والمجموعة وطرق العرض اللاحقة.",
+      "claimIds": [
+        "claim-gayer-anderson-museum-story-1"
+      ]
+    },
+    {
+      "chapterSlug": "gayer-anderson-museum-chapter-2",
+      "titleEn": "Architecture of Privacy and Air",
+      "titleAr": "عمارة الخصوصية والهواء",
+      "bodyEn": "Courtyard depth, mashrabiya screens, and the difference between historic fabric and museum display.",
+      "bodyAr": "عمق الفناء والمشربيات والفارق بين النسيج التاريخي والعرض المتحفي.",
+      "claimIds": [
+        "claim-gayer-anderson-museum-story-2"
+      ]
+    },
+    {
+      "chapterSlug": "gayer-anderson-museum-chapter-3",
+      "titleEn": "A Collection Enters the Houses",
+      "titleAr": "دخول المجموعة إلى البيتين",
+      "bodyEn": "The houses were not built for Gayer-Anderson.",
+      "bodyAr": "لم يُشيد البيتان من أجل جاير أندرسون.",
+      "claimIds": [
+        "claim-gayer-anderson-museum-story-3"
+      ]
+    }
+  ],
+  "relatedPeriods": [
+    "Ottoman Cairo with modern museum history"
+  ],
+  "relatedPlaces": [],
+  "tags": [
+    "historic houses and museum",
+    "Al-Saliba / Sayyida Zaynab",
+    "Ottoman / modern museum"
+  ],
+  "sourceIds": [
+    "src-egy-gayer",
+    "src-egy-historic",
+    "src-media-gayer"
+  ],
+  "claimIds": [
+    "claim-gayer-anderson-museum-story-1",
+    "claim-gayer-anderson-museum-story-2",
+    "claim-gayer-anderson-museum-story-3"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

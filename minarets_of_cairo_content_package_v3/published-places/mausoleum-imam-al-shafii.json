@@ -1,0 +1,74 @@
+{
+  "slug": "mausoleum-imam-al-shafii",
+  "nameEn": "Mausoleum of Imam al-Shafi’i",
+  "nameAr": "ضريح الإمام الشافعي",
+  "alternateNames": [
+    "Imam al-Shafi’i Mausoleum",
+    "قبة الإمام الشافعي"
+  ],
+  "historicalPeriod": "Ayyubid Cairo with later phases",
+  "dynasty": "Ayyubid and later",
+  "district": "Southern Cemetery / al-Khalifa",
+  "placeType": "mausoleum and active shrine",
+  "foundedYearOrRange": "major surviving phase early 13th century; tomb tradition earlier",
+  "dateCertainty": "multi-phase",
+  "dateDisplayEn": "major surviving phase early 13th century; tomb tradition earlier",
+  "dateDisplayAr": "major surviving phase early 13th century; tomb tradition earlier",
+  "patronEn": "Ayyubid rulers and later patrons",
+  "patronAr": "حكام أيوبيون ورعاة لاحقون",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "mausoleum and devotional shrine",
+  "originalFunctionAr": "ضريح ومزار",
+  "currentFunctionEn": "active devotional shrine and historic monument",
+  "currentFunctionAr": "مزار ديني قائم وأثر تاريخي",
+  "historicalBriefEn": "The mausoleum marks the burial place of Imam al-Shafi’i. The standing monumental building belongs mainly to later Ayyubid and subsequent phases, not to the date of the imam’s death. Its dome, wooden enclosure, inscriptions, ornament, and cemetery setting connect scholarship, political patronage, devotion, and funerary urbanism.",
+  "historicalBriefAr": "يحدد الضريح موضع دفن الإمام الشافعي. وينتمي المبنى الضخم القائم أساسًا إلى مراحل أيوبية ولاحقة، لا إلى تاريخ وفاة الإمام. وتربط القبة والحاجز الخشبي والنقوش والزخرفة وموقع الجبانة بين العلم والرعاية السياسية والزيارة والعمران الجنائزي.",
+  "clarificationNoteEn": "The early tomb and the later standing architecture must be distinguished.",
+  "clarificationNoteAr": "يجب التمييز بين القبر المبكر والعمارة القائمة اللاحقة.",
+  "keyDates": [
+    {
+      "dateEn": "major surviving phase early 13th century; tomb tradition earlier",
+      "dateAr": "major surviving phase early 13th century; tomb tradition earlier",
+      "eventEn": "Principal documented phase",
+      "eventAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "phaseEn": "Original or principal construction",
+      "phaseAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "phaseEn": "Later repairs, additions, or conservation",
+      "phaseAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.0232,
+  "longitude": 31.2617,
+  "locationPrecision": "approximate site centroid; validate",
+  "activeWorshipStatus": "active-devotional-shrine",
+  "funerarySensitivity": "high",
+  "ticketingStatus": "current ticketing requires official verification",
+  "photographyPolicy": "current photography policy requires on-site or official verification",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "recommendedVisitDurationMinutes": 45,
+  "priorityVisualStoryEn": "Dome, carved wooden enclosure, inscriptions, filtered light, and cemetery context.",
+  "priorityVisualStoryAr": "القبة والحاجز الخشبي المنحوت والنقوش والضوء المرشح وسياق الجبانة.",
+  "sourceIds": [
+    "src-egy-historic",
+    "src-unesco",
+    "src-media-shafii"
+  ],
+  "claimIds": [
+    "claim-mausoleum-imam-al-shafii-date",
+    "claim-mausoleum-imam-al-shafii-period",
+    "claim-mausoleum-imam-al-shafii-function",
+    "claim-mausoleum-imam-al-shafii-clarification",
+    "claim-mausoleum-imam-al-shafii-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

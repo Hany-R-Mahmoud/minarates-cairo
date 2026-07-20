@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "cairo-aqueduct",
+  "nameEn": "Cairo Aqueduct",
+  "nameAr": "سور مجرى العيون",
+  "alternateNames": [],
+  "candidateType": "water infrastructure",
+  "historicalPeriod": "Ayyubid–Mamluk",
+  "dynasty": "Ayyubid/Mamluk",
+  "district": "Fustat to Citadel",
+  "whyCandidateMatters": "Cairo Aqueduct would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=cairo+aqueduct+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "medium priority"
+}

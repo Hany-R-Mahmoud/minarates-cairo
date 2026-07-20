@@ -1,0 +1,72 @@
+{
+  "slug": "sinan-pasha-mosque-bulaq",
+  "nameEn": "Sinan Pasha Mosque",
+  "nameAr": "جامع سنان باشا",
+  "alternateNames": [
+    "Mosque of Sinan Pasha in Bulaq"
+  ],
+  "historicalPeriod": "Ottoman Cairo",
+  "dynasty": "Ottoman",
+  "district": "Bulaq",
+  "placeType": "mosque",
+  "foundedYearOrRange": "1571 CE",
+  "dateCertainty": "widely accepted",
+  "dateDisplayEn": "1571 CE",
+  "dateDisplayAr": "1571 م",
+  "patronEn": "Sinan Pasha",
+  "patronAr": "سنان باشا",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "congregational mosque in the port district",
+  "originalFunctionAr": "مسجد جامع في الحي المينائي",
+  "currentFunctionEn": "active mosque and historic monument",
+  "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+  "historicalBriefEn": "Sinan Pasha Mosque stands in Bulaq, Cairo’s historic port and commercial district. Its central dome, surrounding portico, stone walls, and minaret demonstrate an Ottoman mosque type adapted to an Egyptian urban setting. The story connects architecture to river trade and the transformed Nile edge.",
+  "historicalBriefAr": "يقع جامع سنان باشا في بولاق، الحي المينائي والتجاري التاريخي للقاهرة. وتوضح قبته المركزية ورواقه المحيط وجدرانه الحجرية ومئذنته نموذجًا عثمانيًا جرى تكييفه مع بيئة حضرية مصرية. وتربط القصة العمارة بتجارة النهر وتحول حافة النيل.",
+  "clarificationNoteEn": "The present streets are not the original sixteenth-century port landscape.",
+  "clarificationNoteAr": "الشوارع الحالية ليست مشهد الميناء الأصلي في القرن السادس عشر.",
+  "keyDates": [
+    {
+      "dateEn": "1571 CE",
+      "dateAr": "1571 م",
+      "eventEn": "Principal documented phase",
+      "eventAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "phaseEn": "Original or principal construction",
+      "phaseAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "phaseEn": "Later repairs, additions, or conservation",
+      "phaseAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.062583,
+  "longitude": 31.229144,
+  "locationPrecision": "source-image geotag",
+  "activeWorshipStatus": "active-worship",
+  "funerarySensitivity": "none",
+  "ticketingStatus": "current ticketing requires official verification",
+  "photographyPolicy": "current photography policy requires on-site or official verification",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "recommendedVisitDurationMinutes": 35,
+  "priorityVisualStoryEn": "Central dome, portico, minaret, and modern Bulaq around the monument.",
+  "priorityVisualStoryAr": "القبة المركزية والرواق والمئذنة وبولاق الحديثة حول الأثر.",
+  "sourceIds": [
+    "src-egy-historic",
+    "src-media-sinan"
+  ],
+  "claimIds": [
+    "claim-sinan-pasha-mosque-bulaq-date",
+    "claim-sinan-pasha-mosque-bulaq-period",
+    "claim-sinan-pasha-mosque-bulaq-function",
+    "claim-sinan-pasha-mosque-bulaq-clarification",
+    "claim-sinan-pasha-mosque-bulaq-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

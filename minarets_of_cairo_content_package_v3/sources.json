@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "sourceId": "src-unesco",
+      "title": "Historic Cairo",
+      "author": "UNESCO World Heritage Centre",
+      "publisher": "UNESCO",
+      "year": 1979,
+      "url": "https://whc.unesco.org/en/list/89/",
+      "sourceType": "institutional"
+    },
+    {
+      "sourceId": "src-egy-historic",
+      "title": "Historic Cairo",
+      "author": "Ministry of Tourism and Antiquities",
+      "publisher": "Government of Egypt",
+      "year": null,
+      "url": "https://egymonuments.gov.eg/en/world-heritage/historic-cairo/",
+      "sourceType": "official"
+    },
+    {
+      "sourceId": "src-egy-gayer",
+      "title": "Gayer-Anderson Museum",
+      "author": "Ministry of Tourism and Antiquities",
+      "publisher": "Government of Egypt",
+      "year": null,
+      "url": "https://egymonuments.gov.eg/en/museums/gayer-anderson-museum",
+      "sourceType": "official"
+    },
+    {
+      "sourceId": "src-egy-qaytbay",
+      "title": "The complex of Sultan Qayitbay in the Mamluk Cemetery",
+      "author": "Ministry of Tourism and Antiquities",
+      "publisher": "Government of Egypt",
+      "year": null,
+      "url": "https://egymonuments.gov.eg/en/monuments/the-complex-of-sultan-qayitbay-in-the-mamluk-cemetery",
+      "sourceType": "official"
+    },
+    {
+      "sourceId": "src-wmf-aqsunqur",
+      "title": "Jama'a Al-Aqsunqur, Blue Mosque, Egypt",
+      "author": "World Monuments Fund",
+      "publisher": "World Monuments Fund",
+      "year": null,
+      "url": "https://www.wmf.org/monuments/jamaa-al-aqsunqur-blue-mosque",
+      "sourceType": "conservation"
+    },
+    {
+      "sourceId": "src-archnet-aqsunqur",
+      "title": "Amir Aqsunqur Funerary Complex",
+      "author": "Archnet",
+      "publisher": "MIT/AKDN",
+      "year": null,
+      "url": "https://www.archnet.org/sites/2302",
+      "sourceType": "academic-database"
+    },
+    {
+      "sourceId": "src-media-gayer",
+      "title": "Central Courtyard of the Gayer-Anderson Museum.jpg",
+      "author": "Peter Astbury",
+      "publisher": "Wikimedia Commons",
+      "year": 2012,
+      "url": "https://commons.wikimedia.org/wiki/File:Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+      "sourceType": "open-media-source"
+    },
+    {
+      "sourceId": "src-media-qaytbay",
+      "title": "Sultan Al-Ashraf Qaytbay Mosque and Mausoleum.jpg",
+      "author": "Michal Huniewicz",
+      "publisher": "Wikimedia Commons",
+      "year": 2014,
+      "url": "https://commons.wikimedia.org/wiki/File:Sultan_Al-Ashraf_Qaytbay_Mosque_and_Mausoleum.jpg",
+      "sourceType": "open-media-source"
+    },
+    {
+      "sourceId": "src-media-aqsunqur",
+      "title": "Blue-mosque-bradybd.JPG",
+      "author": "Brady Brim-DeForest",
+      "publisher": "Wikimedia Commons",
+      "year": 2007,
+      "url": "https://commons.wikimedia.org/wiki/File:Blue-mosque-bradybd.JPG",
+      "sourceType": "open-media-source"
+    },
+    {
+      "sourceId": "src-media-razzaz",
+      "title": "Bayt al-Razzaz courtyard2.jpg",
+      "author": "Robert Prazeres",
+      "publisher": "Wikimedia Commons",
+      "year": 2012,
+      "url": "https://commons.wikimedia.org/wiki/File:Bayt_al-Razzaz_courtyard2.jpg",
+      "sourceType": "open-media-source"
+    },
+    {
+      "sourceId": "src-media-sulayman-pasha",
+      "title": "Sulayman Pasha al-Khadem Mosque (26065).jpg",
+      "author": "Amr F. Nagy",
+      "publisher": "Wikimedia Commons",
+      "year": 2026,
+      "url": "https://commons.wikimedia.org/wiki/File:Sulayman_Pasha_al-Khadem_Mosque_(26065).jpg",
+      "sourceType": "open-media-source"
+    },
+    {
+      "sourceId": "src-media-sinan",
+      "title": "Sinan Pasha Mosque Cairo 17 from north.jpg",
+      "author": "Marsupium",
+      "publisher": "Wikimedia Commons",
+      "year": 2021,
+      "url": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+      "sourceType": "open-media-source"
+    },
+    {
+      "sourceId": "src-media-shafii",
+      "title": "Imam Shafii Tomb.jpg",
+      "author": "Imam Khairul Annas",
+      "publisher": "Wikimedia Commons",
+      "year": 2016,
+      "url": "https://commons.wikimedia.org/wiki/File:Imam_Shafii_Tomb.jpg",
+      "sourceType": "open-media-source"
+    },
+    {
+      "sourceId": "src-media-shajarat",
+      "title": "Mausoleum of Shajar al-Durr DSCF2771.jpg",
+      "author": "R Prazeres",
+      "publisher": "Wikimedia Commons",
+      "year": 2019,
+      "url": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+      "sourceType": "open-media-source"
+    },
+    {
+      "sourceId": "src-media-nafisa",
+      "title": "Nafisa Al Bayda Sabil 01.jpg",
+      "author": "Peter Astbury",
+      "publisher": "Wikimedia Commons",
+      "year": 2012,
+      "url": "https://commons.wikimedia.org/wiki/File:Nafisa_Al_Bayda_Sabil_01.jpg",
+      "sourceType": "open-media-source"
+    },
+    {
+      "sourceId": "src-media-silahdar",
+      "title": "Mosque-Sabil of Sulayman Agha al-Silahdar.jpg",
+      "author": "Mohammed Moussa",
+      "publisher": "Wikimedia Commons",
+      "year": 2019,
+      "url": "https://commons.wikimedia.org/wiki/File:Mosque-Sabil_of_Sulayman_Agha_al-Silahdar.jpg",
+      "sourceType": "open-media-source"
+    }
+  ]
+}

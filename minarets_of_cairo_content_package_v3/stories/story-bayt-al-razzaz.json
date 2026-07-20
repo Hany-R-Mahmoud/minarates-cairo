@@ -1,0 +1,61 @@
+{
+  "storySlug": "story-bayt-al-razzaz",
+  "relatedPlaceSlug": "bayt-al-razzaz",
+  "titleEn": "Reading Bayt al-Razzaz",
+  "titleAr": "قراءة بيت الرزاز",
+  "summaryEn": "A bilingual architectural and historical journey through Bayt al-Razzaz.",
+  "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في بيت الرزاز.",
+  "storyType": "place-deep-dive",
+  "chapters": [
+    {
+      "chapterSlug": "bayt-al-razzaz-chapter-1",
+      "titleEn": "A House Made from Houses",
+      "titleAr": "بيت تكوّن من بيوت",
+      "bodyEn": "Bayt al-Razzaz is a large domestic ensemble created by joining and expanding houses over several centuries. Courtyards, reception halls, service zones, ceilings, and mashrabiyas preserve Mamluk and Ottoman layers and show how elite households grew inside dense streets.",
+      "bodyAr": "بيت الرزاز مجموعة منزلية كبيرة تكونت بضم بيوت وتوسيعها عبر قرون. وتحفظ الأفنية وقاعات الاستقبال ومساحات الخدمة والأسقف والمشربيات طبقات مملوكية وعثمانية وتوضح نمو بيوت النخبة داخل الشوارع الكثيفة.",
+      "claimIds": [
+        "claim-bayt-al-razzaz-story-1"
+      ]
+    },
+    {
+      "chapterSlug": "bayt-al-razzaz-chapter-2",
+      "titleEn": "Courtyards and Household Worlds",
+      "titleAr": "الأفنية وعوالم الأسرة",
+      "bodyEn": "Connected courtyards, mashrabiyas, ceilings, and a phased-growth diagram.",
+      "bodyAr": "الأفنية المتصلة والمشربيات والأسقف ورسم يوضح مراحل النمو.",
+      "claimIds": [
+        "claim-bayt-al-razzaz-story-2"
+      ]
+    },
+    {
+      "chapterSlug": "bayt-al-razzaz-chapter-3",
+      "titleEn": "Conserving a Giant Residence",
+      "titleAr": "ترميم مسكن ضخم",
+      "bodyEn": "A single patron or date cannot describe the entire complex.",
+      "bodyAr": "لا يمكن وصف المجموعة كلها براعي واحد أو تاريخ واحد.",
+      "claimIds": [
+        "claim-bayt-al-razzaz-story-3"
+      ]
+    }
+  ],
+  "relatedPeriods": [
+    "Mamluk and Ottoman Cairo"
+  ],
+  "relatedPlaces": [],
+  "tags": [
+    "historic domestic complex",
+    "Darb al-Ahmar",
+    "Burji Mamluk / Ottoman"
+  ],
+  "sourceIds": [
+    "src-egy-historic",
+    "src-unesco",
+    "src-media-razzaz"
+  ],
+  "claimIds": [
+    "claim-bayt-al-razzaz-story-1",
+    "claim-bayt-al-razzaz-story-2",
+    "claim-bayt-al-razzaz-story-3"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

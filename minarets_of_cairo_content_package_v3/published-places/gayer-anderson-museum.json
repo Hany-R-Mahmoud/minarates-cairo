@@ -1,0 +1,74 @@
+{
+  "slug": "gayer-anderson-museum",
+  "nameEn": "Gayer-Anderson Museum",
+  "nameAr": "متحف جاير أندرسون",
+  "alternateNames": [
+    "Bayt al-Kritliyya",
+    "بيت الكريتلية"
+  ],
+  "historicalPeriod": "Ottoman Cairo with modern museum history",
+  "dynasty": "Ottoman / modern museum",
+  "district": "Al-Saliba / Sayyida Zaynab",
+  "placeType": "historic houses and museum",
+  "foundedYearOrRange": "16th–17th centuries; museum adaptation from 1935",
+  "dateCertainty": "multi-phase",
+  "dateDisplayEn": "16th–17th centuries; museum adaptation from 1935",
+  "dateDisplayAr": "16th–17th centuries; museum adaptation from 1935",
+  "patronEn": "Multiple house patrons; later Gayer-Anderson",
+  "patronAr": "رعاة متعددون للبيتين؛ ثم جاير أندرسون",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "urban residences",
+  "originalFunctionAr": "مساكن حضرية",
+  "currentFunctionEn": "museum of domestic architecture and collections",
+  "currentFunctionAr": "متحف للعمارة المنزلية والمقتنيات",
+  "historicalBriefEn": "The museum occupies two connected historic houses beside Ibn Tulun Mosque. Courtyards, reception halls, mashrabiyas, and service routes reveal domestic architecture, while Gayer-Anderson’s twentieth-century residence added a separate museum layer. The interpretation must distinguish the older houses from the later collection and display choices.",
+  "historicalBriefAr": "يشغل المتحف بيتين تاريخيين متصلين بجوار جامع ابن طولون. وتكشف الأفنية وقاعات الاستقبال والمشربيات ومسارات الخدمة عمارة السكن، بينما أضافت إقامة جاير أندرسون في القرن العشرين طبقة متحفية منفصلة. ويجب التمييز بين البيتين الأقدم والمجموعة وطرق العرض اللاحقة.",
+  "clarificationNoteEn": "The houses were not built for Gayer-Anderson.",
+  "clarificationNoteAr": "لم يُشيد البيتان من أجل جاير أندرسون.",
+  "keyDates": [
+    {
+      "dateEn": "16th–17th centuries; museum adaptation from 1935",
+      "dateAr": "16th–17th centuries; museum adaptation from 1935",
+      "eventEn": "Principal documented phase",
+      "eventAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "phaseEn": "Original or principal construction",
+      "phaseAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "phaseEn": "Later repairs, additions, or conservation",
+      "phaseAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.028703,
+  "longitude": 31.250808,
+  "locationPrecision": "source-image geotag",
+  "activeWorshipStatus": "not-active-worship",
+  "funerarySensitivity": "none",
+  "ticketingStatus": "current ticketing requires official verification",
+  "photographyPolicy": "current photography policy requires on-site or official verification",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "recommendedVisitDurationMinutes": 60,
+  "priorityVisualStoryEn": "Courtyard depth, mashrabiya screens, and the difference between historic fabric and museum display.",
+  "priorityVisualStoryAr": "عمق الفناء والمشربيات والفارق بين النسيج التاريخي والعرض المتحفي.",
+  "sourceIds": [
+    "src-egy-gayer",
+    "src-egy-historic",
+    "src-media-gayer"
+  ],
+  "claimIds": [
+    "claim-gayer-anderson-museum-date",
+    "claim-gayer-anderson-museum-period",
+    "claim-gayer-anderson-museum-function",
+    "claim-gayer-anderson-museum-clarification",
+    "claim-gayer-anderson-museum-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

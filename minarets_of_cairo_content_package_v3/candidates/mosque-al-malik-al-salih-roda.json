@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "mosque-al-malik-al-salih-roda",
+  "nameEn": "Mosque of al-Malik al-Salih on Roda",
+  "nameAr": "جامع الملك الصالح بالروضة",
+  "alternateNames": [],
+  "candidateType": "mosque",
+  "historicalPeriod": "Ayyubid",
+  "dynasty": "Ayyubid",
+  "district": "Roda Island",
+  "whyCandidateMatters": "Mosque of al-Malik al-Salih on Roda would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mosque+al+malik+al+salih+roda+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "medium priority"
+}

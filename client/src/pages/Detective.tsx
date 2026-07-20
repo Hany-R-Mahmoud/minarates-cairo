@@ -1,9 +1,8 @@
 import { useState } from "react";
 import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
-import { CheckCircle, XCircle, HelpCircle, ChevronRight } from "lucide-react";
+import { CheckCircle, XCircle, HelpCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
 import { toast } from "sonner";
 
 const DIFFICULTY_COLORS: Record<string, string> = {
@@ -47,8 +46,15 @@ function ActivityCard({ activity }: { activity: Activity }) {
   const { lang, isRTL, t } = useLang();
   const [selected, setSelected] = useState<string | null>(null);
   const [revealed, setRevealed] = useState(false);
+  const isCorrect = selected !== null && selected === activity.correctAnswer;
 
-  const options = (activity.options as Array<{ value: string; labelEn: string; labelAr: string }> | null) ?? [];
+  const options = Array.isArray(activity.options)
+    ? activity.options.filter((option): option is { value: string; labelEn: string; labelAr: string } => {
+      if (!option || typeof option !== "object") return false;
+      const candidate = option as Record<string, unknown>;
+      return typeof candidate.value === "string" && typeof candidate.labelEn === "string" && typeof candidate.labelAr === "string";
+    })
+    : [];
   const title = lang === "ar" ? activity.titleAr : activity.titleEn;
   const prompt = lang === "ar" ? activity.promptAr : activity.promptEn;
   const explanation = lang === "ar" ? activity.explanationAr : activity.explanationEn;

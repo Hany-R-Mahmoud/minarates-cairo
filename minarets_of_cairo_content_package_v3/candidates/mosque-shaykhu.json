@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "mosque-shaykhu",
+  "nameEn": "Mosque of Amir Shaykhu",
+  "nameAr": "مسجد الأمير شيخو",
+  "alternateNames": [],
+  "candidateType": "mosque",
+  "historicalPeriod": "Bahri Mamluk",
+  "dynasty": "Bahri Mamluk",
+  "district": "Al-Saliba",
+  "whyCandidateMatters": "Mosque of Amir Shaykhu would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mosque+shaykhu+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "high priority"
+}

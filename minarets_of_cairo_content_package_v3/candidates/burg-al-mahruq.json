@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "burg-al-mahruq",
+  "nameEn": "Burg al-Mahruq",
+  "nameAr": "برج المحروق",
+  "alternateNames": [],
+  "candidateType": "fortification tower",
+  "historicalPeriod": "Ayyubid",
+  "dynasty": "Ayyubid",
+  "district": "Darb al-Ahmar",
+  "whyCandidateMatters": "Burg al-Mahruq would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=burg+al+mahruq+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "high priority"
+}

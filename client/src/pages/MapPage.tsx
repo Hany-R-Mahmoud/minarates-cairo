@@ -4,7 +4,7 @@ import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Button } from "@/components/ui/button";
-import { List, Map as MapIcon, MapPin, ChevronRight } from "lucide-react";
+import { List, Map as MapIcon, MapPin, ChevronRight, ChevronLeft } from "lucide-react";
 
 export default function MapPage() {
   const { lang, isRTL, t } = useLang();
@@ -26,6 +26,9 @@ export default function MapPage() {
 
   const places = placesData?.items ?? [];
   const placesWithCoords = places.filter(p => p.lat && p.lng);
+  const markerKey = placesWithCoords
+    .map(place => `${place.id}:${place.slug}:${place.lat}:${place.lng}`)
+    .join("|");
 
   useEffect(() => {
     if (view !== "map" || !mapRef.current) return;
@@ -62,26 +65,54 @@ export default function MapPage() {
           if (cancelled) return;
           placesWithCoords.forEach(place => {
             if (!place.lat || !place.lng) return;
+            const displayName = lang === "ar" ? place.nameAr : place.nameEn;
+            const monumentHref = `/monuments/${place.slug}`;
             const el = document.createElement("div");
             el.className = "map-marker";
+            el.tabIndex = 0;
+            el.setAttribute("role", "button");
+            el.setAttribute("aria-label", `${displayName} — ${t("Open monument", "فتح المعلم")}`);
             el.style.cssText = `
               width: 28px; height: 28px; border-radius: 50% 50% 50% 0;
               background: #C4622D; border: 2px solid white;
               transform: rotate(-45deg); cursor: pointer;
               box-shadow: 0 2px 6px rgba(0,0,0,0.3);
             `;
-            el.addEventListener("click", () => {
-              window.location.href = `/monuments/${place.slug}`;
+            const activateMarker = () => {
+              window.location.href = monumentHref;
+            };
+            el.addEventListener("click", activateMarker);
+            el.addEventListener("keydown", event => {
+              if (event.key === "Enter" || event.key === " ") {
+                event.preventDefault();
+                activateMarker();
+              }
             });
 
+            const popupContent = document.createElement("div");
+            popupContent.dir = lang === "ar" ? "rtl" : "ltr";
+            popupContent.style.cssText = "font-family: system-ui; padding: 4px 0;";
+
+            const name = document.createElement("div");
+            name.textContent = displayName;
+            name.style.cssText = "font-weight: 600; font-size: 13px; color: #1C1410;";
+            popupContent.appendChild(name);
+
+            if (place.foundedYear) {
+              const year = document.createElement("div");
+              year.textContent = `${place.foundedYear} CE`;
+              year.style.cssText = "font-size: 11px; color: #6b6b6b; margin-top: 2px;";
+              popupContent.appendChild(year);
+            }
+
+            const link = document.createElement("a");
+            link.href = monumentHref;
+            link.textContent = t("View →", "عرض ←");
+            link.style.cssText = "font-size: 11px; color: #C4622D; margin-top: 4px; display: block;";
+            popupContent.appendChild(link);
+
             const popup = new maplibregl.Popup({ offset: 25, closeButton: false })
-              .setHTML(`
-                <div style="font-family: system-ui; padding: 4px 0;">
-                  <div style="font-weight: 600; font-size: 13px; color: #1C1410;">${lang === "ar" ? place.nameAr : place.nameEn}</div>
-                  ${place.foundedYear ? `<div style="font-size: 11px; color: #6b6b6b; margin-top: 2px;">${place.foundedYear} CE</div>` : ""}
-                  <a href="/monuments/${place.slug}" style="font-size: 11px; color: #C4622D; margin-top: 4px; display: block;">View →</a>
-                </div>
-              `);
+              .setDOMContent(popupContent);
 
             new maplibregl.Marker({ element: el })
               .setLngLat([parseFloat(String(place.lng)), parseFloat(String(place.lat))])
@@ -104,7 +135,7 @@ export default function MapPage() {
         (map as { remove: () => void }).remove();
       }
     };
-  }, [view, placesWithCoords.length, lang]);
+  }, [view, markerKey, lang]);
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
@@ -145,7 +176,7 @@ export default function MapPage() {
           {/* Filters */}
           <div className="flex flex-wrap gap-3 mt-4">
             <Select value={periodFilter} onValueChange={setPeriodFilter}>
-              <SelectTrigger className="w-44 bg-[var(--color-stone-800)] border-[var(--color-stone-700)] text-[var(--color-stone-200)]">
+              <SelectTrigger aria-label={t("Filter by period", "التصفية حسب الحقبة")} className="w-44 bg-[var(--color-stone-800)] border-[var(--color-stone-700)] text-[var(--color-stone-200)]">
                 <SelectValue placeholder={t("All Periods", "جميع الحقب")} />
               </SelectTrigger>
               <SelectContent>
@@ -156,7 +187,7 @@ export default function MapPage() {
               </SelectContent>
             </Select>
             <Select value={districtFilter} onValueChange={setDistrictFilter}>
-              <SelectTrigger className="w-44 bg-[var(--color-stone-800)] border-[var(--color-stone-700)] text-[var(--color-stone-200)]">
+              <SelectTrigger aria-label={t("Filter by district", "التصفية حسب الحي")} className="w-44 bg-[var(--color-stone-800)] border-[var(--color-stone-700)] text-[var(--color-stone-200)]">
                 <SelectValue placeholder={t("All Districts", "جميع الأحياء")} />
               </SelectTrigger>
               <SelectContent>
@@ -172,7 +203,7 @@ export default function MapPage() {
 
       {/* Map / List */}
       {view === "map" ? (
-        <div className="relative" style={{ height: "calc(100vh - 200px)", minHeight: "500px" }}>
+        <div className="relative h-[min(70vh,640px)] min-h-[360px]">
           <div ref={mapRef} className="w-full h-full" />
           {/* Map attribution */}
           <div className="absolute bottom-2 right-2 text-xs text-[var(--color-stone-500)] bg-white/80 px-2 py-1 rounded">
@@ -195,7 +226,7 @@ export default function MapPage() {
                         <p className="text-xs text-[var(--color-stone-400)] mt-0.5">{place.foundedYear} CE</p>
                       )}
                     </div>
-                    <ChevronRight size={14} className="text-[var(--color-stone-400)] shrink-0 mt-0.5" />
+                    {isRTL ? <ChevronLeft size={14} className="text-[var(--color-stone-400)] shrink-0 mt-0.5" /> : <ChevronRight size={14} className="text-[var(--color-stone-400)] shrink-0 mt-0.5" />}
                   </div>
                 </div>
               </Link>

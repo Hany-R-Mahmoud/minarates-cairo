@@ -1,0 +1,61 @@
+{
+  "storySlug": "story-aqsunqur-blue-mosque",
+  "relatedPlaceSlug": "aqsunqur-blue-mosque",
+  "titleEn": "Reading Aqsunqur Mosque (Blue Mosque)",
+  "titleAr": "قراءة جامع آق سنقر (الجامع الأزرق)",
+  "summaryEn": "A bilingual architectural and historical journey through Aqsunqur Mosque (Blue Mosque).",
+  "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في جامع آق سنقر (الجامع الأزرق).",
+  "storyType": "place-deep-dive",
+  "chapters": [
+    {
+      "chapterSlug": "aqsunqur-blue-mosque-chapter-1",
+      "titleEn": "A Mamluk Foundation",
+      "titleAr": "منشأة مملوكية",
+      "bodyEn": "Aqsunqur Mosque combines a fourteenth-century Mamluk foundation with a major Ottoman decorative phase. Blue and turquoise tiles transformed the qibla wall and created the popular modern name. Its plan, mausoleums, minbar, stonework, and tiles should be read as layers rather than one style.",
+      "bodyAr": "يجمع جامع آق سنقر بين منشأة مملوكية من القرن الرابع عشر ومرحلة زخرفية عثمانية كبيرة. وقد غيرت البلاطات الزرقاء والفيروزية جدار القبلة وصنعت الاسم الشائع الحديث. ويجب قراءة الخطة والأضرحة والمنبر والحجر والبلاطات بوصفها طبقات لا طرازًا واحدًا.",
+      "claimIds": [
+        "claim-aqsunqur-blue-mosque-story-1"
+      ]
+    },
+    {
+      "chapterSlug": "aqsunqur-blue-mosque-chapter-2",
+      "titleEn": "Why the Mosque Became Blue",
+      "titleAr": "كيف أصبح الجامع أزرق",
+      "bodyEn": "Blue tiles, mihrab, minbar, striped arches, and the contrast between Mamluk structure and Ottoman surface.",
+      "bodyAr": "البلاطات الزرقاء والمحراب والمنبر والعقود المخططة والتباين بين الهيكل المملوكي والسطح العثماني.",
+      "claimIds": [
+        "claim-aqsunqur-blue-mosque-story-2"
+      ]
+    },
+    {
+      "chapterSlug": "aqsunqur-blue-mosque-chapter-3",
+      "titleEn": "Reading Layers, Not Labels",
+      "titleAr": "قراءة الطبقات لا التسميات",
+      "bodyEn": "The famous blue tiles belong mainly to a later Ottoman phase.",
+      "bodyAr": "تنتمي البلاطات الزرقاء الشهيرة أساسًا إلى مرحلة عثمانية لاحقة.",
+      "claimIds": [
+        "claim-aqsunqur-blue-mosque-story-3"
+      ]
+    }
+  ],
+  "relatedPeriods": [
+    "Bahri Mamluk with Ottoman decorative phase"
+  ],
+  "relatedPlaces": [],
+  "tags": [
+    "mosque and funerary complex",
+    "Darb al-Ahmar",
+    "Bahri Mamluk / Ottoman"
+  ],
+  "sourceIds": [
+    "src-wmf-aqsunqur",
+    "src-archnet-aqsunqur",
+    "src-media-aqsunqur"
+  ],
+  "claimIds": [
+    "claim-aqsunqur-blue-mosque-story-1",
+    "claim-aqsunqur-blue-mosque-story-2",
+    "claim-aqsunqur-blue-mosque-story-3"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

@@ -1,12 +1,17 @@
 import React, { useState } from "react";
 import { Link, useLocation } from "wouter";
 import { useLang } from "@/contexts/LanguageContext";
-import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import {
   Menu, Map, BookOpen, Compass, BarChart2, Zap, BookMarked,
-  PenLine, Globe, Search, Home, Layers, ChevronRight
+  PenLine, Globe, Home, Layers
 } from "lucide-react";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu";
 import { useAuth } from "@/_core/hooks/useAuth";
 import { startLogin } from "@/const";
 
@@ -18,16 +23,40 @@ interface NavItem {
   icon: React.ReactNode;
 }
 
-const navItems: NavItem[] = [
-  { href: "/monuments", labelKey: "nav.monuments", labelEn: "Monuments", labelAr: "المعالم", icon: <BookOpen size={16} /> },
-  { href: "/map", labelKey: "nav.map", labelEn: "Map", labelAr: "الخريطة", icon: <Map size={16} /> },
-  { href: "/walks", labelKey: "nav.walks", labelEn: "Walks", labelAr: "الجولات", icon: <Compass size={16} /> },
-  { href: "/periods", labelKey: "nav.periods", labelEn: "Periods", labelAr: "الحقب", icon: <Layers size={16} /> },
-  { href: "/compare", labelKey: "nav.compare", labelEn: "Compare", labelAr: "مقارنة", icon: <BarChart2 size={16} /> },
-  { href: "/detective", labelKey: "nav.play", labelEn: "Play", labelAr: "اكتشف", icon: <Zap size={16} /> },
-  { href: "/stories", labelKey: "nav.stories", labelEn: "Stories", labelAr: "القصص", icon: <BookMarked size={16} /> },
-  { href: "/itinerary", labelKey: "nav.itinerary", labelEn: "Itinerary", labelAr: "خطة الزيارة", icon: <PenLine size={16} /> },
-  { href: "/notebook", labelKey: "nav.notebook", labelEn: "Notebook", labelAr: "مفكرتي", icon: <BookOpen size={16} /> },
+interface NavGroup {
+  labelEn: string;
+  labelAr: string;
+  items: NavItem[];
+}
+
+const navGroups: NavGroup[] = [
+  {
+    labelEn: "Explore",
+    labelAr: "استكشف",
+    items: [
+      { href: "/monuments", labelKey: "nav.monuments", labelEn: "Monuments", labelAr: "المعالم", icon: <BookOpen size={16} /> },
+      { href: "/map", labelKey: "nav.map", labelEn: "Map", labelAr: "الخريطة", icon: <Map size={16} /> },
+      { href: "/walks", labelKey: "nav.walks", labelEn: "Walks", labelAr: "الجولات", icon: <Compass size={16} /> },
+      { href: "/periods", labelKey: "nav.periods", labelEn: "Periods", labelAr: "الحقب", icon: <Layers size={16} /> },
+    ],
+  },
+  {
+    labelEn: "Learn",
+    labelAr: "تعلّم",
+    items: [
+      { href: "/stories", labelKey: "nav.stories", labelEn: "Stories", labelAr: "القصص", icon: <BookMarked size={16} /> },
+      { href: "/compare", labelKey: "nav.compare", labelEn: "Compare", labelAr: "مقارنة", icon: <BarChart2 size={16} /> },
+      { href: "/detective", labelKey: "nav.play", labelEn: "Play", labelAr: "اكتشف", icon: <Zap size={16} /> },
+    ],
+  },
+  {
+    labelEn: "Plan",
+    labelAr: "خطط",
+    items: [
+      { href: "/itinerary", labelKey: "nav.itinerary", labelEn: "Itinerary", labelAr: "خطة الزيارة", icon: <PenLine size={16} /> },
+      { href: "/notebook", labelKey: "nav.notebook", labelEn: "Notebook", labelAr: "مفكرتي", icon: <BookOpen size={16} /> },
+    ],
+  },
 ];
 
 export default function SiteLayout({ children }: { children: React.ReactNode }) {
@@ -37,9 +66,17 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
   const [mobileOpen, setMobileOpen] = useState(false);
   const isHome = location === "/";
   const isStudio = location.startsWith("/studio");
+  const isNavItemActive = (href: string) => location === href || location.startsWith(`${href}/`);
 
   return (
     <div className={`min-h-screen flex flex-col bg-[var(--color-background)] text-[var(--color-foreground)]`} dir={isRTL ? "rtl" : "ltr"}>
+      <a
+        href="#main-content"
+        className="absolute left-4 top-2 z-[60] -translate-y-24 rounded bg-[var(--color-stone-950)] px-4 py-3 text-sm font-medium text-white transition-transform focus:translate-y-0 rtl:left-auto rtl:right-4"
+      >
+        {t("Skip to main content", "انتقل إلى المحتوى الرئيسي")}
+      </a>
+
       {/* ── Navigation Header ── */}
       <header className={`sticky top-0 z-50 border-b border-[var(--color-border)] bg-[var(--color-background)]/95 backdrop-blur-sm ${isHome ? "bg-[var(--color-stone-950)]/90 border-[var(--color-stone-800)]" : ""}`}>
         <div className="container">
@@ -60,20 +97,52 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
             </Link>
 
             {/* Desktop Nav */}
-            <nav className="hidden lg:flex items-center gap-1 flex-1 justify-center">
-              {navItems.slice(0, 7).map(item => (
-                <Link key={item.href} href={item.href}>
-                  <span className={`flex items-center gap-1.5 px-3 py-1.5 rounded text-sm font-medium transition-colors duration-150 cursor-pointer
-                    ${location === item.href
-                      ? "bg-[var(--color-terracotta-600)] text-white"
+            <nav aria-label={t("Primary navigation", "التنقل الرئيسي")} className="hidden lg:flex items-center gap-1 flex-1 justify-center">
+              {navGroups.map(group => {
+                const isGroupActive = group.items.some(item => location === item.href || location.startsWith(`${item.href}/`));
+                return (
+                  <DropdownMenu key={group.labelEn}>
+                    <DropdownMenuTrigger asChild>
+                      <button
+                        className={`px-3 py-2 rounded text-sm font-medium transition-colors duration-150 ${
+                          isGroupActive
+                            ? "bg-[var(--color-terracotta-600)] text-white"
+                            : isHome
+                              ? "text-[var(--color-stone-300)] hover:text-white hover:bg-[var(--color-stone-800)]"
+                              : "text-[var(--color-stone-600)] hover:text-[var(--color-stone-900)] hover:bg-[var(--color-parchment-200)]"
+                        }`}
+                      >
+                        {lang === "ar" ? group.labelAr : group.labelEn}
+                      </button>
+                    </DropdownMenuTrigger>
+                    <DropdownMenuContent align={isRTL ? "end" : "start"}>
+                      <div dir={isRTL ? "rtl" : "ltr"}>
+                        {group.items.map(item => (
+                          <DropdownMenuItem key={item.href} asChild>
+                            <Link href={item.href} className="flex min-h-11 items-center gap-2">
+                              {item.icon}
+                              {lang === "ar" ? item.labelAr : item.labelEn}
+                            </Link>
+                          </DropdownMenuItem>
+                        ))}
+                      </div>
+                    </DropdownMenuContent>
+                  </DropdownMenu>
+                );
+              })}
+              {user?.role === "admin" && (
+                <Link href="/studio">
+                  <span className={`px-3 py-2 rounded text-sm font-medium transition-colors duration-150 cursor-pointer ${
+                    isStudio
+                      ? "bg-[var(--color-gold-400)]/20 text-[var(--color-gold-500)]"
                       : isHome
                         ? "text-[var(--color-stone-300)] hover:text-white hover:bg-[var(--color-stone-800)]"
                         : "text-[var(--color-stone-600)] hover:text-[var(--color-stone-900)] hover:bg-[var(--color-parchment-200)]"
-                    }`}>
-                    {lang === "ar" ? item.labelAr : item.labelEn}
+                  }`}>
+                    {t("Studio", "الاستوديو")}
                   </span>
                 </Link>
-              ))}
+              )}
             </nav>
 
             {/* Right actions */}
@@ -140,17 +209,24 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
                         {t("Home", "الرئيسية")}
                       </span>
                     </Link>
-                    {navItems.map(item => (
-                      <Link key={item.href} href={item.href} onClick={() => setMobileOpen(false)}>
-                        <span className={`flex items-center gap-3 px-3 py-2.5 rounded text-sm font-medium cursor-pointer transition-colors
-                          ${location === item.href
-                            ? "bg-[var(--color-terracotta-600)] text-white"
-                            : "text-[var(--color-stone-600)] hover:bg-[var(--color-parchment-200)]"
-                          }`}>
-                          {item.icon}
-                          {lang === "ar" ? item.labelAr : item.labelEn}
-                        </span>
-                      </Link>
+                    {navGroups.map(group => (
+                      <div key={group.labelEn} className="mb-3">
+                        <p className="px-3 pb-1 pt-2 text-xs font-semibold uppercase tracking-[0.14em] text-[var(--color-stone-400)]">
+                          {lang === "ar" ? group.labelAr : group.labelEn}
+                        </p>
+                        {group.items.map(item => (
+                          <Link key={item.href} href={item.href} onClick={() => setMobileOpen(false)}>
+                            <span className={`flex min-h-11 items-center gap-3 px-3 py-2.5 rounded text-sm font-medium cursor-pointer transition-colors
+                              ${isNavItemActive(item.href)
+                                ? "bg-[var(--color-terracotta-600)] text-white"
+                                : "text-[var(--color-stone-600)] hover:bg-[var(--color-parchment-200)]"
+                              }`}>
+                              {item.icon}
+                              {lang === "ar" ? item.labelAr : item.labelEn}
+                            </span>
+                          </Link>
+                        ))}
+                      </div>
                     ))}
                     <div className="border-t border-[var(--color-border)] mt-2 pt-2">
                       {!isAuthenticated && (
@@ -163,7 +239,7 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
                       )}
                       {user?.role === "admin" && (
                         <Link href="/studio" onClick={() => setMobileOpen(false)}>
-                          <span className="flex items-center gap-3 px-3 py-2.5 rounded text-sm font-medium text-[var(--color-gold-500)] hover:bg-[var(--color-parchment-200)] cursor-pointer">
+                          <span className={`flex min-h-11 items-center gap-3 px-3 py-2.5 rounded text-sm font-medium text-[var(--color-gold-500)] hover:bg-[var(--color-parchment-200)] cursor-pointer ${isStudio ? "bg-[var(--color-parchment-200)]" : ""}`}>
                             {t("Studio", "الاستوديو")}
                           </span>
                         </Link>
@@ -178,7 +254,7 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
       </header>
 
       {/* ── Main Content ── */}
-      <main className="flex-1">
+      <main id="main-content" tabIndex={-1} className="flex-1 focus-visible:outline-2 focus-visible:outline-[var(--color-terracotta-500)] focus-visible:outline-offset-2">
         {children}
       </main>
 

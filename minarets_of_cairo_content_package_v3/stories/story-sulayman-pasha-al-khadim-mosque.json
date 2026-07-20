@@ -1,0 +1,60 @@
+{
+  "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+  "relatedPlaceSlug": "sulayman-pasha-al-khadim-mosque",
+  "titleEn": "Reading Mosque of Sulayman Pasha al-Khadim",
+  "titleAr": "قراءة جامع سليمان باشا الخادم",
+  "summaryEn": "A bilingual architectural and historical journey through Mosque of Sulayman Pasha al-Khadim.",
+  "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في جامع سليمان باشا الخادم.",
+  "storyType": "place-deep-dive",
+  "chapters": [
+    {
+      "chapterSlug": "sulayman-pasha-al-khadim-mosque-chapter-1",
+      "titleEn": "Ottoman Rule Enters the Citadel",
+      "titleAr": "دخول الحكم العثماني إلى القلعة",
+      "bodyEn": "Built inside the Citadel in 1528, the mosque is an early expression of Ottoman architectural language in Cairo. Its central dome, arcades, pencil minaret, and painted or tiled surfaces contrast with nearby Mamluk forms and make a direct comparison with al-Nasir Muhammad possible.",
+      "bodyAr": "شُيد الجامع داخل القلعة سنة 1528م، وهو تعبير مبكر عن اللغة المعمارية العثمانية في القاهرة. وتختلف قبته المركزية وأروقته ومئذنته القلمية وأسطحه المصورة أو المكسوة عن الأشكال المملوكية القريبة، مما يتيح مقارنته مباشرة بجامع الناصر محمد.",
+      "claimIds": [
+        "claim-sulayman-pasha-al-khadim-mosque-story-1"
+      ]
+    },
+    {
+      "chapterSlug": "sulayman-pasha-al-khadim-mosque-chapter-2",
+      "titleEn": "A New Dome and Minaret Language",
+      "titleAr": "لغة جديدة للقباب والمآذن",
+      "bodyEn": "Arcades, central dome, pencil minaret, and comparison with the Mamluk Citadel mosque.",
+      "bodyAr": "الأروقة والقبة المركزية والمئذنة القلمية والمقارنة مع جامع القلعة المملوكي.",
+      "claimIds": [
+        "claim-sulayman-pasha-al-khadim-mosque-story-2"
+      ]
+    },
+    {
+      "chapterSlug": "sulayman-pasha-al-khadim-mosque-chapter-3",
+      "titleEn": "Two Court Mosques Side by Side",
+      "titleAr": "مسجدا بلاط جنبًا إلى جنب",
+      "bodyEn": "It is distinct from the nineteenth-century Mosque of Muhammad Ali.",
+      "bodyAr": "يختلف عن مسجد محمد علي الذي يعود إلى القرن التاسع عشر.",
+      "claimIds": [
+        "claim-sulayman-pasha-al-khadim-mosque-story-3"
+      ]
+    }
+  ],
+  "relatedPeriods": [
+    "Early Ottoman Cairo"
+  ],
+  "relatedPlaces": [],
+  "tags": [
+    "mosque",
+    "Cairo Citadel",
+    "Ottoman"
+  ],
+  "sourceIds": [
+    "src-egy-historic",
+    "src-media-sulayman-pasha"
+  ],
+  "claimIds": [
+    "claim-sulayman-pasha-al-khadim-mosque-story-1",
+    "claim-sulayman-pasha-al-khadim-mosque-story-2",
+    "claim-sulayman-pasha-al-khadim-mosque-story-3"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

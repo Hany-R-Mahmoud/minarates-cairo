@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "mausoleum-qansuh-abu-said",
+  "nameEn": "Mausoleum of Qansuh Abu Sa’id",
+  "nameAr": "قبة قانصوه أبو سعيد",
+  "alternateNames": [],
+  "candidateType": "mausoleum",
+  "historicalPeriod": "Burji Mamluk",
+  "dynasty": "Burji Mamluk",
+  "district": "Northern Cemetery",
+  "whyCandidateMatters": "Mausoleum of Qansuh Abu Sa’id would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mausoleum+qansuh+abu+said+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "medium priority"
+}

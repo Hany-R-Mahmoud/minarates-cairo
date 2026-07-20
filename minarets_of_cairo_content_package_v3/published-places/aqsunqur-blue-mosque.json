@@ -1,0 +1,75 @@
+{
+  "slug": "aqsunqur-blue-mosque",
+  "nameEn": "Aqsunqur Mosque (Blue Mosque)",
+  "nameAr": "جامع آق سنقر (الجامع الأزرق)",
+  "alternateNames": [
+    "Blue Mosque",
+    "Mosque of Ibrahim Agha",
+    "جامع إبراهيم أغا"
+  ],
+  "historicalPeriod": "Bahri Mamluk with Ottoman decorative phase",
+  "dynasty": "Bahri Mamluk / Ottoman",
+  "district": "Darb al-Ahmar",
+  "placeType": "mosque and funerary complex",
+  "foundedYearOrRange": "1346–1347 CE; major later Ottoman tile phase",
+  "dateCertainty": "multi-phase",
+  "dateDisplayEn": "1346–1347 CE; major later Ottoman tile phase",
+  "dateDisplayAr": "1346–1347 م; major later Ottoman tile phase",
+  "patronEn": "Amir Aqsunqur; later Ibrahim Agha",
+  "patronAr": "الأمير آق سنقر؛ ثم إبراهيم أغا",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "mosque and funerary foundation",
+  "originalFunctionAr": "مسجد ومنشأة جنائزية",
+  "currentFunctionEn": "active mosque and historic monument",
+  "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+  "historicalBriefEn": "Aqsunqur Mosque combines a fourteenth-century Mamluk foundation with a major Ottoman decorative phase. Blue and turquoise tiles transformed the qibla wall and created the popular modern name. Its plan, mausoleums, minbar, stonework, and tiles should be read as layers rather than one style.",
+  "historicalBriefAr": "يجمع جامع آق سنقر بين منشأة مملوكية من القرن الرابع عشر ومرحلة زخرفية عثمانية كبيرة. وقد غيرت البلاطات الزرقاء والفيروزية جدار القبلة وصنعت الاسم الشائع الحديث. ويجب قراءة الخطة والأضرحة والمنبر والحجر والبلاطات بوصفها طبقات لا طرازًا واحدًا.",
+  "clarificationNoteEn": "The famous blue tiles belong mainly to a later Ottoman phase.",
+  "clarificationNoteAr": "تنتمي البلاطات الزرقاء الشهيرة أساسًا إلى مرحلة عثمانية لاحقة.",
+  "keyDates": [
+    {
+      "dateEn": "1346–1347 CE; major later Ottoman tile phase",
+      "dateAr": "1346–1347 م; major later Ottoman tile phase",
+      "eventEn": "Principal documented phase",
+      "eventAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "phaseEn": "Original or principal construction",
+      "phaseAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "phaseEn": "Later repairs, additions, or conservation",
+      "phaseAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.036,
+  "longitude": 31.26,
+  "locationPrecision": "published coordinate lead; validate",
+  "activeWorshipStatus": "active-worship",
+  "funerarySensitivity": "medium",
+  "ticketingStatus": "current ticketing requires official verification",
+  "photographyPolicy": "current photography policy requires on-site or official verification",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "recommendedVisitDurationMinutes": 45,
+  "priorityVisualStoryEn": "Blue tiles, mihrab, minbar, striped arches, and the contrast between Mamluk structure and Ottoman surface.",
+  "priorityVisualStoryAr": "البلاطات الزرقاء والمحراب والمنبر والعقود المخططة والتباين بين الهيكل المملوكي والسطح العثماني.",
+  "sourceIds": [
+    "src-wmf-aqsunqur",
+    "src-archnet-aqsunqur",
+    "src-media-aqsunqur"
+  ],
+  "claimIds": [
+    "claim-aqsunqur-blue-mosque-date",
+    "claim-aqsunqur-blue-mosque-period",
+    "claim-aqsunqur-blue-mosque-function",
+    "claim-aqsunqur-blue-mosque-clarification",
+    "claim-aqsunqur-blue-mosque-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

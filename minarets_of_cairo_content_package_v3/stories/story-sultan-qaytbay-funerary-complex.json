@@ -1,0 +1,61 @@
+{
+  "storySlug": "story-sultan-qaytbay-funerary-complex",
+  "relatedPlaceSlug": "sultan-qaytbay-funerary-complex",
+  "titleEn": "Reading Funerary Complex of Sultan Qaytbay",
+  "titleAr": "قراءة مجموعة السلطان الأشرف قايتباي",
+  "summaryEn": "A bilingual architectural and historical journey through Funerary Complex of Sultan Qaytbay.",
+  "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في مجموعة السلطان الأشرف قايتباي.",
+  "storyType": "place-deep-dive",
+  "chapters": [
+    {
+      "chapterSlug": "sultan-qaytbay-funerary-complex-chapter-1",
+      "titleEn": "A Sultan’s City of Memory",
+      "titleAr": "مدينة سلطان للذاكرة",
+      "bodyEn": "Qaytbay’s foundation joined a mosque-madrasa and royal mausoleum with charitable and residential components. Its carved stone dome, minaret, striped masonry, colored glass, and compact interior represent late Mamluk craftsmanship. The place must be read within the living Qarafa rather than as an isolated monument.",
+      "bodyAr": "جمعت منشأة قايتباي بين المسجد والمدرسة والضريح السلطاني وعناصر خيرية وسكنية. وتمثل القبة الحجرية المنحوتة والمئذنة والبناء المخطط والزجاج الملون والداخل المدمج حرفية أواخر العصر المملوكي. ويجب قراءة الموقع ضمن القرافة الحية لا كأثر معزول.",
+      "claimIds": [
+        "claim-sultan-qaytbay-funerary-complex-story-1"
+      ]
+    },
+    {
+      "chapterSlug": "sultan-qaytbay-funerary-complex-chapter-2",
+      "titleEn": "Stone Carved Like Textile",
+      "titleAr": "حجر منحوت كأنه نسيج",
+      "bodyEn": "Carved dome, minaret, interior glass, and relationship to the Northern Cemetery skyline.",
+      "bodyAr": "القبة المنحوتة والمئذنة والزجاج الداخلي وعلاقة المجموعة بأفق صحراء المماليك.",
+      "claimIds": [
+        "claim-sultan-qaytbay-funerary-complex-story-2"
+      ]
+    },
+    {
+      "chapterSlug": "sultan-qaytbay-funerary-complex-chapter-3",
+      "titleEn": "Inside the Living Qarafa",
+      "titleAr": "داخل القرافة الحية",
+      "bodyEn": "The surrounding cemetery is an inhabited and sensitive cultural landscape.",
+      "bodyAr": "الجبانة المحيطة مشهد ثقافي مأهول وحساس.",
+      "claimIds": [
+        "claim-sultan-qaytbay-funerary-complex-story-3"
+      ]
+    }
+  ],
+  "relatedPeriods": [
+    "Burji Mamluk Cairo"
+  ],
+  "relatedPlaces": [],
+  "tags": [
+    "funerary, religious, educational and charitable complex",
+    "Northern Cemetery",
+    "Burji Mamluk"
+  ],
+  "sourceIds": [
+    "src-egy-qaytbay",
+    "src-unesco",
+    "src-media-qaytbay"
+  ],
+  "claimIds": [
+    "claim-sultan-qaytbay-funerary-complex-story-1",
+    "claim-sultan-qaytbay-funerary-complex-story-2",
+    "claim-sultan-qaytbay-funerary-complex-story-3"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "maristan-al-muayyadi",
+  "nameEn": "Bimaristan of al-Mu’ayyad",
+  "nameAr": "بيمارستان المؤيد",
+  "alternateNames": [],
+  "candidateType": "hospital remains",
+  "historicalPeriod": "Burji Mamluk",
+  "dynasty": "Burji Mamluk",
+  "district": "Historic Cairo",
+  "whyCandidateMatters": "Bimaristan of al-Mu’ayyad would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=maristan+al+muayyadi+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "medium priority"
+}

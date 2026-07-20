@@ -1,8 +1,9 @@
 import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
 import { Link } from "wouter";
-import { ArrowRight, ArrowLeft, Map, Compass, BarChart2, Zap, BookMarked, BookOpen, ChevronRight } from "lucide-react";
-import { Badge } from "@/components/ui/badge";
+import { ArrowRight, ArrowLeft, Map, Compass, BarChart2, Zap, BookMarked, BookOpen, ChevronRight, ImageOff } from "lucide-react";
+import { buildImageKitSrcSet, buildImageKitUrl } from "@shared/media";
+import type { Place } from "@shared/types";
 
 const ERA_COLORS: Record<string, string> = {
   "tulunid": "era-tulunid",
@@ -35,12 +36,21 @@ export default function Home() {
   const { data: placesData } = trpc.places.list.useQuery({ limit: 6, offset: 0 });
   const { data: stories } = trpc.stories.list.useQuery();
 
+  const getPlaceImageAlt = (place: Place) =>
+    lang === "ar" ? (place.coverImageAltAr ?? place.coverImageAlt) : place.coverImageAlt;
+  const hasVerifiedPlaceImage = (place: Place) => Boolean(
+    place.coverImageUrl &&
+    getPlaceImageAlt(place) &&
+    place.coverImageAttribution &&
+    place.coverImageLicense,
+  );
+
   return (
     <div className="page-enter" dir={isRTL ? "rtl" : "ltr"}>
       {/* ── Cinematic Hero ── */}
       <section className="relative min-h-screen bg-[var(--color-stone-950)] flex flex-col justify-end overflow-hidden">
-        {/* Background pattern */}
-        <div className="absolute inset-0 geometric-pattern opacity-30" />
+        {/* Cinematic tonal field */}
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_70%_20%,oklch(32%_0.04_42_/_0.45),transparent_55%)]" />
         {/* Gradient overlay */}
         <div className="absolute inset-0 bg-gradient-to-b from-[var(--color-stone-950)]/40 via-transparent to-[var(--color-stone-950)]/90" />
 
@@ -179,14 +189,25 @@ export default function Home() {
             {placesData?.items.slice(0, 6).map(place => (
               <Link key={place.id} href={`/monuments/${place.slug}`}>
                 <div className="monument-card cursor-pointer group overflow-hidden">
-                  {/* Image placeholder with geometric pattern */}
-                  <div className="h-48 bg-[var(--color-stone-800)] geometric-pattern relative overflow-hidden">
-                    <div className="absolute inset-0 flex items-center justify-center">
-                      <div className="w-16 h-16 rounded-full border-2 border-[var(--color-gold-400)]/30 flex items-center justify-center">
-                        <span className="text-[var(--color-gold-400)] text-2xl font-[var(--font-arabic)]">م</span>
+                  {/* Use only media with complete provenance and descriptive text. */}
+                  <div className="h-48 bg-[var(--color-stone-800)] relative overflow-hidden">
+                    {hasVerifiedPlaceImage(place) ? (
+                      <img
+                        src={buildImageKitUrl(place.coverImageUrl!, 800)}
+                        srcSet={buildImageKitSrcSet(place.coverImageUrl!)}
+                        sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+                        alt={getPlaceImageAlt(place)!}
+                        loading="lazy"
+                        decoding="async"
+                        className="w-full h-full object-cover"
+                      />
+                    ) : (
+                      <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-[var(--color-stone-400)]">
+                        <ImageOff size={24} aria-hidden="true" />
+                        <span className="text-xs">{t("Image not yet verified", "الصورة لم تُتحقق بعد")}</span>
                       </div>
-                    </div>
-                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-stone-900)]/60 to-transparent" />
+                    )}
+                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-stone-900)]/60 to-transparent pointer-events-none" />
                   </div>
                   <div className="p-5">
                     <h3 className={`font-semibold text-[var(--color-stone-900)] mb-1 leading-snug ${lang === "ar" ? "font-[var(--font-arabic)] text-right text-lg" : "font-[var(--font-serif)]"}`}>

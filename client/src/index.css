@@ -98,7 +98,6 @@
     font-family: var(--font-sans);
     background-color: var(--color-background);
     color: var(--color-foreground);
-    scroll-behavior: smooth;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
@@ -299,9 +298,9 @@
   /* Sacred site notice */
   .sacred-notice {
     background: oklch(55% 0.12 150 / 0.1);
-    border-left: 3px solid oklch(55% 0.12 150);
+    border: 1px solid oklch(55% 0.12 150 / 0.3);
     padding: 0.75rem 1rem;
-    border-radius: 0 var(--radius) var(--radius) 0;
+    border-radius: var(--radius);
     font-size: 0.875rem;
   }
 
@@ -349,13 +348,6 @@
     box-shadow: var(--shadow-heritage);
   }
 
-  /* Geometric pattern overlay (non-sacred, abstract) */
-  .geometric-pattern {
-    background-image:
-      repeating-linear-gradient(45deg, oklch(74% 0.14 80 / 0.04) 0px, oklch(74% 0.14 80 / 0.04) 1px, transparent 1px, transparent 20px),
-      repeating-linear-gradient(-45deg, oklch(74% 0.14 80 / 0.04) 0px, oklch(74% 0.14 80 / 0.04) 1px, transparent 1px, transparent 20px);
-  }
-
   /* Smooth page transitions */
   .page-enter {
     animation: pageEnter 250ms var(--ease-heritage) both;
@@ -379,9 +371,23 @@
 
   /* Reduce motion */
   @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto !important;
+    }
+
     *, *::before, *::after {
-      animation-duration: 0.01ms !important;
-      transition-duration: 0.01ms !important;
+      animation: none !important;
+      transition: none !important;
+    }
+
+    .monument-card:hover,
+    .btn-heritage:active {
+      transform: none !important;
+    }
+
+    .skeleton {
+      background: var(--color-parchment-200);
+      background-size: auto;
     }
   }
 }

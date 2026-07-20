@@ -1,7 +1,9 @@
 import { Link } from "wouter";
 import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
-import { ChevronRight, BookOpen } from "lucide-react";
+import { ChevronRight, BookOpen, ImageOff } from "lucide-react";
+import { buildImageKitSrcSet, buildImageKitUrl } from "@shared/media";
+import PageIntro from "@/components/PageIntro";
 
 export default function Stories() {
   const { lang, isRTL, t } = useLang();
@@ -9,17 +11,11 @@ export default function Stories() {
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
-      {/* Header */}
-      <div className="bg-[var(--color-stone-900)] py-16">
-        <div className="container">
-          <h1 className={`text-4xl md:text-5xl font-bold text-[var(--color-parchment-100)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-            {t("Visual Stories", "قصص بصرية")}
-          </h1>
-          <p className={`text-[var(--color-stone-400)] text-lg ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
-            {t("Immersive narratives following people, ideas, and transformations across Islamic Cairo", "روايات غامرة تتبع الناس والأفكار والتحولات عبر القاهرة الإسلامية")}
-          </p>
-        </div>
-      </div>
+      <PageIntro
+        variant="editorial"
+        title={t("Visual Stories", "قصص بصرية")}
+        description={t("Immersive narratives following people, ideas, and transformations across Islamic Cairo", "روايات غامرة تتبع الناس والأفكار والتحولات عبر القاهرة الإسلامية")}
+      />
 
       <div className="container py-10">
         {isLoading ? (
@@ -32,19 +28,24 @@ export default function Stories() {
               <Link key={story.id} href={`/stories/${story.slug}`}>
                 <div className="monument-card cursor-pointer group h-full flex flex-col overflow-hidden">
                   {/* Cover image area */}
-                  <div className="h-44 bg-[var(--color-stone-800)] geometric-pattern relative overflow-hidden shrink-0">
+                  <div className="h-44 bg-[var(--color-stone-800)] relative overflow-hidden shrink-0">
                     {story.coverImageUrl ? (
                       <img
-                        src={story.coverImageUrl}
+                        src={buildImageKitUrl(story.coverImageUrl, 800)}
+                        srcSet={buildImageKitSrcSet(story.coverImageUrl)}
+                        sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
                         alt={lang === "ar" ? story.titleAr : story.titleEn}
+                        loading="lazy"
+                        decoding="async"
                         className="w-full h-full object-cover"
                       />
                     ) : (
-                      <div className="absolute inset-0 flex items-center justify-center">
-                        <BookOpen size={32} className="text-[var(--color-gold-400)]/40" />
+                      <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-[var(--color-stone-400)]">
+                        <ImageOff size={24} aria-hidden="true" />
+                        <span className="text-xs">{t("Image not yet available", "الصورة غير متاحة بعد")}</span>
                       </div>
                     )}
-                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-stone-900)]/60 to-transparent" />
+                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-stone-900)]/60 to-transparent pointer-events-none" />
                   </div>
 
                   <div className="p-5 flex flex-col flex-1">

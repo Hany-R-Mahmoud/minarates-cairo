@@ -1,0 +1,60 @@
+{
+  "storySlug": "story-sinan-pasha-mosque-bulaq",
+  "relatedPlaceSlug": "sinan-pasha-mosque-bulaq",
+  "titleEn": "Reading Sinan Pasha Mosque",
+  "titleAr": "قراءة جامع سنان باشا",
+  "summaryEn": "A bilingual architectural and historical journey through Sinan Pasha Mosque.",
+  "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في جامع سنان باشا.",
+  "storyType": "place-deep-dive",
+  "chapters": [
+    {
+      "chapterSlug": "sinan-pasha-mosque-bulaq-chapter-1",
+      "titleEn": "A Mosque in the Port",
+      "titleAr": "مسجد في الميناء",
+      "bodyEn": "Sinan Pasha Mosque stands in Bulaq, Cairo’s historic port and commercial district. Its central dome, surrounding portico, stone walls, and minaret demonstrate an Ottoman mosque type adapted to an Egyptian urban setting. The story connects architecture to river trade and the transformed Nile edge.",
+      "bodyAr": "يقع جامع سنان باشا في بولاق، الحي المينائي والتجاري التاريخي للقاهرة. وتوضح قبته المركزية ورواقه المحيط وجدرانه الحجرية ومئذنته نموذجًا عثمانيًا جرى تكييفه مع بيئة حضرية مصرية. وتربط القصة العمارة بتجارة النهر وتحول حافة النيل.",
+      "claimIds": [
+        "claim-sinan-pasha-mosque-bulaq-story-1"
+      ]
+    },
+    {
+      "chapterSlug": "sinan-pasha-mosque-bulaq-chapter-2",
+      "titleEn": "The Single-Dome Type",
+      "titleAr": "نموذج القبة الواحدة",
+      "bodyEn": "Central dome, portico, minaret, and modern Bulaq around the monument.",
+      "bodyAr": "القبة المركزية والرواق والمئذنة وبولاق الحديثة حول الأثر.",
+      "claimIds": [
+        "claim-sinan-pasha-mosque-bulaq-story-2"
+      ]
+    },
+    {
+      "chapterSlug": "sinan-pasha-mosque-bulaq-chapter-3",
+      "titleEn": "The Nile Edge Moves",
+      "titleAr": "تحول حافة النيل",
+      "bodyEn": "The present streets are not the original sixteenth-century port landscape.",
+      "bodyAr": "الشوارع الحالية ليست مشهد الميناء الأصلي في القرن السادس عشر.",
+      "claimIds": [
+        "claim-sinan-pasha-mosque-bulaq-story-3"
+      ]
+    }
+  ],
+  "relatedPeriods": [
+    "Ottoman Cairo"
+  ],
+  "relatedPlaces": [],
+  "tags": [
+    "mosque",
+    "Bulaq",
+    "Ottoman"
+  ],
+  "sourceIds": [
+    "src-egy-historic",
+    "src-media-sinan"
+  ],
+  "claimIds": [
+    "claim-sinan-pasha-mosque-bulaq-story-1",
+    "claim-sinan-pasha-mosque-bulaq-story-2",
+    "claim-sinan-pasha-mosque-bulaq-story-3"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

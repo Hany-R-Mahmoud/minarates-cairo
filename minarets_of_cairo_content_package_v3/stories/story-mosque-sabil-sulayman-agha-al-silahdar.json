@@ -1,0 +1,60 @@
+{
+  "storySlug": "story-mosque-sabil-sulayman-agha-al-silahdar",
+  "relatedPlaceSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+  "titleEn": "Reading Mosque-Sabil-Kuttab of Sulayman Agha al-Silahdar",
+  "titleAr": "قراءة مسجد وسبيل وكتاب سليمان أغا السلحدار",
+  "summaryEn": "A bilingual architectural and historical journey through Mosque-Sabil-Kuttab of Sulayman Agha al-Silahdar.",
+  "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في مسجد وسبيل وكتاب سليمان أغا السلحدار.",
+  "storyType": "place-deep-dive",
+  "chapters": [
+    {
+      "chapterSlug": "mosque-sabil-sulayman-agha-al-silahdar-chapter-1",
+      "titleEn": "Three Functions in One Façade",
+      "titleAr": "ثلاث وظائف في واجهة واحدة",
+      "bodyEn": "This nineteenth-century foundation combines mosque, sabil, and kuttab in a narrow urban plot. Painted ceilings, window grilles, marble, and stacked functions show how the Muhammad Ali period renewed older Cairo traditions of worship, water charity, and teaching.",
+      "bodyAr": "تجمع هذه المنشأة من القرن التاسع عشر بين المسجد والسبيل والكتاب في قطعة حضرية ضيقة. وتوضح الأسقف المصورة والمصبعات والرخام والوظائف المتراكبة كيف جدد عصر محمد علي تقاليد قاهرية أقدم للعبادة وخدمة الماء والتعليم.",
+      "claimIds": [
+        "claim-mosque-sabil-sulayman-agha-al-silahdar-story-1"
+      ]
+    },
+    {
+      "chapterSlug": "mosque-sabil-sulayman-agha-al-silahdar-chapter-2",
+      "titleEn": "Nineteenth-Century Revival",
+      "titleAr": "إحياء القرن التاسع عشر",
+      "bodyEn": "Painted ceiling, patterned grilles, marble interior, and stacked charitable functions.",
+      "bodyAr": "السقف المصور والمصبعات المزخرفة والداخل الرخامي والوظائف الخيرية المتراكبة.",
+      "claimIds": [
+        "claim-mosque-sabil-sulayman-agha-al-silahdar-story-2"
+      ]
+    },
+    {
+      "chapterSlug": "mosque-sabil-sulayman-agha-al-silahdar-chapter-3",
+      "titleEn": "Craft, Light, and Continuity",
+      "titleAr": "الحرفة والضوء والاستمرار",
+      "bodyEn": "Its date is nineteenth-century even though its functions recall older traditions.",
+      "bodyAr": "يرجع المبنى إلى القرن التاسع عشر رغم أن وظائفه تحيل إلى تقاليد أقدم.",
+      "claimIds": [
+        "claim-mosque-sabil-sulayman-agha-al-silahdar-story-3"
+      ]
+    }
+  ],
+  "relatedPeriods": [
+    "Muhammad Ali and nineteenth-century Cairo"
+  ],
+  "relatedPlaces": [],
+  "tags": [
+    "mosque, sabil and kuttab",
+    "al-Muizz / Burjuan",
+    "Muhammad Ali dynasty"
+  ],
+  "sourceIds": [
+    "src-egy-historic",
+    "src-media-silahdar"
+  ],
+  "claimIds": [
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-story-1",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-story-2",
+    "claim-mosque-sabil-sulayman-agha-al-silahdar-story-3"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}

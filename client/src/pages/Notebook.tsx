@@ -10,6 +10,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Input } from "@/components/ui/input";
 import { toast } from "sonner";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import PageIntro from "@/components/PageIntro";
 
 export default function Notebook() {
   const { lang, isRTL, t } = useLang();
@@ -18,13 +19,10 @@ export default function Notebook() {
   if (!isAuthenticated) {
     return (
       <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
-        <div className="bg-[var(--color-stone-900)] py-16">
-          <div className="container">
-            <h1 className={`text-4xl font-bold text-[var(--color-parchment-100)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-              {t("My Notebook", "دفتر ملاحظاتي")}
-            </h1>
-          </div>
-        </div>
+        <PageIntro
+          variant="utility"
+          title={t("My Notebook", "دفتر ملاحظاتي")}
+        />
         <div className="container py-20 text-center">
           <Lock size={40} className="mx-auto text-[var(--color-stone-300)] mb-4" />
           <p className={`text-[var(--color-stone-500)] mb-6 text-lg ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
@@ -40,29 +38,24 @@ export default function Notebook() {
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
-      <div className="bg-[var(--color-stone-900)] py-16">
-        <div className="container">
-          <h1 className={`text-4xl md:text-5xl font-bold text-[var(--color-parchment-100)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-            {t("My Notebook", "دفتر ملاحظاتي")}
-          </h1>
-          <p className={`text-[var(--color-stone-400)] ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
-            {t("Your personal space for favorites, notes, and visited places", "مساحتك الشخصية للمفضلة والملاحظات والأماكن التي زرتها")}
-          </p>
-        </div>
-      </div>
+      <PageIntro
+        variant="utility"
+        title={t("My Notebook", "دفتر ملاحظاتي")}
+        description={t("Your personal space for favorites, notes, and visited places", "مساحتك الشخصية للمفضلة والملاحظات والأماكن التي زرتها")}
+      />
 
       <div className="container py-10">
         <Tabs defaultValue="favorites" dir={isRTL ? "rtl" : "ltr"}>
-          <TabsList className="mb-6 bg-[var(--color-parchment-200)]">
-            <TabsTrigger value="favorites" className={`data-[state=active]:bg-white ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+          <TabsList aria-label={t("Notebook sections", "أقسام دفتر الملاحظات")} className="mb-6 bg-[var(--color-parchment-200)]">
+            <TabsTrigger aria-label={t("Favorites", "المفضلة")} value="favorites" className={`data-[state=active]:bg-white ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
               <Heart size={13} className="mr-1" />
               {t("Favorites", "المفضلة")}
             </TabsTrigger>
-            <TabsTrigger value="notes" className={`data-[state=active]:bg-white ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+            <TabsTrigger aria-label={t("Notes", "الملاحظات")} value="notes" className={`data-[state=active]:bg-white ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
               <StickyNote size={13} className="mr-1" />
               {t("Notes", "الملاحظات")}
             </TabsTrigger>
-            <TabsTrigger value="visited" className={`data-[state=active]:bg-white ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+            <TabsTrigger aria-label={t("Visited", "زرت")} value="visited" className={`data-[state=active]:bg-white ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
               <Star size={13} className="mr-1" />
               {t("Visited", "زرت")}
             </TabsTrigger>
@@ -121,9 +114,10 @@ function FavoritesTab() {
           </div>
           <button
             onClick={() => removeFavorite.mutate({ placeId: fav.placeId })}
+            aria-label={t("Remove from favorites", "إزالة من المفضلة")}
             className="text-[var(--color-stone-300)] hover:text-red-500 transition-colors shrink-0"
           >
-            <Trash2 size={13} />
+            <Trash2 size={13} aria-hidden="true" />
           </button>
         </div>
       ))}
@@ -161,13 +155,21 @@ function NotesTab() {
         <h3 className={`font-semibold text-[var(--color-stone-900)] text-sm ${lang === "ar" ? "font-[var(--font-arabic)]" : ""}`}>
           {t("New Note", "ملاحظة جديدة")}
         </h3>
+        <label htmlFor="notebook-note-title" className="text-sm font-medium text-[var(--color-stone-700)]">
+          {t("Title (optional)", "العنوان (اختياري)")}
+        </label>
         <Input
+          id="notebook-note-title"
           placeholder={t("Title (optional)", "العنوان (اختياري)")}
           value={newNoteTitle}
           onChange={e => setNewNoteTitle(e.target.value)}
           className={`bg-white border-[var(--color-border)] ${isRTL ? "text-right font-[var(--font-arabic-sans)]" : ""}`}
         />
+        <label htmlFor="notebook-note-content" className="text-sm font-medium text-[var(--color-stone-700)]">
+          {t("Note", "الملاحظة")}
+        </label>
         <Textarea
+          id="notebook-note-content"
           placeholder={t("Write your private note here...", "اكتب ملاحظتك الخاصة هنا...")}
           value={newNote}
           onChange={e => setNewNote(e.target.value)}
@@ -213,9 +215,10 @@ function NotesTab() {
                 </div>
                 <button
                   onClick={() => deleteNote.mutate({ id: note.id })}
+                  aria-label={t("Delete note", "حذف الملاحظة")}
                   className="text-[var(--color-stone-300)] hover:text-red-500 transition-colors shrink-0 mt-0.5"
                 >
-                  <Trash2 size={13} />
+                  <Trash2 size={13} aria-hidden="true" />
                 </button>
               </div>
             </div>

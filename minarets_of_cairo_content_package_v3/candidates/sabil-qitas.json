@@ -1,0 +1,25 @@
+{
+  "candidateSlug": "sabil-qitas",
+  "nameEn": "Sabil-Kuttab of Qitas",
+  "nameAr": "سبيل وكتاب قيطاس",
+  "alternateNames": [],
+  "candidateType": "sabil-kuttab",
+  "historicalPeriod": "Ottoman",
+  "dynasty": "Ottoman",
+  "district": "Sayyida Zaynab",
+  "whyCandidateMatters": "Sabil-Kuttab of Qitas would broaden the project beyond the current 41-record set and improve district, type, or period coverage.",
+  "knownDatesOrRange": "requires monument-specific verification",
+  "availableSourceRecords": [
+    "src-unesco",
+    "src-egy-historic"
+  ],
+  "verificationStatus": "research-only-preliminary",
+  "knownResearchGaps": [
+    "monument-specific authoritative source",
+    "exact dates and patronage",
+    "coordinates and access",
+    "verified open-license cover"
+  ],
+  "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=sabil+qitas+Cairo&title=Special:MediaSearch&type=image",
+  "recommendation": "medium priority"
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-20T00:00:00.000Z",
+  "title": "Design System: Minarets of Cairo",
+  "extensions": {
+    "colorMeta": {
+      "stone-950": { "role": "neutral", "displayName": "Night Stone", "canonical": "oklch(14% 0.025 45)", "tonalRamp": ["oklch(14% 0.025 45)", "oklch(22% 0.024 45)", "oklch(32% 0.022 45)", "oklch(42% 0.020 45)", "oklch(52% 0.017 45)", "oklch(65% 0.012 45)", "oklch(80% 0.008 45)", "oklch(96% 0.005 45)"] },
+      "stone-900": { "role": "neutral", "displayName": "Ink Stone", "canonical": "oklch(18% 0.025 45)", "tonalRamp": ["oklch(18% 0.025 45)", "oklch(26% 0.024 45)", "oklch(36% 0.021 45)", "oklch(46% 0.018 45)", "oklch(56% 0.015 45)", "oklch(68% 0.011 45)", "oklch(82% 0.007 45)", "oklch(97% 0.005 45)"] },
+      "parchment-50": { "role": "neutral", "displayName": "Quiet Parchment", "canonical": "oklch(97% 0.018 75)", "tonalRamp": ["oklch(18% 0.018 75)", "oklch(30% 0.020 75)", "oklch(43% 0.022 75)", "oklch(56% 0.023 75)", "oklch(68% 0.022 75)", "oklch(80% 0.020 75)", "oklch(90% 0.019 75)", "oklch(97% 0.018 75)"] },
+      "parchment-200": { "role": "neutral", "displayName": "Layered Parchment", "canonical": "oklch(90% 0.028 75)", "tonalRamp": ["oklch(18% 0.028 75)", "oklch(30% 0.030 75)", "oklch(43% 0.031 75)", "oklch(56% 0.032 75)", "oklch(68% 0.031 75)", "oklch(79% 0.030 75)", "oklch(86% 0.029 75)", "oklch(90% 0.028 75)"] },
+      "terracotta-600": { "role": "primary", "displayName": "Old Brick Terracotta", "canonical": "oklch(48% 0.17 42)", "tonalRamp": ["oklch(18% 0.17 42)", "oklch(28% 0.17 42)", "oklch(38% 0.17 42)", "oklch(48% 0.17 42)", "oklch(58% 0.17 42)", "oklch(68% 0.16 42)", "oklch(79% 0.15 42)", "oklch(90% 0.12 42)"] },
+      "teal-600": { "role": "secondary", "displayName": "Nile Teal", "canonical": "oklch(48% 0.13 195)", "tonalRamp": ["oklch(18% 0.13 195)", "oklch(28% 0.13 195)", "oklch(38% 0.13 195)", "oklch(48% 0.13 195)", "oklch(58% 0.13 195)", "oklch(68% 0.12 195)", "oklch(79% 0.10 195)", "oklch(90% 0.07 195)"] },
+      "gold-400": { "role": "tertiary", "displayName": "Sunlit Gold", "canonical": "oklch(74% 0.14 80)", "tonalRamp": ["oklch(18% 0.14 80)", "oklch(28% 0.14 80)", "oklch(38% 0.14 80)", "oklch(48% 0.14 80)", "oklch(58% 0.14 80)", "oklch(68% 0.14 80)", "oklch(80% 0.13 80)", "oklch(92% 0.09 80)"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Cinematic Display", "purpose": "Hero headlines and major story openings only." },
+      "body": { "displayName": "Field Guide UI", "purpose": "Navigation, controls, metadata, practical guidance, and curator workflows." },
+      "arabic-display": { "displayName": "Arabic Editorial", "purpose": "Arabic place, story, and hero titles with generous line-height." }
+    },
+    "shadows": [
+      { "name": "heritage-ambient", "value": "0 2px 8px oklch(14% 0.025 45 / 0.12), 0 1px 3px oklch(14% 0.025 45 / 0.08)", "purpose": "Resting documentary cards where tonal separation alone is insufficient." },
+      { "name": "document-lift", "value": "0 4px 16px oklch(14% 0.025 45 / 0.10), 0 1px 4px oklch(14% 0.025 45 / 0.06)", "purpose": "Interactive card lift and selected media surfaces." },
+      { "name": "elevated-overlay", "value": "0 8px 32px oklch(14% 0.025 45 / 0.14), 0 2px 8px oklch(14% 0.025 45 / 0.08)", "purpose": "Dialogs, menus, and map popovers only." }
+    ],
+    "motion": [
+      { "name": "ease-heritage", "value": "cubic-bezier(0.23, 1, 0.32, 1)", "purpose": "Ease-out for arrival, selection, and spatial transitions." },
+      { "name": "ease-in-out-heritage", "value": "cubic-bezier(0.77, 0, 0.175, 1)", "purpose": "Shared movement between map/list and gallery states." },
+      { "name": "route-duration", "value": "180ms–280ms", "purpose": "Fast route and control transitions that do not delay field work." },
+      { "name": "reduced-motion", "value": "opacity-only or instant", "purpose": "Disable smooth scrolling, shimmer, parallax, and transform-heavy reveals." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" },
+      { "name": "md", "value": "768px" },
+      { "name": "lg", "value": "1024px" },
+      { "name": "xl", "value": "1280px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Decisive action for exploring, saving, or continuing a route.",
+      "html": "<button class=\"ds-btn-primary\">Explore monuments</button>",
+      "css": ".ds-btn-primary { background: var(--color-terracotta-600); color: var(--color-stone-50); padding: 0.625rem 1.25rem; min-height: 2.75rem; border: 0; border-radius: 0.5rem; font: 500 0.875rem/1.4 'Source Sans 3', system-ui, sans-serif; cursor: pointer; transition: background 180ms cubic-bezier(0.23,1,0.32,1), transform 120ms ease-out; } .ds-btn-primary:hover { background: var(--color-terracotta-700); transform: translateY(-1px); } .ds-btn-primary:active { transform: translateY(0); } .ds-btn-primary:focus-visible { outline: 2px solid var(--color-terracotta-500); outline-offset: 2px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Supporting route or orientation action.",
+      "html": "<button class=\"ds-btn-secondary\">Open map</button>",
+      "css": ".ds-btn-secondary { background: var(--color-teal-600); color: var(--color-stone-50); padding: 0.625rem 1.25rem; min-height: 2.75rem; border: 0; border-radius: 0.5rem; font: 500 0.875rem/1.4 'Source Sans 3', system-ui, sans-serif; cursor: pointer; transition: background 180ms cubic-bezier(0.23,1,0.32,1); } .ds-btn-secondary:hover { background: var(--color-teal-500); } .ds-btn-secondary:focus-visible { outline: 2px solid var(--color-terracotta-500); outline-offset: 2px; }"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "refersTo": "input-field",
+      "description": "Visible-label search field for monument and story discovery.",
+      "html": "<label class=\"ds-field\"><span>Search monuments</span><input type=\"search\" placeholder=\"Search by name or period\" /></label>",
+      "css": ".ds-field { display: grid; gap: 0.375rem; color: var(--color-stone-900); font: 500 0.875rem/1.4 'Source Sans 3', system-ui, sans-serif; } .ds-field input { min-height: 2.75rem; width: 100%; padding: 0.625rem 0.75rem; background: var(--color-card); color: var(--color-stone-900); border: 1px solid var(--color-parchment-300); border-radius: 0.5rem; font: 400 1rem/1.5 'Source Sans 3', system-ui, sans-serif; } .ds-field input::placeholder { color: var(--color-stone-700); } .ds-field input:focus-visible { outline: 2px solid var(--color-terracotta-500); outline-offset: 2px; border-color: var(--color-terracotta-600); }"
+    },
+    {
+      "name": "Documentary Card",
+      "kind": "card",
+      "refersTo": "card-documentary",
+      "description": "Image-led place or story card using verified media and source context.",
+      "html": "<article class=\"ds-card\"><div class=\"ds-card-media\" role=\"img\" aria-label=\"Documentary monument photograph\"></div><div class=\"ds-card-body\"><p class=\"ds-card-kicker\">Mamluk period</p><h3>Monument name</h3><p>Short historical or practical context.</p></div></article>",
+      "css": ".ds-card { overflow: hidden; background: var(--color-card); color: var(--color-stone-900); border: 1px solid var(--color-parchment-300); border-radius: 0.5rem; box-shadow: 0 2px 8px oklch(14% 0.025 45 / 0.12), 0 1px 3px oklch(14% 0.025 45 / 0.08); transition: box-shadow 180ms cubic-bezier(0.23,1,0.32,1), transform 180ms cubic-bezier(0.23,1,0.32,1); } .ds-card:hover { box-shadow: 0 4px 16px oklch(14% 0.025 45 / 0.10), 0 1px 4px oklch(14% 0.025 45 / 0.06); transform: translateY(-2px); } .ds-card-media { min-height: 10rem; background: var(--color-stone-300); } .ds-card-body { padding: 1.25rem; } .ds-card-kicker { margin: 0 0 0.375rem; color: var(--color-teal-600); font: 500 0.75rem/1.4 'Source Sans 3', system-ui, sans-serif; } .ds-card h3 { margin: 0; font: 600 1.25rem/1.35 'Playfair Display', Georgia, serif; } .ds-card p { margin: 0.625rem 0 0; font: 400 1rem/1.6 'Source Sans 3', system-ui, sans-serif; }"
+    },
+    {
+      "name": "Period Chip",
+      "kind": "chip",
+      "refersTo": "period-badge",
+      "description": "Period or status marker that never carries meaning by color alone.",
+      "html": "<span class=\"ds-chip\">Mamluk</span>",
+      "css": ".ds-chip { display: inline-flex; align-items: center; min-height: 1.75rem; padding: 0.25rem 0.625rem; border-radius: 9999px; background: oklch(55% 0.16 42 / 0.15); color: oklch(40% 0.16 42); border: 1px solid oklch(55% 0.16 42 / 0.3); font: 500 0.75rem/1.4 'Source Sans 3', system-ui, sans-serif; }"
+    },
+    {
+      "name": "Grouped Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Task-grouped public navigation for Explore, Learn, Personal, and Studio.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Primary\"><a href=\"#\" class=\"ds-nav-link ds-nav-link-active\">Explore</a><a href=\"#\" class=\"ds-nav-link\">Learn</a><a href=\"#\" class=\"ds-nav-link\">Personal</a></nav>",
+      "css": ".ds-nav { display: flex; align-items: center; gap: 0.25rem; } .ds-nav-link { padding: 0.625rem 0.75rem; border-radius: 0.5rem; color: var(--color-stone-700); text-decoration: none; font: 500 0.875rem/1.4 'Source Sans 3', system-ui, sans-serif; transition: background 160ms ease-out, color 160ms ease-out; } .ds-nav-link:hover { background: var(--color-parchment-100); color: var(--color-stone-900); } .ds-nav-link-active { background: oklch(48% 0.17 42 / 0.10); color: var(--color-terracotta-700); } .ds-nav-link:focus-visible { outline: 2px solid var(--color-terracotta-500); outline-offset: 2px; }"
+    },
+    {
+      "name": "Cinematic Page Intro",
+      "kind": "custom",
+      "refersTo": "page-intro-arrival",
+      "description": "Dark documentary arrival treatment with one clear next action.",
+      "html": "<section class=\"ds-intro\"><div class=\"ds-intro-content\"><p class=\"ds-intro-kicker\">Cairo, through time</p><h1>Walk through civilization</h1><p>Discover monuments, stories, and routes across the historic city.</p><button class=\"ds-btn-primary\">Begin exploring</button></div></section>",
+      "css": ".ds-intro { min-height: 24rem; display: grid; align-items: end; padding: 3rem 1.5rem; color: var(--color-stone-50); background: var(--color-stone-950); } .ds-intro-content { max-width: 42rem; } .ds-intro-kicker { margin: 0 0 0.75rem; color: var(--color-gold-400); font: 500 0.875rem/1.4 'Source Sans 3', system-ui, sans-serif; } .ds-intro h1 { margin: 0; color: var(--color-stone-50); font: 600 clamp(2.5rem, 7vw, 5rem)/1.1 'Playfair Display', Georgia, serif; letter-spacing: -0.025em; text-wrap: balance; } .ds-intro p:not(.ds-intro-kicker) { max-width: 65ch; margin: 1rem 0 1.5rem; color: var(--color-stone-200); font: 400 1rem/1.6 'Source Sans 3', system-ui, sans-serif; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Moving Archive",
+    "overview": "Minarets of Cairo is a product UI with the atmosphere of a documentary field guide. The interface should feel like an archive that moves with the traveler: rooted in evidence, alive with place, and easy to use while walking through a historic neighborhood. Verified photography, map context, period color, captions, and bilingual typography carry more identity than ornament.\n\nThe system is curious, reverent, and vivid. It uses dark stone surfaces for arrival and cinematic focus, parchment and white surfaces for reading and planning, terracotta for decisive action, teal for orientation, and gold for rare moments of discovery. Brightness comes from contrast, real imagery, and clear wayfinding rather than saturated decoration. Motion may create a sense of arrival and continuity, but content remains visible without it and every transition has a reduced-motion alternative.",
+    "keyCharacteristics": ["Documentary editorial hierarchy.", "Bilingual English/Arabic parity with generous Arabic rhythm.", "Real place imagery and visible evidence.", "Controlled cinematic motion that serves navigation and state.", "Bright discovery moments inside a restrained product vocabulary."],
+    "rules": [
+      { "name": "The Evidence Color Rule", "body": "Accent color marks action, selection, status, or place context. It never exists only to make a card look lively.", "section": "colors" },
+      { "name": "The Brightness-Through-Place Rule", "body": "When a screen needs more brightness, add verified photography, a clear period accent, or a stronger surface contrast before adding more saturated decoration.", "section": "colors" },
+      { "name": "The Two-Voice Rule", "body": "Use serif or Arabic editorial type for place and story. Use Source Sans 3 for product actions, navigation, status, and data.", "section": "typography" },
+      { "name": "The Reading-Room Rule", "body": "Arabic text receives generous line-height and sufficient measure. Never compress Arabic to match Latin block height.", "section": "typography" },
+      { "name": "The Quiet Depth Rule", "body": "Surfaces are calm at rest. Elevation appears only when a layer floats, receives focus, or changes state.", "section": "elevation" },
+      { "name": "The No-Ghost-Card Rule", "body": "Never pair a 1px decorative border with a shadow of 16px or more on the same card or button.", "section": "elevation" }
+    ],
+    "dos": ["Do let verified photography, maps, captions, context, and source notes carry the identity.", "Do preserve English/Arabic parity in content, actions, hierarchy, and states.", "Do use terracotta for primary actions, teal for supporting orientation, and gold for rare discovery emphasis.", "Do keep body text contrast at or above 4.5:1 and verify overlay text against every image treatment.", "Do make loading, empty, error, success, disabled, and authentication states explicit.", "Do use cinematic entrance motion only when it communicates arrival or continuity; keep content visible if motion fails.", "Do provide reduced-motion behavior that disables smooth scrolling, shimmer, parallax, and transform-heavy reveals.", "Do use semantic HTML before ARIA and provide list alternatives for maps.", "Do use real verified media before decorative placeholders.", "Do design for both research at home and fast lookup while walking in bright outdoor conditions."],
+    "donts": ["Don't use generic SaaS dashboards or productivity-tool visual language for public heritage experiences.", "Don't flatten monuments into sterile databases or tourist checklists.", "Don't use decorative ancient-Egypt or generic heritage clichés without historical purpose.", "Don't use overloaded card grids, fake imagery, or AI-generated visual filler.", "Don't create separate English and Arabic experiences with unequal meaning or functionality.", "Don't use repeating stripe backgrounds, gradient text, decorative glassmorphism, or full-page motion choreography.", "Don't use colored side-stripe borders on notices, cards, or list items.", "Don't combine a 1px decorative border with a 16px-plus shadow on cards or buttons.", "Don't over-round cards, sections, inputs, or panels. Content cards stop at 12px radius.", "Don't use display fonts for controls, labels, navigation, or dense curator UI.", "Don't use color, hover, pointer position, or animation as the only way to understand or operate a feature.", "Don't expose dead actions such as fake Offline downloads or non-functional Compare cards."]
+  }
+}

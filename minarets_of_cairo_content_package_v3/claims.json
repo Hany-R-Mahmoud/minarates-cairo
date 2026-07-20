@@ -1,0 +1,1093 @@
+{
+  "schemaVersion": 1,
+  "claims": [
+    {
+      "claimId": "claim-gayer-anderson-museum-date",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "16th–17th centuries; museum adaptation from 1935",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-gayer",
+        "src-egy-historic",
+        "src-media-gayer"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-period",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Ottoman Cairo with modern museum history",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-gayer",
+        "src-egy-historic",
+        "src-media-gayer"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-function",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "urban residences",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-gayer",
+        "src-egy-historic",
+        "src-media-gayer"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-clarification",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The houses were not built for Gayer-Anderson.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-gayer",
+        "src-egy-historic",
+        "src-media-gayer"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-location",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.028703,31.250808 (source-image geotag)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-gayer",
+        "src-egy-historic",
+        "src-media-gayer"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-story-1",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": "story-gayer-anderson-museum",
+      "claimType": "story-chapter",
+      "claimTextEn": "The museum occupies two connected historic houses beside Ibn Tulun Mosque. Courtyards, reception halls, mashrabiyas, and service routes reveal domestic architecture, while Gayer-Anderson’s twentieth-century residence added a separate museum layer. The interpretation must distinguish the older houses from the later collection and display choices.",
+      "claimTextAr": "يشغل المتحف بيتين تاريخيين متصلين بجوار جامع ابن طولون. وتكشف الأفنية وقاعات الاستقبال والمشربيات ومسارات الخدمة عمارة السكن، بينما أضافت إقامة جاير أندرسون في القرن العشرين طبقة متحفية منفصلة. ويجب التمييز بين البيتين الأقدم والمجموعة وطرق العرض اللاحقة.",
+      "sourceIds": [
+        "src-egy-gayer",
+        "src-egy-historic",
+        "src-media-gayer"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-story-2",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": "story-gayer-anderson-museum",
+      "claimType": "story-chapter",
+      "claimTextEn": "Courtyard depth, mashrabiya screens, and the difference between historic fabric and museum display.",
+      "claimTextAr": "عمق الفناء والمشربيات والفارق بين النسيج التاريخي والعرض المتحفي.",
+      "sourceIds": [
+        "src-egy-gayer",
+        "src-egy-historic",
+        "src-media-gayer"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-story-3",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": "story-gayer-anderson-museum",
+      "claimType": "story-chapter",
+      "claimTextEn": "The houses were not built for Gayer-Anderson.",
+      "claimTextAr": "لم يُشيد البيتان من أجل جاير أندرسون.",
+      "sourceIds": [
+        "src-egy-gayer",
+        "src-egy-historic",
+        "src-media-gayer"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-date",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "1472–1474 CE",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-qaytbay",
+        "src-unesco",
+        "src-media-qaytbay"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-period",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Burji Mamluk Cairo",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-qaytbay",
+        "src-unesco",
+        "src-media-qaytbay"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-function",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "royal funerary and charitable foundation",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-qaytbay",
+        "src-unesco",
+        "src-media-qaytbay"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-clarification",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The surrounding cemetery is an inhabited and sensitive cultural landscape.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-qaytbay",
+        "src-unesco",
+        "src-media-qaytbay"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-location",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.0446,31.2765 (approximate site centroid; validate)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-qaytbay",
+        "src-unesco",
+        "src-media-qaytbay"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-story-1",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": "story-sultan-qaytbay-funerary-complex",
+      "claimType": "story-chapter",
+      "claimTextEn": "Qaytbay’s foundation joined a mosque-madrasa and royal mausoleum with charitable and residential components. Its carved stone dome, minaret, striped masonry, colored glass, and compact interior represent late Mamluk craftsmanship. The place must be read within the living Qarafa rather than as an isolated monument.",
+      "claimTextAr": "جمعت منشأة قايتباي بين المسجد والمدرسة والضريح السلطاني وعناصر خيرية وسكنية. وتمثل القبة الحجرية المنحوتة والمئذنة والبناء المخطط والزجاج الملون والداخل المدمج حرفية أواخر العصر المملوكي. ويجب قراءة الموقع ضمن القرافة الحية لا كأثر معزول.",
+      "sourceIds": [
+        "src-egy-qaytbay",
+        "src-unesco",
+        "src-media-qaytbay"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-story-2",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": "story-sultan-qaytbay-funerary-complex",
+      "claimType": "story-chapter",
+      "claimTextEn": "Carved dome, minaret, interior glass, and relationship to the Northern Cemetery skyline.",
+      "claimTextAr": "القبة المنحوتة والمئذنة والزجاج الداخلي وعلاقة المجموعة بأفق صحراء المماليك.",
+      "sourceIds": [
+        "src-egy-qaytbay",
+        "src-unesco",
+        "src-media-qaytbay"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sultan-qaytbay-funerary-complex-story-3",
+      "placeSlug": "sultan-qaytbay-funerary-complex",
+      "storySlug": "story-sultan-qaytbay-funerary-complex",
+      "claimType": "story-chapter",
+      "claimTextEn": "The surrounding cemetery is an inhabited and sensitive cultural landscape.",
+      "claimTextAr": "الجبانة المحيطة مشهد ثقافي مأهول وحساس.",
+      "sourceIds": [
+        "src-egy-qaytbay",
+        "src-unesco",
+        "src-media-qaytbay"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-date",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "1346–1347 CE; major later Ottoman tile phase",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-wmf-aqsunqur",
+        "src-archnet-aqsunqur",
+        "src-media-aqsunqur"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-period",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Bahri Mamluk with Ottoman decorative phase",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-wmf-aqsunqur",
+        "src-archnet-aqsunqur",
+        "src-media-aqsunqur"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-function",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "mosque and funerary foundation",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-wmf-aqsunqur",
+        "src-archnet-aqsunqur",
+        "src-media-aqsunqur"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-clarification",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The famous blue tiles belong mainly to a later Ottoman phase.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-wmf-aqsunqur",
+        "src-archnet-aqsunqur",
+        "src-media-aqsunqur"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-location",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.036,31.26 (published coordinate lead; validate)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-wmf-aqsunqur",
+        "src-archnet-aqsunqur",
+        "src-media-aqsunqur"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-story-1",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "Aqsunqur Mosque combines a fourteenth-century Mamluk foundation with a major Ottoman decorative phase. Blue and turquoise tiles transformed the qibla wall and created the popular modern name. Its plan, mausoleums, minbar, stonework, and tiles should be read as layers rather than one style.",
+      "claimTextAr": "يجمع جامع آق سنقر بين منشأة مملوكية من القرن الرابع عشر ومرحلة زخرفية عثمانية كبيرة. وقد غيرت البلاطات الزرقاء والفيروزية جدار القبلة وصنعت الاسم الشائع الحديث. ويجب قراءة الخطة والأضرحة والمنبر والحجر والبلاطات بوصفها طبقات لا طرازًا واحدًا.",
+      "sourceIds": [
+        "src-wmf-aqsunqur",
+        "src-archnet-aqsunqur",
+        "src-media-aqsunqur"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-story-2",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "Blue tiles, mihrab, minbar, striped arches, and the contrast between Mamluk structure and Ottoman surface.",
+      "claimTextAr": "البلاطات الزرقاء والمحراب والمنبر والعقود المخططة والتباين بين الهيكل المملوكي والسطح العثماني.",
+      "sourceIds": [
+        "src-wmf-aqsunqur",
+        "src-archnet-aqsunqur",
+        "src-media-aqsunqur"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-story-3",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "The famous blue tiles belong mainly to a later Ottoman phase.",
+      "claimTextAr": "تنتمي البلاطات الزرقاء الشهيرة أساسًا إلى مرحلة عثمانية لاحقة.",
+      "sourceIds": [
+        "src-wmf-aqsunqur",
+        "src-archnet-aqsunqur",
+        "src-media-aqsunqur"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-date",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "15th–18th centuries",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-razzaz"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-period",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Mamluk and Ottoman Cairo",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-razzaz"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-function",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "elite urban residences joined over time",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-razzaz"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-clarification",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "A single patron or date cannot describe the entire complex.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-razzaz"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-location",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.0349,31.2589 (approximate site centroid; validate)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-razzaz"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-story-1",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": "story-bayt-al-razzaz",
+      "claimType": "story-chapter",
+      "claimTextEn": "Bayt al-Razzaz is a large domestic ensemble created by joining and expanding houses over several centuries. Courtyards, reception halls, service zones, ceilings, and mashrabiyas preserve Mamluk and Ottoman layers and show how elite households grew inside dense streets.",
+      "claimTextAr": "بيت الرزاز مجموعة منزلية كبيرة تكونت بضم بيوت وتوسيعها عبر قرون. وتحفظ الأفنية وقاعات الاستقبال ومساحات الخدمة والأسقف والمشربيات طبقات مملوكية وعثمانية وتوضح نمو بيوت النخبة داخل الشوارع الكثيفة.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-razzaz"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-story-2",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": "story-bayt-al-razzaz",
+      "claimType": "story-chapter",
+      "claimTextEn": "Connected courtyards, mashrabiyas, ceilings, and a phased-growth diagram.",
+      "claimTextAr": "الأفنية المتصلة والمشربيات والأسقف ورسم يوضح مراحل النمو.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-razzaz"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-bayt-al-razzaz-story-3",
+      "placeSlug": "bayt-al-razzaz",
+      "storySlug": "story-bayt-al-razzaz",
+      "claimType": "story-chapter",
+      "claimTextEn": "A single patron or date cannot describe the entire complex.",
+      "claimTextAr": "لا يمكن وصف المجموعة كلها براعي واحد أو تاريخ واحد.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-razzaz"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-date",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "1528 CE",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sulayman-pasha"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-period",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Early Ottoman Cairo",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sulayman-pasha"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-function",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "mosque for the Citadel community",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sulayman-pasha"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-clarification",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "It is distinct from the nineteenth-century Mosque of Muhammad Ali.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sulayman-pasha"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-location",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.031104,31.264357 (source-image geotag)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sulayman-pasha"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-story-1",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "Built inside the Citadel in 1528, the mosque is an early expression of Ottoman architectural language in Cairo. Its central dome, arcades, pencil minaret, and painted or tiled surfaces contrast with nearby Mamluk forms and make a direct comparison with al-Nasir Muhammad possible.",
+      "claimTextAr": "شُيد الجامع داخل القلعة سنة 1528م، وهو تعبير مبكر عن اللغة المعمارية العثمانية في القاهرة. وتختلف قبته المركزية وأروقته ومئذنته القلمية وأسطحه المصورة أو المكسوة عن الأشكال المملوكية القريبة، مما يتيح مقارنته مباشرة بجامع الناصر محمد.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sulayman-pasha"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-story-2",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "Arcades, central dome, pencil minaret, and comparison with the Mamluk Citadel mosque.",
+      "claimTextAr": "الأروقة والقبة المركزية والمئذنة القلمية والمقارنة مع جامع القلعة المملوكي.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sulayman-pasha"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-story-3",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "claimType": "story-chapter",
+      "claimTextEn": "It is distinct from the nineteenth-century Mosque of Muhammad Ali.",
+      "claimTextAr": "يختلف عن مسجد محمد علي الذي يعود إلى القرن التاسع عشر.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sulayman-pasha"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-date",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "1571 CE",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sinan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-period",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Ottoman Cairo",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sinan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-function",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "congregational mosque in the port district",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sinan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-clarification",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The present streets are not the original sixteenth-century port landscape.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sinan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-location",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.062583,31.229144 (source-image geotag)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sinan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-story-1",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "claimType": "story-chapter",
+      "claimTextEn": "Sinan Pasha Mosque stands in Bulaq, Cairo’s historic port and commercial district. Its central dome, surrounding portico, stone walls, and minaret demonstrate an Ottoman mosque type adapted to an Egyptian urban setting. The story connects architecture to river trade and the transformed Nile edge.",
+      "claimTextAr": "يقع جامع سنان باشا في بولاق، الحي المينائي والتجاري التاريخي للقاهرة. وتوضح قبته المركزية ورواقه المحيط وجدرانه الحجرية ومئذنته نموذجًا عثمانيًا جرى تكييفه مع بيئة حضرية مصرية. وتربط القصة العمارة بتجارة النهر وتحول حافة النيل.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sinan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-story-2",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "claimType": "story-chapter",
+      "claimTextEn": "Central dome, portico, minaret, and modern Bulaq around the monument.",
+      "claimTextAr": "القبة المركزية والرواق والمئذنة وبولاق الحديثة حول الأثر.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sinan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-story-3",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "claimType": "story-chapter",
+      "claimTextEn": "The present streets are not the original sixteenth-century port landscape.",
+      "claimTextAr": "الشوارع الحالية ليست مشهد الميناء الأصلي في القرن السادس عشر.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-sinan"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-date",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "major surviving phase early 13th century; tomb tradition earlier",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shafii"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-period",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Ayyubid Cairo with later phases",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shafii"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-function",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "mausoleum and devotional shrine",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shafii"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-clarification",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "The early tomb and the later standing architecture must be distinguished.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shafii"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-location",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.0232,31.2617 (approximate site centroid; validate)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shafii"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-story-1",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "claimType": "story-chapter",
+      "claimTextEn": "The mausoleum marks the burial place of Imam al-Shafi’i. The standing monumental building belongs mainly to later Ayyubid and subsequent phases, not to the date of the imam’s death. Its dome, wooden enclosure, inscriptions, ornament, and cemetery setting connect scholarship, political patronage, devotion, and funerary urbanism.",
+      "claimTextAr": "يحدد الضريح موضع دفن الإمام الشافعي. وينتمي المبنى الضخم القائم أساسًا إلى مراحل أيوبية ولاحقة، لا إلى تاريخ وفاة الإمام. وتربط القبة والحاجز الخشبي والنقوش والزخرفة وموقع الجبانة بين العلم والرعاية السياسية والزيارة والعمران الجنائزي.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shafii"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-story-2",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "claimType": "story-chapter",
+      "claimTextEn": "Dome, carved wooden enclosure, inscriptions, filtered light, and cemetery context.",
+      "claimTextAr": "القبة والحاجز الخشبي المنحوت والنقوش والضوء المرشح وسياق الجبانة.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shafii"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-story-3",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "claimType": "story-chapter",
+      "claimTextEn": "The early tomb and the later standing architecture must be distinguished.",
+      "claimTextAr": "يجب التمييز بين القبر المبكر والعمارة القائمة اللاحقة.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shafii"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-date",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "1250 CE",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shajarat"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-period",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Ayyubid–Mamluk transition",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shajarat"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-function",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "royal mausoleum",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shajarat"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-clarification",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "Popular stories must not replace sourced political and architectural history.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shajarat"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-location",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.028,31.2535 (approximate site centroid; validate)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shajarat"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-story-1",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "claimType": "story-chapter",
+      "claimTextEn": "Shajarat al-Durr’s mausoleum belongs to the transition between Ayyubid and Mamluk rule. Its compact domed form and interior imagery link personal commemoration, female patronage, and political legitimacy. Interpretation should emphasize government, patronage, and memory rather than romanticized retellings.",
+      "claimTextAr": "تنتمي قبة شجرة الدر إلى الانتقال بين الحكم الأيوبي والمملوكي. ويربط شكلها المدمج ذي القبة وصورها الداخلية بين التذكار الشخصي ورعاية النساء والشرعية السياسية. وينبغي أن يركز التفسير على الحكم والرعاية والذاكرة بدل الروايات الرومانسية.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shajarat"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-story-2",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "claimType": "story-chapter",
+      "claimTextEn": "White dome, exterior carved motifs, mihrab, and female patronage.",
+      "claimTextAr": "القبة البيضاء والزخارف الخارجية والمحراب ورعاية النساء.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shajarat"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-story-3",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "claimType": "story-chapter",
+      "claimTextEn": "Popular stories must not replace sourced political and architectural history.",
+      "claimTextAr": "يجب ألا تحل الروايات الشعبية محل التاريخ السياسي والمعماري الموثق.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-unesco",
+        "src-media-shajarat"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-date",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "1796 CE",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-nafisa"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-period",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Late Ottoman Cairo",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-nafisa"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-function",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "public water fountain and elementary school",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-nafisa"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-clarification",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "Its primary identity is a public charitable foundation, not a private house.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-nafisa"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-location",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.043032,31.257944 (source-image geotag; frontage point requires validation)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-nafisa"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-story-1",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": "story-sabil-kuttab-nafisa-al-bayda",
+      "claimType": "story-chapter",
+      "claimTextEn": "Commissioned by Nafisa al-Bayda, the building placed a charitable water fountain below and a school above. Its projecting façade, carved stone, metal grilles, and wooden upper level address the street directly and provide a major story of women’s patronage and public charity in Ottoman Cairo.",
+      "claimTextAr": "أنشأت نفيسة البيضاء المبنى ليضم سبيلًا خيريًا في الأسفل وكتابًا للتعليم في الأعلى. وتخاطب واجهته البارزة وحجره المنحوت ومصبعاته المعدنية وطابقه الخشبي العلوي الشارع مباشرة، وتقدم قصة مهمة عن رعاية النساء والعمل الخيري العام في القاهرة العثمانية.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-nafisa"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-story-2",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": "story-sabil-kuttab-nafisa-al-bayda",
+      "claimType": "story-chapter",
+      "claimTextEn": "Sabil windows, upper kuttab, grilles, inscriptions, water charity, and female patronage.",
+      "claimTextAr": "نوافذ السبيل والكتاب العلوي والمصبعات والنقوش وخدمة الماء ورعاية النساء.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-nafisa"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-sabil-kuttab-nafisa-al-bayda-story-3",
+      "placeSlug": "sabil-kuttab-nafisa-al-bayda",
+      "storySlug": "story-sabil-kuttab-nafisa-al-bayda",
+      "claimType": "story-chapter",
+      "claimTextEn": "Its primary identity is a public charitable foundation, not a private house.",
+      "claimTextAr": "هويته الأساسية منشأة خيرية عامة وليست بيتًا خاصًا.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-nafisa"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-date",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "date",
+      "claimTextEn": "1837–1839 CE",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-silahdar"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-period",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "period",
+      "claimTextEn": "Muhammad Ali and nineteenth-century Cairo",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-silahdar"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-function",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "function",
+      "claimTextEn": "mosque, water charity, and school",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-silahdar"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-clarification",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "clarification",
+      "claimTextEn": "Its date is nineteenth-century even though its functions recall older traditions.",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-silahdar"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-location",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": null,
+      "claimType": "location",
+      "claimTextEn": "30.0527,31.26 (approximate site centroid; validate)",
+      "claimTextAr": null,
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-silahdar"
+      ],
+      "certainty": "qualified"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-story-1",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": "story-mosque-sabil-sulayman-agha-al-silahdar",
+      "claimType": "story-chapter",
+      "claimTextEn": "This nineteenth-century foundation combines mosque, sabil, and kuttab in a narrow urban plot. Painted ceilings, window grilles, marble, and stacked functions show how the Muhammad Ali period renewed older Cairo traditions of worship, water charity, and teaching.",
+      "claimTextAr": "تجمع هذه المنشأة من القرن التاسع عشر بين المسجد والسبيل والكتاب في قطعة حضرية ضيقة. وتوضح الأسقف المصورة والمصبعات والرخام والوظائف المتراكبة كيف جدد عصر محمد علي تقاليد قاهرية أقدم للعبادة وخدمة الماء والتعليم.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-silahdar"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-story-2",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": "story-mosque-sabil-sulayman-agha-al-silahdar",
+      "claimType": "story-chapter",
+      "claimTextEn": "Painted ceiling, patterned grilles, marble interior, and stacked charitable functions.",
+      "claimTextAr": "السقف المصور والمصبعات المزخرفة والداخل الرخامي والوظائف الخيرية المتراكبة.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-silahdar"
+      ],
+      "certainty": "supported"
+    },
+    {
+      "claimId": "claim-mosque-sabil-sulayman-agha-al-silahdar-story-3",
+      "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
+      "storySlug": "story-mosque-sabil-sulayman-agha-al-silahdar",
+      "claimType": "story-chapter",
+      "claimTextEn": "Its date is nineteenth-century even though its functions recall older traditions.",
+      "claimTextAr": "يرجع المبنى إلى القرن التاسع عشر رغم أن وظائفه تحيل إلى تقاليد أقدم.",
+      "sourceIds": [
+        "src-egy-historic",
+        "src-media-silahdar"
+      ],
+      "certainty": "supported"
+    }
+  ]
+}

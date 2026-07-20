@@ -1,0 +1,73 @@
+{
+  "slug": "sulayman-pasha-al-khadim-mosque",
+  "nameEn": "Mosque of Sulayman Pasha al-Khadim",
+  "nameAr": "جامع سليمان باشا الخادم",
+  "alternateNames": [
+    "Sariyat al-Jabal Mosque",
+    "مسجد سارية الجبل"
+  ],
+  "historicalPeriod": "Early Ottoman Cairo",
+  "dynasty": "Ottoman",
+  "district": "Cairo Citadel",
+  "placeType": "mosque",
+  "foundedYearOrRange": "1528 CE",
+  "dateCertainty": "widely accepted",
+  "dateDisplayEn": "1528 CE",
+  "dateDisplayAr": "1528 م",
+  "patronEn": "Sulayman Pasha al-Khadim",
+  "patronAr": "سليمان باشا الخادم",
+  "architectEn": "Unknown",
+  "architectAr": "غير معروف",
+  "originalFunctionEn": "mosque for the Citadel community",
+  "originalFunctionAr": "مسجد لمجتمع القلعة",
+  "currentFunctionEn": "active mosque and historic monument",
+  "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+  "historicalBriefEn": "Built inside the Citadel in 1528, the mosque is an early expression of Ottoman architectural language in Cairo. Its central dome, arcades, pencil minaret, and painted or tiled surfaces contrast with nearby Mamluk forms and make a direct comparison with al-Nasir Muhammad possible.",
+  "historicalBriefAr": "شُيد الجامع داخل القلعة سنة 1528م، وهو تعبير مبكر عن اللغة المعمارية العثمانية في القاهرة. وتختلف قبته المركزية وأروقته ومئذنته القلمية وأسطحه المصورة أو المكسوة عن الأشكال المملوكية القريبة، مما يتيح مقارنته مباشرة بجامع الناصر محمد.",
+  "clarificationNoteEn": "It is distinct from the nineteenth-century Mosque of Muhammad Ali.",
+  "clarificationNoteAr": "يختلف عن مسجد محمد علي الذي يعود إلى القرن التاسع عشر.",
+  "keyDates": [
+    {
+      "dateEn": "1528 CE",
+      "dateAr": "1528 م",
+      "eventEn": "Principal documented phase",
+      "eventAr": "المرحلة الرئيسية الموثقة"
+    }
+  ],
+  "architecturalPhases": [
+    {
+      "phaseEn": "Original or principal construction",
+      "phaseAr": "الإنشاء الأصلي أو الرئيسي"
+    },
+    {
+      "phaseEn": "Later repairs, additions, or conservation",
+      "phaseAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+    }
+  ],
+  "latitude": 30.031104,
+  "longitude": 31.264357,
+  "locationPrecision": "source-image geotag",
+  "activeWorshipStatus": "active-worship",
+  "funerarySensitivity": "low",
+  "ticketingStatus": "current ticketing requires official verification",
+  "photographyPolicy": "current photography policy requires on-site or official verification",
+  "openingHours": null,
+  "accessibilityConfidence": "low-to-medium",
+  "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+  "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+  "recommendedVisitDurationMinutes": 40,
+  "priorityVisualStoryEn": "Arcades, central dome, pencil minaret, and comparison with the Mamluk Citadel mosque.",
+  "priorityVisualStoryAr": "الأروقة والقبة المركزية والمئذنة القلمية والمقارنة مع جامع القلعة المملوكي.",
+  "sourceIds": [
+    "src-egy-historic",
+    "src-media-sulayman-pasha"
+  ],
+  "claimIds": [
+    "claim-sulayman-pasha-al-khadim-mosque-date",
+    "claim-sulayman-pasha-al-khadim-mosque-period",
+    "claim-sulayman-pasha-al-khadim-mosque-function",
+    "claim-sulayman-pasha-al-khadim-mosque-clarification",
+    "claim-sulayman-pasha-al-khadim-mosque-location"
+  ],
+  "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+}
