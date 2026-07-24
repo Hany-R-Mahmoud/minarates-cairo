@@ -1,0 +1,879 @@
+{
+  "schemaVersion": 1,
+  "slug": "mosque-al-salih-ayyub",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "madrasa",
+    "mausoleum",
+    "minaret",
+    "street facade",
+    "iwans",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Bayn al-Qasrayn / al-Muizz",
+  "historicalPeriods": [
+    "Ayyubid",
+    "1242–1244 CE / 640–641 AH",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Madrasa and Mausoleum of al-Salih Ayyub) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (مدرسة ومقبرة الصالح أيوب) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Bayn al-Qasrayn / al-Muizz",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "مدرسة وضريح الصالح نجم الدين أيوب",
+  "nameEn": "Madrasa and Mausoleum of al-Salih Ayyub",
+  "placeType": "madrasa and mausoleum",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Madrasa and Mausoleum of al-Salih Ayyub played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت مدرسة ومقبرة الصالح أيوب في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MOSQUEALSALIHAYYUB"
+      ]
+    }
+  ],
+  "transliteration": "Madrasa and Mausoleum of al-Salih Ayyub",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-mosque-al-salih-ayyub",
+      "placeId": null,
+      "placeSlug": "mosque-al-salih-ayyub",
+      "placeNameEn": "Madrasa and Mausoleum of al-Salih Ayyub",
+      "placeNameAr": "مدرسة وضريح الصالح أيوب",
+      "role": "cover",
+      "imageKitPath": "/places/mosque-al-salih-ayyub/cover.jpg",
+      "localFile": "images/mosque-al-salih-ayyub/mosque-al-salih-ayyub-cover-mausoleum-dome.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg",
+      "sourceTitle": "Mausoleum of Al Saleh Negm Addin Ayuub 001.jpg",
+      "cdnUrl": null,
+      "creator": "لا روسا",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Mausoleum of Al Saleh Negm Addin Ayuub 001.jpg — لا روسا, CC BY-SA 3.0, via Wikimedia Commons",
+      "altEn": "The stone exterior and rounded dome of the mausoleum of Al-Salih Najm al-Din Ayyub.",
+      "altAr": "الواجهة الحجرية والقبة المستديرة لضريح الصالح نجم الدين أيوب.",
+      "captionEn": "Exterior of the mausoleum of Al-Salih Najm al-Din Ayyub.",
+      "captionAr": "الواجهة الخارجية لضريح الصالح نجم الدين أيوب.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 768,
+      "height": 1280,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 124988,
+      "checksum": "3141d325b81ccc365e0fbf98d8aaba22096b6442be0e6eef691699878a190131",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg",
+        "creator": "لا روسا",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Mausoleum of Al Saleh Negm Addin Ayuub 001.jpg — لا روسا, CC BY-SA 3.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-mosque-al-salih-ayyub:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "madrasa",
+        "mausoleum",
+        "minaret",
+        "street facade",
+        "iwans"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "madrasa",
+            "mausoleum",
+            "minaret",
+            "street facade",
+            "iwans"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A street-facing madrasa with a domed mausoleum and a minaret; the complex uses a dense urban frontage and a clear separation between teaching and funerary functions.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Bayn al-Qasrayn / al-Muizz",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Bayn al-Qasrayn / al-Muizz"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Ayyubid",
+        "1242–1244 CE / 640–641 AH"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Ayyubid",
+            "1242–1244 CE / 640–641 AH"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Madrasa and Mausoleum of al-Salih Ayyub) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (مدرسة ومقبرة الصالح أيوب) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Founded by the Ayyubid sultan al-Salih Najm al-Din Ayyub. Its location on Bayn al-Qasrayn and its later Mamluk associations place it at the heart of Cairo's dynastic and educational landscape.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Madrasa and Mausoleum of al-Salih Ayyub) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (مدرسة ومقبرة الصالح أيوب) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Bayn al-Qasrayn / al-Muizz",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Bayn al-Qasrayn / al-Muizz",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "مدرسة وضريح الصالح نجم الدين أيوب",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "مدرسة وضريح الصالح نجم الدين أيوب"
+        },
+        {
+          "provenance": "gemini",
+          "value": "مدرسة ومقبرة الصالح أيوب"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Madrasa and Mausoleum of al-Salih Ayyub",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Madrasa and Mausoleum of al-Salih Ayyub"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "madrasa and mausoleum",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "madrasa and mausoleum"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Madrasa and Mausoleum of al-Salih Ayyub played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت مدرسة ومقبرة الصالح أيوب في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALSALIHAYYUB"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mosque-al-salih-ayyub:unesco-historic-cairo",
+                "mosque-al-salih-ayyub:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Madrasa and Mausoleum of al-Salih Ayyub played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت مدرسة ومقبرة الصالح أيوب في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MOSQUEALSALIHAYYUB"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Madrasa and Mausoleum of al-Salih Ayyub",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Madrasa and Mausoleum of al-Salih Ayyub"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mosque-al-salih-ayyub",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Madrasa and Mausoleum of al-Salih Ayyub",
+      "nameAr": "مدرسة وضريح الصالح نجم الدين أيوب",
+      "transliteration": "Madrasa and Mausoleum of al-Salih Ayyub",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "madrasa and mausoleum",
+      "district": "Bayn al-Qasrayn / al-Muizz",
+      "location": {
+        "descriptionEn": "Bayn al-Qasrayn / al-Muizz",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Ayyubid",
+        "1242–1244 CE / 640–641 AH"
+      ],
+      "historicalSummary": {
+        "en": "Founded by the Ayyubid sultan al-Salih Najm al-Din Ayyub. Its location on Bayn al-Qasrayn and its later Mamluk associations place it at the heart of Cairo's dynastic and educational landscape.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A street-facing madrasa with a domed mausoleum and a minaret; the complex uses a dense urban frontage and a clear separation between teaching and funerary functions.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "madrasa",
+        "mausoleum",
+        "minaret",
+        "street facade",
+        "iwans"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mosque-al-salih-ayyub:unesco-historic-cairo",
+            "mosque-al-salih-ayyub:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mosque-al-salih-ayyub-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Madrasa and Mausoleum of al-Salih Ayyub.",
+          "textAr": "يسجل الجرد هذا الموقع باسم مدرسة وضريح الصالح نجم الدين أيوب.",
+          "confidence": "high",
+          "sourceIds": [
+            "mosque-al-salih-ayyub:unesco-historic-cairo",
+            "mosque-al-salih-ayyub:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-salih-ayyub-history",
+          "claimType": "history",
+          "textEn": "Founded by the Ayyubid sultan al-Salih Najm al-Din Ayyub. Its location on Bayn al-Qasrayn and its later Mamluk associations place it at the heart of Cairo's dynastic and educational landscape.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mosque-al-salih-ayyub:unesco-historic-cairo",
+            "mosque-al-salih-ayyub:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-salih-ayyub-architecture",
+          "claimType": "architecture",
+          "textEn": "A street-facing madrasa with a domed mausoleum and a minaret; the complex uses a dense urban frontage and a clear separation between teaching and funerary functions.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mosque-al-salih-ayyub:unesco-historic-cairo",
+            "mosque-al-salih-ayyub:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-salih-ayyub-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-al-salih-ayyub:unesco-historic-cairo",
+            "mosque-al-salih-ayyub:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mosque-al-salih-ayyub:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-salih-ayyub-identity",
+            "mosque-al-salih-ayyub-history",
+            "mosque-al-salih-ayyub-architecture",
+            "mosque-al-salih-ayyub-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "mosque-al-salih-ayyub:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-salih-ayyub-identity",
+            "mosque-al-salih-ayyub-history",
+            "mosque-al-salih-ayyub-architecture",
+            "mosque-al-salih-ayyub-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mosque-al-salih-ayyub",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Madrasa and Mausoleum of al-Salih Ayyub",
+      "nameAr": "مدرسة ومقبرة الصالح أيوب",
+      "transliteration": "Madrasa and Mausoleum of al-Salih Ayyub",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Madrasa and Mausoleum of al-Salih Ayyub) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (مدرسة ومقبرة الصالح أيوب) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Madrasa and Mausoleum of al-Salih Ayyub played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت مدرسة ومقبرة الصالح أيوب في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALSALIHAYYUB"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MOSQUEALSALIHAYYUB-01",
+          "claimType": "history",
+          "textEn": "The site Madrasa and Mausoleum of al-Salih Ayyub is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل مدرسة ومقبرة الصالح أيوب كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-MOSQUEALSALIHAYYUB"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MOSQUEALSALIHAYYUB",
+          "title": "Archnet & Ministry Documentation for Madrasa and Mausoleum of al-Salih Ayyub",
+          "url": "https://archnet.org/sites/mosque-al-salih-ayyub",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MOSQUEALSALIHAYYUB-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mosque-al-salih-ayyub.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mosque-al-salih-ayyub.jpg",
+          "title": "General View of Madrasa and Mausoleum of al-Salih Ayyub",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Madrasa and Mausoleum of al-Salih Ayyub\n\nArabic name: **مدرسة وضريح الصالح نجم الدين أيوب**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-salih-ayyub`\n\n## Historical summary\n\nFounded by the Ayyubid sultan al-Salih Najm al-Din Ayyub. Its location on Bayn al-Qasrayn and its later Mamluk associations place it at the heart of Cairo's dynastic and educational landscape.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA street-facing madrasa with a domed mausoleum and a minaret; the complex uses a dense urban frontage and a clear separation between teaching and funerary functions.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- madrasa\n- mausoleum\n- minaret\n- street facade\n- iwans\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-salih-ayyub:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-salih-ayyub:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Madrasa and Mausoleum of al-Salih Ayyub\n\nArabic name: **مدرسة وضريح الصالح نجم الدين أيوب**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-salih-ayyub`\n\n## Historical summary\n\nFounded by the Ayyubid sultan al-Salih Najm al-Din Ayyub. Its location on Bayn al-Qasrayn and its later Mamluk associations place it at the heart of Cairo's dynastic and educational landscape.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA street-facing madrasa with a domed mausoleum and a minaret; the complex uses a dense urban frontage and a clear separation between teaching and funerary functions.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- madrasa\n- mausoleum\n- minaret\n- street facade\n- iwans\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-salih-ayyub:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-salih-ayyub:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Madrasa and Mausoleum of al-Salih Ayyub (مدرسة ومقبرة الصالح أيوب)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Madrasa and Mausoleum of al-Salih Ayyub) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (مدرسة ومقبرة الصالح أيوب) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Madrasa and Mausoleum of al-Salih Ayyub played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Madrasa and Mausoleum of al-Salih Ayyub (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mosque-al-salih-ayyub.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MOSQUEALSALIHAYYUB]** [Archnet & Ministry Documentation for Madrasa and Mausoleum of al-Salih Ayyub](https://archnet.org/sites/mosque-al-salih-ayyub) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-mosque-al-salih-ayyub",
+        "placeId": null,
+        "placeSlug": "mosque-al-salih-ayyub",
+        "placeNameEn": "Madrasa and Mausoleum of al-Salih Ayyub",
+        "placeNameAr": "مدرسة وضريح الصالح أيوب",
+        "role": "cover",
+        "imageKitPath": "/places/mosque-al-salih-ayyub/cover.jpg",
+        "localFile": "images/mosque-al-salih-ayyub/mosque-al-salih-ayyub-cover-mausoleum-dome.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg",
+        "sourceTitle": "Mausoleum of Al Saleh Negm Addin Ayuub 001.jpg",
+        "cdnUrl": null,
+        "creator": "لا روسا",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Mausoleum of Al Saleh Negm Addin Ayuub 001.jpg — لا روسا, CC BY-SA 3.0, via Wikimedia Commons",
+        "altEn": "The stone exterior and rounded dome of the mausoleum of Al-Salih Najm al-Din Ayyub.",
+        "altAr": "الواجهة الحجرية والقبة المستديرة لضريح الصالح نجم الدين أيوب.",
+        "captionEn": "Exterior of the mausoleum of Al-Salih Najm al-Din Ayyub.",
+        "captionAr": "الواجهة الخارجية لضريح الصالح نجم الدين أيوب.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 768,
+        "height": 1280,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 124988,
+        "checksum": "3141d325b81ccc365e0fbf98d8aaba22096b6442be0e6eef691699878a190131",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg",
+          "creator": "لا روسا",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "attribution": "Mausoleum of Al Saleh Negm Addin Ayuub 001.jpg — لا روسا, CC BY-SA 3.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-mosque-al-salih-ayyub:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Madrasa and Mausoleum of al-Salih Ayyub\n\n- **Place slug:** `mosque-al-salih-ayyub`\n- **Asset ID:** `cover-mosque-al-salih-ayyub`\n- **Role:** cover\n- **Local file:** `images/mosque-al-salih-ayyub/mosque-al-salih-ayyub-cover-mausoleum-dome.jpg`\n- **Canonical ImageKit path:** `/places/mosque-al-salih-ayyub/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/b/b2/Mausoleum_of_Al_Saleh_Negm_Addin_Ayuub_001.jpg\n- **Source title:** Mausoleum of Al Saleh Negm Addin Ayuub 001.jpg\n- **Creator:** لا روسا\n- **License:** CC BY-SA 3.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/3.0/\n- **Required attribution:** Mausoleum of Al Saleh Negm Addin Ayuub 001.jpg — لا روسا, CC BY-SA 3.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The stone exterior and rounded dome of the mausoleum of Al-Salih Najm al-Din Ayyub.\n- **Alt text (AR):** الواجهة الحجرية والقبة المستديرة لضريح الصالح نجم الدين أيوب.\n- **Caption (EN):** Exterior of the mausoleum of Al-Salih Najm al-Din Ayyub.\n- **Caption (AR):** الواجهة الخارجية لضريح الصالح نجم الدين أيوب.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "mosque-al-salih-ayyub:unesco-historic-cairo",
+    "mosque-al-salih-ayyub:mota-historic-cairo",
+    "SRC-MOSQUEALSALIHAYYUB"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mosque-al-salih-ayyub:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-salih-ayyub-identity",
+        "mosque-al-salih-ayyub-history",
+        "mosque-al-salih-ayyub-architecture",
+        "mosque-al-salih-ayyub-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mosque-al-salih-ayyub:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-salih-ayyub-identity",
+        "mosque-al-salih-ayyub-history",
+        "mosque-al-salih-ayyub-architecture",
+        "mosque-al-salih-ayyub-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-MOSQUEALSALIHAYYUB",
+      "title": "Archnet & Ministry Documentation for Madrasa and Mausoleum of al-Salih Ayyub",
+      "url": "https://archnet.org/sites/mosque-al-salih-ayyub",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MOSQUEALSALIHAYYUB-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "mosque-al-salih-ayyub-identity",
+      "placeSlug": "mosque-al-salih-ayyub",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Madrasa and Mausoleum of al-Salih Ayyub.",
+      "textAr": "يسجل الجرد هذا الموقع باسم مدرسة وضريح الصالح نجم الدين أيوب.",
+      "confidence": "high",
+      "sourceIds": [
+        "mosque-al-salih-ayyub:unesco-historic-cairo",
+        "mosque-al-salih-ayyub:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "mosque-al-salih-ayyub-status",
+      "placeSlug": "mosque-al-salih-ayyub",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-salih-ayyub:unesco-historic-cairo",
+        "mosque-al-salih-ayyub:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MOSQUEALSALIHAYYUB-01",
+      "placeSlug": "mosque-al-salih-ayyub",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Madrasa and Mausoleum of al-Salih Ayyub is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل مدرسة ومقبرة الصالح أيوب كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-MOSQUEALSALIHAYYUB"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mosque-al-salih-ayyub-history",
+      "placeSlug": "mosque-al-salih-ayyub",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Founded by the Ayyubid sultan al-Salih Najm al-Din Ayyub. Its location on Bayn al-Qasrayn and its later Mamluk associations place it at the heart of Cairo's dynastic and educational landscape.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-al-salih-ayyub:unesco-historic-cairo",
+        "mosque-al-salih-ayyub:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mosque-al-salih-ayyub-architecture",
+      "placeSlug": "mosque-al-salih-ayyub",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A street-facing madrasa with a domed mausoleum and a minaret; the complex uses a dense urban frontage and a clear separation between teaching and funerary functions.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-al-salih-ayyub:unesco-historic-cairo",
+        "mosque-al-salih-ayyub:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

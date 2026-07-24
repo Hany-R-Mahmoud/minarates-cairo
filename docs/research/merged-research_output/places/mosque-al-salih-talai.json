@@ -1,0 +1,875 @@
+{
+  "schemaVersion": 1,
+  "slug": "mosque-al-salih-talai",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "raised platform",
+    "arcaded facade",
+    "hypostyle hall",
+    "stone carving",
+    "inscriptions",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "near Bab Zuweila",
+  "historicalPeriods": [
+    "Fatimid",
+    "1160 CE / 555 AH",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mosque of al-Salih Tala'i) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (جامع الصالح طلائع) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "near Bab Zuweila",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "جامع الصالح طلائع",
+  "nameEn": "Mosque of al-Salih Tala'i",
+  "placeType": "mosque",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mosque of al-Salih Tala'i played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت جامع الصالح طلائع في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MOSQUEALSALIHTALAI"
+      ]
+    }
+  ],
+  "transliteration": "Mosque of al-Salih Tala'i",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-mosque-al-salih-talai",
+      "placeId": null,
+      "placeSlug": "mosque-al-salih-talai",
+      "placeNameEn": "Mosque of al-Salih Tala'i",
+      "placeNameAr": "مسجد الصالح طلائع",
+      "role": "cover",
+      "imageKitPath": "/places/mosque-al-salih-talai/cover.jpg",
+      "localFile": "images/mosque-al-salih-talai/mosque-al-salih-talai-cover-elevated-portico.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cairo%2C_moschea_di_as-salih_talai%2C_01.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo,_moschea_di_as-salih_talai,_01.JPG",
+      "sourceTitle": "Cairo, moschea di as-salih talai, 01.JPG",
+      "cdnUrl": null,
+      "creator": "Sailko",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "Cairo, moschea di as-salih talai, 01.JPG — Sailko, CC BY 3.0, via Wikimedia Commons",
+      "altEn": "The elevated stone exterior and arcaded portico of the Mosque of Al-Salih Tala'i.",
+      "altAr": "الواجهة الحجرية المرتفعة والرواق ذي العقود لمسجد الصالح طلائع.",
+      "captionEn": "Exterior and portico of Al-Salih Tala'i Mosque.",
+      "captionAr": "الواجهة الخارجية ورواق مسجد الصالح طلائع.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 3456,
+      "height": 2304,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1689105,
+      "checksum": "a52879bcdcf56c9be3ac0f53a84267f0ba05dd38ea09ba5600163ee51f2d6a57",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo,_moschea_di_as-salih_talai,_01.JPG",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cairo%2C_moschea_di_as-salih_talai%2C_01.JPG",
+        "creator": "Sailko",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Cairo, moschea di as-salih talai, 01.JPG — Sailko, CC BY 3.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-mosque-al-salih-talai:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "raised platform",
+        "arcaded facade",
+        "hypostyle hall",
+        "stone carving",
+        "inscriptions"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "raised platform",
+            "arcaded facade",
+            "hypostyle hall",
+            "stone carving",
+            "inscriptions"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A raised street-front mosque with a hypostyle interior, arcaded facade, carved stone details, and a distinct relationship between platform, urban edge, and prayer space.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "near Bab Zuweila",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "near Bab Zuweila"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Fatimid",
+        "1160 CE / 555 AH"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Fatimid",
+            "1160 CE / 555 AH"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mosque of al-Salih Tala'i) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع الصالح طلائع) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Founded by the Fatimid vizier Tala'i ibn Ruzzik as a shrine intended to receive the head of Husayn, although the relic was ultimately housed elsewhere. It is one of the last major Fatimid mosques in Cairo.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mosque of al-Salih Tala'i) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (جامع الصالح طلائع) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "near Bab Zuweila",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "near Bab Zuweila",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "جامع الصالح طلائع",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "جامع الصالح طلائع"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "nameEn": {
+      "canonical": "Mosque of al-Salih Tala'i",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of al-Salih Tala'i"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mosque"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of al-Salih Tala'i played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع الصالح طلائع في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALSALIHTALAI"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mosque-al-salih-talai:unesco-historic-cairo",
+                "mosque-al-salih-talai:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mosque of al-Salih Tala'i played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت جامع الصالح طلائع في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MOSQUEALSALIHTALAI"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mosque of al-Salih Tala'i",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of al-Salih Tala'i"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mosque-al-salih-talai",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque of al-Salih Tala'i",
+      "nameAr": "جامع الصالح طلائع",
+      "transliteration": "Mosque of al-Salih Tala'i",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "mosque",
+      "district": "near Bab Zuweila",
+      "location": {
+        "descriptionEn": "near Bab Zuweila",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Fatimid",
+        "1160 CE / 555 AH"
+      ],
+      "historicalSummary": {
+        "en": "Founded by the Fatimid vizier Tala'i ibn Ruzzik as a shrine intended to receive the head of Husayn, although the relic was ultimately housed elsewhere. It is one of the last major Fatimid mosques in Cairo.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A raised street-front mosque with a hypostyle interior, arcaded facade, carved stone details, and a distinct relationship between platform, urban edge, and prayer space.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "raised platform",
+        "arcaded facade",
+        "hypostyle hall",
+        "stone carving",
+        "inscriptions"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mosque-al-salih-talai:unesco-historic-cairo",
+            "mosque-al-salih-talai:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mosque-al-salih-talai-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mosque of al-Salih Tala'i.",
+          "textAr": "يسجل الجرد هذا الموقع باسم جامع الصالح طلائع.",
+          "confidence": "high",
+          "sourceIds": [
+            "mosque-al-salih-talai:unesco-historic-cairo",
+            "mosque-al-salih-talai:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-salih-talai-history",
+          "claimType": "history",
+          "textEn": "Founded by the Fatimid vizier Tala'i ibn Ruzzik as a shrine intended to receive the head of Husayn, although the relic was ultimately housed elsewhere. It is one of the last major Fatimid mosques in Cairo.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mosque-al-salih-talai:unesco-historic-cairo",
+            "mosque-al-salih-talai:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-salih-talai-architecture",
+          "claimType": "architecture",
+          "textEn": "A raised street-front mosque with a hypostyle interior, arcaded facade, carved stone details, and a distinct relationship between platform, urban edge, and prayer space.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mosque-al-salih-talai:unesco-historic-cairo",
+            "mosque-al-salih-talai:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-salih-talai-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-al-salih-talai:unesco-historic-cairo",
+            "mosque-al-salih-talai:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mosque-al-salih-talai:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-salih-talai-identity",
+            "mosque-al-salih-talai-history",
+            "mosque-al-salih-talai-architecture",
+            "mosque-al-salih-talai-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "mosque-al-salih-talai:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-salih-talai-identity",
+            "mosque-al-salih-talai-history",
+            "mosque-al-salih-talai-architecture",
+            "mosque-al-salih-talai-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mosque-al-salih-talai",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque of al-Salih Tala'i",
+      "nameAr": "جامع الصالح طلائع",
+      "transliteration": "Mosque of al-Salih Tala'i",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mosque of al-Salih Tala'i) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع الصالح طلائع) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of al-Salih Tala'i played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع الصالح طلائع في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALSALIHTALAI"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MOSQUEALSALIHTALAI-01",
+          "claimType": "history",
+          "textEn": "The site Mosque of al-Salih Tala'i is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل جامع الصالح طلائع كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-MOSQUEALSALIHTALAI"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MOSQUEALSALIHTALAI",
+          "title": "Archnet & Ministry Documentation for Mosque of al-Salih Tala'i",
+          "url": "https://archnet.org/sites/mosque-al-salih-talai",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MOSQUEALSALIHTALAI-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mosque-al-salih-talai.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mosque-al-salih-talai.jpg",
+          "title": "General View of Mosque of al-Salih Tala'i",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mosque of al-Salih Tala'i\n\nArabic name: **جامع الصالح طلائع**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-salih-talai`\n\n## Historical summary\n\nFounded by the Fatimid vizier Tala'i ibn Ruzzik as a shrine intended to receive the head of Husayn, although the relic was ultimately housed elsewhere. It is one of the last major Fatimid mosques in Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA raised street-front mosque with a hypostyle interior, arcaded facade, carved stone details, and a distinct relationship between platform, urban edge, and prayer space.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- raised platform\n- arcaded facade\n- hypostyle hall\n- stone carving\n- inscriptions\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-salih-talai:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-salih-talai:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mosque of al-Salih Tala'i\n\nArabic name: **جامع الصالح طلائع**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-salih-talai`\n\n## Historical summary\n\nFounded by the Fatimid vizier Tala'i ibn Ruzzik as a shrine intended to receive the head of Husayn, although the relic was ultimately housed elsewhere. It is one of the last major Fatimid mosques in Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA raised street-front mosque with a hypostyle interior, arcaded facade, carved stone details, and a distinct relationship between platform, urban edge, and prayer space.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- raised platform\n- arcaded facade\n- hypostyle hall\n- stone carving\n- inscriptions\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-salih-talai:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-salih-talai:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mosque of al-Salih Tala'i (جامع الصالح طلائع)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mosque of al-Salih Tala'i) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (جامع الصالح طلائع) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mosque of al-Salih Tala'i played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mosque of al-Salih Tala'i (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mosque-al-salih-talai.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MOSQUEALSALIHTALAI]** [Archnet & Ministry Documentation for Mosque of al-Salih Tala'i](https://archnet.org/sites/mosque-al-salih-talai) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-mosque-al-salih-talai",
+        "placeId": null,
+        "placeSlug": "mosque-al-salih-talai",
+        "placeNameEn": "Mosque of al-Salih Tala'i",
+        "placeNameAr": "مسجد الصالح طلائع",
+        "role": "cover",
+        "imageKitPath": "/places/mosque-al-salih-talai/cover.jpg",
+        "localFile": "images/mosque-al-salih-talai/mosque-al-salih-talai-cover-elevated-portico.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cairo%2C_moschea_di_as-salih_talai%2C_01.JPG",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo,_moschea_di_as-salih_talai,_01.JPG",
+        "sourceTitle": "Cairo, moschea di as-salih talai, 01.JPG",
+        "cdnUrl": null,
+        "creator": "Sailko",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Cairo, moschea di as-salih talai, 01.JPG — Sailko, CC BY 3.0, via Wikimedia Commons",
+        "altEn": "The elevated stone exterior and arcaded portico of the Mosque of Al-Salih Tala'i.",
+        "altAr": "الواجهة الحجرية المرتفعة والرواق ذي العقود لمسجد الصالح طلائع.",
+        "captionEn": "Exterior and portico of Al-Salih Tala'i Mosque.",
+        "captionAr": "الواجهة الخارجية ورواق مسجد الصالح طلائع.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 3456,
+        "height": 2304,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1689105,
+        "checksum": "a52879bcdcf56c9be3ac0f53a84267f0ba05dd38ea09ba5600163ee51f2d6a57",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo,_moschea_di_as-salih_talai,_01.JPG",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cairo%2C_moschea_di_as-salih_talai%2C_01.JPG",
+          "creator": "Sailko",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Cairo, moschea di as-salih talai, 01.JPG — Sailko, CC BY 3.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-mosque-al-salih-talai:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Mosque of al-Salih Tala'i\n\n- **Place slug:** `mosque-al-salih-talai`\n- **Asset ID:** `cover-mosque-al-salih-talai`\n- **Role:** cover\n- **Local file:** `images/mosque-al-salih-talai/mosque-al-salih-talai-cover-elevated-portico.jpg`\n- **Canonical ImageKit path:** `/places/mosque-al-salih-talai/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Cairo,_moschea_di_as-salih_talai,_01.JPG\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/f/f8/Cairo%2C_moschea_di_as-salih_talai%2C_01.JPG\n- **Source title:** Cairo, moschea di as-salih talai, 01.JPG\n- **Creator:** Sailko\n- **License:** CC BY 3.0\n- **License URL:** https://creativecommons.org/licenses/by/3.0/\n- **Required attribution:** Cairo, moschea di as-salih talai, 01.JPG — Sailko, CC BY 3.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The elevated stone exterior and arcaded portico of the Mosque of Al-Salih Tala'i.\n- **Alt text (AR):** الواجهة الحجرية المرتفعة والرواق ذي العقود لمسجد الصالح طلائع.\n- **Caption (EN):** Exterior and portico of Al-Salih Tala'i Mosque.\n- **Caption (AR):** الواجهة الخارجية ورواق مسجد الصالح طلائع.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "mosque-al-salih-talai:unesco-historic-cairo",
+    "mosque-al-salih-talai:mota-historic-cairo",
+    "SRC-MOSQUEALSALIHTALAI"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mosque-al-salih-talai:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-salih-talai-identity",
+        "mosque-al-salih-talai-history",
+        "mosque-al-salih-talai-architecture",
+        "mosque-al-salih-talai-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mosque-al-salih-talai:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-salih-talai-identity",
+        "mosque-al-salih-talai-history",
+        "mosque-al-salih-talai-architecture",
+        "mosque-al-salih-talai-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-MOSQUEALSALIHTALAI",
+      "title": "Archnet & Ministry Documentation for Mosque of al-Salih Tala'i",
+      "url": "https://archnet.org/sites/mosque-al-salih-talai",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MOSQUEALSALIHTALAI-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "mosque-al-salih-talai-identity",
+      "placeSlug": "mosque-al-salih-talai",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque of al-Salih Tala'i.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع الصالح طلائع.",
+      "confidence": "high",
+      "sourceIds": [
+        "mosque-al-salih-talai:unesco-historic-cairo",
+        "mosque-al-salih-talai:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "mosque-al-salih-talai-status",
+      "placeSlug": "mosque-al-salih-talai",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-salih-talai:unesco-historic-cairo",
+        "mosque-al-salih-talai:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MOSQUEALSALIHTALAI-01",
+      "placeSlug": "mosque-al-salih-talai",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mosque of al-Salih Tala'i is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل جامع الصالح طلائع كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-MOSQUEALSALIHTALAI"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mosque-al-salih-talai-history",
+      "placeSlug": "mosque-al-salih-talai",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Founded by the Fatimid vizier Tala'i ibn Ruzzik as a shrine intended to receive the head of Husayn, although the relic was ultimately housed elsewhere. It is one of the last major Fatimid mosques in Cairo.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-al-salih-talai:unesco-historic-cairo",
+        "mosque-al-salih-talai:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mosque-al-salih-talai-architecture",
+      "placeSlug": "mosque-al-salih-talai",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A raised street-front mosque with a hypostyle interior, arcaded facade, carved stone details, and a distinct relationship between platform, urban edge, and prayer space.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-al-salih-talai:unesco-historic-cairo",
+        "mosque-al-salih-talai:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

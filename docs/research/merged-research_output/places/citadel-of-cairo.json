@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 1,
+  "slug": "citadel-of-cairo",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "fortification walls",
+    "towers",
+    "mosques",
+    "palaces",
+    "panoramic terraces",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Mokattam / Citadel",
+  "historicalPeriods": [
+    "Ayyubid to modern",
+    "1176–1183 CE and later",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Cairo Citadel) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (قلعة صلاح الدين) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Mokattam / Citadel",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "قلعة صلاح الدين الأيوبي بالقاهرة",
+  "nameEn": "Cairo Citadel",
+  "placeType": "citadel and historic governmental complex",
+  "relatedSlugs": [
+    "cairo-citadel"
+  ],
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Cairo Citadel played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت قلعة صلاح الدين في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-CITADELOFCAIRO"
+      ]
+    }
+  ],
+  "transliteration": "Cairo Citadel",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-citadel-of-cairo",
+      "placeId": null,
+      "placeSlug": "citadel-of-cairo",
+      "placeNameEn": "Cairo Citadel",
+      "placeNameAr": "قلعة صلاح الدين الأيوبي",
+      "role": "cover",
+      "imageKitPath": "/places/citadel-of-cairo/cover.jpg",
+      "localFile": "images/citadel-of-cairo/citadel-of-cairo-cover-skyline-mosque-of-muhammad-ali.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg",
+      "sourceTitle": "Muhammad Ali Mosque 1.jpg",
+      "cdnUrl": null,
+      "creator": "Kallerna",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+      "altEn": "The Mosque of Muhammad Ali rises within the Cairo Citadel, with its large central dome and two slender minarets.",
+      "altAr": "يرتفع مسجد محمد علي داخل قلعة القاهرة بقبته المركزية الكبيرة ومئذنتيه النحيلتين.",
+      "captionEn": "Iconic view within the Cairo Citadel centered on the Mosque of Muhammad Ali.",
+      "captionAr": "مشهد أيقوني داخل قلعة القاهرة يتوسطه مسجد محمد علي.",
+      "mediaType": "photo",
+      "visualType": "skyline",
+      "documentaryStatus": "documentary",
+      "modifications": "Curated cover selection updated to use the stronger verified source image from muhammad-ali-mosque",
+      "width": 2994,
+      "height": 2220,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1557245,
+      "checksum": "bbbc60dd2f83d35357b50ea69be4f8f797c8e93db0ecb661a8b06de6f9ecd6ac",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg",
+        "creator": "Kallerna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-citadel-of-cairo:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "fortification walls",
+        "towers",
+        "mosques",
+        "palaces",
+        "panoramic terraces"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "fortification walls",
+            "towers",
+            "mosques",
+            "palaces",
+            "panoramic terraces"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "The enclosure combines medieval fortification, Mamluk religious foundations, Ottoman-period palaces, and later museum and military uses.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Mokattam / Citadel",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mokattam / Citadel"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Ayyubid to modern",
+        "1176–1183 CE and later"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Ayyubid to modern",
+            "1176–1183 CE and later"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Cairo Citadel) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (قلعة صلاح الدين) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "This is a separate project record for the same Cairo Citadel represented by the parallel slug cairo-citadel. The fortress was begun under Salah al-Din and repeatedly expanded.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Cairo Citadel) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (قلعة صلاح الدين) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Mokattam / Citadel",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Mokattam / Citadel",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "قلعة صلاح الدين الأيوبي بالقاهرة",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "قلعة صلاح الدين الأيوبي بالقاهرة"
+        },
+        {
+          "provenance": "gemini",
+          "value": "قلعة صلاح الدين"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Cairo Citadel",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Cairo Citadel"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "citadel and historic governmental complex",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "citadel and historic governmental complex"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": [
+        "cairo-citadel"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "cairo-citadel"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Cairo Citadel played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت قلعة صلاح الدين في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-CITADELOFCAIRO"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "citadel-of-cairo:unesco-historic-cairo",
+                "citadel-of-cairo:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Cairo Citadel played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت قلعة صلاح الدين في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-CITADELOFCAIRO"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Cairo Citadel",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Cairo Citadel"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "citadel-of-cairo",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Cairo Citadel",
+      "nameAr": "قلعة صلاح الدين الأيوبي بالقاهرة",
+      "transliteration": "Cairo Citadel",
+      "alternativeNames": [],
+      "relatedSlugs": [
+        "cairo-citadel"
+      ],
+      "placeType": "citadel and historic governmental complex",
+      "district": "Mokattam / Citadel",
+      "location": {
+        "descriptionEn": "Mokattam / Citadel",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Ayyubid to modern",
+        "1176–1183 CE and later"
+      ],
+      "historicalSummary": {
+        "en": "This is a separate project record for the same Cairo Citadel represented by the parallel slug cairo-citadel. The fortress was begun under Salah al-Din and repeatedly expanded.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "The enclosure combines medieval fortification, Mamluk religious foundations, Ottoman-period palaces, and later museum and military uses.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "fortification walls",
+        "towers",
+        "mosques",
+        "palaces",
+        "panoramic terraces"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "citadel-of-cairo:unesco-historic-cairo",
+            "citadel-of-cairo:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "citadel-of-cairo-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Cairo Citadel.",
+          "textAr": "يسجل الجرد هذا الموقع باسم قلعة صلاح الدين الأيوبي بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "citadel-of-cairo:unesco-historic-cairo",
+            "citadel-of-cairo:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "citadel-of-cairo-history",
+          "claimType": "history",
+          "textEn": "This is a separate project record for the same Cairo Citadel represented by the parallel slug cairo-citadel. The fortress was begun under Salah al-Din and repeatedly expanded.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "citadel-of-cairo:unesco-historic-cairo",
+            "citadel-of-cairo:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "citadel-of-cairo-architecture",
+          "claimType": "architecture",
+          "textEn": "The enclosure combines medieval fortification, Mamluk religious foundations, Ottoman-period palaces, and later museum and military uses.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "citadel-of-cairo:unesco-historic-cairo",
+            "citadel-of-cairo:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "citadel-of-cairo-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "citadel-of-cairo:unesco-historic-cairo",
+            "citadel-of-cairo:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "citadel-of-cairo:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "citadel-of-cairo-identity",
+            "citadel-of-cairo-history",
+            "citadel-of-cairo-architecture",
+            "citadel-of-cairo-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "citadel-of-cairo:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "citadel-of-cairo-identity",
+            "citadel-of-cairo-history",
+            "citadel-of-cairo-architecture",
+            "citadel-of-cairo-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "citadel-of-cairo",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Cairo Citadel",
+      "nameAr": "قلعة صلاح الدين",
+      "transliteration": "Cairo Citadel",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Cairo Citadel) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (قلعة صلاح الدين) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Cairo Citadel played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت قلعة صلاح الدين في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-CITADELOFCAIRO"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-CITADELOFCAIRO-01",
+          "claimType": "history",
+          "textEn": "The site Cairo Citadel is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل قلعة صلاح الدين كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-CITADELOFCAIRO"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-CITADELOFCAIRO",
+          "title": "Archnet & Ministry Documentation for Cairo Citadel",
+          "url": "https://archnet.org/sites/citadel-of-cairo",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-CITADELOFCAIRO-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:citadel-of-cairo.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/citadel-of-cairo.jpg",
+          "title": "General View of Cairo Citadel",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Cairo Citadel\n\nArabic name: **قلعة صلاح الدين الأيوبي بالقاهرة**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `citadel-of-cairo`\n\n## Historical summary\n\nThis is a separate project record for the same Cairo Citadel represented by the parallel slug cairo-citadel. The fortress was begun under Salah al-Din and repeatedly expanded.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nThe enclosure combines medieval fortification, Mamluk religious foundations, Ottoman-period palaces, and later museum and military uses.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- fortification walls\n- towers\n- mosques\n- palaces\n- panoramic terraces\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **citadel-of-cairo:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **citadel-of-cairo:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Cairo Citadel\n\nArabic name: **قلعة صلاح الدين الأيوبي بالقاهرة**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `citadel-of-cairo`\n\n## Historical summary\n\nThis is a separate project record for the same Cairo Citadel represented by the parallel slug cairo-citadel. The fortress was begun under Salah al-Din and repeatedly expanded.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nThe enclosure combines medieval fortification, Mamluk religious foundations, Ottoman-period palaces, and later museum and military uses.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- fortification walls\n- towers\n- mosques\n- palaces\n- panoramic terraces\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **citadel-of-cairo:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **citadel-of-cairo:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Cairo Citadel (قلعة صلاح الدين)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Cairo Citadel) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (قلعة صلاح الدين) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Cairo Citadel played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Cairo Citadel (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/citadel-of-cairo.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-CITADELOFCAIRO]** [Archnet & Ministry Documentation for Cairo Citadel](https://archnet.org/sites/citadel-of-cairo) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-citadel-of-cairo",
+        "placeId": null,
+        "placeSlug": "citadel-of-cairo",
+        "placeNameEn": "Cairo Citadel",
+        "placeNameAr": "قلعة صلاح الدين الأيوبي",
+        "role": "cover",
+        "imageKitPath": "/places/citadel-of-cairo/cover.jpg",
+        "localFile": "images/citadel-of-cairo/citadel-of-cairo-cover-skyline-mosque-of-muhammad-ali.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg",
+        "sourceTitle": "Muhammad Ali Mosque 1.jpg",
+        "cdnUrl": null,
+        "creator": "Kallerna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+        "altEn": "The Mosque of Muhammad Ali rises within the Cairo Citadel, with its large central dome and two slender minarets.",
+        "altAr": "يرتفع مسجد محمد علي داخل قلعة القاهرة بقبته المركزية الكبيرة ومئذنتيه النحيلتين.",
+        "captionEn": "Iconic view within the Cairo Citadel centered on the Mosque of Muhammad Ali.",
+        "captionAr": "مشهد أيقوني داخل قلعة القاهرة يتوسطه مسجد محمد علي.",
+        "mediaType": "photo",
+        "visualType": "skyline",
+        "documentaryStatus": "documentary",
+        "modifications": "Curated cover selection updated to use the stronger verified source image from muhammad-ali-mosque",
+        "width": 2994,
+        "height": 2220,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1557245,
+        "checksum": "bbbc60dd2f83d35357b50ea69be4f8f797c8e93db0ecb661a8b06de6f9ecd6ac",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg",
+          "creator": "Kallerna",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "attribution": "Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-citadel-of-cairo:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Cairo Citadel\n\n- **Place slug:** `citadel-of-cairo`\n- **Asset ID:** `cover-citadel-of-cairo`\n- **Role:** cover\n- **Local file:** `images/citadel-of-cairo/citadel-of-cairo-cover-skyline-mosque-of-muhammad-ali.jpg`\n- **Canonical ImageKit path:** `/places/citadel-of-cairo/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nReplaced the previous distant landscape with a stronger iconic Citadel view centered on the Mosque of Muhammad Ali.\n\nThis file reuses the same verified source image selected for a related published record because it provides a stronger and more representative cover.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg\n- **Source title:** Muhammad Ali Mosque 1.jpg\n- **Creator:** Kallerna\n- **License:** CC BY-SA 3.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/3.0/\n- **Required attribution:** Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The Mosque of Muhammad Ali rises within the Cairo Citadel, with its large central dome and two slender minarets.\n- **Alt text (AR):** يرتفع مسجد محمد علي داخل قلعة القاهرة بقبته المركزية الكبيرة ومئذنتيه النحيلتين.\n- **Caption (EN):** Iconic view within the Cairo Citadel centered on the Mosque of Muhammad Ali.\n- **Caption (AR):** مشهد أيقوني داخل قلعة القاهرة يتوسطه مسجد محمد علي.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nCurated cover selection updated to use the stronger verified source image from muhammad-ali-mosque\n"
+  },
+  "sources": [
+    "citadel-of-cairo:unesco-historic-cairo",
+    "citadel-of-cairo:mota-historic-cairo",
+    "SRC-CITADELOFCAIRO"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "citadel-of-cairo:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "citadel-of-cairo-identity",
+        "citadel-of-cairo-history",
+        "citadel-of-cairo-architecture",
+        "citadel-of-cairo-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "citadel-of-cairo:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "citadel-of-cairo-identity",
+        "citadel-of-cairo-history",
+        "citadel-of-cairo-architecture",
+        "citadel-of-cairo-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-CITADELOFCAIRO",
+      "title": "Archnet & Ministry Documentation for Cairo Citadel",
+      "url": "https://archnet.org/sites/citadel-of-cairo",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-CITADELOFCAIRO-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "citadel-of-cairo-identity",
+      "placeSlug": "citadel-of-cairo",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Cairo Citadel.",
+      "textAr": "يسجل الجرد هذا الموقع باسم قلعة صلاح الدين الأيوبي بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "citadel-of-cairo:unesco-historic-cairo",
+        "citadel-of-cairo:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "citadel-of-cairo-status",
+      "placeSlug": "citadel-of-cairo",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "citadel-of-cairo:unesco-historic-cairo",
+        "citadel-of-cairo:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-CITADELOFCAIRO-01",
+      "placeSlug": "citadel-of-cairo",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Cairo Citadel is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل قلعة صلاح الدين كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-CITADELOFCAIRO"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "citadel-of-cairo-history",
+      "placeSlug": "citadel-of-cairo",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "This is a separate project record for the same Cairo Citadel represented by the parallel slug cairo-citadel. The fortress was begun under Salah al-Din and repeatedly expanded.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "citadel-of-cairo:unesco-historic-cairo",
+        "citadel-of-cairo:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "citadel-of-cairo-architecture",
+      "placeSlug": "citadel-of-cairo",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "The enclosure combines medieval fortification, Mamluk religious foundations, Ottoman-period palaces, and later museum and military uses.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "citadel-of-cairo:unesco-historic-cairo",
+        "citadel-of-cairo:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

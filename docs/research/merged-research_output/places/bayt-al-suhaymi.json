@@ -1,0 +1,875 @@
+{
+  "schemaVersion": 1,
+  "slug": "bayt-al-suhaymi",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "qa'a reception hall",
+    "mashrabiyyas",
+    "courtyards",
+    "painted ceilings",
+    "salamlik and haramlik",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "al-Gamaliyya / al-Muizz",
+  "historicalPeriods": [
+    "Ottoman",
+    "1648 and 1796 CE",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Bayt al-Suhaymi) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (بيت السحيمي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "al-Gamaliyya / al-Muizz",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "بيت السحيمي",
+  "nameEn": "Bayt al-Suhaymi",
+  "placeType": "historic residence",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Bayt al-Suhaymi played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت بيت السحيمي في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-BAYTALSUHAYMI"
+      ]
+    }
+  ],
+  "transliteration": "Bayt al-Suhaymi",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-bayt-al-suhaymi",
+      "placeId": null,
+      "placeSlug": "bayt-al-suhaymi",
+      "placeNameEn": "Bayt al-Suhaymi",
+      "placeNameAr": "بيت السحيمي",
+      "role": "cover",
+      "imageKitPath": "/places/bayt-al-suhaymi/cover.jpg",
+      "localFile": "images/bayt-al-suhaymi/bayt-al-suhaymi-cover-courtyard-mashrabiya.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG",
+      "sourceTitle": "Internal yard of a traditional house in Islamic Cairo..JPG",
+      "cdnUrl": null,
+      "creator": "SalmaMSan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Internal yard of a traditional house in Islamic Cairo..JPG — SalmaMSan, CC BY-SA 3.0, via Wikimedia Commons",
+      "altEn": "A planted inner courtyard at Bayt al-Suhaymi with palms, pale walls, and projecting wooden windows.",
+      "altAr": "فناء داخلي مزروع في بيت السحيمي يضم نخيلًا وجدرانًا فاتحة ونوافذ خشبية بارزة.",
+      "captionEn": "Inner courtyard of Bayt al-Suhaymi.",
+      "captionAr": "الفناء الداخلي لبيت السحيمي.",
+      "mediaType": "photo",
+      "visualType": "courtyard",
+      "documentaryStatus": "documentary",
+      "modifications": "Applied EXIF rotation correction and re-encoded to JPEG for correct display orientation",
+      "width": 1200,
+      "height": 1600,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 397464,
+      "checksum": "494f84f3923797016fe189c5109b9db4a753b3615ed77c6b217e8a9a6a729f50",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG",
+        "creator": "SalmaMSan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Internal yard of a traditional house in Islamic Cairo..JPG — SalmaMSan, CC BY-SA 3.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-bayt-al-suhaymi:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "qa'a reception hall",
+        "mashrabiyyas",
+        "courtyards",
+        "painted ceilings",
+        "salamlik and haramlik"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "qa'a reception hall",
+            "mashrabiyyas",
+            "courtyards",
+            "painted ceilings",
+            "salamlik and haramlik"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A sequence of courtyards, reception halls, private rooms, mashrabiyyas, painted ceilings, service spaces, and water-related features organized by privacy gradients and climate.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "al-Gamaliyya / al-Muizz",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "al-Gamaliyya / al-Muizz"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Ottoman",
+        "1648 and 1796 CE"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Ottoman",
+            "1648 and 1796 CE"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Bayt al-Suhaymi) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (بيت السحيمي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A large Cairene house formed through the joining and enlargement of earlier residences, including an eighteenth-century section associated with Shaykh Muhammad al-Suhaymi. It illustrates elite domestic life in Ottoman Cairo.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Bayt al-Suhaymi) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (بيت السحيمي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "al-Gamaliyya / al-Muizz",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "al-Gamaliyya / al-Muizz",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "بيت السحيمي",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "بيت السحيمي"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "nameEn": {
+      "canonical": "Bayt al-Suhaymi",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Bayt al-Suhaymi"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "historic residence",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "historic residence"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Bayt al-Suhaymi played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت بيت السحيمي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-BAYTALSUHAYMI"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "bayt-al-suhaymi:unesco-historic-cairo",
+                "bayt-al-suhaymi:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Bayt al-Suhaymi played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت بيت السحيمي في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-BAYTALSUHAYMI"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Bayt al-Suhaymi",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Bayt al-Suhaymi"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "bayt-al-suhaymi",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Bayt al-Suhaymi",
+      "nameAr": "بيت السحيمي",
+      "transliteration": "Bayt al-Suhaymi",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "historic residence",
+      "district": "al-Gamaliyya / al-Muizz",
+      "location": {
+        "descriptionEn": "al-Gamaliyya / al-Muizz",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Ottoman",
+        "1648 and 1796 CE"
+      ],
+      "historicalSummary": {
+        "en": "A large Cairene house formed through the joining and enlargement of earlier residences, including an eighteenth-century section associated with Shaykh Muhammad al-Suhaymi. It illustrates elite domestic life in Ottoman Cairo.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A sequence of courtyards, reception halls, private rooms, mashrabiyyas, painted ceilings, service spaces, and water-related features organized by privacy gradients and climate.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "qa'a reception hall",
+        "mashrabiyyas",
+        "courtyards",
+        "painted ceilings",
+        "salamlik and haramlik"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "bayt-al-suhaymi:unesco-historic-cairo",
+            "bayt-al-suhaymi:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "bayt-al-suhaymi-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Bayt al-Suhaymi.",
+          "textAr": "يسجل الجرد هذا الموقع باسم بيت السحيمي.",
+          "confidence": "high",
+          "sourceIds": [
+            "bayt-al-suhaymi:unesco-historic-cairo",
+            "bayt-al-suhaymi:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "bayt-al-suhaymi-history",
+          "claimType": "history",
+          "textEn": "A large Cairene house formed through the joining and enlargement of earlier residences, including an eighteenth-century section associated with Shaykh Muhammad al-Suhaymi. It illustrates elite domestic life in Ottoman Cairo.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "bayt-al-suhaymi:unesco-historic-cairo",
+            "bayt-al-suhaymi:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "bayt-al-suhaymi-architecture",
+          "claimType": "architecture",
+          "textEn": "A sequence of courtyards, reception halls, private rooms, mashrabiyyas, painted ceilings, service spaces, and water-related features organized by privacy gradients and climate.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "bayt-al-suhaymi:unesco-historic-cairo",
+            "bayt-al-suhaymi:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "bayt-al-suhaymi-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "bayt-al-suhaymi:unesco-historic-cairo",
+            "bayt-al-suhaymi:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "bayt-al-suhaymi:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "bayt-al-suhaymi-identity",
+            "bayt-al-suhaymi-history",
+            "bayt-al-suhaymi-architecture",
+            "bayt-al-suhaymi-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "bayt-al-suhaymi:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "bayt-al-suhaymi-identity",
+            "bayt-al-suhaymi-history",
+            "bayt-al-suhaymi-architecture",
+            "bayt-al-suhaymi-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "bayt-al-suhaymi",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Bayt al-Suhaymi",
+      "nameAr": "بيت السحيمي",
+      "transliteration": "Bayt al-Suhaymi",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Bayt al-Suhaymi) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (بيت السحيمي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Bayt al-Suhaymi played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت بيت السحيمي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-BAYTALSUHAYMI"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-BAYTALSUHAYMI-01",
+          "claimType": "history",
+          "textEn": "The site Bayt al-Suhaymi is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل بيت السحيمي كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-BAYTALSUHAYMI"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-BAYTALSUHAYMI",
+          "title": "Archnet & Ministry Documentation for Bayt al-Suhaymi",
+          "url": "https://archnet.org/sites/bayt-al-suhaymi",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-BAYTALSUHAYMI-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:bayt-al-suhaymi.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/bayt-al-suhaymi.jpg",
+          "title": "General View of Bayt al-Suhaymi",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Bayt al-Suhaymi\n\nArabic name: **بيت السحيمي**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `bayt-al-suhaymi`\n\n## Historical summary\n\nA large Cairene house formed through the joining and enlargement of earlier residences, including an eighteenth-century section associated with Shaykh Muhammad al-Suhaymi. It illustrates elite domestic life in Ottoman Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA sequence of courtyards, reception halls, private rooms, mashrabiyyas, painted ceilings, service spaces, and water-related features organized by privacy gradients and climate.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- qa'a reception hall\n- mashrabiyyas\n- courtyards\n- painted ceilings\n- salamlik and haramlik\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **bayt-al-suhaymi:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **bayt-al-suhaymi:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Bayt al-Suhaymi\n\nArabic name: **بيت السحيمي**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `bayt-al-suhaymi`\n\n## Historical summary\n\nA large Cairene house formed through the joining and enlargement of earlier residences, including an eighteenth-century section associated with Shaykh Muhammad al-Suhaymi. It illustrates elite domestic life in Ottoman Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA sequence of courtyards, reception halls, private rooms, mashrabiyyas, painted ceilings, service spaces, and water-related features organized by privacy gradients and climate.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- qa'a reception hall\n- mashrabiyyas\n- courtyards\n- painted ceilings\n- salamlik and haramlik\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **bayt-al-suhaymi:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **bayt-al-suhaymi:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Bayt al-Suhaymi (بيت السحيمي)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Bayt al-Suhaymi) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (بيت السحيمي) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Bayt al-Suhaymi played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Bayt al-Suhaymi (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/bayt-al-suhaymi.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-BAYTALSUHAYMI]** [Archnet & Ministry Documentation for Bayt al-Suhaymi](https://archnet.org/sites/bayt-al-suhaymi) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-bayt-al-suhaymi",
+        "placeId": null,
+        "placeSlug": "bayt-al-suhaymi",
+        "placeNameEn": "Bayt al-Suhaymi",
+        "placeNameAr": "بيت السحيمي",
+        "role": "cover",
+        "imageKitPath": "/places/bayt-al-suhaymi/cover.jpg",
+        "localFile": "images/bayt-al-suhaymi/bayt-al-suhaymi-cover-courtyard-mashrabiya.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG",
+        "sourceTitle": "Internal yard of a traditional house in Islamic Cairo..JPG",
+        "cdnUrl": null,
+        "creator": "SalmaMSan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Internal yard of a traditional house in Islamic Cairo..JPG — SalmaMSan, CC BY-SA 3.0, via Wikimedia Commons",
+        "altEn": "A planted inner courtyard at Bayt al-Suhaymi with palms, pale walls, and projecting wooden windows.",
+        "altAr": "فناء داخلي مزروع في بيت السحيمي يضم نخيلًا وجدرانًا فاتحة ونوافذ خشبية بارزة.",
+        "captionEn": "Inner courtyard of Bayt al-Suhaymi.",
+        "captionAr": "الفناء الداخلي لبيت السحيمي.",
+        "mediaType": "photo",
+        "visualType": "courtyard",
+        "documentaryStatus": "documentary",
+        "modifications": "Applied EXIF rotation correction and re-encoded to JPEG for correct display orientation",
+        "width": 1200,
+        "height": 1600,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 397464,
+        "checksum": "494f84f3923797016fe189c5109b9db4a753b3615ed77c6b217e8a9a6a729f50",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG",
+          "creator": "SalmaMSan",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "attribution": "Internal yard of a traditional house in Islamic Cairo..JPG — SalmaMSan, CC BY-SA 3.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-bayt-al-suhaymi:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Bayt al-Suhaymi\n\n- **Place slug:** `bayt-al-suhaymi`\n- **Asset ID:** `cover-bayt-al-suhaymi`\n- **Role:** cover\n- **Local file:** `images/bayt-al-suhaymi/bayt-al-suhaymi-cover-courtyard-mashrabiya.jpg`\n- **Canonical ImageKit path:** `/places/bayt-al-suhaymi/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nCorrected the image orientation so the courtyard reads properly.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/9/9b/Internal_yard_of_a_traditional_house_in_Islamic_Cairo..JPG\n- **Source title:** Internal yard of a traditional house in Islamic Cairo..JPG\n- **Creator:** SalmaMSan\n- **License:** CC BY-SA 3.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/3.0/\n- **Required attribution:** Internal yard of a traditional house in Islamic Cairo..JPG — SalmaMSan, CC BY-SA 3.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** A planted inner courtyard at Bayt al-Suhaymi with palms, pale walls, and projecting wooden windows.\n- **Alt text (AR):** فناء داخلي مزروع في بيت السحيمي يضم نخيلًا وجدرانًا فاتحة ونوافذ خشبية بارزة.\n- **Caption (EN):** Inner courtyard of Bayt al-Suhaymi.\n- **Caption (AR):** الفناء الداخلي لبيت السحيمي.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nApplied EXIF rotation correction and re-encoded to JPEG for correct display orientation\n"
+  },
+  "sources": [
+    "bayt-al-suhaymi:unesco-historic-cairo",
+    "bayt-al-suhaymi:mota-historic-cairo",
+    "SRC-BAYTALSUHAYMI"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "bayt-al-suhaymi:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "bayt-al-suhaymi-identity",
+        "bayt-al-suhaymi-history",
+        "bayt-al-suhaymi-architecture",
+        "bayt-al-suhaymi-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "bayt-al-suhaymi:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "bayt-al-suhaymi-identity",
+        "bayt-al-suhaymi-history",
+        "bayt-al-suhaymi-architecture",
+        "bayt-al-suhaymi-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-BAYTALSUHAYMI",
+      "title": "Archnet & Ministry Documentation for Bayt al-Suhaymi",
+      "url": "https://archnet.org/sites/bayt-al-suhaymi",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-BAYTALSUHAYMI-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "bayt-al-suhaymi-identity",
+      "placeSlug": "bayt-al-suhaymi",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Bayt al-Suhaymi.",
+      "textAr": "يسجل الجرد هذا الموقع باسم بيت السحيمي.",
+      "confidence": "high",
+      "sourceIds": [
+        "bayt-al-suhaymi:unesco-historic-cairo",
+        "bayt-al-suhaymi:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "bayt-al-suhaymi-status",
+      "placeSlug": "bayt-al-suhaymi",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "bayt-al-suhaymi:unesco-historic-cairo",
+        "bayt-al-suhaymi:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-BAYTALSUHAYMI-01",
+      "placeSlug": "bayt-al-suhaymi",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Bayt al-Suhaymi is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل بيت السحيمي كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-BAYTALSUHAYMI"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "bayt-al-suhaymi-history",
+      "placeSlug": "bayt-al-suhaymi",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "A large Cairene house formed through the joining and enlargement of earlier residences, including an eighteenth-century section associated with Shaykh Muhammad al-Suhaymi. It illustrates elite domestic life in Ottoman Cairo.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "bayt-al-suhaymi:unesco-historic-cairo",
+        "bayt-al-suhaymi:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "bayt-al-suhaymi-architecture",
+      "placeSlug": "bayt-al-suhaymi",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A sequence of courtyards, reception halls, private rooms, mashrabiyyas, painted ceilings, service spaces, and water-related features organized by privacy gradients and climate.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "bayt-al-suhaymi:unesco-historic-cairo",
+        "bayt-al-suhaymi:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

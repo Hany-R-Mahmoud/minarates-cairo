@@ -1,0 +1,868 @@
+{
+  "schemaVersion": 1,
+  "slug": "mosque-al-azhar",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Unknown — requires official or field verification.",
+  "historicalPeriods": [
+    "Historic Cairo context — period-specific verification required",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Al-Azhar Mosque) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (جامع الأزهر) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Unknown — requires official or field verification.",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "جامع الأزهر",
+  "nameEn": "Al-Azhar Mosque",
+  "placeType": "historic place / research record",
+  "relatedSlugs": [
+    "al-azhar-mosque"
+  ],
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Al-Azhar Mosque played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت جامع الأزهر في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MOSQUEALAZHAR"
+      ]
+    }
+  ],
+  "transliteration": "Al-Azhar Mosque",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-mosque-al-azhar",
+      "placeId": null,
+      "placeSlug": "mosque-al-azhar",
+      "placeNameEn": "Al-Azhar Mosque",
+      "placeNameAr": "الجامع الأزهر",
+      "role": "cover",
+      "imageKitPath": "/places/mosque-al-azhar/cover.jpg",
+      "localFile": "images/mosque-al-azhar/mosque-al-azhar-cover-courtyard-minarets.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+      "sourceTitle": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG",
+      "cdnUrl": null,
+      "creator": "Daniel Mayer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons",
+      "altEn": "The courtyard of Al-Azhar Mosque with arcades and several minarets under a clear sky.",
+      "altAr": "فناء الجامع الأزهر تحيط به الأروقة وتظهر فوقه عدة مآذن تحت سماء صافية.",
+      "captionEn": "Courtyard and minarets of Al-Azhar Mosque.",
+      "captionAr": "فناء الجامع الأزهر ومآذنه.",
+      "mediaType": "photo",
+      "visualType": "courtyard",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 2478,
+      "height": 2165,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1288299,
+      "checksum": "4ae29a9012558c1ac661f46b31074906c6b978b4c6e41741d8f39a42d3e440ec",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+        "creator": "Daniel Mayer",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-mosque-al-azhar:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "variants": [
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Unknown — requires official or field verification.",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Historic Cairo context — period-specific verification required"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Al-Azhar Mosque) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع الأزهر) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Al-Azhar Mosque) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (جامع الأزهر) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Unknown — requires official or field verification.",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "جامع الأزهر",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "جامع الأزهر"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Al-Azhar Mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Azhar Mosque"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "historic place / research record",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "historic place / research record"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": [
+        "al-azhar-mosque"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "al-azhar-mosque"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Al-Azhar Mosque played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع الأزهر في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALAZHAR"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mosque-al-azhar:unesco-historic-cairo",
+                "mosque-al-azhar:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Al-Azhar Mosque played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت جامع الأزهر في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MOSQUEALAZHAR"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Al-Azhar Mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Azhar Mosque"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mosque-al-azhar",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Azhar Mosque",
+      "nameAr": "Unknown — requires official or field verification.",
+      "transliteration": "Al-Azhar Mosque",
+      "alternativeNames": [],
+      "relatedSlugs": [
+        "al-azhar-mosque"
+      ],
+      "placeType": "historic place / research record",
+      "district": "Unknown — requires official or field verification.",
+      "location": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "historicalSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architectureSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architecturalElements": [],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mosque-al-azhar:unesco-historic-cairo",
+            "mosque-al-azhar:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mosque-al-azhar-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Al-Azhar Mosque.",
+          "textAr": "يسجل الجرد هذا الموقع باسم Unknown — requires official or field verification..",
+          "confidence": "high",
+          "sourceIds": [
+            "mosque-al-azhar:unesco-historic-cairo",
+            "mosque-al-azhar:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-azhar-history",
+          "claimType": "history",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-al-azhar:unesco-historic-cairo",
+            "mosque-al-azhar:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-azhar-architecture",
+          "claimType": "architecture",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-al-azhar:unesco-historic-cairo",
+            "mosque-al-azhar:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-azhar-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-al-azhar:unesco-historic-cairo",
+            "mosque-al-azhar:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mosque-al-azhar:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-azhar-identity",
+            "mosque-al-azhar-history",
+            "mosque-al-azhar-architecture",
+            "mosque-al-azhar-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "mosque-al-azhar:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-azhar-identity",
+            "mosque-al-azhar-history",
+            "mosque-al-azhar-architecture",
+            "mosque-al-azhar-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mosque-al-azhar",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Azhar Mosque",
+      "nameAr": "جامع الأزهر",
+      "transliteration": "Al-Azhar Mosque",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Al-Azhar Mosque) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع الأزهر) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Al-Azhar Mosque played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع الأزهر في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALAZHAR"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MOSQUEALAZHAR-01",
+          "claimType": "history",
+          "textEn": "The site Al-Azhar Mosque is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل جامع الأزهر كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-MOSQUEALAZHAR"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MOSQUEALAZHAR",
+          "title": "Archnet & Ministry Documentation for Al-Azhar Mosque",
+          "url": "https://archnet.org/sites/mosque-al-azhar",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MOSQUEALAZHAR-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mosque-al-azhar.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mosque-al-azhar.jpg",
+          "title": "General View of Al-Azhar Mosque",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Al-Azhar Mosque\n\nArabic name: **Unknown — requires official or field verification.**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-azhar`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-azhar:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-azhar:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Al-Azhar Mosque\n\nArabic name: **Unknown — requires official or field verification.**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-azhar`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-azhar:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-azhar:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Al-Azhar Mosque (جامع الأزهر)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Al-Azhar Mosque) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (جامع الأزهر) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Al-Azhar Mosque played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Al-Azhar Mosque (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mosque-al-azhar.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MOSQUEALAZHAR]** [Archnet & Ministry Documentation for Al-Azhar Mosque](https://archnet.org/sites/mosque-al-azhar) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-mosque-al-azhar",
+        "placeId": null,
+        "placeSlug": "mosque-al-azhar",
+        "placeNameEn": "Al-Azhar Mosque",
+        "placeNameAr": "الجامع الأزهر",
+        "role": "cover",
+        "imageKitPath": "/places/mosque-al-azhar/cover.jpg",
+        "localFile": "images/mosque-al-azhar/mosque-al-azhar-cover-courtyard-minarets.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+        "sourceTitle": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG",
+        "cdnUrl": null,
+        "creator": "Daniel Mayer",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons",
+        "altEn": "The courtyard of Al-Azhar Mosque with arcades and several minarets under a clear sky.",
+        "altAr": "فناء الجامع الأزهر تحيط به الأروقة وتظهر فوقه عدة مآذن تحت سماء صافية.",
+        "captionEn": "Courtyard and minarets of Al-Azhar Mosque.",
+        "captionAr": "فناء الجامع الأزهر ومآذنه.",
+        "mediaType": "photo",
+        "visualType": "courtyard",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 2478,
+        "height": 2165,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1288299,
+        "checksum": "4ae29a9012558c1ac661f46b31074906c6b978b4c6e41741d8f39a42d3e440ec",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+          "creator": "Daniel Mayer",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-mosque-al-azhar:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Al-Azhar Mosque\n\n- **Place slug:** `mosque-al-azhar`\n- **Asset ID:** `cover-mosque-al-azhar`\n- **Role:** cover\n- **Local file:** `images/mosque-al-azhar/mosque-al-azhar-cover-courtyard-minarets.jpg`\n- **Canonical ImageKit path:** `/places/mosque-al-azhar/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG\n- **Source title:** Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG\n- **Creator:** Daniel Mayer\n- **License:** CC BY-SA 4.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/4.0/\n- **Required attribution:** Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The courtyard of Al-Azhar Mosque with arcades and several minarets under a clear sky.\n- **Alt text (AR):** فناء الجامع الأزهر تحيط به الأروقة وتظهر فوقه عدة مآذن تحت سماء صافية.\n- **Caption (EN):** Courtyard and minarets of Al-Azhar Mosque.\n- **Caption (AR):** فناء الجامع الأزهر ومآذنه.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "mosque-al-azhar:unesco-historic-cairo",
+    "mosque-al-azhar:mota-historic-cairo",
+    "SRC-MOSQUEALAZHAR"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mosque-al-azhar:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-azhar-identity",
+        "mosque-al-azhar-history",
+        "mosque-al-azhar-architecture",
+        "mosque-al-azhar-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mosque-al-azhar:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-azhar-identity",
+        "mosque-al-azhar-history",
+        "mosque-al-azhar-architecture",
+        "mosque-al-azhar-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-MOSQUEALAZHAR",
+      "title": "Archnet & Ministry Documentation for Al-Azhar Mosque",
+      "url": "https://archnet.org/sites/mosque-al-azhar",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MOSQUEALAZHAR-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "mosque-al-azhar-status",
+      "placeSlug": "mosque-al-azhar",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-azhar:unesco-historic-cairo",
+        "mosque-al-azhar:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MOSQUEALAZHAR-01",
+      "placeSlug": "mosque-al-azhar",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Al-Azhar Mosque is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل جامع الأزهر كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-MOSQUEALAZHAR"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mosque-al-azhar-identity",
+      "placeSlug": "mosque-al-azhar",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Al-Azhar Mosque.",
+      "textAr": "يسجل الجرد هذا الموقع باسم Unknown — requires official or field verification..",
+      "confidence": "high",
+      "sourceIds": [
+        "mosque-al-azhar:unesco-historic-cairo",
+        "mosque-al-azhar:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mosque-al-azhar-history",
+      "placeSlug": "mosque-al-azhar",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-azhar:unesco-historic-cairo",
+        "mosque-al-azhar:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mosque-al-azhar-architecture",
+      "placeSlug": "mosque-al-azhar",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-azhar:unesco-historic-cairo",
+        "mosque-al-azhar:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

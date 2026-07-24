@@ -19,6 +19,8 @@ import StoryDetail from "./pages/StoryDetail";
 import Itinerary from "./pages/Itinerary";
 import Notebook from "./pages/Notebook";
 import CuratorStudio from "./pages/CuratorStudio";
+import ArchitectureAtlas from "./pages/ArchitectureAtlas";
+import Timeline from "./pages/Timeline";
 import SiteLayout from "./components/SiteLayout";
 
 function Router() {
@@ -32,6 +34,8 @@ function Router() {
         <Route path="/walks" component={Walks} />
         <Route path="/walks/:slug" component={WalkDetail} />
         <Route path="/periods" component={Periods} />
+        <Route path="/architecture" component={ArchitectureAtlas} />
+        <Route path="/timeline" component={Timeline} />
         <Route path="/compare" component={Compare} />
         <Route path="/detective" component={Detective} />
         <Route path="/stories" component={Stories} />

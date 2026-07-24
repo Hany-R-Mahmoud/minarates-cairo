@@ -1,0 +1,879 @@
+{
+  "schemaVersion": 1,
+  "slug": "mosque-al-ghuri",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "mosque",
+    "mausoleum",
+    "dome",
+    "minaret",
+    "urban complex",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "al-Azhar / al-Muizz",
+  "historicalPeriods": [
+    "Late Mamluk",
+    "1503–1505 CE / 909–910 AH",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mosque and Mausoleum of al-Ghuri) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (مجموعة السلطان الغوري) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "al-Azhar / al-Muizz",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "جامع وقبة الغوري",
+  "nameEn": "Mosque and Mausoleum of al-Ghuri",
+  "placeType": "mosque and funerary complex",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mosque and Mausoleum of al-Ghuri played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت مجموعة السلطان الغوري في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MOSQUEALGHURI"
+      ]
+    }
+  ],
+  "transliteration": "Mosque and Mausoleum of al-Ghuri",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-mosque-al-ghuri",
+      "placeId": null,
+      "placeSlug": "mosque-al-ghuri",
+      "placeNameEn": "Mosque and Mausoleum of al-Ghuri",
+      "placeNameAr": "مسجد وضريح الغوري",
+      "role": "cover",
+      "imageKitPath": "/places/mosque-al-ghuri/cover.jpg",
+      "localFile": "images/mosque-al-ghuri/mosque-al-ghuri-cover-striped-facade.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Al-Ghuri_madrasa_DSCF8631.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Al-Ghuri_madrasa_DSCF8631.jpg",
+      "sourceTitle": "Al-Ghuri madrasa DSCF8631.jpg",
+      "cdnUrl": null,
+      "creator": "R Prazeres",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Al-Ghuri madrasa DSCF8631.jpg — R Prazeres, CC BY-SA 4.0, via Wikimedia Commons",
+      "altEn": "The striped stone street facade and entrance of the Al-Ghuri madrasa and mosque.",
+      "altAr": "الواجهة الحجرية المخططة المطلة على الشارع ومدخل مدرسة ومسجد الغوري.",
+      "captionEn": "Street facade of the Al-Ghuri madrasa and mosque.",
+      "captionAr": "واجهة مدرسة ومسجد الغوري المطلة على الشارع.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 2250,
+      "height": 3000,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1538925,
+      "checksum": "a6f8ed0dc54307b8b85c8397e805fe34cf0b72355ae296b783cc1abbd296eb14",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Al-Ghuri_madrasa_DSCF8631.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Al-Ghuri_madrasa_DSCF8631.jpg",
+        "creator": "R Prazeres",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Al-Ghuri madrasa DSCF8631.jpg — R Prazeres, CC BY-SA 4.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-mosque-al-ghuri:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "mosque",
+        "mausoleum",
+        "dome",
+        "minaret",
+        "urban complex"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "mosque",
+            "mausoleum",
+            "dome",
+            "minaret",
+            "urban complex"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A richly decorated mosque and mausoleum linked to a khanqah and wakala, with a projecting facade, minaret, dome, and dense stone and stucco ornament.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "al-Azhar / al-Muizz",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "al-Azhar / al-Muizz"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Late Mamluk",
+        "1503–1505 CE / 909–910 AH"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Late Mamluk",
+            "1503–1505 CE / 909–910 AH"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mosque and Mausoleum of al-Ghuri) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (مجموعة السلطان الغوري) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Founded by Sultan Qansuh al-Ghuri as part of a larger urban complex shortly before the Ottoman conquest. Its paired urban buildings shaped both sides of a major commercial route.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mosque and Mausoleum of al-Ghuri) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (مجموعة السلطان الغوري) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "al-Azhar / al-Muizz",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "al-Azhar / al-Muizz",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "جامع وقبة الغوري",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "جامع وقبة الغوري"
+        },
+        {
+          "provenance": "gemini",
+          "value": "مجموعة السلطان الغوري"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Mosque and Mausoleum of al-Ghuri",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque and Mausoleum of al-Ghuri"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mosque and funerary complex",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mosque and funerary complex"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque and Mausoleum of al-Ghuri played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت مجموعة السلطان الغوري في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALGHURI"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mosque-al-ghuri:unesco-historic-cairo",
+                "mosque-al-ghuri:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mosque and Mausoleum of al-Ghuri played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت مجموعة السلطان الغوري في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MOSQUEALGHURI"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mosque and Mausoleum of al-Ghuri",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque and Mausoleum of al-Ghuri"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mosque-al-ghuri",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque and Mausoleum of al-Ghuri",
+      "nameAr": "جامع وقبة الغوري",
+      "transliteration": "Mosque and Mausoleum of al-Ghuri",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "mosque and funerary complex",
+      "district": "al-Azhar / al-Muizz",
+      "location": {
+        "descriptionEn": "al-Azhar / al-Muizz",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Late Mamluk",
+        "1503–1505 CE / 909–910 AH"
+      ],
+      "historicalSummary": {
+        "en": "Founded by Sultan Qansuh al-Ghuri as part of a larger urban complex shortly before the Ottoman conquest. Its paired urban buildings shaped both sides of a major commercial route.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A richly decorated mosque and mausoleum linked to a khanqah and wakala, with a projecting facade, minaret, dome, and dense stone and stucco ornament.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "mosque",
+        "mausoleum",
+        "dome",
+        "minaret",
+        "urban complex"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mosque-al-ghuri:unesco-historic-cairo",
+            "mosque-al-ghuri:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mosque-al-ghuri-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mosque and Mausoleum of al-Ghuri.",
+          "textAr": "يسجل الجرد هذا الموقع باسم جامع وقبة الغوري.",
+          "confidence": "high",
+          "sourceIds": [
+            "mosque-al-ghuri:unesco-historic-cairo",
+            "mosque-al-ghuri:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-ghuri-history",
+          "claimType": "history",
+          "textEn": "Founded by Sultan Qansuh al-Ghuri as part of a larger urban complex shortly before the Ottoman conquest. Its paired urban buildings shaped both sides of a major commercial route.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mosque-al-ghuri:unesco-historic-cairo",
+            "mosque-al-ghuri:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-ghuri-architecture",
+          "claimType": "architecture",
+          "textEn": "A richly decorated mosque and mausoleum linked to a khanqah and wakala, with a projecting facade, minaret, dome, and dense stone and stucco ornament.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mosque-al-ghuri:unesco-historic-cairo",
+            "mosque-al-ghuri:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-ghuri-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-al-ghuri:unesco-historic-cairo",
+            "mosque-al-ghuri:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mosque-al-ghuri:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-ghuri-identity",
+            "mosque-al-ghuri-history",
+            "mosque-al-ghuri-architecture",
+            "mosque-al-ghuri-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "mosque-al-ghuri:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-ghuri-identity",
+            "mosque-al-ghuri-history",
+            "mosque-al-ghuri-architecture",
+            "mosque-al-ghuri-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mosque-al-ghuri",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque and Mausoleum of al-Ghuri",
+      "nameAr": "مجموعة السلطان الغوري",
+      "transliteration": "Mosque and Mausoleum of al-Ghuri",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mosque and Mausoleum of al-Ghuri) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (مجموعة السلطان الغوري) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque and Mausoleum of al-Ghuri played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت مجموعة السلطان الغوري في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALGHURI"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MOSQUEALGHURI-01",
+          "claimType": "history",
+          "textEn": "The site Mosque and Mausoleum of al-Ghuri is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل مجموعة السلطان الغوري كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-MOSQUEALGHURI"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MOSQUEALGHURI",
+          "title": "Archnet & Ministry Documentation for Mosque and Mausoleum of al-Ghuri",
+          "url": "https://archnet.org/sites/mosque-al-ghuri",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MOSQUEALGHURI-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mosque-al-ghuri.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mosque-al-ghuri.jpg",
+          "title": "General View of Mosque and Mausoleum of al-Ghuri",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mosque and Mausoleum of al-Ghuri\n\nArabic name: **جامع وقبة الغوري**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-ghuri`\n\n## Historical summary\n\nFounded by Sultan Qansuh al-Ghuri as part of a larger urban complex shortly before the Ottoman conquest. Its paired urban buildings shaped both sides of a major commercial route.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA richly decorated mosque and mausoleum linked to a khanqah and wakala, with a projecting facade, minaret, dome, and dense stone and stucco ornament.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- mosque\n- mausoleum\n- dome\n- minaret\n- urban complex\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-ghuri:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-ghuri:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mosque and Mausoleum of al-Ghuri\n\nArabic name: **جامع وقبة الغوري**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-ghuri`\n\n## Historical summary\n\nFounded by Sultan Qansuh al-Ghuri as part of a larger urban complex shortly before the Ottoman conquest. Its paired urban buildings shaped both sides of a major commercial route.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA richly decorated mosque and mausoleum linked to a khanqah and wakala, with a projecting facade, minaret, dome, and dense stone and stucco ornament.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- mosque\n- mausoleum\n- dome\n- minaret\n- urban complex\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-ghuri:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-ghuri:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mosque and Mausoleum of al-Ghuri (مجموعة السلطان الغوري)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mosque and Mausoleum of al-Ghuri) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (مجموعة السلطان الغوري) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mosque and Mausoleum of al-Ghuri played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mosque and Mausoleum of al-Ghuri (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mosque-al-ghuri.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MOSQUEALGHURI]** [Archnet & Ministry Documentation for Mosque and Mausoleum of al-Ghuri](https://archnet.org/sites/mosque-al-ghuri) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-mosque-al-ghuri",
+        "placeId": null,
+        "placeSlug": "mosque-al-ghuri",
+        "placeNameEn": "Mosque and Mausoleum of al-Ghuri",
+        "placeNameAr": "مسجد وضريح الغوري",
+        "role": "cover",
+        "imageKitPath": "/places/mosque-al-ghuri/cover.jpg",
+        "localFile": "images/mosque-al-ghuri/mosque-al-ghuri-cover-striped-facade.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Al-Ghuri_madrasa_DSCF8631.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Al-Ghuri_madrasa_DSCF8631.jpg",
+        "sourceTitle": "Al-Ghuri madrasa DSCF8631.jpg",
+        "cdnUrl": null,
+        "creator": "R Prazeres",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Al-Ghuri madrasa DSCF8631.jpg — R Prazeres, CC BY-SA 4.0, via Wikimedia Commons",
+        "altEn": "The striped stone street facade and entrance of the Al-Ghuri madrasa and mosque.",
+        "altAr": "الواجهة الحجرية المخططة المطلة على الشارع ومدخل مدرسة ومسجد الغوري.",
+        "captionEn": "Street facade of the Al-Ghuri madrasa and mosque.",
+        "captionAr": "واجهة مدرسة ومسجد الغوري المطلة على الشارع.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 2250,
+        "height": 3000,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1538925,
+        "checksum": "a6f8ed0dc54307b8b85c8397e805fe34cf0b72355ae296b783cc1abbd296eb14",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Al-Ghuri_madrasa_DSCF8631.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Al-Ghuri_madrasa_DSCF8631.jpg",
+          "creator": "R Prazeres",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Al-Ghuri madrasa DSCF8631.jpg — R Prazeres, CC BY-SA 4.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-mosque-al-ghuri:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Mosque and Mausoleum of al-Ghuri\n\n- **Place slug:** `mosque-al-ghuri`\n- **Asset ID:** `cover-mosque-al-ghuri`\n- **Role:** cover\n- **Local file:** `images/mosque-al-ghuri/mosque-al-ghuri-cover-striped-facade.jpg`\n- **Canonical ImageKit path:** `/places/mosque-al-ghuri/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Al-Ghuri_madrasa_DSCF8631.jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/8/8f/Al-Ghuri_madrasa_DSCF8631.jpg\n- **Source title:** Al-Ghuri madrasa DSCF8631.jpg\n- **Creator:** R Prazeres\n- **License:** CC BY-SA 4.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/4.0/\n- **Required attribution:** Al-Ghuri madrasa DSCF8631.jpg — R Prazeres, CC BY-SA 4.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The striped stone street facade and entrance of the Al-Ghuri madrasa and mosque.\n- **Alt text (AR):** الواجهة الحجرية المخططة المطلة على الشارع ومدخل مدرسة ومسجد الغوري.\n- **Caption (EN):** Street facade of the Al-Ghuri madrasa and mosque.\n- **Caption (AR):** واجهة مدرسة ومسجد الغوري المطلة على الشارع.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "mosque-al-ghuri:unesco-historic-cairo",
+    "mosque-al-ghuri:mota-historic-cairo",
+    "SRC-MOSQUEALGHURI"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mosque-al-ghuri:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-ghuri-identity",
+        "mosque-al-ghuri-history",
+        "mosque-al-ghuri-architecture",
+        "mosque-al-ghuri-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mosque-al-ghuri:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-ghuri-identity",
+        "mosque-al-ghuri-history",
+        "mosque-al-ghuri-architecture",
+        "mosque-al-ghuri-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-MOSQUEALGHURI",
+      "title": "Archnet & Ministry Documentation for Mosque and Mausoleum of al-Ghuri",
+      "url": "https://archnet.org/sites/mosque-al-ghuri",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MOSQUEALGHURI-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "mosque-al-ghuri-identity",
+      "placeSlug": "mosque-al-ghuri",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque and Mausoleum of al-Ghuri.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع وقبة الغوري.",
+      "confidence": "high",
+      "sourceIds": [
+        "mosque-al-ghuri:unesco-historic-cairo",
+        "mosque-al-ghuri:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "mosque-al-ghuri-status",
+      "placeSlug": "mosque-al-ghuri",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-ghuri:unesco-historic-cairo",
+        "mosque-al-ghuri:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MOSQUEALGHURI-01",
+      "placeSlug": "mosque-al-ghuri",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mosque and Mausoleum of al-Ghuri is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل مجموعة السلطان الغوري كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-MOSQUEALGHURI"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mosque-al-ghuri-history",
+      "placeSlug": "mosque-al-ghuri",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Founded by Sultan Qansuh al-Ghuri as part of a larger urban complex shortly before the Ottoman conquest. Its paired urban buildings shaped both sides of a major commercial route.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-al-ghuri:unesco-historic-cairo",
+        "mosque-al-ghuri:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mosque-al-ghuri-architecture",
+      "placeSlug": "mosque-al-ghuri",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A richly decorated mosque and mausoleum linked to a khanqah and wakala, with a projecting facade, minaret, dome, and dense stone and stucco ornament.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-al-ghuri:unesco-historic-cairo",
+        "mosque-al-ghuri:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

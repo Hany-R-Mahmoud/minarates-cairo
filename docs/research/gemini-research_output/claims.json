@@ -1,0 +1,1235 @@
+[
+  {
+    "claimId": "CLM-AQMAR-01",
+    "claimType": "history",
+    "textEn": "The mosque was commissioned in 1125 AD by Vizier al-Ma'mun al-Bata'ihi.",
+    "textAr": "تأسس المسجد عام 1125 م على يد الوزير المأمون البطائحي.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-ARCHNET-AQMAR",
+      "SRC-MTA-AQMAR"
+    ]
+  },
+  {
+    "claimId": "CLM-AZHAR-01",
+    "claimType": "history",
+    "textEn": "Founded in 970 AD by Jawhar al-Siqilli.",
+    "textAr": "تأسس سنة 970 م بواسطة جوهر الصقلي.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-ARCHNET-AZHAR",
+      "SRC-MTA-AZHAR"
+    ]
+  },
+  {
+    "claimId": "CLM-AZHARPARK-01",
+    "claimType": "history",
+    "textEn": "Opened in 2005 as an AKTC urban revitalization project.",
+    "textAr": "تم افتتاح الحديقة عام 2005 ضمن مشروع التنمية الحضرية لشركة أغاخان للثقافة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-AKTC-AZHARPARK",
+      "SRC-MTA-AZHARPARK"
+    ]
+  },
+  {
+    "claimId": "CLM-ALHUSSEINMOSQUE-01",
+    "claimType": "history",
+    "textEn": "The site Al-Hussein Mosque and District is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مسجد الإمام الحسين وحيه كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-ALHUSSEINMOSQUE"
+    ]
+  },
+  {
+    "claimId": "CLM-ALMUIZZSTREET-01",
+    "claimType": "history",
+    "textEn": "The site Al-Muizz Street is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل شارع المعز لدين الله كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-ALMUIZZSTREET"
+    ]
+  },
+  {
+    "claimId": "CLM-ALRIFAIMOSQUE-01",
+    "claimType": "history",
+    "textEn": "The site Al-Rifa'i Mosque is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مسجد الرفاعي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-ALRIFAIMOSQUE"
+    ]
+  },
+  {
+    "claimId": "CLM-BABALFUTUH-01",
+    "claimType": "history",
+    "textEn": "The site Bab al-Futuh is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل باب الفتوح كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-BABALFUTUH"
+    ]
+  },
+  {
+    "claimId": "CLM-BABALNASR-01",
+    "claimType": "history",
+    "textEn": "The site Bab al-Nasr is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل باب النصر كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-BABALNASR"
+    ]
+  },
+  {
+    "claimId": "CLM-BABZUWEILA-01",
+    "claimType": "history",
+    "textEn": "The site Bab Zuweila is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل باب زويلة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-BABZUWEILA"
+    ]
+  },
+  {
+    "claimId": "CLM-BARQUQCOMPLEX-01",
+    "claimType": "history",
+    "textEn": "The site Madrasa and Khanqah of Sultan Barquq is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مدرسة وخانقاه السلطان برقوق كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-BARQUQCOMPLEX"
+    ]
+  },
+  {
+    "claimId": "CLM-BAYNALQASRAYN-01",
+    "claimType": "history",
+    "textEn": "The site Bayn al-Qasrayn is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بين القصرين كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-BAYNALQASRAYN"
+    ]
+  },
+  {
+    "claimId": "CLM-BAYTALSUHAYMI-01",
+    "claimType": "history",
+    "textEn": "The site Bayt al-Suhaymi is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بيت السحيمي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-BAYTALSUHAYMI"
+    ]
+  },
+  {
+    "claimId": "CLM-CAIROCITADEL-01",
+    "claimType": "history",
+    "textEn": "The site Cairo Citadel is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قلعة صلاح الدين الأيوبي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-CAIROCITADEL"
+    ]
+  },
+  {
+    "claimId": "CLM-CITADELOFCAIRO-01",
+    "claimType": "history",
+    "textEn": "The site Cairo Citadel is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قلعة صلاح الدين كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-CITADELOFCAIRO"
+    ]
+  },
+  {
+    "claimId": "CLM-COMPLEXBARQUQMUIZZ-01",
+    "claimType": "history",
+    "textEn": "The site Khanqah and Mosque of Faraj ibn Barquq is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل خانقاه وفرج بن برقوق كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-COMPLEXBARQUQMUIZZ"
+    ]
+  },
+  {
+    "claimId": "CLM-COMPLEXQALAWUN-01",
+    "claimType": "history",
+    "textEn": "The site Qalawun Complex is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مجمع السلطان قلاوون كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-COMPLEXQALAWUN"
+    ]
+  },
+  {
+    "claimId": "CLM-COMPLEXSULTANHASAN-01",
+    "claimType": "history",
+    "textEn": "The site Mosque and Madrasa of Sultan Hasan is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مسجد ومدرسة السلطان حسن كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-COMPLEXSULTANHASAN"
+    ]
+  },
+  {
+    "claimId": "CLM-FARAJIBNBARQUQKHANQAH-01",
+    "claimType": "history",
+    "textEn": "The site Khanqah and Mosque of Faraj ibn Barquq is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل خانقاه فرج بن برقوق كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-FARAJIBNBARQUQKHANQAH"
+    ]
+  },
+  {
+    "claimId": "CLM-KHANALKHALILI-01",
+    "claimType": "history",
+    "textEn": "The site Khan al-Khalili is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل خان الخليلي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-KHANALKHALILI"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALAQMAR-01",
+    "claimType": "history",
+    "textEn": "The site Al-Aqmar Mosque is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الأقمر كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALAQMAR"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALAZHAR-01",
+    "claimType": "history",
+    "textEn": "The site Al-Azhar Mosque is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الأزهر كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALAZHAR"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALGHURI-01",
+    "claimType": "history",
+    "textEn": "The site Mosque and Mausoleum of al-Ghuri is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مجموعة السلطان الغوري كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALGHURI"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALHAKIM-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of al-Hakim bi-Amr Allah is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الحاكم بأمر الله كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALHAKIM"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALHUSSEIN-01",
+    "claimType": "history",
+    "textEn": "The site Al-Hussein Mosque and District is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الحسين كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALHUSSEIN"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALMUAYYAD-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of al-Mu'ayyad is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع المؤيد شيخ كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALMUAYYAD"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALNASIRMUHAMMADCITADEL-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of al-Nasir Muhammad at the Citadel is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الناصر محمد بالقلعة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALNASIRMUHAMMADCITADEL"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALRIFAI-01",
+    "claimType": "history",
+    "textEn": "The site Al-Rifa'i Mosque is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الرفاعي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALRIFAI"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALSALIHAYYUB-01",
+    "claimType": "history",
+    "textEn": "The site Madrasa and Mausoleum of al-Salih Ayyub is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مدرسة ومقبرة الصالح أيوب كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALSALIHAYYUB"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALSALIHTALAI-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of al-Salih Tala'i is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الصالح طلائع كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEALSALIHTALAI"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEAMRIBNALAS-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Amr ibn al-As is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع عمرو بن العاص كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEAMRIBNALAS"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEIBNTULUN-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Ahmad Ibn Tulun is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع أحمد بن طولون كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEIBNTULUN"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEMUHAMMADALICITADEL-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Muhammad Ali is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع محمد علي بالقلعة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUEMUHAMMADALICITADEL"
+    ]
+  },
+  {
+    "claimId": "CLM-MUHAMMADALIMOSQUE-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Muhammad Ali is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع محمد علي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MUHAMMADALIMOSQUE"
+    ]
+  },
+  {
+    "claimId": "CLM-MUSEUMISLAMICART-01",
+    "claimType": "history",
+    "textEn": "The site Museum of Islamic Art is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل متحف الفن الإسلامي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MUSEUMISLAMICART"
+    ]
+  },
+  {
+    "claimId": "CLM-MUSEUMOFISLAMICART-01",
+    "claimType": "history",
+    "textEn": "The site Museum of Islamic Art is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل متحف الفن الإسلامي بالقاهرة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MUSEUMOFISLAMICART"
+    ]
+  },
+  {
+    "claimId": "CLM-NILOMETERRODA-01",
+    "claimType": "history",
+    "textEn": "The site Nilometer on Roda Island is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مقياس النيل بالروضة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-NILOMETERRODA"
+    ]
+  },
+  {
+    "claimId": "CLM-QALAWUNCOMPLEX-01",
+    "claimType": "history",
+    "textEn": "The site Qalawun Complex is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مجموعة السلطان قلاوون كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-QALAWUNCOMPLEX"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILABDALRAHMANKATKHUDA-01",
+    "claimType": "history",
+    "textEn": "The site Sabil-Kuttab of Abd al-Rahman Katkhuda is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل وكتاب عبد الرحمن كتحدا كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-SABILABDALRAHMANKATKHUDA"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILKUTTABABDALRAHMANKATKHUDA-01",
+    "claimType": "history",
+    "textEn": "The site Sabil-Kuttab of Abd al-Rahman Katkhuda is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل وكتاب عبد الرحمن كتحدا كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-SABILKUTTABABDALRAHMANKATKHUDA"
+    ]
+  },
+  {
+    "claimId": "CLM-SULTANHASANMOSQUE-01",
+    "claimType": "history",
+    "textEn": "The site Mosque and Madrasa of Sultan Hasan is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع السلطان حسن كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-SULTANHASANMOSQUE"
+    ]
+  },
+  {
+    "claimId": "CLM-WAKALAALGHURI-01",
+    "claimType": "history",
+    "textEn": "The site Wakala of al-Ghuri is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل وكالة الغوري كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-WAKALAALGHURI"
+    ]
+  },
+  {
+    "claimId": "CLM-AQUNSQURBLUEMOSQUE-01",
+    "claimType": "history",
+    "textEn": "The site Aqsunqur Mosque / Blue Mosque is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع أق سنقر / الجامع الأزرق كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-AQUNSQURBLUEMOSQUE"
+    ]
+  },
+  {
+    "claimId": "CLM-BAYTALRAZZAZ-01",
+    "claimType": "history",
+    "textEn": "The site Bayt al-Razzaz is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بيت الرزاز كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-BAYTALRAZZAZ"
+    ]
+  },
+  {
+    "claimId": "CLM-GAYERANDERSONMUSEUM-01",
+    "claimType": "history",
+    "textEn": "The site Gayer-Anderson Museum is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل متحف جاير أندرسون كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-GAYERANDERSONMUSEUM"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMIMAMALSHAFII-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Imam al-Shafi'i is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قبة الإمام الشافعي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MAUSOLEUMIMAMALSHAFII"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMSHAJARATALDURR-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Shajarat al-Durr is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل شجرة الدر كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MAUSOLEUMSHAJARATALDURR"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUESABILSULAYMANAGHAALSILAHDAR-01",
+    "claimType": "history",
+    "textEn": "The site Mosque-Sabil-Kuttab of Sulayman Agha al-Silahdar is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع وسبيل سليمان أغا السلحدار كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-MOSQUESABILSULAYMANAGHAALSILAHDAR"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILKUTTABNAFISAALBAYDA-01",
+    "claimType": "history",
+    "textEn": "The site Sabil-Kuttab of Nafisa al-Bayda is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل وكتاب نفيسة البيضاء كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-SABILKUTTABNAFISAALBAYDA"
+    ]
+  },
+  {
+    "claimId": "CLM-SINANPASHAMOSQUEBULAQ-01",
+    "claimType": "history",
+    "textEn": "The site Sinan Pasha Mosque is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع سنان باشا ببولاق كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-SINANPASHAMOSQUEBULAQ"
+    ]
+  },
+  {
+    "claimId": "CLM-SULAYMANPASHAALKHADIMMOSQUE-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Sulayman Pasha al-Khadim is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع سارية الجبل / سليمان باشا الخادم كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-SULAYMANPASHAALKHADIMMOSQUE"
+    ]
+  },
+  {
+    "claimId": "CLM-SULTANQAYTBAYFUNERARYCOMPLEX-01",
+    "claimType": "history",
+    "textEn": "The site Funerary Complex of Sultan Qaytbay is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مجموعة السلطان قايتباي الجنائزية كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "high",
+    "sourceIds": [
+      "SRC-SULTANQAYTBAYFUNERARYCOMPLEX"
+    ]
+  },
+  {
+    "claimId": "CLM-ABUALILAMOSQUEDISTRICT-01",
+    "claimType": "history",
+    "textEn": "The site Abu al-Ila Mosque and District is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع أبو العلا وحيه كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-ABUALILAMOSQUEDISTRICT"
+    ]
+  },
+  {
+    "claimId": "CLM-AYYUBIDWALLDARBALAHMAR-01",
+    "claimType": "history",
+    "textEn": "The site Ayyubid Wall in Darb al-Ahmar is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل السور الأيوبي بالدرب الأحمر كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-AYYUBIDWALLDARBALAHMAR"
+    ]
+  },
+  {
+    "claimId": "CLM-AZBAKIYYAURBANHISTORY-01",
+    "claimType": "history",
+    "textEn": "The site Azbakiyya Islamic Urban History is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل التاريخ الحضري للأزبكية كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-AZBAKIYYAURBANHISTORY"
+    ]
+  },
+  {
+    "claimId": "CLM-BABALWAZIRSTREET-01",
+    "claimType": "history",
+    "textEn": "The site Bab al-Wazir Street Ensemble is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل شارع باب الوزير كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-BABALWAZIRSTREET"
+    ]
+  },
+  {
+    "claimId": "CLM-BARSBAYNORTHERNCEMETERY-01",
+    "claimType": "history",
+    "textEn": "The site Funerary Complex of Barsbay is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مجموعة السلطان برسباي بالقرافة الشمالية كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-BARSBAYNORTHERNCEMETERY"
+    ]
+  },
+  {
+    "claimId": "CLM-BAYTALHARRAWI-01",
+    "claimType": "history",
+    "textEn": "The site Bayt al-Harrawi is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بيت الهراوي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-BAYTALHARRAWI"
+    ]
+  },
+  {
+    "claimId": "CLM-BAYTALSINNARI-01",
+    "claimType": "history",
+    "textEn": "The site Bayt al-Sinnari is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بيت السناري كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-BAYTALSINNARI"
+    ]
+  },
+  {
+    "claimId": "CLM-BAYTGAMALALDINALDHAHABI-01",
+    "claimType": "history",
+    "textEn": "The site Bayt Gamal al-Din al-Dhahabi is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بيت جمال الدين الذهبي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-BAYTGAMALALDINALDHAHABI"
+    ]
+  },
+  {
+    "claimId": "CLM-BAYTSITTWASILA-01",
+    "claimType": "history",
+    "textEn": "The site Bayt Sitt Wasila is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بيت ست وسيلة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-BAYTSITTWASILA"
+    ]
+  },
+  {
+    "claimId": "CLM-BAYTZAYNABKHATUN-01",
+    "claimType": "history",
+    "textEn": "The site Bayt Zaynab Khatun is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بيت زينب خاتون كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-BAYTZAYNABKHATUN"
+    ]
+  },
+  {
+    "claimId": "CLM-BULAQHISTORICPORT-01",
+    "claimType": "history",
+    "textEn": "The site Historic Port District of Bulaq is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل حي بولاق التاريخي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-BULAQHISTORICPORT"
+    ]
+  },
+  {
+    "claimId": "CLM-BURGALMAHRUQ-01",
+    "claimType": "history",
+    "textEn": "The site Burg al-Mahruq is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل برج المحروق كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-BURGALMAHRUQ"
+    ]
+  },
+  {
+    "claimId": "CLM-CAIROAQUEDUCT-01",
+    "claimType": "history",
+    "textEn": "The site Cairo Aqueduct is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مجرى العيون كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-CAIROAQUEDUCT"
+    ]
+  },
+  {
+    "claimId": "CLM-CITADELNORTHERNENCLOSURE-01",
+    "claimType": "history",
+    "textEn": "The site Northern Enclosure of the Citadel is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل الأسوار الشمالية للقلعة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-CITADELNORTHERNENCLOSURE"
+    ]
+  },
+  {
+    "claimId": "CLM-CITADELWELLYUSUF-01",
+    "claimType": "history",
+    "textEn": "The site Well of Yusuf at the Citadel is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بئر يوسف بالقلعة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-CITADELWELLYUSUF"
+    ]
+  },
+  {
+    "claimId": "CLM-EXCAVATEDHOUSESFUSTAT-01",
+    "claimType": "history",
+    "textEn": "The site Excavated Houses of Fustat is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بيوت الفسطاط المنقبة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-EXCAVATEDHOUSESFUSTAT"
+    ]
+  },
+  {
+    "claimId": "CLM-FUMMALKHALIG-01",
+    "claimType": "history",
+    "textEn": "The site Historic Mouth of the Khalij is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل فم الخليج كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-FUMMALKHALIG"
+    ]
+  },
+  {
+    "claimId": "CLM-FUSTATARCHAEOLOGICALAREA-01",
+    "claimType": "history",
+    "textEn": "The site Fustat Archaeological Area is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل منطقة الفسطاط الأثرية كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-FUSTATARCHAEOLOGICALAREA"
+    ]
+  },
+  {
+    "claimId": "CLM-FUSTATPOTTERYKILNS-01",
+    "claimType": "history",
+    "textEn": "The site Fustat Pottery and Kilns is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل فاخورة الفسطاط كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-FUSTATPOTTERYKILNS"
+    ]
+  },
+  {
+    "claimId": "CLM-GAWHARAPALACE-01",
+    "claimType": "history",
+    "textEn": "The site Al-Gawhara Palace is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قصر الجوهرة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-GAWHARAPALACE"
+    ]
+  },
+  {
+    "claimId": "CLM-HAMMAMBISHTAK-01",
+    "claimType": "history",
+    "textEn": "The site Hammam of Bashtak is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل حمام بشتك كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-HAMMAMBISHTAK"
+    ]
+  },
+  {
+    "claimId": "CLM-HAMMAMSUKKARIYYA-01",
+    "claimType": "history",
+    "textEn": "The site Historic Hammam in al-Sukkariyya is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل حمام السكرية كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-HAMMAMSUKKARIYYA"
+    ]
+  },
+  {
+    "claimId": "CLM-HISTORICCRAFTSDARBALAHMAR-01",
+    "claimType": "history",
+    "textEn": "The site Historic Crafts of Darb al-Ahmar is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل الحرف التاريخية بالدرب الأحمر كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-HISTORICCRAFTSDARBALAHMAR"
+    ]
+  },
+  {
+    "claimId": "CLM-IMAMSHAFIICEMETERYLANDSCAPE-01",
+    "claimType": "history",
+    "textEn": "The site Imam al-Shafi'i Cemetery Landscape is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مشهد وقرافة الإمام الشافعي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-IMAMSHAFIICEMETERYLANDSCAPE"
+    ]
+  },
+  {
+    "claimId": "CLM-KHANQAHSHAYKHU-01",
+    "claimType": "history",
+    "textEn": "The site Khanqah of Amir Shaykhu is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل خانقاه الأمير شيخو كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-KHANQAHSHAYKHU"
+    ]
+  },
+  {
+    "claimId": "CLM-KHAYRBAKCOMPLEX-01",
+    "claimType": "history",
+    "textEn": "The site Complex of Amir Khayrbak is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مجموعة خاير بك كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-KHAYRBAKCOMPLEX"
+    ]
+  },
+  {
+    "claimId": "CLM-MADRASAALKAMIL-01",
+    "claimType": "history",
+    "textEn": "The site Madrasa of al-Kamil Muhammad is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مدرسة الكامل محمد كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MADRASAALKAMIL"
+    ]
+  },
+  {
+    "claimId": "CLM-MADRASAALZAHIRBAYBARSREMAINS-01",
+    "claimType": "history",
+    "textEn": "The site Remains of Madrasa of al-Zahir Baybars is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بقايا مدرسة الظاهر بيبرس كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MADRASAALZAHIRBAYBARSREMAINS"
+    ]
+  },
+  {
+    "claimId": "CLM-MADRASASARGHATMISH-01",
+    "claimType": "history",
+    "textEn": "The site Madrasa of Sarghatmish is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مدرسة صرغتمش كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MADRASASARGHATMISH"
+    ]
+  },
+  {
+    "claimId": "CLM-MADRASATAGHRIBARDI-01",
+    "claimType": "history",
+    "textEn": "The site Mosque-Madrasa of Taghri Bardi is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مدرسة تغري بردي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MADRASATAGHRIBARDI"
+    ]
+  },
+  {
+    "claimId": "CLM-MADRASAUMMALSULTANSHABAN-01",
+    "claimType": "history",
+    "textEn": "The site Madrasa of Umm al-Sultan Sha'ban is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مدرسة أم السلطان شعبان كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MADRASAUMMALSULTANSHABAN"
+    ]
+  },
+  {
+    "claimId": "CLM-MANASTERLYPALACE-01",
+    "claimType": "history",
+    "textEn": "The site Manasterly Palace is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قصر المانسترلي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MANASTERLYPALACE"
+    ]
+  },
+  {
+    "claimId": "CLM-MANZILALILABIB-01",
+    "claimType": "history",
+    "textEn": "The site Manzil Ali Labib is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل منزل علي لبيب كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MANZILALILABIB"
+    ]
+  },
+  {
+    "claimId": "CLM-MARISTANALMUAYYADI-01",
+    "claimType": "history",
+    "textEn": "The site Bimaristan of al-Mu'ayyad is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل بيمارستان المؤيد شيخ كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MARISTANALMUAYYADI"
+    ]
+  },
+  {
+    "claimId": "CLM-MASHHADALJUYUSHI-01",
+    "claimType": "history",
+    "textEn": "The site Mashhad al-Juyushi is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مشهد الجيوشي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MASHHADALJUYUSHI"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMAMIRQURQUMAS-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Amir Qurqumas is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مجموعة الأمير قرقماس كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MAUSOLEUMAMIRQURQUMAS"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMJANIBAKALASHRAFI-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Janibak al-Ashrafi is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قبة جاني بك الأشرفي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MAUSOLEUMJANIBAKALASHRAFI"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMQANSUHABUSAID-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Qansuh Abu Sa'id is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قبة قانصوه أبو سعيد كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MAUSOLEUMQANSUHABUSAID"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMSAYYIDAATIKA-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Sayyida Atika is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مشهد السيدة عاتكة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MAUSOLEUMSAYYIDAATIKA"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMSAYYIDARUQAYYA-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Sayyida Ruqayya is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مشهد السيدة رقية كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MAUSOLEUMSAYYIDARUQAYYA"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMSAYYIDASUKAYNA-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Sayyida Sukayna is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مشهد السيدة سکينة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MAUSOLEUMSAYYIDASUKAYNA"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMTARABAYALSHARIFI-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Tarabay al-Sharifi is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مجموعة طرا باي الشريفي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MAUSOLEUMTARABAYALSHARIFI"
+    ]
+  },
+  {
+    "claimId": "CLM-MAUSOLEUMYUNUSALDAWADAR-01",
+    "claimType": "history",
+    "textEn": "The site Mausoleum of Yunus al-Dawadar is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قبة يونس الدوادار كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MAUSOLEUMYUNUSALDAWADAR"
+    ]
+  },
+  {
+    "claimId": "CLM-MAWLAWITEKKIYA-01",
+    "claimType": "history",
+    "textEn": "The site Mawlawiyya Tekkiya is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل التكية المولوية كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MAWLAWITEKKIYA"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEAKBUGHAUTRUSH-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Akbugha al-Utrush is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع أقبغا الأطروش كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUEAKBUGHAUTRUSH"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALFAKAHANI-01",
+    "claimType": "history",
+    "textEn": "The site Al-Fakahani Mosque is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الفكاهاني كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUEALFAKAHANI"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALLULUA-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of al-Lu'lu'a is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مسجد اللؤلؤة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUEALLULUA"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALMALIKALSALIHRODA-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of al-Malik al-Salih on Roda is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الصالح أيوب بالروضة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUEALMALIKALSALIHRODA"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALZAHIRBAYBARS-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of al-Zahir Baybars is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الظاهر بيبرس كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUEALZAHIRBAYBARS"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEALTINBUGHAALMARIDANI-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Altinbugha al-Maridani is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الطنبغا المارداني كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUEALTINBUGHAALMARIDANI"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEASLAMALSILAHDAR-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Aslam al-Silahdar is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع أصلان السلحدار كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUEASLAMALSILAHDAR"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEMAHMUDALKURDI-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Mahmud al-Kurdi is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع محمود الكردي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUEMAHMUDALKURDI"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUEQIJMASALISHAQI-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Qijmas al-Ishaqi is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع قجماس الإسحاقي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUEQIJMASALISHAQI"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUESAYYIDANAFISA-01",
+    "claimType": "history",
+    "textEn": "The site Mosque and Shrine of Sayyida Nafisa is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع السيدة نفيسة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUESAYYIDANAFISA"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUESAYYIDAZAYNAB-01",
+    "claimType": "history",
+    "textEn": "The site Mosque and Square of Sayyida Zaynab is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع وميدان السيدة زينب كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUESAYYIDAZAYNAB"
+    ]
+  },
+  {
+    "claimId": "CLM-MOSQUESHAYKHU-01",
+    "claimType": "history",
+    "textEn": "The site Mosque of Amir Shaykhu is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل جامع الأمير شيخو كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-MOSQUESHAYKHU"
+    ]
+  },
+  {
+    "claimId": "CLM-PALACEAMIRBESHTAK-01",
+    "claimType": "history",
+    "textEn": "The site Palace of Amir Beshtak is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قصر الأمير بشتك كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-PALACEAMIRBESHTAK"
+    ]
+  },
+  {
+    "claimId": "CLM-PALACEAMIRTAZ-01",
+    "claimType": "history",
+    "textEn": "The site Palace of Amir Taz is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قصر الأمير طاز كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-PALACEAMIRTAZ"
+    ]
+  },
+  {
+    "claimId": "CLM-QAYSARIYYAALMUIZZ-01",
+    "claimType": "history",
+    "textEn": "The site Qaysariyya Commercial Passages of al-Muizz is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل قيساريات شارع المعز كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-QAYSARIYYAALMUIZZ"
+    ]
+  },
+  {
+    "claimId": "CLM-QAYTBAYANIMALTROUGH-01",
+    "claimType": "history",
+    "textEn": "The site Animal Trough of Qaytbay is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل حوض سقي الدواب للقايتباي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-QAYTBAYANIMALTROUGH"
+    ]
+  },
+  {
+    "claimId": "CLM-QAYTBAYMAQAD-01",
+    "claimType": "history",
+    "textEn": "The site Maq'ad of Qaytbay is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل مقعد السلطان قايتباي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-QAYTBAYMAQAD"
+    ]
+  },
+  {
+    "claimId": "CLM-QAYTBAYRAB-01",
+    "claimType": "history",
+    "textEn": "The site Rab' of Qaytbay is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل ربع السلطان قايتباي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-QAYTBAYRAB"
+    ]
+  },
+  {
+    "claimId": "CLM-RODAISLANDISLAMICLANDSCAPE-01",
+    "claimType": "history",
+    "textEn": "The site Roda Island Islamic Landscape is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل البيئة التراثية لإسلامية جزيرة الروضة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-RODAISLANDISLAMICLANDSCAPE"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILKHUSRAWPASHA-01",
+    "claimType": "history",
+    "textEn": "The site Sabil-Kuttab of Khusraw Pasha is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل خسرو باشا كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-SABILKHUSRAWPASHA"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILMUHAMMADALIAQQADIN-01",
+    "claimType": "history",
+    "textEn": "The site Sabil of Muhammad Ali at al-Aqqadin is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل محمد علي بالعقادين كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-SABILMUHAMMADALIAQQADIN"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILMUHAMMADALINAHHASIN-01",
+    "claimType": "history",
+    "textEn": "The site Sabil-Kuttab of Muhammad Ali at al-Nahhasin is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل النحاسين لمحمد علي كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-SABILMUHAMMADALINAHHASIN"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILQAYTBAYSALIBA-01",
+    "claimType": "history",
+    "textEn": "The site Sabil-Kuttab of Qaytbay on al-Saliba is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل قايتباي بالصليبة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-SABILQAYTBAYSALIBA"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILQITAS-01",
+    "claimType": "history",
+    "textEn": "The site Sabil-Kuttab of Qitas is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل قطاس كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-SABILQITAS"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILRUQAYYADUDU-01",
+    "claimType": "history",
+    "textEn": "The site Sabil of Ruqayya Dudu is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل رقية دودو كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-SABILRUQAYYADUDU"
+    ]
+  },
+  {
+    "claimId": "CLM-SABILUMMABBAS-01",
+    "claimType": "history",
+    "textEn": "The site Sabil Umm Abbas is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل سبيل أم عباس كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-SABILUMMABBAS"
+    ]
+  },
+  {
+    "claimId": "CLM-WAKALABAZARAA-01",
+    "claimType": "history",
+    "textEn": "The site Wakala Bazaraa is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل وكالة بازرعة كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-WAKALABAZARAA"
+    ]
+  },
+  {
+    "claimId": "CLM-WAKALAQAYTBAYBABALNASR-01",
+    "claimType": "history",
+    "textEn": "The site Wakala of Qaytbay near Bab al-Nasr is registered as a recognized historic Cairo structure.",
+    "textAr": "تم تسجيل وكالة قايتباي بباب النصر كمنشأة تراثية تاريخية بالقاهرة.",
+    "confidence": "medium",
+    "sourceIds": [
+      "SRC-WAKALAQAYTBAYBABALNASR"
+    ]
+  }
+]

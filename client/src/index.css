@@ -1,6 +1,5 @@
 @import "tailwindcss";
 @import "tw-animate-css";
-@import url("https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap");
 
 @custom-variant dark (&:is(.dark *));
 
@@ -68,10 +67,10 @@
   --color-era-modern: oklch(55% 0.08 320);
 
   /* Typography */
-  --font-sans: "Source Sans 3", system-ui, sans-serif;
-  --font-serif: "Playfair Display", Georgia, serif;
-  --font-arabic: "Amiri", "Noto Naskh Arabic", serif;
-  --font-arabic-sans: "Noto Naskh Arabic", sans-serif;
+  --font-sans: "Almarai", system-ui, sans-serif;
+  --font-serif: "Almarai", system-ui, sans-serif;
+  --font-arabic: "Almarai", system-ui, sans-serif;
+  --font-arabic-sans: "Almarai", system-ui, sans-serif;
 
   /* Radius */
   --radius: 0.5rem;
@@ -102,6 +101,10 @@
     -moz-osx-font-smoothing: grayscale;
   }
 
+  body, button, input, textarea, select {
+    font-family: var(--font-sans);
+  }
+
   /* Arabic RTL */
   [lang="ar"], .lang-ar, [dir="rtl"] {
     font-family: var(--font-arabic);
@@ -111,7 +114,7 @@
 
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-serif);
-    font-weight: 600;
+    font-weight: 700;
     line-height: 1.2;
     color: var(--color-stone-900);
   }

@@ -1,0 +1,964 @@
+{
+  "schemaVersion": 1,
+  "slug": "al-azhar-park",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "alternativeNames": [
+    "Azhar Park"
+  ],
+  "architecturalElements": [
+    "terraced gardens",
+    "water features",
+    "view terraces",
+    "landscape infrastructure",
+    "Water Channels",
+    "Terraced Viewpoints",
+    "Ayyubid Wall Integration"
+  ],
+  "architectureSummary": {
+    "en": "Contemporary landscape design inspired by traditional Islamic gardens, featuring geometric water channels, native flora, and terraced viewpoints overlooking Islamic Cairo.",
+    "ar": "تصميم حدائقي حديث مستوحي من الحدائق الإسلامية التاريخية مع قنوات مائية هندسية وإطلالات بانورامية على القاهرة الإسلامية."
+  },
+  "district": "Dar al-Ahmar / historic Cairo edge",
+  "historicalPeriods": [
+    "Contemporary",
+    "opened 2005",
+    "Modern / Contemporary (Incorporating Ayyubid Wall)"
+  ],
+  "historicalSummary": {
+    "en": "Gifted to Cairo by the Aga Khan Trust for Culture (AKTC) and opened in 2005. The park construction led to major archaeological excavations along the adjacent 12th-century Ayyubid city wall.",
+    "ar": "أنشئت بتمويل من أغاخان للثقافة وافتتحت عام 2005. كشف مشروع الحديقة عن أجزاء واسعة من السور الأيوبي التاريخي."
+  },
+  "location": {
+    "descriptionEn": "Dar al-Ahmar / historic Cairo edge",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "حديقة الأزهر",
+  "nameEn": "Al-Azhar Park",
+  "placeType": "public park and urban landscape",
+  "stories": [
+    {
+      "titleEn": "Urban Transformation",
+      "titleAr": "التحول الحضري",
+      "summaryEn": "Transformed a 500-year-old rubbish dump into a major green lung and heritage axis for Cairo.",
+      "summaryAr": "تحويل الموقع من مقلب نفايات عمره 500 عام إلى أحد أهم المتنزهات والمتنفسات الحضرية.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-AKTC-AZHARPARK"
+      ]
+    }
+  ],
+  "transliteration": "Al-Azhar Park",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-al-azhar-park",
+      "placeId": null,
+      "placeSlug": "al-azhar-park",
+      "placeNameEn": "Al-Azhar Park",
+      "placeNameAr": "حديقة الأزهر",
+      "role": "cover",
+      "imageKitPath": "/places/al-azhar-park/cover.jpg",
+      "localFile": "images/al-azhar-park/al-azhar-park-cover-garden-overlook.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Azhar_Park_in_Cairo%2C_Egypt.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Azhar_Park_in_Cairo,_Egypt.jpg",
+      "sourceTitle": "Azhar Park in Cairo, Egypt.jpg",
+      "cdnUrl": null,
+      "creator": "Synaps commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Azhar Park in Cairo, Egypt.jpg — Synaps commons, CC BY-SA 4.0, via Wikimedia Commons",
+      "altEn": "A grassy slope and flowering trees in Al-Azhar Park overlook Cairo, with two people seated in the shade.",
+      "altAr": "منحدر عشبي وأشجار مزهرة في حديقة الأزهر يطلان على القاهرة، ويجلس شخصان في الظل.",
+      "captionEn": "Green space and city view in Al-Azhar Park.",
+      "captionAr": "مساحة خضراء وإطلالة على المدينة من حديقة الأزهر.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 3968,
+      "height": 2232,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 2364119,
+      "checksum": "2df912d3a2f8d02e0b07f1bf622d28c84f3fa3652fd823e1cadd1872db16684e",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Azhar_Park_in_Cairo,_Egypt.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Azhar_Park_in_Cairo%2C_Egypt.jpg",
+        "creator": "Synaps commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Azhar Park in Cairo, Egypt.jpg — Synaps commons, CC BY-SA 4.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-al-azhar-park:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": [
+        "Azhar Park"
+      ],
+      "variants": [
+        {
+          "provenance": "gemini",
+          "value": [
+            "Azhar Park"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "terraced gardens",
+        "water features",
+        "view terraces",
+        "landscape infrastructure"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "terraced gardens",
+            "water features",
+            "view terraces",
+            "landscape infrastructure"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Water Channels",
+            "Terraced Viewpoints",
+            "Ayyubid Wall Integration"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Contemporary landscape design inspired by traditional Islamic gardens, featuring geometric water channels, native flora, and terraced viewpoints overlooking Islamic Cairo.",
+        "ar": "تصميم حدائقي حديث مستوحي من الحدائق الإسلامية التاريخية مع قنوات مائية هندسية وإطلالات بانورامية على القاهرة الإسلامية."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Terraced gardens, axial paths, planted slopes, water features, and framed views connect a contemporary park to the historic urban and cemetery landscapes around it.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Contemporary landscape design inspired by traditional Islamic gardens, featuring geometric water channels, native flora, and terraced viewpoints overlooking Islamic Cairo.",
+            "ar": "تصميم حدائقي حديث مستوحي من الحدائق الإسلامية التاريخية مع قنوات مائية هندسية وإطلالات بانورامية على القاهرة الإسلامية."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Dar al-Ahmar / historic Cairo edge",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Dar al-Ahmar / historic Cairo edge"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Al-Darb al-Ahmar"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Contemporary",
+        "opened 2005"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Contemporary",
+            "opened 2005"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Modern / Contemporary (Incorporating Ayyubid Wall)"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "Gifted to Cairo by the Aga Khan Trust for Culture (AKTC) and opened in 2005. The park construction led to major archaeological excavations along the adjacent 12th-century Ayyubid city wall.",
+        "ar": "أنشئت بتمويل من أغاخان للثقافة وافتتحت عام 2005. كشف مشروع الحديقة عن أجزاء واسعة من السور الأيوبي التاريخي."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A contemporary landscape project by the Aga Khan Trust for Culture on a former refuse mound beside the historic city. The project combined park construction with neighborhood conservation and social programs.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Gifted to Cairo by the Aga Khan Trust for Culture (AKTC) and opened in 2005. The park construction led to major archaeological excavations along the adjacent 12th-century Ayyubid city wall.",
+            "ar": "أنشئت بتمويل من أغاخان للثقافة وافتتحت عام 2005. كشف مشروع الحديقة عن أجزاء واسعة من السور الأيوبي التاريخي."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Dar al-Ahmar / historic Cairo edge",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Dar al-Ahmar / historic Cairo edge",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Hilly green urban space built over historical debris, bordering the Ayyubid Wall.",
+            "descriptionAr": "مساحة خضراء حضرية أقيمت فوق موقع ردم تاريخي وتطل على السور الأيوبي.",
+            "latitude": 30.0411,
+            "longitude": 31.2653,
+            "confidence": "high"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "حديقة الأزهر",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "حديقة الأزهر"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "nameEn": {
+      "canonical": "Al-Azhar Park",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Azhar Park"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "public park and urban landscape",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "public park and urban landscape"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Urban Park / Landscape Heritage"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Urban Transformation",
+          "titleAr": "التحول الحضري",
+          "summaryEn": "Transformed a 500-year-old rubbish dump into a major green lung and heritage axis for Cairo.",
+          "summaryAr": "تحويل الموقع من مقلب نفايات عمره 500 عام إلى أحد أهم المتنزهات والمتنفسات الحضرية.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-AKTC-AZHARPARK"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "al-azhar-park:unesco-historic-cairo",
+                "al-azhar-park:mota-historic-cairo",
+                "al-azhar-park:archnet-azhar-park"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Urban Transformation",
+              "titleAr": "التحول الحضري",
+              "summaryEn": "Transformed a 500-year-old rubbish dump into a major green lung and heritage axis for Cairo.",
+              "summaryAr": "تحويل الموقع من مقلب نفايات عمره 500 عام إلى أحد أهم المتنزهات والمتنفسات الحضرية.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-AKTC-AZHARPARK"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Al-Azhar Park",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Azhar Park"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Ḥadīqat al-Azhar"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "09:00 - 23:00",
+            "ticketPrice": "Ticketed entry fee applies at turnstiles",
+            "photographyRules": "Casual personal photography permitted",
+            "dressRequirements": "Standard casual attire",
+            "accessibility": "Wheelchair accessible paths and electric cart services available",
+            "currentStatus": "Open daily to public",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "al-azhar-park",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Azhar Park",
+      "nameAr": "حديقة الأزهر",
+      "transliteration": "Al-Azhar Park",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "public park and urban landscape",
+      "district": "Dar al-Ahmar / historic Cairo edge",
+      "location": {
+        "descriptionEn": "Dar al-Ahmar / historic Cairo edge",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Contemporary",
+        "opened 2005"
+      ],
+      "historicalSummary": {
+        "en": "A contemporary landscape project by the Aga Khan Trust for Culture on a former refuse mound beside the historic city. The project combined park construction with neighborhood conservation and social programs.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "Terraced gardens, axial paths, planted slopes, water features, and framed views connect a contemporary park to the historic urban and cemetery landscapes around it.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "terraced gardens",
+        "water features",
+        "view terraces",
+        "landscape infrastructure"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "al-azhar-park:unesco-historic-cairo",
+            "al-azhar-park:mota-historic-cairo",
+            "al-azhar-park:archnet-azhar-park"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "al-azhar-park-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Al-Azhar Park.",
+          "textAr": "يسجل الجرد هذا الموقع باسم حديقة الأزهر.",
+          "confidence": "high",
+          "sourceIds": [
+            "al-azhar-park:unesco-historic-cairo",
+            "al-azhar-park:mota-historic-cairo",
+            "al-azhar-park:archnet-azhar-park"
+          ]
+        },
+        {
+          "claimId": "al-azhar-park-history",
+          "claimType": "history",
+          "textEn": "A contemporary landscape project by the Aga Khan Trust for Culture on a former refuse mound beside the historic city. The project combined park construction with neighborhood conservation and social programs.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "al-azhar-park:unesco-historic-cairo",
+            "al-azhar-park:mota-historic-cairo",
+            "al-azhar-park:archnet-azhar-park"
+          ]
+        },
+        {
+          "claimId": "al-azhar-park-architecture",
+          "claimType": "architecture",
+          "textEn": "Terraced gardens, axial paths, planted slopes, water features, and framed views connect a contemporary park to the historic urban and cemetery landscapes around it.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "al-azhar-park:unesco-historic-cairo",
+            "al-azhar-park:mota-historic-cairo",
+            "al-azhar-park:archnet-azhar-park"
+          ]
+        },
+        {
+          "claimId": "al-azhar-park-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "al-azhar-park:unesco-historic-cairo",
+            "al-azhar-park:mota-historic-cairo",
+            "al-azhar-park:archnet-azhar-park"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "al-azhar-park:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-azhar-park-identity",
+            "al-azhar-park-history",
+            "al-azhar-park-architecture",
+            "al-azhar-park-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "al-azhar-park:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-azhar-park-identity",
+            "al-azhar-park-history",
+            "al-azhar-park-architecture",
+            "al-azhar-park-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        },
+        {
+          "sourceId": "al-azhar-park:archnet-azhar-park",
+          "title": "Al-Azhar Park",
+          "url": "https://www.archnet.org/sites/5003",
+          "sourceType": "landscape documentation",
+          "publisher": "Archnet / Aga Khan Documentation Center",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-azhar-park-identity",
+            "al-azhar-park-history",
+            "al-azhar-park-architecture",
+            "al-azhar-park-status"
+          ],
+          "notes": "Project and landscape documentation."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "al-azhar-park",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Azhar Park",
+      "nameAr": "حديقة الأزهر",
+      "transliteration": "Ḥadīqat al-Azhar",
+      "alternativeNames": [
+        "Azhar Park"
+      ],
+      "relatedSlugs": [],
+      "placeType": "Urban Park / Landscape Heritage",
+      "district": "Al-Darb al-Ahmar",
+      "location": {
+        "descriptionEn": "Hilly green urban space built over historical debris, bordering the Ayyubid Wall.",
+        "descriptionAr": "مساحة خضراء حضرية أقيمت فوق موقع ردم تاريخي وتطل على السور الأيوبي.",
+        "latitude": 30.0411,
+        "longitude": 31.2653,
+        "confidence": "high"
+      },
+      "historicalPeriods": [
+        "Modern / Contemporary (Incorporating Ayyubid Wall)"
+      ],
+      "historicalSummary": {
+        "en": "Gifted to Cairo by the Aga Khan Trust for Culture (AKTC) and opened in 2005. The park construction led to major archaeological excavations along the adjacent 12th-century Ayyubid city wall.",
+        "ar": "أنشئت بتمويل من أغاخان للثقافة وافتتحت عام 2005. كشف مشروع الحديقة عن أجزاء واسعة من السور الأيوبي التاريخي."
+      },
+      "architectureSummary": {
+        "en": "Contemporary landscape design inspired by traditional Islamic gardens, featuring geometric water channels, native flora, and terraced viewpoints overlooking Islamic Cairo.",
+        "ar": "تصميم حدائقي حديث مستوحي من الحدائق الإسلامية التاريخية مع قنوات مائية هندسية وإطلالات بانورامية على القاهرة الإسلامية."
+      },
+      "architecturalElements": [
+        "Water Channels",
+        "Terraced Viewpoints",
+        "Ayyubid Wall Integration"
+      ],
+      "stories": [
+        {
+          "titleEn": "Urban Transformation",
+          "titleAr": "التحول الحضري",
+          "summaryEn": "Transformed a 500-year-old rubbish dump into a major green lung and heritage axis for Cairo.",
+          "summaryAr": "تحويل الموقع من مقلب نفايات عمره 500 عام إلى أحد أهم المتنزهات والمتنفسات الحضرية.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-AKTC-AZHARPARK"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "09:00 - 23:00",
+        "ticketPrice": "Ticketed entry fee applies at turnstiles",
+        "photographyRules": "Casual personal photography permitted",
+        "dressRequirements": "Standard casual attire",
+        "accessibility": "Wheelchair accessible paths and electric cart services available",
+        "currentStatus": "Open daily to public",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-AZHARPARK-01",
+          "claimType": "history",
+          "textEn": "Opened in 2005 as an AKTC urban revitalization project.",
+          "textAr": "تم افتتاح الحديقة عام 2005 ضمن مشروع التنمية الحضرية لشركة أغاخان للثقافة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-AKTC-AZHARPARK",
+            "SRC-MTA-AZHARPARK"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-AKTC-AZHARPARK",
+          "title": "Aga Khan Historic Cities Programme - Al-Azhar Park",
+          "url": "https://www.akdn.org/our-agencies/aga-khan-trust-culture/cairo-projects",
+          "sourceType": "conservation_report",
+          "publisher": "Aga Khan Development Network",
+          "publicationDate": "2005-03-25",
+          "accessedDate": "2026-01-18",
+          "supports": [
+            "CLM-AZHARPARK-01"
+          ],
+          "notes": "Project completion documentation."
+        },
+        {
+          "sourceId": "SRC-MTA-AZHARPARK",
+          "title": "Egypt Tourism Portal - Al Azhar Park",
+          "url": "https://egymonuments.gov.eg/en/attractions/al-azhar-park",
+          "sourceType": "official_portal",
+          "publisher": "Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-01",
+          "supports": [
+            "CLM-AZHARPARK-01"
+          ],
+          "notes": "Official site listing."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Al-Azhar_Park_Panorama.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Al-Azhar_Park_Panorama.jpg",
+          "title": "Al-Azhar Park Panoramic View",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "attribution": "CC BY-SA 3.0 via Wikimedia Commons",
+          "modificationRequirements": "ShareAlike conditions apply",
+          "width": 1920,
+          "height": 1080,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-01-20",
+          "notes": "Verified."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Al-Azhar Park\n\nArabic name: **حديقة الأزهر**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `al-azhar-park`\n\n## Historical summary\n\nA contemporary landscape project by the Aga Khan Trust for Culture on a former refuse mound beside the historic city. The project combined park construction with neighborhood conservation and social programs.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nTerraced gardens, axial paths, planted slopes, water features, and framed views connect a contemporary park to the historic urban and cemetery landscapes around it.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- terraced gardens\n- water features\n- view terraces\n- landscape infrastructure\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **al-azhar-park:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **al-azhar-park:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n- **al-azhar-park:archnet-azhar-park** — [Al-Azhar Park](https://www.archnet.org/sites/5003) (Archnet / Aga Khan Documentation Center)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Al-Azhar Park\n\nArabic name: **حديقة الأزهر**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `al-azhar-park`\n\n## Historical summary\n\nA contemporary landscape project by the Aga Khan Trust for Culture on a former refuse mound beside the historic city. The project combined park construction with neighborhood conservation and social programs.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nTerraced gardens, axial paths, planted slopes, water features, and framed views connect a contemporary park to the historic urban and cemetery landscapes around it.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- terraced gardens\n- water features\n- view terraces\n- landscape infrastructure\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **al-azhar-park:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **al-azhar-park:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n- **al-azhar-park:archnet-azhar-park** — [Al-Azhar Park](https://www.archnet.org/sites/5003) (Archnet / Aga Khan Documentation Center)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Al-Azhar Park (حديقة الأزهر)\n**Status:** PUBLISHED_MEDIA  \n**District:** Al-Darb al-Ahmar  \n**Type:** Urban Park / Landscape Heritage  \n\n## Historical Summary\nGifted to Cairo by the Aga Khan Trust for Culture (AKTC) and opened in 2005. The park construction led to major archaeological excavations along the adjacent 12th-century Ayyubid city wall.\n\n*أنشئت بتمويل من أغاخان للثقافة وافتتحت عام 2005. كشف مشروع الحديقة عن أجزاء واسعة من السور الأيوبي التاريخي.*\n\n## Architectural Details\nContemporary landscape design inspired by traditional Islamic gardens, featuring geometric water channels, native flora, and terraced viewpoints overlooking Islamic Cairo.\n\n### Key Elements\n- Water Channels\n- Terraced Viewpoints\n- Ayyubid Wall Integration\n\n## Stories & Heritage Significance\n### Urban Transformation (التحول الحضري)\n**Classification:** fact\nTransformed a 500-year-old rubbish dump into a major green lung and heritage axis for Cairo.\n\n## Visitor Information\n- **Opening Hours:** 09:00 - 23:00\n- **Ticket Price:** Ticketed entry fee applies at turnstiles\n- **Photography Rules:** Casual personal photography permitted\n- **Dress Code:** Standard casual attire\n- **Accessibility:** Wheelchair accessible paths and electric cart services available\n\n## Photo Candidates\n- **[COVER]** Al-Azhar Park Panoramic View (CC BY-SA 3.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/5/5a/Al-Azhar_Park_Panorama.jpg\n  - Attribution: CC BY-SA 3.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-AKTC-AZHARPARK]** [Aga Khan Historic Cities Programme - Al-Azhar Park](https://www.akdn.org/our-agencies/aga-khan-trust-culture/cairo-projects) - *Aga Khan Development Network*\n- **[SRC-MTA-AZHARPARK]** [Egypt Tourism Portal - Al Azhar Park](https://egymonuments.gov.eg/en/attractions/al-azhar-park) - *Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-al-azhar-park",
+        "placeId": null,
+        "placeSlug": "al-azhar-park",
+        "placeNameEn": "Al-Azhar Park",
+        "placeNameAr": "حديقة الأزهر",
+        "role": "cover",
+        "imageKitPath": "/places/al-azhar-park/cover.jpg",
+        "localFile": "images/al-azhar-park/al-azhar-park-cover-garden-overlook.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Azhar_Park_in_Cairo%2C_Egypt.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Azhar_Park_in_Cairo,_Egypt.jpg",
+        "sourceTitle": "Azhar Park in Cairo, Egypt.jpg",
+        "cdnUrl": null,
+        "creator": "Synaps commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Azhar Park in Cairo, Egypt.jpg — Synaps commons, CC BY-SA 4.0, via Wikimedia Commons",
+        "altEn": "A grassy slope and flowering trees in Al-Azhar Park overlook Cairo, with two people seated in the shade.",
+        "altAr": "منحدر عشبي وأشجار مزهرة في حديقة الأزهر يطلان على القاهرة، ويجلس شخصان في الظل.",
+        "captionEn": "Green space and city view in Al-Azhar Park.",
+        "captionAr": "مساحة خضراء وإطلالة على المدينة من حديقة الأزهر.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 3968,
+        "height": 2232,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 2364119,
+        "checksum": "2df912d3a2f8d02e0b07f1bf622d28c84f3fa3652fd823e1cadd1872db16684e",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Azhar_Park_in_Cairo,_Egypt.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Azhar_Park_in_Cairo%2C_Egypt.jpg",
+          "creator": "Synaps commons",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Azhar Park in Cairo, Egypt.jpg — Synaps commons, CC BY-SA 4.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-al-azhar-park:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Al-Azhar Park\n\n- **Place slug:** `al-azhar-park`\n- **Asset ID:** `cover-al-azhar-park`\n- **Role:** cover\n- **Local file:** `images/al-azhar-park/al-azhar-park-cover-garden-overlook.jpg`\n- **Canonical ImageKit path:** `/places/al-azhar-park/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Azhar_Park_in_Cairo,_Egypt.jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/f/f1/Azhar_Park_in_Cairo%2C_Egypt.jpg\n- **Source title:** Azhar Park in Cairo, Egypt.jpg\n- **Creator:** Synaps commons\n- **License:** CC BY-SA 4.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/4.0/\n- **Required attribution:** Azhar Park in Cairo, Egypt.jpg — Synaps commons, CC BY-SA 4.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** A grassy slope and flowering trees in Al-Azhar Park overlook Cairo, with two people seated in the shade.\n- **Alt text (AR):** منحدر عشبي وأشجار مزهرة في حديقة الأزهر يطلان على القاهرة، ويجلس شخصان في الظل.\n- **Caption (EN):** Green space and city view in Al-Azhar Park.\n- **Caption (AR):** مساحة خضراء وإطلالة على المدينة من حديقة الأزهر.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "al-azhar-park:unesco-historic-cairo",
+    "al-azhar-park:mota-historic-cairo",
+    "al-azhar-park:archnet-azhar-park",
+    "SRC-AKTC-AZHARPARK",
+    "SRC-MTA-AZHARPARK"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "al-azhar-park:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-azhar-park-identity",
+        "al-azhar-park-history",
+        "al-azhar-park-architecture",
+        "al-azhar-park-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "al-azhar-park:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-azhar-park-identity",
+        "al-azhar-park-history",
+        "al-azhar-park-architecture",
+        "al-azhar-park-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "al-azhar-park:archnet-azhar-park",
+      "title": "Al-Azhar Park",
+      "url": "https://www.archnet.org/sites/5003",
+      "sourceType": "landscape documentation",
+      "publisher": "Archnet / Aga Khan Documentation Center",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-azhar-park-identity",
+        "al-azhar-park-history",
+        "al-azhar-park-architecture",
+        "al-azhar-park-status"
+      ],
+      "notes": "Project and landscape documentation."
+    },
+    {
+      "sourceId": "SRC-AKTC-AZHARPARK",
+      "title": "Aga Khan Historic Cities Programme - Al-Azhar Park",
+      "url": "https://www.akdn.org/our-agencies/aga-khan-trust-culture/cairo-projects",
+      "sourceType": "conservation_report",
+      "publisher": "Aga Khan Development Network",
+      "publicationDate": "2005-03-25",
+      "accessedDate": "2026-01-18",
+      "supports": [
+        "CLM-AZHARPARK-01"
+      ],
+      "notes": "Project completion documentation."
+    },
+    {
+      "sourceId": "SRC-MTA-AZHARPARK",
+      "title": "Egypt Tourism Portal - Al Azhar Park",
+      "url": "https://egymonuments.gov.eg/en/attractions/al-azhar-park",
+      "sourceType": "official_portal",
+      "publisher": "Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-01",
+      "supports": [
+        "CLM-AZHARPARK-01"
+      ],
+      "notes": "Official site listing."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "al-azhar-park-identity",
+      "placeSlug": "al-azhar-park",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Al-Azhar Park.",
+      "textAr": "يسجل الجرد هذا الموقع باسم حديقة الأزهر.",
+      "confidence": "high",
+      "sourceIds": [
+        "al-azhar-park:unesco-historic-cairo",
+        "al-azhar-park:mota-historic-cairo",
+        "al-azhar-park:archnet-azhar-park"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "al-azhar-park-status",
+      "placeSlug": "al-azhar-park",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "al-azhar-park:unesco-historic-cairo",
+        "al-azhar-park:mota-historic-cairo",
+        "al-azhar-park:archnet-azhar-park"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-AZHARPARK-01",
+      "placeSlug": "al-azhar-park",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Opened in 2005 as an AKTC urban revitalization project.",
+      "textAr": "تم افتتاح الحديقة عام 2005 ضمن مشروع التنمية الحضرية لشركة أغاخان للثقافة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-AKTC-AZHARPARK",
+        "SRC-MTA-AZHARPARK"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "al-azhar-park-history",
+      "placeSlug": "al-azhar-park",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "A contemporary landscape project by the Aga Khan Trust for Culture on a former refuse mound beside the historic city. The project combined park construction with neighborhood conservation and social programs.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-azhar-park:unesco-historic-cairo",
+        "al-azhar-park:mota-historic-cairo",
+        "al-azhar-park:archnet-azhar-park"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "al-azhar-park-architecture",
+      "placeSlug": "al-azhar-park",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "Terraced gardens, axial paths, planted slopes, water features, and framed views connect a contemporary park to the historic urban and cemetery landscapes around it.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-azhar-park:unesco-historic-cairo",
+        "al-azhar-park:mota-historic-cairo",
+        "al-azhar-park:archnet-azhar-park"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

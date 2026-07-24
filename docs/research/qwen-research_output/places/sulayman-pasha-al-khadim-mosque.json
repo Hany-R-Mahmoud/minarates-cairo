@@ -1,0 +1,144 @@
+{
+  "slug": "sulayman-pasha-al-khadim-mosque",
+  "status": "PROPOSED_V4",
+  "nameEn": "Mosque of Sulayman Pasha al-Khadim",
+  "nameAr": "جامع سليمان باشا الخادم",
+  "transliteration": "Mosque of Sulayman Pasha al-Khadim",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "mosque and funerary complex",
+  "district": "Cairo Citadel",
+  "location": {
+    "descriptionEn": "Cairo Citadel",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Ottoman",
+    "1528 CE / 935 AH"
+  ],
+  "historicalSummary": {
+    "en": "Built by Sulayman Pasha al-Khadim in the Citadel during the first Ottoman period in Egypt. It is commonly identified as the first Ottoman-style mosque built in Cairo.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A domed prayer hall with Ottoman spatial organization, a surrounding cemetery and service spaces, and a minaret that differs from the dominant Mamluk forms of the Citadel.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "dome",
+    "Ottoman prayer hall",
+    "minaret",
+    "cemetery",
+    "courtyard"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+        "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "sulayman-pasha-al-khadim-mosque-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque of Sulayman Pasha al-Khadim.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع سليمان باشا الخادم.",
+      "confidence": "high",
+      "sourceIds": [
+        "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+        "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "sulayman-pasha-al-khadim-mosque-history",
+      "claimType": "history",
+      "textEn": "Built by Sulayman Pasha al-Khadim in the Citadel during the first Ottoman period in Egypt. It is commonly identified as the first Ottoman-style mosque built in Cairo.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+        "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "sulayman-pasha-al-khadim-mosque-architecture",
+      "claimType": "architecture",
+      "textEn": "A domed prayer hall with Ottoman spatial organization, a surrounding cemetery and service spaces, and a minaret that differs from the dominant Mamluk forms of the Citadel.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+        "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "sulayman-pasha-al-khadim-mosque-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+        "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sulayman-pasha-al-khadim-mosque-identity",
+        "sulayman-pasha-al-khadim-mosque-history",
+        "sulayman-pasha-al-khadim-mosque-architecture",
+        "sulayman-pasha-al-khadim-mosque-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "sulayman-pasha-al-khadim-mosque:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sulayman-pasha-al-khadim-mosque-identity",
+        "sulayman-pasha-al-khadim-mosque-history",
+        "sulayman-pasha-al-khadim-mosque-architecture",
+        "sulayman-pasha-al-khadim-mosque-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

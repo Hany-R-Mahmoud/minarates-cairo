@@ -8,6 +8,15 @@
   "theme_color": "#1C1410",
   "orientation": "portrait-primary",
   "icons": [
-    { "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }
+    {
+      "src": "https://ik.imagekit.io/hrim/tr:w-192,h-192,q-85/images/minarates/Minaretes-logo.png",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://ik.imagekit.io/hrim/tr:w-512,h-512,q-85/images/minarates/Minaretes-logo.png",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
   ]
 }

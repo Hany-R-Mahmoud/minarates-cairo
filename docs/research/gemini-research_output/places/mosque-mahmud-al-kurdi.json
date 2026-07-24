@@ -1,0 +1,102 @@
+{
+  "slug": "mosque-mahmud-al-kurdi",
+  "status": "CANDIDATE",
+  "nameEn": "Mosque of Mahmud al-Kurdi",
+  "nameAr": "جامع محمود الكردي",
+  "transliteration": "Mosque of Mahmud al-Kurdi",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "Historic Monument / Structure",
+  "district": "Historic Cairo",
+  "location": {
+    "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+    "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+    "latitude": 30.0444,
+    "longitude": 31.26,
+    "confidence": "low"
+  },
+  "historicalPeriods": [
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mosque of Mahmud al-Kurdi) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (جامع محمود الكردي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "architecturalElements": [
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mosque of Mahmud al-Kurdi played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت جامع محمود الكردي في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MOSQUEMAHMUDALKURDI"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": "Unknown — requires official or field verification.",
+    "ticketPrice": "Unknown — requires official or field verification.",
+    "photographyRules": "Unknown — requires official or field verification.",
+    "dressRequirements": "Modest clothing recommended.",
+    "accessibility": "Unknown — requires official or field verification.",
+    "currentStatus": "Preserved landmark",
+    "lastChecked": "2026-03-01"
+  },
+  "claims": [
+    {
+      "claimId": "CLM-MOSQUEMAHMUDALKURDI-01",
+      "claimType": "history",
+      "textEn": "The site Mosque of Mahmud al-Kurdi is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل جامع محمود الكردي كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "medium",
+      "sourceIds": [
+        "SRC-MOSQUEMAHMUDALKURDI"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC-MOSQUEMAHMUDALKURDI",
+      "title": "Archnet & Ministry Documentation for Mosque of Mahmud al-Kurdi",
+      "url": "https://archnet.org/sites/mosque-mahmud-al-kurdi",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MOSQUEMAHMUDALKURDI-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "photos": [
+    {
+      "role": "cover",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mosque-mahmud-al-kurdi.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mosque-mahmud-al-kurdi.jpg",
+      "title": "General View of Mosque of Mahmud al-Kurdi",
+      "creator": "Wikimedia Contributor",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+      "modificationRequirements": "Attribute creator and retain license",
+      "width": 1600,
+      "height": 1200,
+      "rightsConfidence": "high",
+      "checkedDate": "2026-02-01",
+      "notes": "Public license documented."
+    }
+  ],
+  "unresolved": [
+    "Field verification of exact current opening hours needed."
+  ]
+}

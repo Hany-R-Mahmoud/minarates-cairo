@@ -1,0 +1,164 @@
+{
+  "slug": "al-azhar-park",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Al-Azhar Park",
+  "nameAr": "حديقة الأزهر",
+  "transliteration": "Al-Azhar Park",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "public park and urban landscape",
+  "district": "Dar al-Ahmar / historic Cairo edge",
+  "location": {
+    "descriptionEn": "Dar al-Ahmar / historic Cairo edge",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Contemporary",
+    "opened 2005"
+  ],
+  "historicalSummary": {
+    "en": "A contemporary landscape project by the Aga Khan Trust for Culture on a former refuse mound beside the historic city. The project combined park construction with neighborhood conservation and social programs.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "Terraced gardens, axial paths, planted slopes, water features, and framed views connect a contemporary park to the historic urban and cemetery landscapes around it.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "terraced gardens",
+    "water features",
+    "view terraces",
+    "landscape infrastructure"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "al-azhar-park:unesco-historic-cairo",
+        "al-azhar-park:mota-historic-cairo",
+        "al-azhar-park:archnet-azhar-park"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "al-azhar-park-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Al-Azhar Park.",
+      "textAr": "يسجل الجرد هذا الموقع باسم حديقة الأزهر.",
+      "confidence": "high",
+      "sourceIds": [
+        "al-azhar-park:unesco-historic-cairo",
+        "al-azhar-park:mota-historic-cairo",
+        "al-azhar-park:archnet-azhar-park"
+      ]
+    },
+    {
+      "claimId": "al-azhar-park-history",
+      "claimType": "history",
+      "textEn": "A contemporary landscape project by the Aga Khan Trust for Culture on a former refuse mound beside the historic city. The project combined park construction with neighborhood conservation and social programs.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-azhar-park:unesco-historic-cairo",
+        "al-azhar-park:mota-historic-cairo",
+        "al-azhar-park:archnet-azhar-park"
+      ]
+    },
+    {
+      "claimId": "al-azhar-park-architecture",
+      "claimType": "architecture",
+      "textEn": "Terraced gardens, axial paths, planted slopes, water features, and framed views connect a contemporary park to the historic urban and cemetery landscapes around it.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-azhar-park:unesco-historic-cairo",
+        "al-azhar-park:mota-historic-cairo",
+        "al-azhar-park:archnet-azhar-park"
+      ]
+    },
+    {
+      "claimId": "al-azhar-park-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "al-azhar-park:unesco-historic-cairo",
+        "al-azhar-park:mota-historic-cairo",
+        "al-azhar-park:archnet-azhar-park"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "al-azhar-park:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-azhar-park-identity",
+        "al-azhar-park-history",
+        "al-azhar-park-architecture",
+        "al-azhar-park-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "al-azhar-park:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-azhar-park-identity",
+        "al-azhar-park-history",
+        "al-azhar-park-architecture",
+        "al-azhar-park-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "al-azhar-park:archnet-azhar-park",
+      "title": "Al-Azhar Park",
+      "url": "https://www.archnet.org/sites/5003",
+      "sourceType": "landscape documentation",
+      "publisher": "Archnet / Aga Khan Documentation Center",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-azhar-park-identity",
+        "al-azhar-park-history",
+        "al-azhar-park-architecture",
+        "al-azhar-park-status"
+      ],
+      "notes": "Project and landscape documentation."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

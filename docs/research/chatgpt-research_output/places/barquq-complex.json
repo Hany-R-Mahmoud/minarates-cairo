@@ -1,0 +1,137 @@
+{
+  "slug": "barquq-complex",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Madrasa and Khanqah of Sultan Barquq",
+  "nameAr": "مدرسة وخانقاه السلطان برقوق",
+  "transliteration": "Madrasa and Khanqah of Sultan Barquq",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "historic place / research record",
+  "district": "Unknown — requires official or field verification.",
+  "location": {
+    "descriptionEn": "Unknown — requires official or field verification.",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Historic Cairo context — period-specific verification required"
+  ],
+  "historicalSummary": {
+    "en": "Unknown — requires official or field verification.",
+    "ar": "Unknown — requires official or field verification."
+  },
+  "architectureSummary": {
+    "en": "Unknown — requires official or field verification.",
+    "ar": "Unknown — requires official or field verification."
+  },
+  "architecturalElements": [],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "barquq-complex:unesco-historic-cairo",
+        "barquq-complex:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "barquq-complex-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Madrasa and Khanqah of Sultan Barquq.",
+      "textAr": "يسجل الجرد هذا الموقع باسم مدرسة وخانقاه السلطان برقوق.",
+      "confidence": "high",
+      "sourceIds": [
+        "barquq-complex:unesco-historic-cairo",
+        "barquq-complex:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "barquq-complex-history",
+      "claimType": "history",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "barquq-complex:unesco-historic-cairo",
+        "barquq-complex:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "barquq-complex-architecture",
+      "claimType": "architecture",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "barquq-complex:unesco-historic-cairo",
+        "barquq-complex:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "barquq-complex-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "barquq-complex:unesco-historic-cairo",
+        "barquq-complex:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "barquq-complex:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "barquq-complex-identity",
+        "barquq-complex-history",
+        "barquq-complex-architecture",
+        "barquq-complex-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "barquq-complex:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "barquq-complex-identity",
+        "barquq-complex-history",
+        "barquq-complex-architecture",
+        "barquq-complex-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

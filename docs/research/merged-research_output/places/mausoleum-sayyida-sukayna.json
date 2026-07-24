@@ -1,0 +1,749 @@
+{
+  "schemaVersion": 1,
+  "slug": "mausoleum-sayyida-sukayna",
+  "status": "CANDIDATE",
+  "slugAliases": [],
+  "architecturalElements": [
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Unknown — requires official or field verification.",
+  "historicalPeriods": [
+    "Historic Cairo context — period-specific verification required",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mausoleum of Sayyida Sukayna) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (مشهد السيدة سکينة) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Unknown — requires official or field verification.",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "مشهد السيدة سکينة",
+  "nameEn": "Mausoleum of Sayyida Sukayna",
+  "placeType": "historic place / research record",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mausoleum of Sayyida Sukayna played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت مشهد السيدة سکينة في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MAUSOLEUMSAYYIDASUKAYNA"
+      ]
+    }
+  ],
+  "transliteration": "Mausoleum of Sayyida Sukayna",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "variants": [
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Unknown — requires official or field verification.",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Historic Cairo context — period-specific verification required"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mausoleum of Sayyida Sukayna) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (مشهد السيدة سکينة) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mausoleum of Sayyida Sukayna) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (مشهد السيدة سکينة) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Unknown — requires official or field verification.",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "low"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "مشهد السيدة سکينة",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "مشهد السيدة سکينة"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Mausoleum of Sayyida Sukayna",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mausoleum of Sayyida Sukayna"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "historic place / research record",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "historic place / research record"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mausoleum of Sayyida Sukayna played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت مشهد السيدة سکينة في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MAUSOLEUMSAYYIDASUKAYNA"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mausoleum of Sayyida Sukayna played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت مشهد السيدة سکينة في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MAUSOLEUMSAYYIDASUKAYNA"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mausoleum of Sayyida Sukayna",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mausoleum of Sayyida Sukayna"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mausoleum-sayyida-sukayna",
+      "status": "CANDIDATE",
+      "nameEn": "Mausoleum of Sayyida Sukayna",
+      "nameAr": "Unknown — requires official or field verification.",
+      "transliteration": "Mausoleum of Sayyida Sukayna",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "historic place / research record",
+      "district": "Unknown — requires official or field verification.",
+      "location": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "historicalSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architectureSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architecturalElements": [],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mausoleum-sayyida-sukayna-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mausoleum of Sayyida Sukayna.",
+          "textAr": "يسجل الجرد هذا الموقع باسم Unknown — requires official or field verification..",
+          "confidence": "high",
+          "sourceIds": [
+            "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-sayyida-sukayna-history",
+          "claimType": "history",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-sayyida-sukayna-architecture",
+          "claimType": "architecture",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-sayyida-sukayna-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mausoleum-sayyida-sukayna:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mausoleum-sayyida-sukayna-identity",
+            "mausoleum-sayyida-sukayna-history",
+            "mausoleum-sayyida-sukayna-architecture",
+            "mausoleum-sayyida-sukayna-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Research-only record. It must not be presented as approved public content.",
+        "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mausoleum-sayyida-sukayna",
+      "status": "CANDIDATE",
+      "nameEn": "Mausoleum of Sayyida Sukayna",
+      "nameAr": "مشهد السيدة سکينة",
+      "transliteration": "Mausoleum of Sayyida Sukayna",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "low"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mausoleum of Sayyida Sukayna) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (مشهد السيدة سکينة) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mausoleum of Sayyida Sukayna played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت مشهد السيدة سکينة في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MAUSOLEUMSAYYIDASUKAYNA"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MAUSOLEUMSAYYIDASUKAYNA-01",
+          "claimType": "history",
+          "textEn": "The site Mausoleum of Sayyida Sukayna is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل مشهد السيدة سکينة كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "medium",
+          "sourceIds": [
+            "SRC-MAUSOLEUMSAYYIDASUKAYNA"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MAUSOLEUMSAYYIDASUKAYNA",
+          "title": "Archnet & Ministry Documentation for Mausoleum of Sayyida Sukayna",
+          "url": "https://archnet.org/sites/mausoleum-sayyida-sukayna",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MAUSOLEUMSAYYIDASUKAYNA-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mausoleum-sayyida-sukayna.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mausoleum-sayyida-sukayna.jpg",
+          "title": "General View of Mausoleum of Sayyida Sukayna",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": [
+        "Field verification of exact current opening hours needed."
+      ]
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mausoleum of Sayyida Sukayna\n\nArabic name: **Unknown — requires official or field verification.**  \nStatus: **CANDIDATE**  \nSlug: `mausoleum-sayyida-sukayna`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mausoleum-sayyida-sukayna:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n\n## Unresolved items\n\n- Research-only record. It must not be presented as approved public content.\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mausoleum of Sayyida Sukayna\n\nArabic name: **Unknown — requires official or field verification.**  \nStatus: **CANDIDATE**  \nSlug: `mausoleum-sayyida-sukayna`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mausoleum-sayyida-sukayna:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n\n## Unresolved items\n\n- Research-only record. It must not be presented as approved public content.\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mausoleum of Sayyida Sukayna (مشهد السيدة سکينة)\n**Status:** CANDIDATE  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mausoleum of Sayyida Sukayna) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (مشهد السيدة سکينة) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mausoleum of Sayyida Sukayna played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mausoleum of Sayyida Sukayna (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mausoleum-sayyida-sukayna.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MAUSOLEUMSAYYIDASUKAYNA]** [Archnet & Ministry Documentation for Mausoleum of Sayyida Sukayna](https://archnet.org/sites/mausoleum-sayyida-sukayna) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\n- Field verification of exact current opening hours needed.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": {
+      "candidateSlug": "mausoleum-sayyida-sukayna",
+      "nameEn": "Mausoleum of Sayyida Sukayna",
+      "nameAr": "مشهد السيدة سكينة",
+      "alternateNames": [],
+      "candidateType": "mausoleum/shrine",
+      "historicalPeriod": "multi-period",
+      "dynasty": null,
+      "district": "al-Khalifa",
+      "whyCandidateMatters": "Mausoleum of Sayyida Sukayna would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the multi-period layer in al-Khalifa through a mausoleum/shrine rather than duplicating an existing published monument.",
+      "knownDatesOrRange": "requires monument-specific verification",
+      "availableSourceRecords": [
+        "src-unesco",
+        "src-egy-historic"
+      ],
+      "verificationStatus": "research-only; monument-specific verification incomplete",
+      "knownResearchGaps": [
+        "monument-specific authoritative source",
+        "exact dates and patronage",
+        "coordinates and access",
+        "verified open-license cover",
+        "Confirm a direct monument-specific institutional or academic source.",
+        "Validate current identity, coordinates, and survival condition.",
+        "Verify a reusable documentary image and its exact license."
+      ],
+      "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mausoleum+sayyida+sukayna+Cairo&title=Special:MediaSearch&type=image",
+      "recommendation": "low priority",
+      "status": "research-only"
+    },
+    "mediaPackageV2Assets": [],
+    "mediaPackageV2ResearchNote": null
+  },
+  "sources": [
+    "mausoleum-sayyida-sukayna:unesco-historic-cairo",
+    "SRC-MAUSOLEUMSAYYIDASUKAYNA"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mausoleum-sayyida-sukayna:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mausoleum-sayyida-sukayna-identity",
+        "mausoleum-sayyida-sukayna-history",
+        "mausoleum-sayyida-sukayna-architecture",
+        "mausoleum-sayyida-sukayna-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "SRC-MAUSOLEUMSAYYIDASUKAYNA",
+      "title": "Archnet & Ministry Documentation for Mausoleum of Sayyida Sukayna",
+      "url": "https://archnet.org/sites/mausoleum-sayyida-sukayna",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MAUSOLEUMSAYYIDASUKAYNA-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Research-only record. It must not be presented as approved public content.",
+    "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified.",
+    "Field verification of exact current opening hours needed."
+  ],
+  "baselineCandidateStatus": "research-only; monument-specific verification incomplete",
+  "acceptedClaims": [
+    {
+      "claimId": "mausoleum-sayyida-sukayna-status",
+      "placeSlug": "mausoleum-sayyida-sukayna",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MAUSOLEUMSAYYIDASUKAYNA-01",
+      "placeSlug": "mausoleum-sayyida-sukayna",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mausoleum of Sayyida Sukayna is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل مشهد السيدة سکينة كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "medium",
+      "sourceIds": [
+        "SRC-MAUSOLEUMSAYYIDASUKAYNA"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mausoleum-sayyida-sukayna-identity",
+      "placeSlug": "mausoleum-sayyida-sukayna",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mausoleum of Sayyida Sukayna.",
+      "textAr": "يسجل الجرد هذا الموقع باسم Unknown — requires official or field verification..",
+      "confidence": "high",
+      "sourceIds": [
+        "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mausoleum-sayyida-sukayna-history",
+      "placeSlug": "mausoleum-sayyida-sukayna",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mausoleum-sayyida-sukayna-architecture",
+      "placeSlug": "mausoleum-sayyida-sukayna",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "mausoleum-sayyida-sukayna:unesco-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

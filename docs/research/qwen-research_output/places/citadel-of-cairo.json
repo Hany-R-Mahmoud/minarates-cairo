@@ -1,0 +1,146 @@
+{
+  "slug": "citadel-of-cairo",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Cairo Citadel",
+  "nameAr": "قلعة صلاح الدين الأيوبي بالقاهرة",
+  "transliteration": "Cairo Citadel",
+  "alternativeNames": [],
+  "relatedSlugs": [
+    "cairo-citadel"
+  ],
+  "placeType": "citadel and historic governmental complex",
+  "district": "Mokattam / Citadel",
+  "location": {
+    "descriptionEn": "Mokattam / Citadel",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Ayyubid to modern",
+    "1176–1183 CE and later"
+  ],
+  "historicalSummary": {
+    "en": "This is a separate project record for the same Cairo Citadel represented by the parallel slug cairo-citadel. The fortress was begun under Salah al-Din and repeatedly expanded.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "The enclosure combines medieval fortification, Mamluk religious foundations, Ottoman-period palaces, and later museum and military uses.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "fortification walls",
+    "towers",
+    "mosques",
+    "palaces",
+    "panoramic terraces"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "citadel-of-cairo:unesco-historic-cairo",
+        "citadel-of-cairo:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "citadel-of-cairo-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Cairo Citadel.",
+      "textAr": "يسجل الجرد هذا الموقع باسم قلعة صلاح الدين الأيوبي بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "citadel-of-cairo:unesco-historic-cairo",
+        "citadel-of-cairo:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "citadel-of-cairo-history",
+      "claimType": "history",
+      "textEn": "This is a separate project record for the same Cairo Citadel represented by the parallel slug cairo-citadel. The fortress was begun under Salah al-Din and repeatedly expanded.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "citadel-of-cairo:unesco-historic-cairo",
+        "citadel-of-cairo:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "citadel-of-cairo-architecture",
+      "claimType": "architecture",
+      "textEn": "The enclosure combines medieval fortification, Mamluk religious foundations, Ottoman-period palaces, and later museum and military uses.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "citadel-of-cairo:unesco-historic-cairo",
+        "citadel-of-cairo:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "citadel-of-cairo-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "citadel-of-cairo:unesco-historic-cairo",
+        "citadel-of-cairo:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "citadel-of-cairo:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "citadel-of-cairo-identity",
+        "citadel-of-cairo-history",
+        "citadel-of-cairo-architecture",
+        "citadel-of-cairo-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "citadel-of-cairo:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "citadel-of-cairo-identity",
+        "citadel-of-cairo-history",
+        "citadel-of-cairo-architecture",
+        "citadel-of-cairo-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

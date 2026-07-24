@@ -1,0 +1,143 @@
+{
+  "slug": "sinan-pasha-mosque-bulaq",
+  "status": "PROPOSED_V4",
+  "nameEn": "Sinan Pasha Mosque",
+  "nameAr": "جامع سنان باشا ببولاق",
+  "transliteration": "Sinan Pasha Mosque",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "mosque",
+  "district": "Bulaq",
+  "location": {
+    "descriptionEn": "Bulaq",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Ottoman",
+    "1571 CE / 979 AH"
+  ],
+  "historicalSummary": {
+    "en": "Built in Bulaq in the Ottoman period for Sinan Pasha, governor of Egypt. Its location reflects Bulaq's role as Cairo's river port and commercial gateway.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A domed Ottoman mosque with a prominent single dome, minaret, prayer hall, and port-related urban setting; its form belongs to the imperial Ottoman architectural vocabulary adapted to Cairo.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "central dome",
+    "minaret",
+    "prayer hall",
+    "port district setting"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+        "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "sinan-pasha-mosque-bulaq-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Sinan Pasha Mosque.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع سنان باشا ببولاق.",
+      "confidence": "high",
+      "sourceIds": [
+        "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+        "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "sinan-pasha-mosque-bulaq-history",
+      "claimType": "history",
+      "textEn": "Built in Bulaq in the Ottoman period for Sinan Pasha, governor of Egypt. Its location reflects Bulaq's role as Cairo's river port and commercial gateway.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+        "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "sinan-pasha-mosque-bulaq-architecture",
+      "claimType": "architecture",
+      "textEn": "A domed Ottoman mosque with a prominent single dome, minaret, prayer hall, and port-related urban setting; its form belongs to the imperial Ottoman architectural vocabulary adapted to Cairo.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+        "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "sinan-pasha-mosque-bulaq-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+        "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sinan-pasha-mosque-bulaq-identity",
+        "sinan-pasha-mosque-bulaq-history",
+        "sinan-pasha-mosque-bulaq-architecture",
+        "sinan-pasha-mosque-bulaq-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "sinan-pasha-mosque-bulaq:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sinan-pasha-mosque-bulaq-identity",
+        "sinan-pasha-mosque-bulaq-history",
+        "sinan-pasha-mosque-bulaq-architecture",
+        "sinan-pasha-mosque-bulaq-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

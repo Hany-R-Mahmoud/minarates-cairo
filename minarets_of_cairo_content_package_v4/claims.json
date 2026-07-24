@@ -58,8 +58,8 @@
       "placeSlug": "aqsunqur-blue-mosque",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "The famous blue tiles belong mainly to a later Ottoman phase.",
-      "claimTextAr": "تنتمي البلاطات الزرقاء الشهيرة أساسًا إلى مرحلة عثمانية لاحقة.",
+      "claimTextEn": "The blue tiles visitors notice most belong largely to a later Ottoman phase, layered onto the earlier Mamluk foundation.",
+      "claimTextAr": "تنتمي البلاطات الزرقاء التي يلاحظها الزائر غالباً في معظمها إلى مرحلة عثمانية لاحقة، وقد أضيفت إلى المنشأة المملوكية الأقدم.",
       "sourceIds": [
         "src-aqsunqur-wmf",
         "src-aqsunqur-archnet"
@@ -175,8 +175,8 @@
       "placeSlug": "bayt-al-razzaz",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "A single patron or date cannot describe the entire complex.",
-      "claimTextAr": "لا يمكن وصف المجموعة كلها براعي واحد أو تاريخ واحد.",
+      "claimTextEn": "Bayt al-Razzaz grew over time, so no single patron or date explains the whole complex.",
+      "claimTextAr": "نشأ بيت الرزاز وتطور على مراحل، لذلك لا يفسر راعٍ واحد أو تاريخ واحد المجمع كله.",
       "sourceIds": [
         "src-razzaz-archnet",
         "src-razzaz-behrens"
@@ -292,8 +292,8 @@
       "placeSlug": "gayer-anderson-museum",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "The houses were not built for Gayer-Anderson.",
-      "claimTextAr": "لم يُشيد البيتان من أجل جاير أندرسون.",
+      "claimTextEn": "The houses predate Gayer-Anderson. His later residence and collection added a twentieth-century layer to the historic interiors.",
+      "claimTextAr": "يسبق البيتان إقامة جاير أندرسون فيهما؛ فقد أضاف سكنه ومجموعته لاحقاً طبقة من تاريخ القرن العشرين إلى الفراغات التاريخية.",
       "sourceIds": [
         "src-gayer-mota",
         "src-gayer-archnet"
@@ -409,8 +409,8 @@
       "placeSlug": "mausoleum-imam-al-shafii",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "The early tomb and the later standing architecture must be distinguished.",
-      "claimTextAr": "يجب التمييز بين القبر المبكر والعمارة القائمة اللاحقة.",
+      "claimTextEn": "The early tomb tradition and the standing mausoleum belong to different moments, so they are best read as connected but distinct layers.",
+      "claimTextAr": "ينتمي تقليد القبر المبكر والضريح القائم إلى مرحلتين مختلفتين، ومن الأفضل قراءتهما كطبقتين متصلتين لكن متميزتين.",
       "sourceIds": [
         "src-shafii-mulder",
         "src-shafii-archnet"
@@ -526,8 +526,8 @@
       "placeSlug": "mausoleum-shajarat-al-durr",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "Popular stories must not replace sourced political and architectural history.",
-      "claimTextAr": "يجب ألا تحل الروايات الشعبية محل التاريخ السياسي والمعماري الموثق.",
+      "claimTextEn": "The clearest reading begins with the documented political and architectural history, while popular stories remain part of the site’s wider memory.",
+      "claimTextAr": "تبدأ القراءة الأوضح بالتاريخ السياسي والمعماري الموثق، بينما تظل الروايات الشعبية جزءاً من الذاكرة الأوسع للموقع.",
       "sourceIds": [
         "src-shajarat-archnet",
         "src-shajarat-patronage"
@@ -643,8 +643,8 @@
       "placeSlug": "mosque-sabil-sulayman-agha-al-silahdar",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "Its date is nineteenth-century even though its functions recall older traditions.",
-      "claimTextAr": "يرجع المبنى إلى القرن التاسع عشر رغم أن وظائفه تحيل إلى تقاليد أقدم.",
+      "claimTextEn": "The building dates from the nineteenth century, even though its combined functions recall older Cairo traditions.",
+      "claimTextAr": "يرجع المبنى إلى القرن التاسع عشر، رغم أن وظائفه المجمعة تستحضر تقاليد أقدم في القاهرة.",
       "sourceIds": [
         "src-silahdar-archnet",
         "src-silahdar-ottoman"
@@ -760,8 +760,8 @@
       "placeSlug": "sabil-kuttab-nafisa-al-bayda",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "Its primary identity is a public charitable foundation, not a private house.",
-      "claimTextAr": "هويته الأساسية منشأة خيرية عامة وليست بيتًا خاصًا.",
+      "claimTextEn": "Its primary identity is a public charitable foundation rather than a private house.",
+      "claimTextAr": "هويته الأساسية منشأة خيرية عامة، لا بيتاً خاصاً.",
       "sourceIds": [
         "src-nafisa-archnet",
         "src-nafisa-women"
@@ -877,8 +877,8 @@
       "placeSlug": "sinan-pasha-mosque-bulaq",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "The present streets are not the original sixteenth-century port landscape.",
-      "claimTextAr": "الشوارع الحالية ليست مشهد الميناء الأصلي في القرن السادس عشر.",
+      "claimTextEn": "The streets around the mosque have changed substantially, so they should not be treated as an unchanged sixteenth-century port landscape.",
+      "claimTextAr": "تغيرت الشوارع المحيطة بالمسجد كثيراً، لذلك لا ينبغي التعامل معها بوصفها مشهداً مينائياً من القرن السادس عشر ظل كما هو.",
       "sourceIds": [
         "src-sinan-archnet",
         "src-sinan-swelim"
@@ -994,8 +994,8 @@
       "placeSlug": "sulayman-pasha-al-khadim-mosque",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "It is distinct from the nineteenth-century Mosque of Muhammad Ali.",
-      "claimTextAr": "يختلف عن مسجد محمد علي الذي يعود إلى القرن التاسع عشر.",
+      "claimTextEn": "This is an earlier Ottoman monument, distinct from the nineteenth-century Mosque of Muhammad Ali.",
+      "claimTextAr": "هذا معلم عثماني أقدم، ويختلف عن مسجد محمد علي الذي يرجع إلى القرن التاسع عشر.",
       "sourceIds": [
         "src-sulayman-pasha-archnet",
         "src-sulayman-pasha-plan"
@@ -1111,8 +1111,8 @@
       "placeSlug": "sultan-qaytbay-funerary-complex",
       "storySlug": null,
       "claimType": "clarification",
-      "claimTextEn": "The surrounding cemetery is an inhabited and sensitive cultural landscape.",
-      "claimTextAr": "الجبانة المحيطة مشهد ثقافي مأهول وحساس.",
+      "claimTextEn": "The surrounding cemetery remains a lived and sensitive cultural landscape, not simply a backdrop to the monument.",
+      "claimTextAr": "تظل الجبانة المحيطة مشهداً ثقافياً مأهولاً وحساساً، وليست مجرد خلفية للمعلم.",
       "sourceIds": [
         "src-qaytbay-mota",
         "src-qaytbay-archnet"

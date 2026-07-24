@@ -5,6 +5,7 @@ import { trpc } from "@/lib/trpc";
 import { Plus, X, ArrowLeftRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { Badge } from "@/components/ui/badge";
 
 const COMPARE_FIELDS: Array<{ keyEn: string; keyAr: string; field: string; render: (p: Record<string, unknown>, lang: string) => string }> = [
   { keyEn: "Founded", keyAr: "التأسيس", field: "foundedYear", render: (p) => p.foundedYear ? `${p.foundedYear} CE` : "—" },
@@ -30,6 +31,7 @@ export default function Compare() {
   const [selectValue, setSelectValue] = useState<string>("");
 
   const { data: allPlaces, isLoading: isPlacesLoading, isError: isPlacesError } = trpc.places.list.useQuery({ limit: 100, offset: 0, status: "published" });
+  const { data: researchCoverage } = trpc.places.researchCoverage.useQuery();
   const { data: comparedPlaces, isLoading: isComparisonLoading, isError: isComparisonError } = trpc.comparisons.custom.useQuery(
     { placeIds: selectedIds },
     { enabled: selectedIds.length >= 2 }
@@ -49,6 +51,7 @@ export default function Compare() {
   };
 
   const places = comparedPlaces ?? [];
+  const coverageBySlug = new Map((researchCoverage ?? []).map(item => [item.placeSlug, item]));
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
@@ -172,6 +175,11 @@ export default function Compare() {
                       {place.foundedYear && (
                         <div className="text-xs text-[var(--color-stone-400)] mt-0.5">{place.foundedYear}</div>
                       )}
+                      {coverageBySlug.get(place.slug) && (
+                        <Badge variant="secondary" className="mt-2 text-[10px]">
+                          {t(`${coverageBySlug.get(place.slug)?.claimCount ?? 0} evidence · ${coverageBySlug.get(place.slug)?.featureCount ?? 0} features`, `${coverageBySlug.get(place.slug)?.claimCount ?? 0} دليل · ${coverageBySlug.get(place.slug)?.featureCount ?? 0} عناصر`)}
+                        </Badge>
+                      )}
                     </th>
                   ))}
                 </tr>
@@ -189,6 +197,24 @@ export default function Compare() {
                     ))}
                   </tr>
                 ))}
+
+                <tr className="bg-[var(--color-parchment-100)]">
+                  <td className={`p-3 text-xs font-semibold text-[var(--color-stone-600)] border-r border-[var(--color-border)] align-top ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                    {t("Research Record", "السجل البحثي")}
+                  </td>
+                  {places.map(place => {
+                    const research = coverageBySlug.get(place.slug);
+                    return (
+                      <td key={place.id} className={`p-3 text-xs text-[var(--color-stone-600)] text-center border-r border-[var(--color-border)] last:border-r-0 align-top ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+                        <div>{t(`${research?.claimCount ?? 0} accepted claims`, `${research?.claimCount ?? 0} ادعاء مقبول`)}</div>
+                        <div className="mt-1 text-[var(--color-teal-600)]">{t(`${research?.featureCount ?? 0} features · ${research?.sourceCount ?? 0} sources`, `${research?.featureCount ?? 0} عناصر · ${research?.sourceCount ?? 0} مصادر`)}</div>
+                        {research?.featureLabels.slice(0, 3).map(feature => (
+                          <div key={feature.en} className="mt-1 text-[10px] text-[var(--color-stone-500)]">{lang === "ar" ? feature.ar ?? feature.en : feature.en}</div>
+                        ))}
+                      </td>
+                    );
+                  })}
+                </tr>
 
                 {/* Brief comparison row */}
                 <tr className="bg-[var(--color-parchment-200)]">

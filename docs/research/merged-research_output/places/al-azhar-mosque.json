@@ -1,0 +1,957 @@
+{
+  "schemaVersion": 1,
+  "slug": "al-azhar-mosque",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "alternativeNames": [
+    "The Splendid Mosque"
+  ],
+  "architecturalElements": [
+    "courtyard",
+    "riwaqs",
+    "prayer hall",
+    "multiple minarets",
+    "marble paving",
+    "Fatimid Stucco",
+    "Multiple Minarets",
+    "Marble-Paved Courtyard",
+    "Mamluk Porticos"
+  ],
+  "architectureSummary": {
+    "en": "A composite complex illustrating multi-era Islamic architecture, featuring Fatimid keel-arch arcades, Mamluk minarets (such as Qaytbay and al-Ghuri), and Ottoman expansions.",
+    "ar": "مجمع معماري متكامل يعكس تطور العمارة الإسلامية عبر العصور، من العقود الفاطمية إلى المآذن المملوكية والتوسعات العثمانية."
+  },
+  "district": "Fatimid Cairo",
+  "historicalPeriods": [
+    "Fatimid",
+    "970–972 CE / 359–361 AH",
+    "Mamluk",
+    "Ottoman"
+  ],
+  "historicalSummary": {
+    "en": "Founded in 970 AD by the Fatimid general Jawhar al-Siqilli shortly after the conquest of Egypt. It grew to become one of the premier centers of Sunni Islamic learning globally.",
+    "ar": "تأسس عام 970 م على يد القائد الفاطمي جوهر الصقلي عقب فتح مصر، ليتحول لاحقاً إلى أحد أهم مراكز العلوم الإسلامية في العالم."
+  },
+  "location": {
+    "descriptionEn": "Fatimid Cairo",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "الجامع الأزهر",
+  "nameEn": "Al-Azhar Mosque",
+  "placeType": "mosque and university",
+  "relatedSlugs": [
+    "mosque-al-azhar"
+  ],
+  "stories": [
+    {
+      "titleEn": "Foundation of Cairo",
+      "titleAr": "تأسيس القاهرة",
+      "summaryEn": "Al-Azhar was the first congregational mosque built in Fatimid Al-Qahira.",
+      "summaryAr": "كان الأزهر أول جامع أقيم في القاهرة الفاطمية.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-ARCHNET-AZHAR",
+        "SRC-MTA-AZHAR"
+      ]
+    }
+  ],
+  "transliteration": "Al-Azhar Mosque",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-al-azhar-mosque",
+      "placeId": null,
+      "placeSlug": "al-azhar-mosque",
+      "placeNameEn": "Al-Azhar Mosque",
+      "placeNameAr": "الجامع الأزهر",
+      "role": "cover",
+      "imageKitPath": "/places/al-azhar-mosque/cover.jpg",
+      "localFile": "images/al-azhar-mosque/al-azhar-mosque-cover-courtyard-minarets.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+      "sourceTitle": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG",
+      "cdnUrl": null,
+      "creator": "Daniel Mayer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons",
+      "altEn": "The courtyard of Al-Azhar Mosque with arcades and several minarets under a clear sky.",
+      "altAr": "فناء الجامع الأزهر تحيط به الأروقة وتظهر فوقه عدة مآذن تحت سماء صافية.",
+      "captionEn": "Courtyard and minarets of Al-Azhar Mosque.",
+      "captionAr": "فناء الجامع الأزهر ومآذنه.",
+      "mediaType": "photo",
+      "visualType": "courtyard",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 2478,
+      "height": 2165,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1288299,
+      "checksum": "4ae29a9012558c1ac661f46b31074906c6b978b4c6e41741d8f39a42d3e440ec",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+        "creator": "Daniel Mayer",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-al-azhar-mosque:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": [
+        "The Splendid Mosque"
+      ],
+      "variants": [
+        {
+          "provenance": "gemini",
+          "value": [
+            "The Splendid Mosque"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "courtyard",
+        "riwaqs",
+        "prayer hall",
+        "multiple minarets",
+        "marble paving"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "courtyard",
+            "riwaqs",
+            "prayer hall",
+            "multiple minarets",
+            "marble paving"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Fatimid Stucco",
+            "Multiple Minarets",
+            "Marble-Paved Courtyard",
+            "Mamluk Porticos"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "A composite complex illustrating multi-era Islamic architecture, featuring Fatimid keel-arch arcades, Mamluk minarets (such as Qaytbay and al-Ghuri), and Ottoman expansions.",
+        "ar": "مجمع معماري متكامل يعكس تطور العمارة الإسلامية عبر العصور، من العقود الفاطمية إلى المآذن المملوكية والتوسعات العثمانية."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A layered complex whose present fabric combines Fatimid remains with substantial medieval and Ottoman additions. Courtyards, prayer halls, riwaqs, portals, and later minarets record its long institutional life.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A composite complex illustrating multi-era Islamic architecture, featuring Fatimid keel-arch arcades, Mamluk minarets (such as Qaytbay and al-Ghuri), and Ottoman expansions.",
+            "ar": "مجمع معماري متكامل يعكس تطور العمارة الإسلامية عبر العصور، من العقود الفاطمية إلى المآذن المملوكية والتوسعات العثمانية."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Fatimid Cairo",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Fatimid Cairo"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Al-Darb al-Ahmar / Al-Azhar"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Fatimid",
+        "970–972 CE / 359–361 AH"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Fatimid",
+            "970–972 CE / 359–361 AH"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Fatimid",
+            "Mamluk",
+            "Ottoman"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "Founded in 970 AD by the Fatimid general Jawhar al-Siqilli shortly after the conquest of Egypt. It grew to become one of the premier centers of Sunni Islamic learning globally.",
+        "ar": "تأسس عام 970 م على يد القائد الفاطمي جوهر الصقلي عقب فتح مصر، ليتحول لاحقاً إلى أحد أهم مراكز العلوم الإسلامية في العالم."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Founded soon after the Fatimid foundation of Cairo by Jawhar al-Siqilli and completed in the reign of al-Mu'izz. It developed into one of the Islamic world's major centers of Sunni learning after later institutional changes.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Founded in 970 AD by the Fatimid general Jawhar al-Siqilli shortly after the conquest of Egypt. It grew to become one of the premier centers of Sunni Islamic learning globally.",
+            "ar": "تأسس عام 970 م على يد القائد الفاطمي جوهر الصقلي عقب فتح مصر، ليتحول لاحقاً إلى أحد أهم مراكز العلوم الإسلامية في العالم."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Fatimid Cairo",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Fatimid Cairo",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located at Al-Azhar Square in Historic Cairo.",
+            "descriptionAr": "يقع في ميدان الأزهر بقلب القاهرة التاريخية.",
+            "latitude": 30.0458,
+            "longitude": 31.2627,
+            "confidence": "high"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "الجامع الأزهر",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "الجامع الأزهر"
+        },
+        {
+          "provenance": "gemini",
+          "value": "جامع الأزهر"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Al-Azhar Mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Azhar Mosque"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mosque and university",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mosque and university"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Mosque & University"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": [
+        "mosque-al-azhar"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "mosque-al-azhar"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Foundation of Cairo",
+          "titleAr": "تأسيس القاهرة",
+          "summaryEn": "Al-Azhar was the first congregational mosque built in Fatimid Al-Qahira.",
+          "summaryAr": "كان الأزهر أول جامع أقيم في القاهرة الفاطمية.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-ARCHNET-AZHAR",
+            "SRC-MTA-AZHAR"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "al-azhar-mosque:unesco-historic-cairo",
+                "al-azhar-mosque:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Foundation of Cairo",
+              "titleAr": "تأسيس القاهرة",
+              "summaryEn": "Al-Azhar was the first congregational mosque built in Fatimid Al-Qahira.",
+              "summaryAr": "كان الأزهر أول جامع أقيم في القاهرة الفاطمية.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-ARCHNET-AZHAR",
+                "SRC-MTA-AZHAR"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Al-Azhar Mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Azhar Mosque"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Jāmiʿ al-Azhar"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "05:00 - 22:00 (Outside prayer times preferred for sightseers)",
+            "ticketPrice": "Free entry",
+            "photographyRules": "Non-disruptive photography permitted in courtyard",
+            "dressRequirements": "Strict modest dress; shoes must be removed or covered",
+            "accessibility": "Courtyard accessible; ramp available at side entrance",
+            "currentStatus": "Active place of worship and learning",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "al-azhar-mosque",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Azhar Mosque",
+      "nameAr": "الجامع الأزهر",
+      "transliteration": "Al-Azhar Mosque",
+      "alternativeNames": [],
+      "relatedSlugs": [
+        "mosque-al-azhar"
+      ],
+      "placeType": "mosque and university",
+      "district": "Fatimid Cairo",
+      "location": {
+        "descriptionEn": "Fatimid Cairo",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Fatimid",
+        "970–972 CE / 359–361 AH"
+      ],
+      "historicalSummary": {
+        "en": "Founded soon after the Fatimid foundation of Cairo by Jawhar al-Siqilli and completed in the reign of al-Mu'izz. It developed into one of the Islamic world's major centers of Sunni learning after later institutional changes.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A layered complex whose present fabric combines Fatimid remains with substantial medieval and Ottoman additions. Courtyards, prayer halls, riwaqs, portals, and later minarets record its long institutional life.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "courtyard",
+        "riwaqs",
+        "prayer hall",
+        "multiple minarets",
+        "marble paving"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "al-azhar-mosque:unesco-historic-cairo",
+            "al-azhar-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "al-azhar-mosque-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Al-Azhar Mosque.",
+          "textAr": "يسجل الجرد هذا الموقع باسم الجامع الأزهر.",
+          "confidence": "high",
+          "sourceIds": [
+            "al-azhar-mosque:unesco-historic-cairo",
+            "al-azhar-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "al-azhar-mosque-history",
+          "claimType": "history",
+          "textEn": "Founded soon after the Fatimid foundation of Cairo by Jawhar al-Siqilli and completed in the reign of al-Mu'izz. It developed into one of the Islamic world's major centers of Sunni learning after later institutional changes.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "al-azhar-mosque:unesco-historic-cairo",
+            "al-azhar-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "al-azhar-mosque-architecture",
+          "claimType": "architecture",
+          "textEn": "A layered complex whose present fabric combines Fatimid remains with substantial medieval and Ottoman additions. Courtyards, prayer halls, riwaqs, portals, and later minarets record its long institutional life.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "al-azhar-mosque:unesco-historic-cairo",
+            "al-azhar-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "al-azhar-mosque-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "al-azhar-mosque:unesco-historic-cairo",
+            "al-azhar-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "al-azhar-mosque:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-azhar-mosque-identity",
+            "al-azhar-mosque-history",
+            "al-azhar-mosque-architecture",
+            "al-azhar-mosque-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "al-azhar-mosque:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-azhar-mosque-identity",
+            "al-azhar-mosque-history",
+            "al-azhar-mosque-architecture",
+            "al-azhar-mosque-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "al-azhar-mosque",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Azhar Mosque",
+      "nameAr": "جامع الأزهر",
+      "transliteration": "Jāmiʿ al-Azhar",
+      "alternativeNames": [
+        "The Splendid Mosque"
+      ],
+      "relatedSlugs": [
+        "mosque-al-azhar"
+      ],
+      "placeType": "Mosque & University",
+      "district": "Al-Darb al-Ahmar / Al-Azhar",
+      "location": {
+        "descriptionEn": "Located at Al-Azhar Square in Historic Cairo.",
+        "descriptionAr": "يقع في ميدان الأزهر بقلب القاهرة التاريخية.",
+        "latitude": 30.0458,
+        "longitude": 31.2627,
+        "confidence": "high"
+      },
+      "historicalPeriods": [
+        "Fatimid",
+        "Mamluk",
+        "Ottoman"
+      ],
+      "historicalSummary": {
+        "en": "Founded in 970 AD by the Fatimid general Jawhar al-Siqilli shortly after the conquest of Egypt. It grew to become one of the premier centers of Sunni Islamic learning globally.",
+        "ar": "تأسس عام 970 م على يد القائد الفاطمي جوهر الصقلي عقب فتح مصر، ليتحول لاحقاً إلى أحد أهم مراكز العلوم الإسلامية في العالم."
+      },
+      "architectureSummary": {
+        "en": "A composite complex illustrating multi-era Islamic architecture, featuring Fatimid keel-arch arcades, Mamluk minarets (such as Qaytbay and al-Ghuri), and Ottoman expansions.",
+        "ar": "مجمع معماري متكامل يعكس تطور العمارة الإسلامية عبر العصور، من العقود الفاطمية إلى المآذن المملوكية والتوسعات العثمانية."
+      },
+      "architecturalElements": [
+        "Fatimid Stucco",
+        "Multiple Minarets",
+        "Marble-Paved Courtyard",
+        "Mamluk Porticos"
+      ],
+      "stories": [
+        {
+          "titleEn": "Foundation of Cairo",
+          "titleAr": "تأسيس القاهرة",
+          "summaryEn": "Al-Azhar was the first congregational mosque built in Fatimid Al-Qahira.",
+          "summaryAr": "كان الأزهر أول جامع أقيم في القاهرة الفاطمية.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-ARCHNET-AZHAR",
+            "SRC-MTA-AZHAR"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "05:00 - 22:00 (Outside prayer times preferred for sightseers)",
+        "ticketPrice": "Free entry",
+        "photographyRules": "Non-disruptive photography permitted in courtyard",
+        "dressRequirements": "Strict modest dress; shoes must be removed or covered",
+        "accessibility": "Courtyard accessible; ramp available at side entrance",
+        "currentStatus": "Active place of worship and learning",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-AZHAR-01",
+          "claimType": "history",
+          "textEn": "Founded in 970 AD by Jawhar al-Siqilli.",
+          "textAr": "تأسس سنة 970 م بواسطة جوهر الصقلي.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-ARCHNET-AZHAR",
+            "SRC-MTA-AZHAR"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-ARCHNET-AZHAR",
+          "title": "Archnet: Al-Azhar Mosque",
+          "url": "https://archnet.org/sites/1512",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center at MIT",
+          "publicationDate": "2010-01-01",
+          "accessedDate": "2026-01-15",
+          "supports": [
+            "CLM-AZHAR-01"
+          ],
+          "notes": "Architectural survey record."
+        },
+        {
+          "sourceId": "SRC-MTA-AZHAR",
+          "title": "Ministry of Tourism and Antiquities - Al-Azhar Mosque",
+          "url": "https://egymonuments.gov.eg/en/monuments/al-azhar-mosque",
+          "sourceType": "official_portal",
+          "publisher": "Ministry of Tourism and Antiquities",
+          "publicationDate": "2021-02-01",
+          "accessedDate": "2026-02-10",
+          "supports": [
+            "CLM-AZHAR-01"
+          ],
+          "notes": "Official antiquity portal."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Al-Azhar_Mosque_Courtyard.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Al-Azhar_Mosque_Courtyard.jpg",
+          "title": "Al-Azhar Courtyard and Minarets",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "attribution": "CC BY 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator",
+          "width": 2048,
+          "height": 1536,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-01-20",
+          "notes": "Verified CC BY 4.0 file."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Al-Azhar Mosque\n\nArabic name: **الجامع الأزهر**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `al-azhar-mosque`\n\n## Historical summary\n\nFounded soon after the Fatimid foundation of Cairo by Jawhar al-Siqilli and completed in the reign of al-Mu'izz. It developed into one of the Islamic world's major centers of Sunni learning after later institutional changes.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA layered complex whose present fabric combines Fatimid remains with substantial medieval and Ottoman additions. Courtyards, prayer halls, riwaqs, portals, and later minarets record its long institutional life.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- courtyard\n- riwaqs\n- prayer hall\n- multiple minarets\n- marble paving\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **al-azhar-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **al-azhar-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Al-Azhar Mosque\n\nArabic name: **الجامع الأزهر**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `al-azhar-mosque`\n\n## Historical summary\n\nFounded soon after the Fatimid foundation of Cairo by Jawhar al-Siqilli and completed in the reign of al-Mu'izz. It developed into one of the Islamic world's major centers of Sunni learning after later institutional changes.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA layered complex whose present fabric combines Fatimid remains with substantial medieval and Ottoman additions. Courtyards, prayer halls, riwaqs, portals, and later minarets record its long institutional life.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- courtyard\n- riwaqs\n- prayer hall\n- multiple minarets\n- marble paving\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **al-azhar-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **al-azhar-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Al-Azhar Mosque (جامع الأزهر)\n**Status:** PUBLISHED_MEDIA  \n**District:** Al-Darb al-Ahmar / Al-Azhar  \n**Type:** Mosque & University  \n\n## Historical Summary\nFounded in 970 AD by the Fatimid general Jawhar al-Siqilli shortly after the conquest of Egypt. It grew to become one of the premier centers of Sunni Islamic learning globally.\n\n*تأسس عام 970 م على يد القائد الفاطمي جوهر الصقلي عقب فتح مصر، ليتحول لاحقاً إلى أحد أهم مراكز العلوم الإسلامية في العالم.*\n\n## Architectural Details\nA composite complex illustrating multi-era Islamic architecture, featuring Fatimid keel-arch arcades, Mamluk minarets (such as Qaytbay and al-Ghuri), and Ottoman expansions.\n\n### Key Elements\n- Fatimid Stucco\n- Multiple Minarets\n- Marble-Paved Courtyard\n- Mamluk Porticos\n\n## Stories & Heritage Significance\n### Foundation of Cairo (تأسيس القاهرة)\n**Classification:** fact\nAl-Azhar was the first congregational mosque built in Fatimid Al-Qahira.\n\n## Visitor Information\n- **Opening Hours:** 05:00 - 22:00 (Outside prayer times preferred for sightseers)\n- **Ticket Price:** Free entry\n- **Photography Rules:** Non-disruptive photography permitted in courtyard\n- **Dress Code:** Strict modest dress; shoes must be removed or covered\n- **Accessibility:** Courtyard accessible; ramp available at side entrance\n\n## Photo Candidates\n- **[COVER]** Al-Azhar Courtyard and Minarets (CC BY 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/1/12/Al-Azhar_Mosque_Courtyard.jpg\n  - Attribution: CC BY 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-ARCHNET-AZHAR]** [Archnet: Al-Azhar Mosque](https://archnet.org/sites/1512) - *Aga Khan Documentation Center at MIT*\n- **[SRC-MTA-AZHAR]** [Ministry of Tourism and Antiquities - Al-Azhar Mosque](https://egymonuments.gov.eg/en/monuments/al-azhar-mosque) - *Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-al-azhar-mosque",
+        "placeId": null,
+        "placeSlug": "al-azhar-mosque",
+        "placeNameEn": "Al-Azhar Mosque",
+        "placeNameAr": "الجامع الأزهر",
+        "role": "cover",
+        "imageKitPath": "/places/al-azhar-mosque/cover.jpg",
+        "localFile": "images/al-azhar-mosque/al-azhar-mosque-cover-courtyard-minarets.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+        "sourceTitle": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG",
+        "cdnUrl": null,
+        "creator": "Daniel Mayer",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons",
+        "altEn": "The courtyard of Al-Azhar Mosque with arcades and several minarets under a clear sky.",
+        "altAr": "فناء الجامع الأزهر تحيط به الأروقة وتظهر فوقه عدة مآذن تحت سماء صافية.",
+        "captionEn": "Courtyard and minarets of Al-Azhar Mosque.",
+        "captionAr": "فناء الجامع الأزهر ومآذنه.",
+        "mediaType": "photo",
+        "visualType": "courtyard",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 2478,
+        "height": 2165,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1288299,
+        "checksum": "4ae29a9012558c1ac661f46b31074906c6b978b4c6e41741d8f39a42d3e440ec",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG",
+          "creator": "Daniel Mayer",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-al-azhar-mosque:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Al-Azhar Mosque\n\n- **Place slug:** `al-azhar-mosque`\n- **Asset ID:** `cover-al-azhar-mosque`\n- **Role:** cover\n- **Local file:** `images/al-azhar-mosque/al-azhar-mosque-cover-courtyard-minarets.jpg`\n- **Canonical ImageKit path:** `/places/al-azhar-mosque/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/4/44/Cairo_-_Islamic_district_-_Al-Azhar_Mosque_courtyard_with_minarets.JPG\n- **Source title:** Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG\n- **Creator:** Daniel Mayer\n- **License:** CC BY-SA 4.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/4.0/\n- **Required attribution:** Cairo - Islamic district - Al-Azhar Mosque courtyard with minarets.JPG — Daniel Mayer, CC BY-SA 4.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The courtyard of Al-Azhar Mosque with arcades and several minarets under a clear sky.\n- **Alt text (AR):** فناء الجامع الأزهر تحيط به الأروقة وتظهر فوقه عدة مآذن تحت سماء صافية.\n- **Caption (EN):** Courtyard and minarets of Al-Azhar Mosque.\n- **Caption (AR):** فناء الجامع الأزهر ومآذنه.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "al-azhar-mosque:unesco-historic-cairo",
+    "al-azhar-mosque:mota-historic-cairo",
+    "SRC-ARCHNET-AZHAR",
+    "SRC-MTA-AZHAR"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "al-azhar-mosque:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-azhar-mosque-identity",
+        "al-azhar-mosque-history",
+        "al-azhar-mosque-architecture",
+        "al-azhar-mosque-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "al-azhar-mosque:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-azhar-mosque-identity",
+        "al-azhar-mosque-history",
+        "al-azhar-mosque-architecture",
+        "al-azhar-mosque-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-ARCHNET-AZHAR",
+      "title": "Archnet: Al-Azhar Mosque",
+      "url": "https://archnet.org/sites/1512",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center at MIT",
+      "publicationDate": "2010-01-01",
+      "accessedDate": "2026-01-15",
+      "supports": [
+        "CLM-AZHAR-01"
+      ],
+      "notes": "Architectural survey record."
+    },
+    {
+      "sourceId": "SRC-MTA-AZHAR",
+      "title": "Ministry of Tourism and Antiquities - Al-Azhar Mosque",
+      "url": "https://egymonuments.gov.eg/en/monuments/al-azhar-mosque",
+      "sourceType": "official_portal",
+      "publisher": "Ministry of Tourism and Antiquities",
+      "publicationDate": "2021-02-01",
+      "accessedDate": "2026-02-10",
+      "supports": [
+        "CLM-AZHAR-01"
+      ],
+      "notes": "Official antiquity portal."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "al-azhar-mosque-identity",
+      "placeSlug": "al-azhar-mosque",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Al-Azhar Mosque.",
+      "textAr": "يسجل الجرد هذا الموقع باسم الجامع الأزهر.",
+      "confidence": "high",
+      "sourceIds": [
+        "al-azhar-mosque:unesco-historic-cairo",
+        "al-azhar-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "al-azhar-mosque-status",
+      "placeSlug": "al-azhar-mosque",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "al-azhar-mosque:unesco-historic-cairo",
+        "al-azhar-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-AZHAR-01",
+      "placeSlug": "al-azhar-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Founded in 970 AD by Jawhar al-Siqilli.",
+      "textAr": "تأسس سنة 970 م بواسطة جوهر الصقلي.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-ARCHNET-AZHAR",
+        "SRC-MTA-AZHAR"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "al-azhar-mosque-history",
+      "placeSlug": "al-azhar-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Founded soon after the Fatimid foundation of Cairo by Jawhar al-Siqilli and completed in the reign of al-Mu'izz. It developed into one of the Islamic world's major centers of Sunni learning after later institutional changes.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-azhar-mosque:unesco-historic-cairo",
+        "al-azhar-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "al-azhar-mosque-architecture",
+      "placeSlug": "al-azhar-mosque",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A layered complex whose present fabric combines Fatimid remains with substantial medieval and Ottoman additions. Courtyards, prayer halls, riwaqs, portals, and later minarets record its long institutional life.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-azhar-mosque:unesco-historic-cairo",
+        "al-azhar-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

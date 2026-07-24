@@ -1,0 +1,868 @@
+{
+  "schemaVersion": 1,
+  "slug": "al-hussein-mosque",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Unknown — requires official or field verification.",
+  "historicalPeriods": [
+    "Historic Cairo context — period-specific verification required",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Al-Hussein Mosque and District) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (مسجد الإمام الحسين وحيه) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Unknown — requires official or field verification.",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "مسجد الإمام الحسين وحيه",
+  "nameEn": "Al-Hussein Mosque and District",
+  "placeType": "historic place / research record",
+  "relatedSlugs": [
+    "mosque-al-hussein"
+  ],
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Al-Hussein Mosque and District played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت مسجد الإمام الحسين وحيه في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-ALHUSSEINMOSQUE"
+      ]
+    }
+  ],
+  "transliteration": "Al-Hussein Mosque and District",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-al-hussein-mosque",
+      "placeId": null,
+      "placeSlug": "al-hussein-mosque",
+      "placeNameEn": "Al-Hussein Mosque and District",
+      "placeNameAr": "مسجد وميدان الإمام الحسين",
+      "role": "cover",
+      "imageKitPath": "/places/al-hussein-mosque/cover.jpg",
+      "localFile": "images/al-hussein-mosque/al-hussein-mosque-cover-square-minaret.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Kairo_Al_Hussein_Mosque_BW_1.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kairo_Al_Hussein_Mosque_BW_1.jpg",
+      "sourceTitle": "Kairo Al Hussein Mosque BW 1.jpg",
+      "cdnUrl": null,
+      "creator": "Berthold Werner",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "Kairo Al Hussein Mosque BW 1.jpg — Berthold Werner, CC BY 3.0, via Wikimedia Commons",
+      "altEn": "The exterior of Al-Hussein Mosque with its stone facade, dome, and minarets beside the square.",
+      "altAr": "الواجهة الخارجية لمسجد الحسين بقبتها ومآذنها الحجرية بجوار الميدان.",
+      "captionEn": "Exterior of Al-Hussein Mosque.",
+      "captionAr": "الواجهة الخارجية لمسجد الحسين.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 2923,
+      "height": 2281,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1756239,
+      "checksum": "1f34e81e3fb9ee9688f1b593511cfe5fe2743a011b9138974870393a21df53f0",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Kairo_Al_Hussein_Mosque_BW_1.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Kairo_Al_Hussein_Mosque_BW_1.jpg",
+        "creator": "Berthold Werner",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Kairo Al Hussein Mosque BW 1.jpg — Berthold Werner, CC BY 3.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-al-hussein-mosque:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "variants": [
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Unknown — requires official or field verification.",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Historic Cairo context — period-specific verification required"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Al-Hussein Mosque and District) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (مسجد الإمام الحسين وحيه) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Al-Hussein Mosque and District) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (مسجد الإمام الحسين وحيه) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Unknown — requires official or field verification.",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "مسجد الإمام الحسين وحيه",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "مسجد الإمام الحسين وحيه"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Al-Hussein Mosque and District",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Hussein Mosque and District"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "historic place / research record",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "historic place / research record"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": [
+        "mosque-al-hussein"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "mosque-al-hussein"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Al-Hussein Mosque and District played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت مسجد الإمام الحسين وحيه في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-ALHUSSEINMOSQUE"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "al-hussein-mosque:unesco-historic-cairo",
+                "al-hussein-mosque:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Al-Hussein Mosque and District played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت مسجد الإمام الحسين وحيه في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-ALHUSSEINMOSQUE"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Al-Hussein Mosque and District",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Hussein Mosque and District"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "al-hussein-mosque",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Hussein Mosque and District",
+      "nameAr": "Unknown — requires official or field verification.",
+      "transliteration": "Al-Hussein Mosque and District",
+      "alternativeNames": [],
+      "relatedSlugs": [
+        "mosque-al-hussein"
+      ],
+      "placeType": "historic place / research record",
+      "district": "Unknown — requires official or field verification.",
+      "location": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "historicalSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architectureSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architecturalElements": [],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "al-hussein-mosque:unesco-historic-cairo",
+            "al-hussein-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "al-hussein-mosque-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Al-Hussein Mosque and District.",
+          "textAr": "يسجل الجرد هذا الموقع باسم Unknown — requires official or field verification..",
+          "confidence": "high",
+          "sourceIds": [
+            "al-hussein-mosque:unesco-historic-cairo",
+            "al-hussein-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "al-hussein-mosque-history",
+          "claimType": "history",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "al-hussein-mosque:unesco-historic-cairo",
+            "al-hussein-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "al-hussein-mosque-architecture",
+          "claimType": "architecture",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "al-hussein-mosque:unesco-historic-cairo",
+            "al-hussein-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "al-hussein-mosque-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "al-hussein-mosque:unesco-historic-cairo",
+            "al-hussein-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "al-hussein-mosque:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-hussein-mosque-identity",
+            "al-hussein-mosque-history",
+            "al-hussein-mosque-architecture",
+            "al-hussein-mosque-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "al-hussein-mosque:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-hussein-mosque-identity",
+            "al-hussein-mosque-history",
+            "al-hussein-mosque-architecture",
+            "al-hussein-mosque-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "al-hussein-mosque",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Hussein Mosque and District",
+      "nameAr": "مسجد الإمام الحسين وحيه",
+      "transliteration": "Al-Hussein Mosque and District",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Al-Hussein Mosque and District) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (مسجد الإمام الحسين وحيه) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Al-Hussein Mosque and District played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت مسجد الإمام الحسين وحيه في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-ALHUSSEINMOSQUE"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-ALHUSSEINMOSQUE-01",
+          "claimType": "history",
+          "textEn": "The site Al-Hussein Mosque and District is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل مسجد الإمام الحسين وحيه كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-ALHUSSEINMOSQUE"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-ALHUSSEINMOSQUE",
+          "title": "Archnet & Ministry Documentation for Al-Hussein Mosque and District",
+          "url": "https://archnet.org/sites/al-hussein-mosque",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-ALHUSSEINMOSQUE-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:al-hussein-mosque.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/al-hussein-mosque.jpg",
+          "title": "General View of Al-Hussein Mosque and District",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Al-Hussein Mosque and District\n\nArabic name: **Unknown — requires official or field verification.**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `al-hussein-mosque`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **al-hussein-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **al-hussein-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Al-Hussein Mosque and District\n\nArabic name: **Unknown — requires official or field verification.**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `al-hussein-mosque`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **al-hussein-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **al-hussein-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Al-Hussein Mosque and District (مسجد الإمام الحسين وحيه)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Al-Hussein Mosque and District) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (مسجد الإمام الحسين وحيه) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Al-Hussein Mosque and District played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Al-Hussein Mosque and District (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/al-hussein-mosque.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-ALHUSSEINMOSQUE]** [Archnet & Ministry Documentation for Al-Hussein Mosque and District](https://archnet.org/sites/al-hussein-mosque) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-al-hussein-mosque",
+        "placeId": null,
+        "placeSlug": "al-hussein-mosque",
+        "placeNameEn": "Al-Hussein Mosque and District",
+        "placeNameAr": "مسجد وميدان الإمام الحسين",
+        "role": "cover",
+        "imageKitPath": "/places/al-hussein-mosque/cover.jpg",
+        "localFile": "images/al-hussein-mosque/al-hussein-mosque-cover-square-minaret.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Kairo_Al_Hussein_Mosque_BW_1.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Kairo_Al_Hussein_Mosque_BW_1.jpg",
+        "sourceTitle": "Kairo Al Hussein Mosque BW 1.jpg",
+        "cdnUrl": null,
+        "creator": "Berthold Werner",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Kairo Al Hussein Mosque BW 1.jpg — Berthold Werner, CC BY 3.0, via Wikimedia Commons",
+        "altEn": "The exterior of Al-Hussein Mosque with its stone facade, dome, and minarets beside the square.",
+        "altAr": "الواجهة الخارجية لمسجد الحسين بقبتها ومآذنها الحجرية بجوار الميدان.",
+        "captionEn": "Exterior of Al-Hussein Mosque.",
+        "captionAr": "الواجهة الخارجية لمسجد الحسين.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 2923,
+        "height": 2281,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1756239,
+        "checksum": "1f34e81e3fb9ee9688f1b593511cfe5fe2743a011b9138974870393a21df53f0",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kairo_Al_Hussein_Mosque_BW_1.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Kairo_Al_Hussein_Mosque_BW_1.jpg",
+          "creator": "Berthold Werner",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Kairo Al Hussein Mosque BW 1.jpg — Berthold Werner, CC BY 3.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-al-hussein-mosque:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Al-Hussein Mosque and District\n\n- **Place slug:** `al-hussein-mosque`\n- **Asset ID:** `cover-al-hussein-mosque`\n- **Role:** cover\n- **Local file:** `images/al-hussein-mosque/al-hussein-mosque-cover-square-minaret.jpg`\n- **Canonical ImageKit path:** `/places/al-hussein-mosque/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Kairo_Al_Hussein_Mosque_BW_1.jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/8/8b/Kairo_Al_Hussein_Mosque_BW_1.jpg\n- **Source title:** Kairo Al Hussein Mosque BW 1.jpg\n- **Creator:** Berthold Werner\n- **License:** CC BY 3.0\n- **License URL:** https://creativecommons.org/licenses/by/3.0/\n- **Required attribution:** Kairo Al Hussein Mosque BW 1.jpg — Berthold Werner, CC BY 3.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The exterior of Al-Hussein Mosque with its stone facade, dome, and minarets beside the square.\n- **Alt text (AR):** الواجهة الخارجية لمسجد الحسين بقبتها ومآذنها الحجرية بجوار الميدان.\n- **Caption (EN):** Exterior of Al-Hussein Mosque.\n- **Caption (AR):** الواجهة الخارجية لمسجد الحسين.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "al-hussein-mosque:unesco-historic-cairo",
+    "al-hussein-mosque:mota-historic-cairo",
+    "SRC-ALHUSSEINMOSQUE"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "al-hussein-mosque:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-hussein-mosque-identity",
+        "al-hussein-mosque-history",
+        "al-hussein-mosque-architecture",
+        "al-hussein-mosque-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "al-hussein-mosque:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-hussein-mosque-identity",
+        "al-hussein-mosque-history",
+        "al-hussein-mosque-architecture",
+        "al-hussein-mosque-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-ALHUSSEINMOSQUE",
+      "title": "Archnet & Ministry Documentation for Al-Hussein Mosque and District",
+      "url": "https://archnet.org/sites/al-hussein-mosque",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-ALHUSSEINMOSQUE-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "al-hussein-mosque-status",
+      "placeSlug": "al-hussein-mosque",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "al-hussein-mosque:unesco-historic-cairo",
+        "al-hussein-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-ALHUSSEINMOSQUE-01",
+      "placeSlug": "al-hussein-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Al-Hussein Mosque and District is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل مسجد الإمام الحسين وحيه كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-ALHUSSEINMOSQUE"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "al-hussein-mosque-identity",
+      "placeSlug": "al-hussein-mosque",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Al-Hussein Mosque and District.",
+      "textAr": "يسجل الجرد هذا الموقع باسم Unknown — requires official or field verification..",
+      "confidence": "high",
+      "sourceIds": [
+        "al-hussein-mosque:unesco-historic-cairo",
+        "al-hussein-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "al-hussein-mosque-history",
+      "placeSlug": "al-hussein-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "al-hussein-mosque:unesco-historic-cairo",
+        "al-hussein-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "al-hussein-mosque-architecture",
+      "placeSlug": "al-hussein-mosque",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "al-hussein-mosque:unesco-historic-cairo",
+        "al-hussein-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

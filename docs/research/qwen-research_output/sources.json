@@ -1,0 +1,2914 @@
+[
+  {
+    "sourceId": "al-aqmar-mosque:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-aqmar-mosque-identity",
+      "al-aqmar-mosque-history",
+      "al-aqmar-mosque-architecture",
+      "al-aqmar-mosque-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "al-aqmar-mosque:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-aqmar-mosque-identity",
+      "al-aqmar-mosque-history",
+      "al-aqmar-mosque-architecture",
+      "al-aqmar-mosque-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "al-aqmar-mosque:archnet-aqmar",
+    "title": "Jami' al-Aqmar",
+    "url": "https://www.archnet.org/sites/2310",
+    "sourceType": "architectural documentation",
+    "publisher": "Archnet / Aga Khan Documentation Center",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-aqmar-mosque-identity",
+      "al-aqmar-mosque-history",
+      "al-aqmar-mosque-architecture",
+      "al-aqmar-mosque-status"
+    ],
+    "notes": "Monument record with historical and architectural documentation."
+  },
+  {
+    "sourceId": "al-azhar-mosque:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-azhar-mosque-identity",
+      "al-azhar-mosque-history",
+      "al-azhar-mosque-architecture",
+      "al-azhar-mosque-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "al-azhar-mosque:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-azhar-mosque-identity",
+      "al-azhar-mosque-history",
+      "al-azhar-mosque-architecture",
+      "al-azhar-mosque-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "al-azhar-park:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-azhar-park-identity",
+      "al-azhar-park-history",
+      "al-azhar-park-architecture",
+      "al-azhar-park-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "al-azhar-park:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-azhar-park-identity",
+      "al-azhar-park-history",
+      "al-azhar-park-architecture",
+      "al-azhar-park-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "al-azhar-park:archnet-azhar-park",
+    "title": "Al-Azhar Park",
+    "url": "https://www.archnet.org/sites/5003",
+    "sourceType": "landscape documentation",
+    "publisher": "Archnet / Aga Khan Documentation Center",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-azhar-park-identity",
+      "al-azhar-park-history",
+      "al-azhar-park-architecture",
+      "al-azhar-park-status"
+    ],
+    "notes": "Project and landscape documentation."
+  },
+  {
+    "sourceId": "al-hussein-mosque:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-hussein-mosque-identity",
+      "al-hussein-mosque-history",
+      "al-hussein-mosque-architecture",
+      "al-hussein-mosque-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "al-hussein-mosque:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-hussein-mosque-identity",
+      "al-hussein-mosque-history",
+      "al-hussein-mosque-architecture",
+      "al-hussein-mosque-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "al-muizz-street:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-muizz-street-identity",
+      "al-muizz-street-history",
+      "al-muizz-street-architecture",
+      "al-muizz-street-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "al-muizz-street:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-muizz-street-identity",
+      "al-muizz-street-history",
+      "al-muizz-street-architecture",
+      "al-muizz-street-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "al-rifai-mosque:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-rifai-mosque-identity",
+      "al-rifai-mosque-history",
+      "al-rifai-mosque-architecture",
+      "al-rifai-mosque-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "al-rifai-mosque:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "al-rifai-mosque-identity",
+      "al-rifai-mosque-history",
+      "al-rifai-mosque-architecture",
+      "al-rifai-mosque-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "bab-al-futuh:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bab-al-futuh-identity",
+      "bab-al-futuh-history",
+      "bab-al-futuh-architecture",
+      "bab-al-futuh-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bab-al-futuh:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bab-al-futuh-identity",
+      "bab-al-futuh-history",
+      "bab-al-futuh-architecture",
+      "bab-al-futuh-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "bab-al-nasr:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bab-al-nasr-identity",
+      "bab-al-nasr-history",
+      "bab-al-nasr-architecture",
+      "bab-al-nasr-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bab-al-nasr:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bab-al-nasr-identity",
+      "bab-al-nasr-history",
+      "bab-al-nasr-architecture",
+      "bab-al-nasr-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "bab-zuweila:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bab-zuweila-identity",
+      "bab-zuweila-history",
+      "bab-zuweila-architecture",
+      "bab-zuweila-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bab-zuweila:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bab-zuweila-identity",
+      "bab-zuweila-history",
+      "bab-zuweila-architecture",
+      "bab-zuweila-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "barquq-complex:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "barquq-complex-identity",
+      "barquq-complex-history",
+      "barquq-complex-architecture",
+      "barquq-complex-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "barquq-complex:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "barquq-complex-identity",
+      "barquq-complex-history",
+      "barquq-complex-architecture",
+      "barquq-complex-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "bayn-al-qasrayn:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayn-al-qasrayn-identity",
+      "bayn-al-qasrayn-history",
+      "bayn-al-qasrayn-architecture",
+      "bayn-al-qasrayn-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bayn-al-qasrayn:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayn-al-qasrayn-identity",
+      "bayn-al-qasrayn-history",
+      "bayn-al-qasrayn-architecture",
+      "bayn-al-qasrayn-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "bayt-al-suhaymi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayt-al-suhaymi-identity",
+      "bayt-al-suhaymi-history",
+      "bayt-al-suhaymi-architecture",
+      "bayt-al-suhaymi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bayt-al-suhaymi:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayt-al-suhaymi-identity",
+      "bayt-al-suhaymi-history",
+      "bayt-al-suhaymi-architecture",
+      "bayt-al-suhaymi-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "cairo-citadel:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "cairo-citadel-identity",
+      "cairo-citadel-history",
+      "cairo-citadel-architecture",
+      "cairo-citadel-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "cairo-citadel:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "cairo-citadel-identity",
+      "cairo-citadel-history",
+      "cairo-citadel-architecture",
+      "cairo-citadel-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "citadel-of-cairo:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "citadel-of-cairo-identity",
+      "citadel-of-cairo-history",
+      "citadel-of-cairo-architecture",
+      "citadel-of-cairo-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "citadel-of-cairo:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "citadel-of-cairo-identity",
+      "citadel-of-cairo-history",
+      "citadel-of-cairo-architecture",
+      "citadel-of-cairo-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "complex-barquq-muizz:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "complex-barquq-muizz-identity",
+      "complex-barquq-muizz-history",
+      "complex-barquq-muizz-architecture",
+      "complex-barquq-muizz-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "complex-barquq-muizz:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "complex-barquq-muizz-identity",
+      "complex-barquq-muizz-history",
+      "complex-barquq-muizz-architecture",
+      "complex-barquq-muizz-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "complex-qalawun:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "complex-qalawun-identity",
+      "complex-qalawun-history",
+      "complex-qalawun-architecture",
+      "complex-qalawun-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "complex-qalawun:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "complex-qalawun-identity",
+      "complex-qalawun-history",
+      "complex-qalawun-architecture",
+      "complex-qalawun-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "complex-qalawun:archnet-qalawun",
+    "title": "Madrasa and Mausoleum of Sultan Qalawun",
+    "url": "https://www.archnet.org/sites/2228",
+    "sourceType": "architectural documentation",
+    "publisher": "Archnet / Aga Khan Documentation Center",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "complex-qalawun-identity",
+      "complex-qalawun-history",
+      "complex-qalawun-architecture",
+      "complex-qalawun-status"
+    ],
+    "notes": "Monument record and scholarly bibliography."
+  },
+  {
+    "sourceId": "complex-sultan-hasan:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "complex-sultan-hasan-identity",
+      "complex-sultan-hasan-history",
+      "complex-sultan-hasan-architecture",
+      "complex-sultan-hasan-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "complex-sultan-hasan:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "complex-sultan-hasan-identity",
+      "complex-sultan-hasan-history",
+      "complex-sultan-hasan-architecture",
+      "complex-sultan-hasan-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "complex-sultan-hasan:archnet-sultan-hasan",
+    "title": "Mosque-Madrasa of Sultan Hasan",
+    "url": "https://www.archnet.org/sites/2212",
+    "sourceType": "architectural documentation",
+    "publisher": "Archnet / Aga Khan Documentation Center",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "complex-sultan-hasan-identity",
+      "complex-sultan-hasan-history",
+      "complex-sultan-hasan-architecture",
+      "complex-sultan-hasan-status"
+    ],
+    "notes": "Monument record and scholarly bibliography."
+  },
+  {
+    "sourceId": "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "faraj-ibn-barquq-khanqah-identity",
+      "faraj-ibn-barquq-khanqah-history",
+      "faraj-ibn-barquq-khanqah-architecture",
+      "faraj-ibn-barquq-khanqah-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "faraj-ibn-barquq-khanqah:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "faraj-ibn-barquq-khanqah-identity",
+      "faraj-ibn-barquq-khanqah-history",
+      "faraj-ibn-barquq-khanqah-architecture",
+      "faraj-ibn-barquq-khanqah-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "khan-al-khalili:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "khan-al-khalili-identity",
+      "khan-al-khalili-history",
+      "khan-al-khalili-architecture",
+      "khan-al-khalili-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "khan-al-khalili:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "khan-al-khalili-identity",
+      "khan-al-khalili-history",
+      "khan-al-khalili-architecture",
+      "khan-al-khalili-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-aqmar:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-aqmar-identity",
+      "mosque-al-aqmar-history",
+      "mosque-al-aqmar-architecture",
+      "mosque-al-aqmar-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-aqmar:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-aqmar-identity",
+      "mosque-al-aqmar-history",
+      "mosque-al-aqmar-architecture",
+      "mosque-al-aqmar-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-azhar:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-azhar-identity",
+      "mosque-al-azhar-history",
+      "mosque-al-azhar-architecture",
+      "mosque-al-azhar-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-azhar:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-azhar-identity",
+      "mosque-al-azhar-history",
+      "mosque-al-azhar-architecture",
+      "mosque-al-azhar-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-ghuri:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-ghuri-identity",
+      "mosque-al-ghuri-history",
+      "mosque-al-ghuri-architecture",
+      "mosque-al-ghuri-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-ghuri:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-ghuri-identity",
+      "mosque-al-ghuri-history",
+      "mosque-al-ghuri-architecture",
+      "mosque-al-ghuri-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-hakim:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-hakim-identity",
+      "mosque-al-hakim-history",
+      "mosque-al-hakim-architecture",
+      "mosque-al-hakim-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-hakim:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-hakim-identity",
+      "mosque-al-hakim-history",
+      "mosque-al-hakim-architecture",
+      "mosque-al-hakim-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-hussein:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-hussein-identity",
+      "mosque-al-hussein-history",
+      "mosque-al-hussein-architecture",
+      "mosque-al-hussein-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-hussein:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-hussein-identity",
+      "mosque-al-hussein-history",
+      "mosque-al-hussein-architecture",
+      "mosque-al-hussein-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-muayyad:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-muayyad-identity",
+      "mosque-al-muayyad-history",
+      "mosque-al-muayyad-architecture",
+      "mosque-al-muayyad-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-muayyad:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-muayyad-identity",
+      "mosque-al-muayyad-history",
+      "mosque-al-muayyad-architecture",
+      "mosque-al-muayyad-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-nasir-muhammad-citadel-identity",
+      "mosque-al-nasir-muhammad-citadel-history",
+      "mosque-al-nasir-muhammad-citadel-architecture",
+      "mosque-al-nasir-muhammad-citadel-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-nasir-muhammad-citadel:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-nasir-muhammad-citadel-identity",
+      "mosque-al-nasir-muhammad-citadel-history",
+      "mosque-al-nasir-muhammad-citadel-architecture",
+      "mosque-al-nasir-muhammad-citadel-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-rifai:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-rifai-identity",
+      "mosque-al-rifai-history",
+      "mosque-al-rifai-architecture",
+      "mosque-al-rifai-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-rifai:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-rifai-identity",
+      "mosque-al-rifai-history",
+      "mosque-al-rifai-architecture",
+      "mosque-al-rifai-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-salih-ayyub:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-salih-ayyub-identity",
+      "mosque-al-salih-ayyub-history",
+      "mosque-al-salih-ayyub-architecture",
+      "mosque-al-salih-ayyub-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-salih-ayyub:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-salih-ayyub-identity",
+      "mosque-al-salih-ayyub-history",
+      "mosque-al-salih-ayyub-architecture",
+      "mosque-al-salih-ayyub-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-al-salih-talai:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-salih-talai-identity",
+      "mosque-al-salih-talai-history",
+      "mosque-al-salih-talai-architecture",
+      "mosque-al-salih-talai-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-salih-talai:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-salih-talai-identity",
+      "mosque-al-salih-talai-history",
+      "mosque-al-salih-talai-architecture",
+      "mosque-al-salih-talai-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-amr-ibn-al-as:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-amr-ibn-al-as-identity",
+      "mosque-amr-ibn-al-as-history",
+      "mosque-amr-ibn-al-as-architecture",
+      "mosque-amr-ibn-al-as-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-amr-ibn-al-as:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-amr-ibn-al-as-identity",
+      "mosque-amr-ibn-al-as-history",
+      "mosque-amr-ibn-al-as-architecture",
+      "mosque-amr-ibn-al-as-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-ibn-tulun:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-ibn-tulun-identity",
+      "mosque-ibn-tulun-history",
+      "mosque-ibn-tulun-architecture",
+      "mosque-ibn-tulun-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-ibn-tulun:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-ibn-tulun-identity",
+      "mosque-ibn-tulun-history",
+      "mosque-ibn-tulun-architecture",
+      "mosque-ibn-tulun-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-ibn-tulun:archnet-ibn-tulun",
+    "title": "Jami' ibn Tulun",
+    "url": "https://www.archnet.org/sites/1522",
+    "sourceType": "architectural documentation",
+    "publisher": "Archnet / Aga Khan Documentation Center",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-ibn-tulun-identity",
+      "mosque-ibn-tulun-history",
+      "mosque-ibn-tulun-architecture",
+      "mosque-ibn-tulun-status"
+    ],
+    "notes": "Monument record and restoration documentation."
+  },
+  {
+    "sourceId": "mosque-muhammad-ali-citadel:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-muhammad-ali-citadel-identity",
+      "mosque-muhammad-ali-citadel-history",
+      "mosque-muhammad-ali-citadel-architecture",
+      "mosque-muhammad-ali-citadel-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-muhammad-ali-citadel:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-muhammad-ali-citadel-identity",
+      "mosque-muhammad-ali-citadel-history",
+      "mosque-muhammad-ali-citadel-architecture",
+      "mosque-muhammad-ali-citadel-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "muhammad-ali-mosque:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "muhammad-ali-mosque-identity",
+      "muhammad-ali-mosque-history",
+      "muhammad-ali-mosque-architecture",
+      "muhammad-ali-mosque-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "muhammad-ali-mosque:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "muhammad-ali-mosque-identity",
+      "muhammad-ali-mosque-history",
+      "muhammad-ali-mosque-architecture",
+      "muhammad-ali-mosque-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "museum-islamic-art:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "museum-islamic-art-identity",
+      "museum-islamic-art-history",
+      "museum-islamic-art-architecture",
+      "museum-islamic-art-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "museum-islamic-art:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "museum-islamic-art-identity",
+      "museum-islamic-art-history",
+      "museum-islamic-art-architecture",
+      "museum-islamic-art-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "museum-of-islamic-art:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "museum-of-islamic-art-identity",
+      "museum-of-islamic-art-history",
+      "museum-of-islamic-art-architecture",
+      "museum-of-islamic-art-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "museum-of-islamic-art:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "museum-of-islamic-art-identity",
+      "museum-of-islamic-art-history",
+      "museum-of-islamic-art-architecture",
+      "museum-of-islamic-art-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "nilometer-roda:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "nilometer-roda-identity",
+      "nilometer-roda-history",
+      "nilometer-roda-architecture",
+      "nilometer-roda-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "nilometer-roda:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "nilometer-roda-identity",
+      "nilometer-roda-history",
+      "nilometer-roda-architecture",
+      "nilometer-roda-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "qalawun-complex:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "qalawun-complex-identity",
+      "qalawun-complex-history",
+      "qalawun-complex-architecture",
+      "qalawun-complex-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "qalawun-complex:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "qalawun-complex-identity",
+      "qalawun-complex-history",
+      "qalawun-complex-architecture",
+      "qalawun-complex-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "qalawun-complex:archnet-qalawun",
+    "title": "Madrasa and Mausoleum of Sultan Qalawun",
+    "url": "https://www.archnet.org/sites/2228",
+    "sourceType": "architectural documentation",
+    "publisher": "Archnet / Aga Khan Documentation Center",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "qalawun-complex-identity",
+      "qalawun-complex-history",
+      "qalawun-complex-architecture",
+      "qalawun-complex-status"
+    ],
+    "notes": "Monument record and scholarly bibliography."
+  },
+  {
+    "sourceId": "sabil-abd-al-rahman-katkhuda:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-abd-al-rahman-katkhuda-identity",
+      "sabil-abd-al-rahman-katkhuda-history",
+      "sabil-abd-al-rahman-katkhuda-architecture",
+      "sabil-abd-al-rahman-katkhuda-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-abd-al-rahman-katkhuda:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-abd-al-rahman-katkhuda-identity",
+      "sabil-abd-al-rahman-katkhuda-history",
+      "sabil-abd-al-rahman-katkhuda-architecture",
+      "sabil-abd-al-rahman-katkhuda-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "sabil-kuttab-abd-al-rahman-katkhuda:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-kuttab-abd-al-rahman-katkhuda-identity",
+      "sabil-kuttab-abd-al-rahman-katkhuda-history",
+      "sabil-kuttab-abd-al-rahman-katkhuda-architecture",
+      "sabil-kuttab-abd-al-rahman-katkhuda-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-kuttab-abd-al-rahman-katkhuda:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-kuttab-abd-al-rahman-katkhuda-identity",
+      "sabil-kuttab-abd-al-rahman-katkhuda-history",
+      "sabil-kuttab-abd-al-rahman-katkhuda-architecture",
+      "sabil-kuttab-abd-al-rahman-katkhuda-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "sultan-hasan-mosque:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sultan-hasan-mosque-identity",
+      "sultan-hasan-mosque-history",
+      "sultan-hasan-mosque-architecture",
+      "sultan-hasan-mosque-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sultan-hasan-mosque:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sultan-hasan-mosque-identity",
+      "sultan-hasan-mosque-history",
+      "sultan-hasan-mosque-architecture",
+      "sultan-hasan-mosque-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "sultan-hasan-mosque:archnet-sultan-hasan",
+    "title": "Mosque-Madrasa of Sultan Hasan",
+    "url": "https://www.archnet.org/sites/2212",
+    "sourceType": "architectural documentation",
+    "publisher": "Archnet / Aga Khan Documentation Center",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sultan-hasan-mosque-identity",
+      "sultan-hasan-mosque-history",
+      "sultan-hasan-mosque-architecture",
+      "sultan-hasan-mosque-status"
+    ],
+    "notes": "Monument record and scholarly bibliography."
+  },
+  {
+    "sourceId": "wakala-al-ghuri:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "wakala-al-ghuri-identity",
+      "wakala-al-ghuri-history",
+      "wakala-al-ghuri-architecture",
+      "wakala-al-ghuri-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "wakala-al-ghuri:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "wakala-al-ghuri-identity",
+      "wakala-al-ghuri-history",
+      "wakala-al-ghuri-architecture",
+      "wakala-al-ghuri-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "aqunsqur-blue-mosque:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "aqunsqur-blue-mosque-identity",
+      "aqunsqur-blue-mosque-history",
+      "aqunsqur-blue-mosque-architecture",
+      "aqunsqur-blue-mosque-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "aqunsqur-blue-mosque:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "aqunsqur-blue-mosque-identity",
+      "aqunsqur-blue-mosque-history",
+      "aqunsqur-blue-mosque-architecture",
+      "aqunsqur-blue-mosque-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "bayt-al-razzaz:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayt-al-razzaz-identity",
+      "bayt-al-razzaz-history",
+      "bayt-al-razzaz-architecture",
+      "bayt-al-razzaz-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bayt-al-razzaz:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayt-al-razzaz-identity",
+      "bayt-al-razzaz-history",
+      "bayt-al-razzaz-architecture",
+      "bayt-al-razzaz-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "gayer-anderson-museum:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "gayer-anderson-museum-identity",
+      "gayer-anderson-museum-history",
+      "gayer-anderson-museum-architecture",
+      "gayer-anderson-museum-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "gayer-anderson-museum:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "gayer-anderson-museum-identity",
+      "gayer-anderson-museum-history",
+      "gayer-anderson-museum-architecture",
+      "gayer-anderson-museum-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mausoleum-imam-al-shafii:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-imam-al-shafii-identity",
+      "mausoleum-imam-al-shafii-history",
+      "mausoleum-imam-al-shafii-architecture",
+      "mausoleum-imam-al-shafii-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-imam-al-shafii:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-imam-al-shafii-identity",
+      "mausoleum-imam-al-shafii-history",
+      "mausoleum-imam-al-shafii-architecture",
+      "mausoleum-imam-al-shafii-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-shajarat-al-durr-identity",
+      "mausoleum-shajarat-al-durr-history",
+      "mausoleum-shajarat-al-durr-architecture",
+      "mausoleum-shajarat-al-durr-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-shajarat-al-durr:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-shajarat-al-durr-identity",
+      "mausoleum-shajarat-al-durr-history",
+      "mausoleum-shajarat-al-durr-architecture",
+      "mausoleum-shajarat-al-durr-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "mosque-sabil-sulayman-agha-al-silahdar:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-sabil-sulayman-agha-al-silahdar-identity",
+      "mosque-sabil-sulayman-agha-al-silahdar-history",
+      "mosque-sabil-sulayman-agha-al-silahdar-architecture",
+      "mosque-sabil-sulayman-agha-al-silahdar-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-sabil-sulayman-agha-al-silahdar:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-sabil-sulayman-agha-al-silahdar-identity",
+      "mosque-sabil-sulayman-agha-al-silahdar-history",
+      "mosque-sabil-sulayman-agha-al-silahdar-architecture",
+      "mosque-sabil-sulayman-agha-al-silahdar-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "sabil-kuttab-nafisa-al-bayda:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-kuttab-nafisa-al-bayda-identity",
+      "sabil-kuttab-nafisa-al-bayda-history",
+      "sabil-kuttab-nafisa-al-bayda-architecture",
+      "sabil-kuttab-nafisa-al-bayda-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-kuttab-nafisa-al-bayda:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-kuttab-nafisa-al-bayda-identity",
+      "sabil-kuttab-nafisa-al-bayda-history",
+      "sabil-kuttab-nafisa-al-bayda-architecture",
+      "sabil-kuttab-nafisa-al-bayda-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sinan-pasha-mosque-bulaq-identity",
+      "sinan-pasha-mosque-bulaq-history",
+      "sinan-pasha-mosque-bulaq-architecture",
+      "sinan-pasha-mosque-bulaq-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sinan-pasha-mosque-bulaq:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sinan-pasha-mosque-bulaq-identity",
+      "sinan-pasha-mosque-bulaq-history",
+      "sinan-pasha-mosque-bulaq-architecture",
+      "sinan-pasha-mosque-bulaq-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sulayman-pasha-al-khadim-mosque-identity",
+      "sulayman-pasha-al-khadim-mosque-history",
+      "sulayman-pasha-al-khadim-mosque-architecture",
+      "sulayman-pasha-al-khadim-mosque-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sulayman-pasha-al-khadim-mosque:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sulayman-pasha-al-khadim-mosque-identity",
+      "sulayman-pasha-al-khadim-mosque-history",
+      "sulayman-pasha-al-khadim-mosque-architecture",
+      "sulayman-pasha-al-khadim-mosque-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "sultan-qaytbay-funerary-complex:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sultan-qaytbay-funerary-complex-identity",
+      "sultan-qaytbay-funerary-complex-history",
+      "sultan-qaytbay-funerary-complex-architecture",
+      "sultan-qaytbay-funerary-complex-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sultan-qaytbay-funerary-complex:mota-historic-cairo",
+    "title": "Historic Cairo — World Heritage",
+    "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+    "sourceType": "official heritage register",
+    "publisher": "Egyptian Ministry of Tourism and Antiquities",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sultan-qaytbay-funerary-complex-identity",
+      "sultan-qaytbay-funerary-complex-history",
+      "sultan-qaytbay-funerary-complex-architecture",
+      "sultan-qaytbay-funerary-complex-status"
+    ],
+    "notes": "Official Egyptian heritage context and component areas."
+  },
+  {
+    "sourceId": "sultan-qaytbay-funerary-complex:archnet-qaytbay",
+    "title": "Masjid al-Sultan al-Ashraf Qaytbay",
+    "url": "https://www.archnet.org/sites/2234",
+    "sourceType": "architectural documentation",
+    "publisher": "Archnet / Aga Khan Documentation Center",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sultan-qaytbay-funerary-complex-identity",
+      "sultan-qaytbay-funerary-complex-history",
+      "sultan-qaytbay-funerary-complex-architecture",
+      "sultan-qaytbay-funerary-complex-status"
+    ],
+    "notes": "Mamluk funerary complex documentation."
+  },
+  {
+    "sourceId": "abu-al-ila-mosque-district:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "abu-al-ila-mosque-district-identity",
+      "abu-al-ila-mosque-district-history",
+      "abu-al-ila-mosque-district-architecture",
+      "abu-al-ila-mosque-district-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "ayyubid-wall-darb-al-ahmar:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "ayyubid-wall-darb-al-ahmar-identity",
+      "ayyubid-wall-darb-al-ahmar-history",
+      "ayyubid-wall-darb-al-ahmar-architecture",
+      "ayyubid-wall-darb-al-ahmar-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "azbakiyya-urban-history:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "azbakiyya-urban-history-identity",
+      "azbakiyya-urban-history-history",
+      "azbakiyya-urban-history-architecture",
+      "azbakiyya-urban-history-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bab-al-wazir-street:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bab-al-wazir-street-identity",
+      "bab-al-wazir-street-history",
+      "bab-al-wazir-street-architecture",
+      "bab-al-wazir-street-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "barsbay-northern-cemetery:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "barsbay-northern-cemetery-identity",
+      "barsbay-northern-cemetery-history",
+      "barsbay-northern-cemetery-architecture",
+      "barsbay-northern-cemetery-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bayt-al-harrawi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayt-al-harrawi-identity",
+      "bayt-al-harrawi-history",
+      "bayt-al-harrawi-architecture",
+      "bayt-al-harrawi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bayt-al-sinnari:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayt-al-sinnari-identity",
+      "bayt-al-sinnari-history",
+      "bayt-al-sinnari-architecture",
+      "bayt-al-sinnari-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bayt-gamal-al-din-al-dhahabi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayt-gamal-al-din-al-dhahabi-identity",
+      "bayt-gamal-al-din-al-dhahabi-history",
+      "bayt-gamal-al-din-al-dhahabi-architecture",
+      "bayt-gamal-al-din-al-dhahabi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bayt-sitt-wasila:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayt-sitt-wasila-identity",
+      "bayt-sitt-wasila-history",
+      "bayt-sitt-wasila-architecture",
+      "bayt-sitt-wasila-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bayt-zaynab-khatun:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bayt-zaynab-khatun-identity",
+      "bayt-zaynab-khatun-history",
+      "bayt-zaynab-khatun-architecture",
+      "bayt-zaynab-khatun-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "bulaq-historic-port:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "bulaq-historic-port-identity",
+      "bulaq-historic-port-history",
+      "bulaq-historic-port-architecture",
+      "bulaq-historic-port-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "burg-al-mahruq:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "burg-al-mahruq-identity",
+      "burg-al-mahruq-history",
+      "burg-al-mahruq-architecture",
+      "burg-al-mahruq-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "cairo-aqueduct:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "cairo-aqueduct-identity",
+      "cairo-aqueduct-history",
+      "cairo-aqueduct-architecture",
+      "cairo-aqueduct-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "citadel-northern-enclosure:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "citadel-northern-enclosure-identity",
+      "citadel-northern-enclosure-history",
+      "citadel-northern-enclosure-architecture",
+      "citadel-northern-enclosure-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "citadel-well-yusuf:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "citadel-well-yusuf-identity",
+      "citadel-well-yusuf-history",
+      "citadel-well-yusuf-architecture",
+      "citadel-well-yusuf-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "excavated-houses-fustat:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "excavated-houses-fustat-identity",
+      "excavated-houses-fustat-history",
+      "excavated-houses-fustat-architecture",
+      "excavated-houses-fustat-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "fumm-al-khalig:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "fumm-al-khalig-identity",
+      "fumm-al-khalig-history",
+      "fumm-al-khalig-architecture",
+      "fumm-al-khalig-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "fustat-archaeological-area:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "fustat-archaeological-area-identity",
+      "fustat-archaeological-area-history",
+      "fustat-archaeological-area-architecture",
+      "fustat-archaeological-area-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "fustat-pottery-kilns:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "fustat-pottery-kilns-identity",
+      "fustat-pottery-kilns-history",
+      "fustat-pottery-kilns-architecture",
+      "fustat-pottery-kilns-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "gawhara-palace:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "gawhara-palace-identity",
+      "gawhara-palace-history",
+      "gawhara-palace-architecture",
+      "gawhara-palace-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "hammam-bishtak:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "hammam-bishtak-identity",
+      "hammam-bishtak-history",
+      "hammam-bishtak-architecture",
+      "hammam-bishtak-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "hammam-sukkariyya:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "hammam-sukkariyya-identity",
+      "hammam-sukkariyya-history",
+      "hammam-sukkariyya-architecture",
+      "hammam-sukkariyya-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "historic-crafts-darb-al-ahmar:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "historic-crafts-darb-al-ahmar-identity",
+      "historic-crafts-darb-al-ahmar-history",
+      "historic-crafts-darb-al-ahmar-architecture",
+      "historic-crafts-darb-al-ahmar-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "imam-shafii-cemetery-landscape:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "imam-shafii-cemetery-landscape-identity",
+      "imam-shafii-cemetery-landscape-history",
+      "imam-shafii-cemetery-landscape-architecture",
+      "imam-shafii-cemetery-landscape-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "khanqah-shaykhu:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "khanqah-shaykhu-identity",
+      "khanqah-shaykhu-history",
+      "khanqah-shaykhu-architecture",
+      "khanqah-shaykhu-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "khayrbak-complex:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "khayrbak-complex-identity",
+      "khayrbak-complex-history",
+      "khayrbak-complex-architecture",
+      "khayrbak-complex-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "madrasa-al-kamil:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "madrasa-al-kamil-identity",
+      "madrasa-al-kamil-history",
+      "madrasa-al-kamil-architecture",
+      "madrasa-al-kamil-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "madrasa-al-zahir-baybars-remains:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "madrasa-al-zahir-baybars-remains-identity",
+      "madrasa-al-zahir-baybars-remains-history",
+      "madrasa-al-zahir-baybars-remains-architecture",
+      "madrasa-al-zahir-baybars-remains-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "madrasa-sarghatmish:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "madrasa-sarghatmish-identity",
+      "madrasa-sarghatmish-history",
+      "madrasa-sarghatmish-architecture",
+      "madrasa-sarghatmish-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "madrasa-taghri-bardi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "madrasa-taghri-bardi-identity",
+      "madrasa-taghri-bardi-history",
+      "madrasa-taghri-bardi-architecture",
+      "madrasa-taghri-bardi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "madrasa-umm-al-sultan-shaban:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "madrasa-umm-al-sultan-shaban-identity",
+      "madrasa-umm-al-sultan-shaban-history",
+      "madrasa-umm-al-sultan-shaban-architecture",
+      "madrasa-umm-al-sultan-shaban-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "manasterly-palace:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "manasterly-palace-identity",
+      "manasterly-palace-history",
+      "manasterly-palace-architecture",
+      "manasterly-palace-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "manzil-ali-labib:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "manzil-ali-labib-identity",
+      "manzil-ali-labib-history",
+      "manzil-ali-labib-architecture",
+      "manzil-ali-labib-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "maristan-al-muayyadi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "maristan-al-muayyadi-identity",
+      "maristan-al-muayyadi-history",
+      "maristan-al-muayyadi-architecture",
+      "maristan-al-muayyadi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mashhad-al-juyushi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mashhad-al-juyushi-identity",
+      "mashhad-al-juyushi-history",
+      "mashhad-al-juyushi-architecture",
+      "mashhad-al-juyushi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-amir-qurqumas:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-amir-qurqumas-identity",
+      "mausoleum-amir-qurqumas-history",
+      "mausoleum-amir-qurqumas-architecture",
+      "mausoleum-amir-qurqumas-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-janibak-al-ashrafi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-janibak-al-ashrafi-identity",
+      "mausoleum-janibak-al-ashrafi-history",
+      "mausoleum-janibak-al-ashrafi-architecture",
+      "mausoleum-janibak-al-ashrafi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-qansuh-abu-said:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-qansuh-abu-said-identity",
+      "mausoleum-qansuh-abu-said-history",
+      "mausoleum-qansuh-abu-said-architecture",
+      "mausoleum-qansuh-abu-said-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-sayyida-atika:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-sayyida-atika-identity",
+      "mausoleum-sayyida-atika-history",
+      "mausoleum-sayyida-atika-architecture",
+      "mausoleum-sayyida-atika-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-sayyida-ruqayya:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-sayyida-ruqayya-identity",
+      "mausoleum-sayyida-ruqayya-history",
+      "mausoleum-sayyida-ruqayya-architecture",
+      "mausoleum-sayyida-ruqayya-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-sayyida-sukayna:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-sayyida-sukayna-identity",
+      "mausoleum-sayyida-sukayna-history",
+      "mausoleum-sayyida-sukayna-architecture",
+      "mausoleum-sayyida-sukayna-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-tarabay-al-sharifi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-tarabay-al-sharifi-identity",
+      "mausoleum-tarabay-al-sharifi-history",
+      "mausoleum-tarabay-al-sharifi-architecture",
+      "mausoleum-tarabay-al-sharifi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mausoleum-yunus-al-dawadar:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mausoleum-yunus-al-dawadar-identity",
+      "mausoleum-yunus-al-dawadar-history",
+      "mausoleum-yunus-al-dawadar-architecture",
+      "mausoleum-yunus-al-dawadar-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mawlawi-tekkiya:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mawlawi-tekkiya-identity",
+      "mawlawi-tekkiya-history",
+      "mawlawi-tekkiya-architecture",
+      "mawlawi-tekkiya-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-akbugha-utrush:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-akbugha-utrush-identity",
+      "mosque-akbugha-utrush-history",
+      "mosque-akbugha-utrush-architecture",
+      "mosque-akbugha-utrush-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-fakahani:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-fakahani-identity",
+      "mosque-al-fakahani-history",
+      "mosque-al-fakahani-architecture",
+      "mosque-al-fakahani-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-lulua:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-lulua-identity",
+      "mosque-al-lulua-history",
+      "mosque-al-lulua-architecture",
+      "mosque-al-lulua-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-malik-al-salih-roda:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-malik-al-salih-roda-identity",
+      "mosque-al-malik-al-salih-roda-history",
+      "mosque-al-malik-al-salih-roda-architecture",
+      "mosque-al-malik-al-salih-roda-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-al-zahir-baybars:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-al-zahir-baybars-identity",
+      "mosque-al-zahir-baybars-history",
+      "mosque-al-zahir-baybars-architecture",
+      "mosque-al-zahir-baybars-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-altinbugha-al-maridani:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-altinbugha-al-maridani-identity",
+      "mosque-altinbugha-al-maridani-history",
+      "mosque-altinbugha-al-maridani-architecture",
+      "mosque-altinbugha-al-maridani-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-aslam-al-silahdar:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-aslam-al-silahdar-identity",
+      "mosque-aslam-al-silahdar-history",
+      "mosque-aslam-al-silahdar-architecture",
+      "mosque-aslam-al-silahdar-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-mahmud-al-kurdi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-mahmud-al-kurdi-identity",
+      "mosque-mahmud-al-kurdi-history",
+      "mosque-mahmud-al-kurdi-architecture",
+      "mosque-mahmud-al-kurdi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-qijmas-al-ishaqi:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-qijmas-al-ishaqi-identity",
+      "mosque-qijmas-al-ishaqi-history",
+      "mosque-qijmas-al-ishaqi-architecture",
+      "mosque-qijmas-al-ishaqi-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-sayyida-nafisa:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-sayyida-nafisa-identity",
+      "mosque-sayyida-nafisa-history",
+      "mosque-sayyida-nafisa-architecture",
+      "mosque-sayyida-nafisa-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-sayyida-zaynab:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-sayyida-zaynab-identity",
+      "mosque-sayyida-zaynab-history",
+      "mosque-sayyida-zaynab-architecture",
+      "mosque-sayyida-zaynab-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "mosque-shaykhu:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "mosque-shaykhu-identity",
+      "mosque-shaykhu-history",
+      "mosque-shaykhu-architecture",
+      "mosque-shaykhu-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "palace-amir-beshtak:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "palace-amir-beshtak-identity",
+      "palace-amir-beshtak-history",
+      "palace-amir-beshtak-architecture",
+      "palace-amir-beshtak-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "palace-amir-taz:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "palace-amir-taz-identity",
+      "palace-amir-taz-history",
+      "palace-amir-taz-architecture",
+      "palace-amir-taz-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "qaysariyya-al-muizz:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "qaysariyya-al-muizz-identity",
+      "qaysariyya-al-muizz-history",
+      "qaysariyya-al-muizz-architecture",
+      "qaysariyya-al-muizz-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "qaytbay-animal-trough:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "qaytbay-animal-trough-identity",
+      "qaytbay-animal-trough-history",
+      "qaytbay-animal-trough-architecture",
+      "qaytbay-animal-trough-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "qaytbay-maqad:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "qaytbay-maqad-identity",
+      "qaytbay-maqad-history",
+      "qaytbay-maqad-architecture",
+      "qaytbay-maqad-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "qaytbay-rab:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "qaytbay-rab-identity",
+      "qaytbay-rab-history",
+      "qaytbay-rab-architecture",
+      "qaytbay-rab-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "roda-island-islamic-landscape:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "roda-island-islamic-landscape-identity",
+      "roda-island-islamic-landscape-history",
+      "roda-island-islamic-landscape-architecture",
+      "roda-island-islamic-landscape-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-khusraw-pasha:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-khusraw-pasha-identity",
+      "sabil-khusraw-pasha-history",
+      "sabil-khusraw-pasha-architecture",
+      "sabil-khusraw-pasha-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-muhammad-ali-aqqadin:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-muhammad-ali-aqqadin-identity",
+      "sabil-muhammad-ali-aqqadin-history",
+      "sabil-muhammad-ali-aqqadin-architecture",
+      "sabil-muhammad-ali-aqqadin-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-muhammad-ali-nahhasin:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-muhammad-ali-nahhasin-identity",
+      "sabil-muhammad-ali-nahhasin-history",
+      "sabil-muhammad-ali-nahhasin-architecture",
+      "sabil-muhammad-ali-nahhasin-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-qaytbay-saliba:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-qaytbay-saliba-identity",
+      "sabil-qaytbay-saliba-history",
+      "sabil-qaytbay-saliba-architecture",
+      "sabil-qaytbay-saliba-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-qitas:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-qitas-identity",
+      "sabil-qitas-history",
+      "sabil-qitas-architecture",
+      "sabil-qitas-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-ruqayya-dudu:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-ruqayya-dudu-identity",
+      "sabil-ruqayya-dudu-history",
+      "sabil-ruqayya-dudu-architecture",
+      "sabil-ruqayya-dudu-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "sabil-umm-abbas:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "sabil-umm-abbas-identity",
+      "sabil-umm-abbas-history",
+      "sabil-umm-abbas-architecture",
+      "sabil-umm-abbas-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "wakala-bazaraa:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "wakala-bazaraa-identity",
+      "wakala-bazaraa-history",
+      "wakala-bazaraa-architecture",
+      "wakala-bazaraa-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  },
+  {
+    "sourceId": "wakala-qaytbay-bab-al-nasr:unesco-historic-cairo",
+    "title": "Historic Cairo",
+    "url": "https://whc.unesco.org/en/list/89",
+    "sourceType": "heritage register",
+    "publisher": "UNESCO World Heritage Centre",
+    "publicationDate": null,
+    "accessedDate": "2026-07-24",
+    "supports": [
+      "wakala-qaytbay-bab-al-nasr-identity",
+      "wakala-qaytbay-bab-al-nasr-history",
+      "wakala-qaytbay-bab-al-nasr-architecture",
+      "wakala-qaytbay-bab-al-nasr-status"
+    ],
+    "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+  }
+]

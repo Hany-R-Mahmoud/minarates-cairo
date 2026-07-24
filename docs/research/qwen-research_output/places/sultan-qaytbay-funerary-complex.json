@@ -1,0 +1,165 @@
+{
+  "slug": "sultan-qaytbay-funerary-complex",
+  "status": "PROPOSED_V4",
+  "nameEn": "Funerary Complex of Sultan Qaytbay",
+  "nameAr": "مجموعة السلطان قايتباي الجنائزية",
+  "transliteration": "Funerary Complex of Sultan Qaytbay",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "funerary complex",
+  "district": "Northern Cemetery / Qaytbay",
+  "location": {
+    "descriptionEn": "Northern Cemetery / Qaytbay",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Circassian Mamluk",
+    "1472–1474 CE / 877–879 AH"
+  ],
+  "historicalSummary": {
+    "en": "Founded by Sultan al-Ashraf Qaytbay in the Northern Cemetery. The complex expresses late Mamluk patronage through a mosque-madrasa, mausoleum, sabil, and associated domestic and service structures.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A compact ensemble built around a domed mausoleum, with a ribbed stone dome, elegant minaret, prayer and teaching spaces, sabil, and related urban dependencies.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "ribbed stone dome",
+    "minaret",
+    "mosque-madrasa",
+    "sabil",
+    "cemetery setting"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "sultan-qaytbay-funerary-complex:unesco-historic-cairo",
+        "sultan-qaytbay-funerary-complex:mota-historic-cairo",
+        "sultan-qaytbay-funerary-complex:archnet-qaytbay"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "sultan-qaytbay-funerary-complex-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Funerary Complex of Sultan Qaytbay.",
+      "textAr": "يسجل الجرد هذا الموقع باسم مجموعة السلطان قايتباي الجنائزية.",
+      "confidence": "high",
+      "sourceIds": [
+        "sultan-qaytbay-funerary-complex:unesco-historic-cairo",
+        "sultan-qaytbay-funerary-complex:mota-historic-cairo",
+        "sultan-qaytbay-funerary-complex:archnet-qaytbay"
+      ]
+    },
+    {
+      "claimId": "sultan-qaytbay-funerary-complex-history",
+      "claimType": "history",
+      "textEn": "Founded by Sultan al-Ashraf Qaytbay in the Northern Cemetery. The complex expresses late Mamluk patronage through a mosque-madrasa, mausoleum, sabil, and associated domestic and service structures.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sultan-qaytbay-funerary-complex:unesco-historic-cairo",
+        "sultan-qaytbay-funerary-complex:mota-historic-cairo",
+        "sultan-qaytbay-funerary-complex:archnet-qaytbay"
+      ]
+    },
+    {
+      "claimId": "sultan-qaytbay-funerary-complex-architecture",
+      "claimType": "architecture",
+      "textEn": "A compact ensemble built around a domed mausoleum, with a ribbed stone dome, elegant minaret, prayer and teaching spaces, sabil, and related urban dependencies.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sultan-qaytbay-funerary-complex:unesco-historic-cairo",
+        "sultan-qaytbay-funerary-complex:mota-historic-cairo",
+        "sultan-qaytbay-funerary-complex:archnet-qaytbay"
+      ]
+    },
+    {
+      "claimId": "sultan-qaytbay-funerary-complex-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "sultan-qaytbay-funerary-complex:unesco-historic-cairo",
+        "sultan-qaytbay-funerary-complex:mota-historic-cairo",
+        "sultan-qaytbay-funerary-complex:archnet-qaytbay"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "sultan-qaytbay-funerary-complex:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sultan-qaytbay-funerary-complex-identity",
+        "sultan-qaytbay-funerary-complex-history",
+        "sultan-qaytbay-funerary-complex-architecture",
+        "sultan-qaytbay-funerary-complex-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "sultan-qaytbay-funerary-complex:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sultan-qaytbay-funerary-complex-identity",
+        "sultan-qaytbay-funerary-complex-history",
+        "sultan-qaytbay-funerary-complex-architecture",
+        "sultan-qaytbay-funerary-complex-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "sultan-qaytbay-funerary-complex:archnet-qaytbay",
+      "title": "Masjid al-Sultan al-Ashraf Qaytbay",
+      "url": "https://www.archnet.org/sites/2234",
+      "sourceType": "architectural documentation",
+      "publisher": "Archnet / Aga Khan Documentation Center",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sultan-qaytbay-funerary-complex-identity",
+        "sultan-qaytbay-funerary-complex-history",
+        "sultan-qaytbay-funerary-complex-architecture",
+        "sultan-qaytbay-funerary-complex-status"
+      ],
+      "notes": "Mamluk funerary complex documentation."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

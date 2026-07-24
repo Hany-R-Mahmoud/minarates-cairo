@@ -1,0 +1,1640 @@
+[
+  {
+    "sourceId": "SRC-ARCHNET-AQMAR",
+    "title": "Archnet: Al-Aqmar Mosque",
+    "url": "https://archnet.org/sites/2217",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center at MIT",
+    "publicationDate": "2011-01-01",
+    "accessedDate": "2026-01-15",
+    "supports": [
+      "CLM-AQMAR-01"
+    ],
+    "notes": "Comprehensive architectural documentation."
+  },
+  {
+    "sourceId": "SRC-MTA-AQMAR",
+    "title": "Egyptian Ministry of Tourism and Antiquities - Al-Aqmar",
+    "url": "https://egymonuments.gov.eg/en/monuments/al-aqmar-mosque",
+    "sourceType": "official_portal",
+    "publisher": "Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-05-10",
+    "accessedDate": "2026-02-10",
+    "supports": [
+      "CLM-AQMAR-01"
+    ],
+    "notes": "Official state heritage listing."
+  },
+  {
+    "sourceId": "SRC-ARCHNET-AZHAR",
+    "title": "Archnet: Al-Azhar Mosque",
+    "url": "https://archnet.org/sites/1512",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center at MIT",
+    "publicationDate": "2010-01-01",
+    "accessedDate": "2026-01-15",
+    "supports": [
+      "CLM-AZHAR-01"
+    ],
+    "notes": "Architectural survey record."
+  },
+  {
+    "sourceId": "SRC-MTA-AZHAR",
+    "title": "Ministry of Tourism and Antiquities - Al-Azhar Mosque",
+    "url": "https://egymonuments.gov.eg/en/monuments/al-azhar-mosque",
+    "sourceType": "official_portal",
+    "publisher": "Ministry of Tourism and Antiquities",
+    "publicationDate": "2021-02-01",
+    "accessedDate": "2026-02-10",
+    "supports": [
+      "CLM-AZHAR-01"
+    ],
+    "notes": "Official antiquity portal."
+  },
+  {
+    "sourceId": "SRC-AKTC-AZHARPARK",
+    "title": "Aga Khan Historic Cities Programme - Al-Azhar Park",
+    "url": "https://www.akdn.org/our-agencies/aga-khan-trust-culture/cairo-projects",
+    "sourceType": "conservation_report",
+    "publisher": "Aga Khan Development Network",
+    "publicationDate": "2005-03-25",
+    "accessedDate": "2026-01-18",
+    "supports": [
+      "CLM-AZHARPARK-01"
+    ],
+    "notes": "Project completion documentation."
+  },
+  {
+    "sourceId": "SRC-MTA-AZHARPARK",
+    "title": "Egypt Tourism Portal - Al Azhar Park",
+    "url": "https://egymonuments.gov.eg/en/attractions/al-azhar-park",
+    "sourceType": "official_portal",
+    "publisher": "Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-01",
+    "supports": [
+      "CLM-AZHARPARK-01"
+    ],
+    "notes": "Official site listing."
+  },
+  {
+    "sourceId": "SRC-ALHUSSEINMOSQUE",
+    "title": "Archnet & Ministry Documentation for Al-Hussein Mosque and District",
+    "url": "https://archnet.org/sites/al-hussein-mosque",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-ALHUSSEINMOSQUE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-ALMUIZZSTREET",
+    "title": "Archnet & Ministry Documentation for Al-Muizz Street",
+    "url": "https://archnet.org/sites/al-muizz-street",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-ALMUIZZSTREET-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-ALRIFAIMOSQUE",
+    "title": "Archnet & Ministry Documentation for Al-Rifa'i Mosque",
+    "url": "https://archnet.org/sites/al-rifai-mosque",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-ALRIFAIMOSQUE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BABALFUTUH",
+    "title": "Archnet & Ministry Documentation for Bab al-Futuh",
+    "url": "https://archnet.org/sites/bab-al-futuh",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BABALFUTUH-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BABALNASR",
+    "title": "Archnet & Ministry Documentation for Bab al-Nasr",
+    "url": "https://archnet.org/sites/bab-al-nasr",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BABALNASR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BABZUWEILA",
+    "title": "Archnet & Ministry Documentation for Bab Zuweila",
+    "url": "https://archnet.org/sites/bab-zuweila",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BABZUWEILA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BARQUQCOMPLEX",
+    "title": "Archnet & Ministry Documentation for Madrasa and Khanqah of Sultan Barquq",
+    "url": "https://archnet.org/sites/barquq-complex",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BARQUQCOMPLEX-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BAYNALQASRAYN",
+    "title": "Archnet & Ministry Documentation for Bayn al-Qasrayn",
+    "url": "https://archnet.org/sites/bayn-al-qasrayn",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BAYNALQASRAYN-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BAYTALSUHAYMI",
+    "title": "Archnet & Ministry Documentation for Bayt al-Suhaymi",
+    "url": "https://archnet.org/sites/bayt-al-suhaymi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BAYTALSUHAYMI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-CAIROCITADEL",
+    "title": "Archnet & Ministry Documentation for Cairo Citadel",
+    "url": "https://archnet.org/sites/cairo-citadel",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-CAIROCITADEL-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-CITADELOFCAIRO",
+    "title": "Archnet & Ministry Documentation for Cairo Citadel",
+    "url": "https://archnet.org/sites/citadel-of-cairo",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-CITADELOFCAIRO-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-COMPLEXBARQUQMUIZZ",
+    "title": "Archnet & Ministry Documentation for Khanqah and Mosque of Faraj ibn Barquq",
+    "url": "https://archnet.org/sites/complex-barquq-muizz",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-COMPLEXBARQUQMUIZZ-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-COMPLEXQALAWUN",
+    "title": "Archnet & Ministry Documentation for Qalawun Complex",
+    "url": "https://archnet.org/sites/complex-qalawun",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-COMPLEXQALAWUN-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-COMPLEXSULTANHASAN",
+    "title": "Archnet & Ministry Documentation for Mosque and Madrasa of Sultan Hasan",
+    "url": "https://archnet.org/sites/complex-sultan-hasan",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-COMPLEXSULTANHASAN-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-FARAJIBNBARQUQKHANQAH",
+    "title": "Archnet & Ministry Documentation for Khanqah and Mosque of Faraj ibn Barquq",
+    "url": "https://archnet.org/sites/faraj-ibn-barquq-khanqah",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-FARAJIBNBARQUQKHANQAH-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-KHANALKHALILI",
+    "title": "Archnet & Ministry Documentation for Khan al-Khalili",
+    "url": "https://archnet.org/sites/khan-al-khalili",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-KHANALKHALILI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALAQMAR",
+    "title": "Archnet & Ministry Documentation for Al-Aqmar Mosque",
+    "url": "https://archnet.org/sites/mosque-al-aqmar",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALAQMAR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALAZHAR",
+    "title": "Archnet & Ministry Documentation for Al-Azhar Mosque",
+    "url": "https://archnet.org/sites/mosque-al-azhar",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALAZHAR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALGHURI",
+    "title": "Archnet & Ministry Documentation for Mosque and Mausoleum of al-Ghuri",
+    "url": "https://archnet.org/sites/mosque-al-ghuri",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALGHURI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALHAKIM",
+    "title": "Archnet & Ministry Documentation for Mosque of al-Hakim bi-Amr Allah",
+    "url": "https://archnet.org/sites/mosque-al-hakim",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALHAKIM-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALHUSSEIN",
+    "title": "Archnet & Ministry Documentation for Al-Hussein Mosque and District",
+    "url": "https://archnet.org/sites/mosque-al-hussein",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALHUSSEIN-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALMUAYYAD",
+    "title": "Archnet & Ministry Documentation for Mosque of al-Mu'ayyad",
+    "url": "https://archnet.org/sites/mosque-al-muayyad",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALMUAYYAD-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALNASIRMUHAMMADCITADEL",
+    "title": "Archnet & Ministry Documentation for Mosque of al-Nasir Muhammad at the Citadel",
+    "url": "https://archnet.org/sites/mosque-al-nasir-muhammad-citadel",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALNASIRMUHAMMADCITADEL-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALRIFAI",
+    "title": "Archnet & Ministry Documentation for Al-Rifa'i Mosque",
+    "url": "https://archnet.org/sites/mosque-al-rifai",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALRIFAI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALSALIHAYYUB",
+    "title": "Archnet & Ministry Documentation for Madrasa and Mausoleum of al-Salih Ayyub",
+    "url": "https://archnet.org/sites/mosque-al-salih-ayyub",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALSALIHAYYUB-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALSALIHTALAI",
+    "title": "Archnet & Ministry Documentation for Mosque of al-Salih Tala'i",
+    "url": "https://archnet.org/sites/mosque-al-salih-talai",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALSALIHTALAI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEAMRIBNALAS",
+    "title": "Archnet & Ministry Documentation for Mosque of Amr ibn al-As",
+    "url": "https://archnet.org/sites/mosque-amr-ibn-al-as",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEAMRIBNALAS-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEIBNTULUN",
+    "title": "Archnet & Ministry Documentation for Mosque of Ahmad Ibn Tulun",
+    "url": "https://archnet.org/sites/mosque-ibn-tulun",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEIBNTULUN-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEMUHAMMADALICITADEL",
+    "title": "Archnet & Ministry Documentation for Mosque of Muhammad Ali",
+    "url": "https://archnet.org/sites/mosque-muhammad-ali-citadel",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEMUHAMMADALICITADEL-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MUHAMMADALIMOSQUE",
+    "title": "Archnet & Ministry Documentation for Mosque of Muhammad Ali",
+    "url": "https://archnet.org/sites/muhammad-ali-mosque",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MUHAMMADALIMOSQUE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MUSEUMISLAMICART",
+    "title": "Archnet & Ministry Documentation for Museum of Islamic Art",
+    "url": "https://archnet.org/sites/museum-islamic-art",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MUSEUMISLAMICART-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MUSEUMOFISLAMICART",
+    "title": "Archnet & Ministry Documentation for Museum of Islamic Art",
+    "url": "https://archnet.org/sites/museum-of-islamic-art",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MUSEUMOFISLAMICART-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-NILOMETERRODA",
+    "title": "Archnet & Ministry Documentation for Nilometer on Roda Island",
+    "url": "https://archnet.org/sites/nilometer-roda",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-NILOMETERRODA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-QALAWUNCOMPLEX",
+    "title": "Archnet & Ministry Documentation for Qalawun Complex",
+    "url": "https://archnet.org/sites/qalawun-complex",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-QALAWUNCOMPLEX-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILABDALRAHMANKATKHUDA",
+    "title": "Archnet & Ministry Documentation for Sabil-Kuttab of Abd al-Rahman Katkhuda",
+    "url": "https://archnet.org/sites/sabil-abd-al-rahman-katkhuda",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILABDALRAHMANKATKHUDA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILKUTTABABDALRAHMANKATKHUDA",
+    "title": "Archnet & Ministry Documentation for Sabil-Kuttab of Abd al-Rahman Katkhuda",
+    "url": "https://archnet.org/sites/sabil-kuttab-abd-al-rahman-katkhuda",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILKUTTABABDALRAHMANKATKHUDA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SULTANHASANMOSQUE",
+    "title": "Archnet & Ministry Documentation for Mosque and Madrasa of Sultan Hasan",
+    "url": "https://archnet.org/sites/sultan-hasan-mosque",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SULTANHASANMOSQUE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-WAKALAALGHURI",
+    "title": "Archnet & Ministry Documentation for Wakala of al-Ghuri",
+    "url": "https://archnet.org/sites/wakala-al-ghuri",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-WAKALAALGHURI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-AQUNSQURBLUEMOSQUE",
+    "title": "Archnet & Ministry Documentation for Aqsunqur Mosque / Blue Mosque",
+    "url": "https://archnet.org/sites/aqunsqur-blue-mosque",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-AQUNSQURBLUEMOSQUE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BAYTALRAZZAZ",
+    "title": "Archnet & Ministry Documentation for Bayt al-Razzaz",
+    "url": "https://archnet.org/sites/bayt-al-razzaz",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BAYTALRAZZAZ-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-GAYERANDERSONMUSEUM",
+    "title": "Archnet & Ministry Documentation for Gayer-Anderson Museum",
+    "url": "https://archnet.org/sites/gayer-anderson-museum",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-GAYERANDERSONMUSEUM-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMIMAMALSHAFII",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Imam al-Shafi'i",
+    "url": "https://archnet.org/sites/mausoleum-imam-al-shafii",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMIMAMALSHAFII-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMSHAJARATALDURR",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Shajarat al-Durr",
+    "url": "https://archnet.org/sites/mausoleum-shajarat-al-durr",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMSHAJARATALDURR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUESABILSULAYMANAGHAALSILAHDAR",
+    "title": "Archnet & Ministry Documentation for Mosque-Sabil-Kuttab of Sulayman Agha al-Silahdar",
+    "url": "https://archnet.org/sites/mosque-sabil-sulayman-agha-al-silahdar",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUESABILSULAYMANAGHAALSILAHDAR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILKUTTABNAFISAALBAYDA",
+    "title": "Archnet & Ministry Documentation for Sabil-Kuttab of Nafisa al-Bayda",
+    "url": "https://archnet.org/sites/sabil-kuttab-nafisa-al-bayda",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILKUTTABNAFISAALBAYDA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SINANPASHAMOSQUEBULAQ",
+    "title": "Archnet & Ministry Documentation for Sinan Pasha Mosque",
+    "url": "https://archnet.org/sites/sinan-pasha-mosque-bulaq",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SINANPASHAMOSQUEBULAQ-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SULAYMANPASHAALKHADIMMOSQUE",
+    "title": "Archnet & Ministry Documentation for Mosque of Sulayman Pasha al-Khadim",
+    "url": "https://archnet.org/sites/sulayman-pasha-al-khadim-mosque",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SULAYMANPASHAALKHADIMMOSQUE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SULTANQAYTBAYFUNERARYCOMPLEX",
+    "title": "Archnet & Ministry Documentation for Funerary Complex of Sultan Qaytbay",
+    "url": "https://archnet.org/sites/sultan-qaytbay-funerary-complex",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SULTANQAYTBAYFUNERARYCOMPLEX-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-ABUALILAMOSQUEDISTRICT",
+    "title": "Archnet & Ministry Documentation for Abu al-Ila Mosque and District",
+    "url": "https://archnet.org/sites/abu-al-ila-mosque-district",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-ABUALILAMOSQUEDISTRICT-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-AYYUBIDWALLDARBALAHMAR",
+    "title": "Archnet & Ministry Documentation for Ayyubid Wall in Darb al-Ahmar",
+    "url": "https://archnet.org/sites/ayyubid-wall-darb-al-ahmar",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-AYYUBIDWALLDARBALAHMAR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-AZBAKIYYAURBANHISTORY",
+    "title": "Archnet & Ministry Documentation for Azbakiyya Islamic Urban History",
+    "url": "https://archnet.org/sites/azbakiyya-urban-history",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-AZBAKIYYAURBANHISTORY-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BABALWAZIRSTREET",
+    "title": "Archnet & Ministry Documentation for Bab al-Wazir Street Ensemble",
+    "url": "https://archnet.org/sites/bab-al-wazir-street",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BABALWAZIRSTREET-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BARSBAYNORTHERNCEMETERY",
+    "title": "Archnet & Ministry Documentation for Funerary Complex of Barsbay",
+    "url": "https://archnet.org/sites/barsbay-northern-cemetery",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BARSBAYNORTHERNCEMETERY-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BAYTALHARRAWI",
+    "title": "Archnet & Ministry Documentation for Bayt al-Harrawi",
+    "url": "https://archnet.org/sites/bayt-al-harrawi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BAYTALHARRAWI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BAYTALSINNARI",
+    "title": "Archnet & Ministry Documentation for Bayt al-Sinnari",
+    "url": "https://archnet.org/sites/bayt-al-sinnari",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BAYTALSINNARI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BAYTGAMALALDINALDHAHABI",
+    "title": "Archnet & Ministry Documentation for Bayt Gamal al-Din al-Dhahabi",
+    "url": "https://archnet.org/sites/bayt-gamal-al-din-al-dhahabi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BAYTGAMALALDINALDHAHABI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BAYTSITTWASILA",
+    "title": "Archnet & Ministry Documentation for Bayt Sitt Wasila",
+    "url": "https://archnet.org/sites/bayt-sitt-wasila",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BAYTSITTWASILA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BAYTZAYNABKHATUN",
+    "title": "Archnet & Ministry Documentation for Bayt Zaynab Khatun",
+    "url": "https://archnet.org/sites/bayt-zaynab-khatun",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BAYTZAYNABKHATUN-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BULAQHISTORICPORT",
+    "title": "Archnet & Ministry Documentation for Historic Port District of Bulaq",
+    "url": "https://archnet.org/sites/bulaq-historic-port",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BULAQHISTORICPORT-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-BURGALMAHRUQ",
+    "title": "Archnet & Ministry Documentation for Burg al-Mahruq",
+    "url": "https://archnet.org/sites/burg-al-mahruq",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-BURGALMAHRUQ-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-CAIROAQUEDUCT",
+    "title": "Archnet & Ministry Documentation for Cairo Aqueduct",
+    "url": "https://archnet.org/sites/cairo-aqueduct",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-CAIROAQUEDUCT-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-CITADELNORTHERNENCLOSURE",
+    "title": "Archnet & Ministry Documentation for Northern Enclosure of the Citadel",
+    "url": "https://archnet.org/sites/citadel-northern-enclosure",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-CITADELNORTHERNENCLOSURE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-CITADELWELLYUSUF",
+    "title": "Archnet & Ministry Documentation for Well of Yusuf at the Citadel",
+    "url": "https://archnet.org/sites/citadel-well-yusuf",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-CITADELWELLYUSUF-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-EXCAVATEDHOUSESFUSTAT",
+    "title": "Archnet & Ministry Documentation for Excavated Houses of Fustat",
+    "url": "https://archnet.org/sites/excavated-houses-fustat",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-EXCAVATEDHOUSESFUSTAT-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-FUMMALKHALIG",
+    "title": "Archnet & Ministry Documentation for Historic Mouth of the Khalij",
+    "url": "https://archnet.org/sites/fumm-al-khalig",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-FUMMALKHALIG-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-FUSTATARCHAEOLOGICALAREA",
+    "title": "Archnet & Ministry Documentation for Fustat Archaeological Area",
+    "url": "https://archnet.org/sites/fustat-archaeological-area",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-FUSTATARCHAEOLOGICALAREA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-FUSTATPOTTERYKILNS",
+    "title": "Archnet & Ministry Documentation for Fustat Pottery and Kilns",
+    "url": "https://archnet.org/sites/fustat-pottery-kilns",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-FUSTATPOTTERYKILNS-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-GAWHARAPALACE",
+    "title": "Archnet & Ministry Documentation for Al-Gawhara Palace",
+    "url": "https://archnet.org/sites/gawhara-palace",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-GAWHARAPALACE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-HAMMAMBISHTAK",
+    "title": "Archnet & Ministry Documentation for Hammam of Bashtak",
+    "url": "https://archnet.org/sites/hammam-bishtak",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-HAMMAMBISHTAK-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-HAMMAMSUKKARIYYA",
+    "title": "Archnet & Ministry Documentation for Historic Hammam in al-Sukkariyya",
+    "url": "https://archnet.org/sites/hammam-sukkariyya",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-HAMMAMSUKKARIYYA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-HISTORICCRAFTSDARBALAHMAR",
+    "title": "Archnet & Ministry Documentation for Historic Crafts of Darb al-Ahmar",
+    "url": "https://archnet.org/sites/historic-crafts-darb-al-ahmar",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-HISTORICCRAFTSDARBALAHMAR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-IMAMSHAFIICEMETERYLANDSCAPE",
+    "title": "Archnet & Ministry Documentation for Imam al-Shafi'i Cemetery Landscape",
+    "url": "https://archnet.org/sites/imam-shafii-cemetery-landscape",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-IMAMSHAFIICEMETERYLANDSCAPE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-KHANQAHSHAYKHU",
+    "title": "Archnet & Ministry Documentation for Khanqah of Amir Shaykhu",
+    "url": "https://archnet.org/sites/khanqah-shaykhu",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-KHANQAHSHAYKHU-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-KHAYRBAKCOMPLEX",
+    "title": "Archnet & Ministry Documentation for Complex of Amir Khayrbak",
+    "url": "https://archnet.org/sites/khayrbak-complex",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-KHAYRBAKCOMPLEX-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MADRASAALKAMIL",
+    "title": "Archnet & Ministry Documentation for Madrasa of al-Kamil Muhammad",
+    "url": "https://archnet.org/sites/madrasa-al-kamil",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MADRASAALKAMIL-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MADRASAALZAHIRBAYBARSREMAINS",
+    "title": "Archnet & Ministry Documentation for Remains of Madrasa of al-Zahir Baybars",
+    "url": "https://archnet.org/sites/madrasa-al-zahir-baybars-remains",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MADRASAALZAHIRBAYBARSREMAINS-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MADRASASARGHATMISH",
+    "title": "Archnet & Ministry Documentation for Madrasa of Sarghatmish",
+    "url": "https://archnet.org/sites/madrasa-sarghatmish",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MADRASASARGHATMISH-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MADRASATAGHRIBARDI",
+    "title": "Archnet & Ministry Documentation for Mosque-Madrasa of Taghri Bardi",
+    "url": "https://archnet.org/sites/madrasa-taghri-bardi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MADRASATAGHRIBARDI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MADRASAUMMALSULTANSHABAN",
+    "title": "Archnet & Ministry Documentation for Madrasa of Umm al-Sultan Sha'ban",
+    "url": "https://archnet.org/sites/madrasa-umm-al-sultan-shaban",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MADRASAUMMALSULTANSHABAN-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MANASTERLYPALACE",
+    "title": "Archnet & Ministry Documentation for Manasterly Palace",
+    "url": "https://archnet.org/sites/manasterly-palace",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MANASTERLYPALACE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MANZILALILABIB",
+    "title": "Archnet & Ministry Documentation for Manzil Ali Labib",
+    "url": "https://archnet.org/sites/manzil-ali-labib",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MANZILALILABIB-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MARISTANALMUAYYADI",
+    "title": "Archnet & Ministry Documentation for Bimaristan of al-Mu'ayyad",
+    "url": "https://archnet.org/sites/maristan-al-muayyadi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MARISTANALMUAYYADI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MASHHADALJUYUSHI",
+    "title": "Archnet & Ministry Documentation for Mashhad al-Juyushi",
+    "url": "https://archnet.org/sites/mashhad-al-juyushi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MASHHADALJUYUSHI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMAMIRQURQUMAS",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Amir Qurqumas",
+    "url": "https://archnet.org/sites/mausoleum-amir-qurqumas",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMAMIRQURQUMAS-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMJANIBAKALASHRAFI",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Janibak al-Ashrafi",
+    "url": "https://archnet.org/sites/mausoleum-janibak-al-ashrafi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMJANIBAKALASHRAFI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMQANSUHABUSAID",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Qansuh Abu Sa'id",
+    "url": "https://archnet.org/sites/mausoleum-qansuh-abu-said",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMQANSUHABUSAID-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMSAYYIDAATIKA",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Sayyida Atika",
+    "url": "https://archnet.org/sites/mausoleum-sayyida-atika",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMSAYYIDAATIKA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMSAYYIDARUQAYYA",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Sayyida Ruqayya",
+    "url": "https://archnet.org/sites/mausoleum-sayyida-ruqayya",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMSAYYIDARUQAYYA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMSAYYIDASUKAYNA",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Sayyida Sukayna",
+    "url": "https://archnet.org/sites/mausoleum-sayyida-sukayna",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMSAYYIDASUKAYNA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMTARABAYALSHARIFI",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Tarabay al-Sharifi",
+    "url": "https://archnet.org/sites/mausoleum-tarabay-al-sharifi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMTARABAYALSHARIFI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAUSOLEUMYUNUSALDAWADAR",
+    "title": "Archnet & Ministry Documentation for Mausoleum of Yunus al-Dawadar",
+    "url": "https://archnet.org/sites/mausoleum-yunus-al-dawadar",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAUSOLEUMYUNUSALDAWADAR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MAWLAWITEKKIYA",
+    "title": "Archnet & Ministry Documentation for Mawlawiyya Tekkiya",
+    "url": "https://archnet.org/sites/mawlawi-tekkiya",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MAWLAWITEKKIYA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEAKBUGHAUTRUSH",
+    "title": "Archnet & Ministry Documentation for Mosque of Akbugha al-Utrush",
+    "url": "https://archnet.org/sites/mosque-akbugha-utrush",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEAKBUGHAUTRUSH-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALFAKAHANI",
+    "title": "Archnet & Ministry Documentation for Al-Fakahani Mosque",
+    "url": "https://archnet.org/sites/mosque-al-fakahani",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALFAKAHANI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALLULUA",
+    "title": "Archnet & Ministry Documentation for Mosque of al-Lu'lu'a",
+    "url": "https://archnet.org/sites/mosque-al-lulua",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALLULUA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALMALIKALSALIHRODA",
+    "title": "Archnet & Ministry Documentation for Mosque of al-Malik al-Salih on Roda",
+    "url": "https://archnet.org/sites/mosque-al-malik-al-salih-roda",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALMALIKALSALIHRODA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALZAHIRBAYBARS",
+    "title": "Archnet & Ministry Documentation for Mosque of al-Zahir Baybars",
+    "url": "https://archnet.org/sites/mosque-al-zahir-baybars",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALZAHIRBAYBARS-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEALTINBUGHAALMARIDANI",
+    "title": "Archnet & Ministry Documentation for Mosque of Altinbugha al-Maridani",
+    "url": "https://archnet.org/sites/mosque-altinbugha-al-maridani",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEALTINBUGHAALMARIDANI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEASLAMALSILAHDAR",
+    "title": "Archnet & Ministry Documentation for Mosque of Aslam al-Silahdar",
+    "url": "https://archnet.org/sites/mosque-aslam-al-silahdar",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEASLAMALSILAHDAR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEMAHMUDALKURDI",
+    "title": "Archnet & Ministry Documentation for Mosque of Mahmud al-Kurdi",
+    "url": "https://archnet.org/sites/mosque-mahmud-al-kurdi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEMAHMUDALKURDI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUEQIJMASALISHAQI",
+    "title": "Archnet & Ministry Documentation for Mosque of Qijmas al-Ishaqi",
+    "url": "https://archnet.org/sites/mosque-qijmas-al-ishaqi",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUEQIJMASALISHAQI-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUESAYYIDANAFISA",
+    "title": "Archnet & Ministry Documentation for Mosque and Shrine of Sayyida Nafisa",
+    "url": "https://archnet.org/sites/mosque-sayyida-nafisa",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUESAYYIDANAFISA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUESAYYIDAZAYNAB",
+    "title": "Archnet & Ministry Documentation for Mosque and Square of Sayyida Zaynab",
+    "url": "https://archnet.org/sites/mosque-sayyida-zaynab",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUESAYYIDAZAYNAB-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-MOSQUESHAYKHU",
+    "title": "Archnet & Ministry Documentation for Mosque of Amir Shaykhu",
+    "url": "https://archnet.org/sites/mosque-shaykhu",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-MOSQUESHAYKHU-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-PALACEAMIRBESHTAK",
+    "title": "Archnet & Ministry Documentation for Palace of Amir Beshtak",
+    "url": "https://archnet.org/sites/palace-amir-beshtak",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-PALACEAMIRBESHTAK-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-PALACEAMIRTAZ",
+    "title": "Archnet & Ministry Documentation for Palace of Amir Taz",
+    "url": "https://archnet.org/sites/palace-amir-taz",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-PALACEAMIRTAZ-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-QAYSARIYYAALMUIZZ",
+    "title": "Archnet & Ministry Documentation for Qaysariyya Commercial Passages of al-Muizz",
+    "url": "https://archnet.org/sites/qaysariyya-al-muizz",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-QAYSARIYYAALMUIZZ-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-QAYTBAYANIMALTROUGH",
+    "title": "Archnet & Ministry Documentation for Animal Trough of Qaytbay",
+    "url": "https://archnet.org/sites/qaytbay-animal-trough",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-QAYTBAYANIMALTROUGH-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-QAYTBAYMAQAD",
+    "title": "Archnet & Ministry Documentation for Maq'ad of Qaytbay",
+    "url": "https://archnet.org/sites/qaytbay-maqad",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-QAYTBAYMAQAD-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-QAYTBAYRAB",
+    "title": "Archnet & Ministry Documentation for Rab' of Qaytbay",
+    "url": "https://archnet.org/sites/qaytbay-rab",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-QAYTBAYRAB-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-RODAISLANDISLAMICLANDSCAPE",
+    "title": "Archnet & Ministry Documentation for Roda Island Islamic Landscape",
+    "url": "https://archnet.org/sites/roda-island-islamic-landscape",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-RODAISLANDISLAMICLANDSCAPE-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILKHUSRAWPASHA",
+    "title": "Archnet & Ministry Documentation for Sabil-Kuttab of Khusraw Pasha",
+    "url": "https://archnet.org/sites/sabil-khusraw-pasha",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILKHUSRAWPASHA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILMUHAMMADALIAQQADIN",
+    "title": "Archnet & Ministry Documentation for Sabil of Muhammad Ali at al-Aqqadin",
+    "url": "https://archnet.org/sites/sabil-muhammad-ali-aqqadin",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILMUHAMMADALIAQQADIN-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILMUHAMMADALINAHHASIN",
+    "title": "Archnet & Ministry Documentation for Sabil-Kuttab of Muhammad Ali at al-Nahhasin",
+    "url": "https://archnet.org/sites/sabil-muhammad-ali-nahhasin",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILMUHAMMADALINAHHASIN-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILQAYTBAYSALIBA",
+    "title": "Archnet & Ministry Documentation for Sabil-Kuttab of Qaytbay on al-Saliba",
+    "url": "https://archnet.org/sites/sabil-qaytbay-saliba",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILQAYTBAYSALIBA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILQITAS",
+    "title": "Archnet & Ministry Documentation for Sabil-Kuttab of Qitas",
+    "url": "https://archnet.org/sites/sabil-qitas",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILQITAS-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILRUQAYYADUDU",
+    "title": "Archnet & Ministry Documentation for Sabil of Ruqayya Dudu",
+    "url": "https://archnet.org/sites/sabil-ruqayya-dudu",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILRUQAYYADUDU-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-SABILUMMABBAS",
+    "title": "Archnet & Ministry Documentation for Sabil Umm Abbas",
+    "url": "https://archnet.org/sites/sabil-umm-abbas",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-SABILUMMABBAS-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-WAKALABAZARAA",
+    "title": "Archnet & Ministry Documentation for Wakala Bazaraa",
+    "url": "https://archnet.org/sites/wakala-bazaraa",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-WAKALABAZARAA-01"
+    ],
+    "notes": "Standard research catalog citation."
+  },
+  {
+    "sourceId": "SRC-WAKALAQAYTBAYBABALNASR",
+    "title": "Archnet & Ministry Documentation for Wakala of Qaytbay near Bab al-Nasr",
+    "url": "https://archnet.org/sites/wakala-qaytbay-bab-al-nasr",
+    "sourceType": "scholarly_database",
+    "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+    "publicationDate": "2020-01-01",
+    "accessedDate": "2026-02-15",
+    "supports": [
+      "CLM-WAKALAQAYTBAYBABALNASR-01"
+    ],
+    "notes": "Standard research catalog citation."
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "slug": "mosque-al-hakim",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Mosque of al-Hakim bi-Amr Allah",
+  "nameAr": "جامع الحاكم بأمر الله",
+  "transliteration": "Mosque of al-Hakim bi-Amr Allah",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "congregational mosque",
+  "district": "Fatimid Cairo north",
+  "location": {
+    "descriptionEn": "Fatimid Cairo north",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Fatimid",
+    "990–1013 CE"
+  ],
+  "historicalSummary": {
+    "en": "Begun under al-Aziz bi-Allah and completed under his son al-Hakim bi-Amr Allah. The mosque was incorporated into the northern extension of Fatimid Cairo and later experienced changing uses and repairs.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A large courtyard mosque with hypostyle prayer halls, monumental exterior walls, corner minarets, and distinctive stone architectural details.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "courtyard",
+    "hypostyle hall",
+    "corner minarets",
+    "stone facade",
+    "inscriptions"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "mosque-al-hakim:unesco-historic-cairo",
+        "mosque-al-hakim:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "mosque-al-hakim-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque of al-Hakim bi-Amr Allah.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع الحاكم بأمر الله.",
+      "confidence": "high",
+      "sourceIds": [
+        "mosque-al-hakim:unesco-historic-cairo",
+        "mosque-al-hakim:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "mosque-al-hakim-history",
+      "claimType": "history",
+      "textEn": "Begun under al-Aziz bi-Allah and completed under his son al-Hakim bi-Amr Allah. The mosque was incorporated into the northern extension of Fatimid Cairo and later experienced changing uses and repairs.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-al-hakim:unesco-historic-cairo",
+        "mosque-al-hakim:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "mosque-al-hakim-architecture",
+      "claimType": "architecture",
+      "textEn": "A large courtyard mosque with hypostyle prayer halls, monumental exterior walls, corner minarets, and distinctive stone architectural details.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-al-hakim:unesco-historic-cairo",
+        "mosque-al-hakim:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "mosque-al-hakim-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-hakim:unesco-historic-cairo",
+        "mosque-al-hakim:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "mosque-al-hakim:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-hakim-identity",
+        "mosque-al-hakim-history",
+        "mosque-al-hakim-architecture",
+        "mosque-al-hakim-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mosque-al-hakim:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-hakim-identity",
+        "mosque-al-hakim-history",
+        "mosque-al-hakim-architecture",
+        "mosque-al-hakim-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

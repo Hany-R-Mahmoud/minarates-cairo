@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-07-24",
+  "deterministic": true,
+  "placeCount": 123,
+  "jsonPlaceFiles": 123,
+  "markdownPlaceFiles": 123,
+  "sourceCount": 182,
+  "claimCount": 492,
+  "photoCount": 0,
+  "unresolvedRecordCount": 123,
+  "validationErrors": [],
+  "statusCounts": {
+    "PUBLISHED_MEDIA": 41,
+    "PROPOSED_V4": 10,
+    "CANDIDATE": 72
+  }
+}

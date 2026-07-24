@@ -7,6 +7,7 @@ import {
   text,
   timestamp,
   varchar,
+  index,
 } from "drizzle-orm/pg-core";
 
 const enumText = <const T extends readonly [string, ...string[]]>(
@@ -247,6 +248,75 @@ export const sources = pgTable("sources", {
 }).enableRLS();
 
 export type Source = typeof sources.$inferSelect;
+
+export const placeAliases = pgTable("placeAliases", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
+  aliasSlug: varchar("aliasSlug", { length: 128 }).notNull().unique(),
+  canonicalSlug: varchar("canonicalSlug", { length: 128 }).notNull(),
+  note: text("note"),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+}).enableRLS();
+
+export type PlaceAlias = typeof placeAliases.$inferSelect;
+
+export const placeClaims = pgTable("placeClaims", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
+  claimId: varchar("claimId", { length: 256 }).notNull().unique(),
+  placeSlug: varchar("placeSlug", { length: 128 }).notNull(),
+  storySlug: varchar("storySlug", { length: 128 }),
+  claimType: varchar("claimType", { length: 64 }).notNull(),
+  textEn: text("textEn").notNull(),
+  textAr: text("textAr"),
+  confidence: enumText("confidence", ["high", "medium", "low", "unknown"]).default("unknown"),
+  status: enumText("status", ["accepted", "alternate", "pending", "rejected"]).default("pending").notNull(),
+  sourceRefs: json("sourceRefs"),
+  provenance: json("provenance"),
+  reasons: json("reasons"),
+  reviewNote: text("reviewNote"),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}).enableRLS();
+
+export type PlaceClaim = typeof placeClaims.$inferSelect;
+
+export const placeFeatures = pgTable("placeFeatures", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
+  featureId: varchar("featureId", { length: 256 }).notNull().unique(),
+  placeSlug: varchar("placeSlug", { length: 128 }).notNull(),
+  labelEn: varchar("labelEn", { length: 256 }).notNull(),
+  labelAr: varchar("labelAr", { length: 256 }),
+  status: enumText("status", ["accepted", "alternate", "pending", "rejected"]).default("pending").notNull(),
+  sourceRefs: json("sourceRefs"),
+  provenance: json("provenance"),
+  reviewNote: text("reviewNote"),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}, table => ({
+  placeStatusIdx: index("placeFeatures_placeSlug_status_idx").on(table.placeSlug, table.status),
+})).enableRLS();
+
+export type PlaceFeature = typeof placeFeatures.$inferSelect;
+
+export const researchReviewItems = pgTable("researchReviewItems", {
+  id: int("id").generatedAlwaysAsIdentity().primaryKey(),
+  recordId: varchar("recordId", { length: 256 }).notNull().unique(),
+  placeSlug: varchar("placeSlug", { length: 128 }).notNull(),
+  kind: varchar("kind", { length: 64 }).notNull(),
+  status: enumText("status", ["pending", "approved", "rejected", "deferred"]).default("pending").notNull(),
+  payload: json("payload").notNull(),
+  provenance: json("provenance"),
+  sourceUrls: json("sourceUrls"),
+  reasons: json("reasons"),
+  reviewNote: text("reviewNote"),
+  reviewedBy: int("reviewedBy"),
+  reviewedAt: timestamp("reviewedAt"),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+  updatedAt: timestamp("updatedAt").defaultNow().notNull(),
+}, table => ({
+  kindStatusIdx: index("researchReviewItems_kind_status_idx").on(table.kind, table.status),
+})).enableRLS();
+
+export type ResearchReviewItem = typeof researchReviewItems.$inferSelect;
 
 // ============================================================
 // MEDIA

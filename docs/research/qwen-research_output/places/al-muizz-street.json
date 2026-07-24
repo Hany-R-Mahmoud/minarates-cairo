@@ -1,0 +1,144 @@
+{
+  "slug": "al-muizz-street",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Al-Muizz Street",
+  "nameAr": "شارع المعز لدين الله الفاطمي",
+  "transliteration": "Al-Muizz Street",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "historic urban street and monument ensemble",
+  "district": "Fatimid Cairo",
+  "location": {
+    "descriptionEn": "Fatimid Cairo",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Fatimid to modern",
+    "from 969 CE"
+  ],
+  "historicalSummary": {
+    "en": "The principal ceremonial and commercial spine of Fatimid Cairo, named for the caliph al-Mu'izz li-Din Allah. Its surviving ensemble accumulated through Ayyubid, Mamluk, Ottoman, and modern interventions.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A linear urban sequence rather than a single building, combining portals, religious foundations, markets, houses, sabils, and wakalas. Street walls, projecting facades, and layered thresholds shape the pedestrian experience.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "monumental portals",
+    "souk passages",
+    "sabil-kuttabs",
+    "courtyards",
+    "street facades"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "al-muizz-street:unesco-historic-cairo",
+        "al-muizz-street:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "al-muizz-street-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Al-Muizz Street.",
+      "textAr": "يسجل الجرد هذا الموقع باسم شارع المعز لدين الله الفاطمي.",
+      "confidence": "high",
+      "sourceIds": [
+        "al-muizz-street:unesco-historic-cairo",
+        "al-muizz-street:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "al-muizz-street-history",
+      "claimType": "history",
+      "textEn": "The principal ceremonial and commercial spine of Fatimid Cairo, named for the caliph al-Mu'izz li-Din Allah. Its surviving ensemble accumulated through Ayyubid, Mamluk, Ottoman, and modern interventions.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-muizz-street:unesco-historic-cairo",
+        "al-muizz-street:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "al-muizz-street-architecture",
+      "claimType": "architecture",
+      "textEn": "A linear urban sequence rather than a single building, combining portals, religious foundations, markets, houses, sabils, and wakalas. Street walls, projecting facades, and layered thresholds shape the pedestrian experience.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-muizz-street:unesco-historic-cairo",
+        "al-muizz-street:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "al-muizz-street-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "al-muizz-street:unesco-historic-cairo",
+        "al-muizz-street:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "al-muizz-street:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-muizz-street-identity",
+        "al-muizz-street-history",
+        "al-muizz-street-architecture",
+        "al-muizz-street-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "al-muizz-street:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-muizz-street-identity",
+        "al-muizz-street-history",
+        "al-muizz-street-architecture",
+        "al-muizz-street-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

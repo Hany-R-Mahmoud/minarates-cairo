@@ -17,7 +17,8 @@ export default function MonumentDetail() {
   const { isAuthenticated } = useAuth();
   const BackIcon = isRTL ? ArrowRight : ArrowLeft;
 
-    const { data: meta, isLoading, error } = trpc.places.withMeta.useQuery({ slug: slug ?? "" }, { enabled: !!slug });
+  const { data: meta, isLoading, error } = trpc.places.withMeta.useQuery({ slug: slug ?? "" }, { enabled: !!slug });
+  const { data: research } = trpc.places.research.useQuery({ slug: slug ?? "" }, { enabled: !!slug });
   const place = meta?.place;
   const toggleFav = trpc.notebook.toggleFavorite.useMutation({
     onSuccess: (res) => {
@@ -75,6 +76,9 @@ export default function MonumentDetail() {
   const keyDates = (place!.keyDates as Array<{ year: number; labelEn: string; labelAr: string }> | null) ?? [];
   const phases = (place!.architecturalPhases as Array<{ nameEn: string; nameAr: string; startYear?: number; endYear?: number; descEn?: string; descAr?: string }> | null) ?? [];
   const media = (meta?.media ?? []).slice(0, 8);
+  const researchClaims = research?.claims ?? [];
+  const researchFeatures = research?.features ?? [];
+  const architectureClaims = researchClaims.filter(claim => claim.claimType === "architecture");
 
   const isStale = place!.practicalInfoFreshness
     ? (Date.now() - new Date(place!.practicalInfoFreshness).getTime()) > 365 * 24 * 60 * 60 * 1000
@@ -228,6 +232,7 @@ export default function MonumentDetail() {
               <TabsList className="bg-[var(--color-parchment-200)] mb-6">
                 <TabsTrigger value="history" className={lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}>{t("History", "التاريخ")}</TabsTrigger>
                 <TabsTrigger value="architecture" className={lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}>{t("Architecture", "العمارة")}</TabsTrigger>
+                <TabsTrigger value="evidence" className={lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}>{t("Evidence", "الأدلة")}</TabsTrigger>
                 <TabsTrigger value="bilingual" className={lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}>{t("Bilingual", "ثنائي اللغة")}</TabsTrigger>
                 {clarification && <TabsTrigger value="clarify" className={lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}>{t("Clarification", "توضيح")}</TabsTrigger>}
               </TabsList>
@@ -266,6 +271,38 @@ export default function MonumentDetail() {
               </TabsContent>
 
               <TabsContent value="architecture" className="space-y-6">
+                {brief && (
+                  <div className="notebook-card">
+                    <h3 className={`text-lg font-semibold text-[var(--color-stone-900)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)] text-right" : "font-[var(--font-serif)]"}`}>
+                      {t("Reading the architecture", "قراءة العمارة")}
+                    </h3>
+                    <p className={`text-sm leading-relaxed text-[var(--color-stone-700)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                      {brief}
+                    </p>
+                  </div>
+                )}
+                {researchFeatures.length > 0 && (
+                  <div>
+                    <h3 className={`text-lg font-semibold text-[var(--color-stone-900)] mb-3 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
+                      {t("Documented features", "العناصر المعمارية الموثقة")}
+                    </h3>
+                    <div className="flex flex-wrap gap-2">
+                      {researchFeatures.map(feature => <Badge key={feature.featureId} variant="secondary">{lang === "ar" ? feature.labelAr ?? feature.labelEn : feature.labelEn}</Badge>)}
+                    </div>
+                  </div>
+                )}
+                {architectureClaims.length > 0 && (
+                  <div className="space-y-4">
+                    <h3 className={`text-lg font-semibold text-[var(--color-stone-900)] ${lang === "ar" ? "font-[var(--font-arabic)] text-right" : "font-[var(--font-serif)]"}`}>
+                      {t("Research notes", "ملاحظات بحثية")}
+                    </h3>
+                    {architectureClaims.map(claim => (
+                      <p key={claim.claimId} className={`border-l-2 border-[var(--color-teal-500)]/40 pl-4 text-sm leading-relaxed text-[var(--color-stone-700)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                        {lang === "ar" ? claim.textAr ?? claim.textEn : claim.textEn}
+                      </p>
+                    ))}
+                  </div>
+                )}
                 {phases.length > 0 ? (
                   <div>
                     <h3 className={`text-lg font-semibold text-[var(--color-stone-900)] mb-4 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
@@ -287,9 +324,29 @@ export default function MonumentDetail() {
                       ))}
                     </div>
                   </div>
-                ) : (
-                  <p className="text-[var(--color-stone-400)] italic">{t("Architectural details coming soon.", "التفاصيل المعمارية قريباً.")}</p>
-                )}
+                ) : !brief && researchFeatures.length === 0 && architectureClaims.length === 0 ? (
+                  <p className="text-[var(--color-stone-500)]">{t("Architectural notes are being prepared for this place.", "يجري إعداد الملاحظات المعمارية لهذا المكان.")}</p>
+                ) : null}
+              </TabsContent>
+
+              <TabsContent value="evidence" className="space-y-5">
+                {researchClaims.length > 0 ? researchClaims.map(claim => {
+                  const sourceRefs = Array.isArray(claim.sourceRefs) ? claim.sourceRefs.filter((ref): ref is string => typeof ref === "string") : [];
+                  const claimText = lang === "ar" ? claim.textAr ?? claim.textEn : claim.textEn;
+                  return (
+                    <article key={claim.claimId} className="border-l-2 border-[var(--color-teal-500)]/40 pl-4">
+                      <div className="flex items-center gap-2 mb-1">
+                        <Badge variant="outline" className="text-[10px] uppercase">{claim.claimType}</Badge>
+                        <span className="text-xs text-[var(--color-stone-400)]">{claim.confidence ?? "unknown"}</span>
+                      </div>
+                      <p className={`text-sm leading-relaxed text-[var(--color-stone-700)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>{claimText}</p>
+                      {sourceRefs.length > 0 && <div className="mt-2 flex flex-wrap gap-2">{sourceRefs.map(ref => {
+                        const source = research?.sources.find(item => item.slug === ref);
+                        return source?.url ? <a key={ref} href={source.url} target="_blank" rel="noopener noreferrer" className="text-xs text-[var(--color-terracotta-600)] hover:underline">{source.titleEn}</a> : <span key={ref} className="text-xs text-[var(--color-stone-400)]">{ref}</span>;
+                      })}</div>}
+                    </article>
+                  );
+                }) : <p className="text-[var(--color-stone-400)] italic">{t("Curated evidence will appear here after import and review.", "ستظهر الأدلة المنسقة هنا بعد الاستيراد والمراجعة.")}</p>}
               </TabsContent>
 
               <TabsContent value="bilingual">
@@ -309,7 +366,7 @@ export default function MonumentDetail() {
                 <TabsContent value="clarify">
                   <div className="clarification-callout">
                     <h3 className={`font-semibold text-[var(--color-stone-900)] mb-2 ${lang === "ar" ? "font-[var(--font-arabic)] text-right" : "font-[var(--font-serif)]"}`}>
-                      {t("Do Not Misunderstand", "لا تُساء الفهم")}
+                      {t("A detail worth noticing", "تفصيل يستحق الانتباه")}
                     </h3>
                     <p className={`text-sm text-[var(--color-stone-600)] leading-relaxed ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
                       {clarification}

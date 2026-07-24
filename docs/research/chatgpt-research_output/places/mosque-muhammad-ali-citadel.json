@@ -1,0 +1,146 @@
+{
+  "slug": "mosque-muhammad-ali-citadel",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Mosque of Muhammad Ali",
+  "nameAr": "جامع محمد علي باشا",
+  "transliteration": "Mosque of Muhammad Ali",
+  "alternativeNames": [],
+  "relatedSlugs": [
+    "muhammad-ali-mosque"
+  ],
+  "placeType": "mosque",
+  "district": "Cairo Citadel",
+  "location": {
+    "descriptionEn": "Cairo Citadel",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Ottoman revival / Muhammad Ali period",
+    "1830–1848 CE"
+  ],
+  "historicalSummary": {
+    "en": "Built for Muhammad Ali Pasha within the Citadel between 1830 and 1848. Its design announced the ruler's modernizing authority through a conspicuous Ottoman-inspired imperial form.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A large central dome is supported by semi-domes and flanked by slender pencil-like minarets. The interior uses marble revetment, painted decoration, galleries, and a prominent courtyard.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "central dome",
+    "semi-domes",
+    "twin minarets",
+    "marble revetment",
+    "courtyard"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "mosque-muhammad-ali-citadel:unesco-historic-cairo",
+        "mosque-muhammad-ali-citadel:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "mosque-muhammad-ali-citadel-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque of Muhammad Ali.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع محمد علي باشا.",
+      "confidence": "high",
+      "sourceIds": [
+        "mosque-muhammad-ali-citadel:unesco-historic-cairo",
+        "mosque-muhammad-ali-citadel:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "mosque-muhammad-ali-citadel-history",
+      "claimType": "history",
+      "textEn": "Built for Muhammad Ali Pasha within the Citadel between 1830 and 1848. Its design announced the ruler's modernizing authority through a conspicuous Ottoman-inspired imperial form.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-muhammad-ali-citadel:unesco-historic-cairo",
+        "mosque-muhammad-ali-citadel:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "mosque-muhammad-ali-citadel-architecture",
+      "claimType": "architecture",
+      "textEn": "A large central dome is supported by semi-domes and flanked by slender pencil-like minarets. The interior uses marble revetment, painted decoration, galleries, and a prominent courtyard.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-muhammad-ali-citadel:unesco-historic-cairo",
+        "mosque-muhammad-ali-citadel:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "mosque-muhammad-ali-citadel-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-muhammad-ali-citadel:unesco-historic-cairo",
+        "mosque-muhammad-ali-citadel:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "mosque-muhammad-ali-citadel:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-muhammad-ali-citadel-identity",
+        "mosque-muhammad-ali-citadel-history",
+        "mosque-muhammad-ali-citadel-architecture",
+        "mosque-muhammad-ali-citadel-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mosque-muhammad-ali-citadel:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-muhammad-ali-citadel-identity",
+        "mosque-muhammad-ali-citadel-history",
+        "mosque-muhammad-ali-citadel-architecture",
+        "mosque-muhammad-ali-citadel-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

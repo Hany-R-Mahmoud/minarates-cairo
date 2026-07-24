@@ -7,6 +7,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Search, Calendar, ChevronRight, ImageOff } from "lucide-react";
 import { buildImageKitSrcSet, buildImageKitUrl, isImageKitUrl } from "@shared/media";
 import type { Place } from "@shared/types";
+import { Badge } from "@/components/ui/badge";
 import PageIntro from "@/components/PageIntro";
 
 export default function Monuments() {
@@ -19,6 +20,7 @@ export default function Monuments() {
   const { data: periods } = trpc.periods.list.useQuery();
   const { data: districts } = trpc.districts.list.useQuery();
   const { data: placeTypes } = trpc.placeTypes.list.useQuery();
+  const { data: researchCoverage } = trpc.places.researchCoverage.useQuery();
   const { data: placesData, isLoading } = trpc.places.list.useQuery({
     limit: 100,
     offset: 0,
@@ -30,6 +32,8 @@ export default function Monuments() {
   });
 
   const places = placesData?.items ?? [];
+  const coverageBySlug = new Map((researchCoverage ?? []).map(item => [item.placeSlug, item]));
+  const researchedPlaceCount = researchCoverage?.filter(item => item.claimCount > 0 || item.featureCount > 0).length ?? 0;
   const getPlaceImageAlt = (place: Place) =>
     lang === "ar" ? (place.coverImageAltAr ?? place.coverImageAlt) : place.coverImageAlt;
   const hasVerifiedPlaceImage = (place: Place) => Boolean(
@@ -46,7 +50,7 @@ export default function Monuments() {
         variant="explore"
         title={t("Monuments of Islamic Cairo", "معالم القاهرة الإسلامية")}
         description={placesData
-          ? t(`${placesData.total} published places across a thousand years`, `${placesData.total} موقعاً منشوراً عبر ألف عام`)
+          ? t(`${placesData.total} published places across a thousand years · ${researchedPlaceCount} with research records`, `${placesData.total} موقعاً منشوراً عبر ألف عام · ${researchedPlaceCount} بسجلات بحثية`)
           : t("Published places across a thousand years", "معالم منشورة عبر ألف عام")}
       />
 
@@ -140,6 +144,10 @@ export default function Monuments() {
             {places.map(place => (
               <Link key={place.id} href={`/monuments/${place.slug}`}>
                 <div className="monument-card cursor-pointer group h-full flex flex-col">
+                  {(() => {
+                    const research = coverageBySlug.get(place.slug);
+                    return (
+                      <>
                   {/* Use only media with complete provenance and descriptive text. */}
                   <div className="h-40 bg-[var(--color-stone-800)] relative overflow-hidden shrink-0">
                     {hasVerifiedPlaceImage(place) ? (
@@ -180,11 +188,33 @@ export default function Monuments() {
                         </span>
                       )}
                     </div>
+                    {research && research.claimCount > 0 && (
+                      <div className={`mt-3 border-t border-[var(--color-border)] pt-3 ${lang === "ar" ? "text-right" : ""}`}>
+                        <div className={`flex flex-wrap gap-1.5 ${isRTL ? "flex-row-reverse" : ""}`}>
+                          <Badge variant="secondary" className="text-[10px]">
+                            {t(`${research.claimCount} evidence records`, `${research.claimCount} سجل أدلة`)}
+                          </Badge>
+                          {research.featureCount > 0 && (
+                            <Badge variant="outline" className="text-[10px]">
+                              {t(`${research.featureCount} features`, `${research.featureCount} عناصر`)}
+                            </Badge>
+                          )}
+                        </div>
+                        {research.highlights[0] && (
+                          <p className={`mt-2 text-xs text-[var(--color-stone-600)] line-clamp-2 leading-relaxed ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+                            {lang === "ar" ? research.highlights[0].ar ?? research.highlights[0].en : research.highlights[0].en}
+                          </p>
+                        )}
+                      </div>
+                    )}
                     <div className={`flex items-center gap-1 mt-3 text-[var(--color-terracotta-600)] text-xs font-medium ${isRTL ? "flex-row-reverse" : ""}`}>
                       <span>{t("View", "عرض")}</span>
                       <ChevronRight size={12} />
                     </div>
                   </div>
+                      </>
+                    );
+                  })()}
                 </div>
               </Link>
             ))}

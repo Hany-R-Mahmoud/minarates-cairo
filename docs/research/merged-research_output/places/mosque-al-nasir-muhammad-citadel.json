@@ -1,0 +1,851 @@
+{
+  "schemaVersion": 1,
+  "slug": "mosque-al-nasir-muhammad-citadel",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Unknown — requires official or field verification.",
+  "historicalPeriods": [
+    "Historic Cairo context — period-specific verification required",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mosque of al-Nasir Muhammad at the Citadel) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (جامع الناصر محمد بالقلعة) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Unknown — requires official or field verification.",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "مسجد الناصر محمد بالقلعة",
+  "nameEn": "Mosque of al-Nasir Muhammad at the Citadel",
+  "placeType": "historic place / research record",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mosque of al-Nasir Muhammad at the Citadel played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت جامع الناصر محمد بالقلعة في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MOSQUEALNASIRMUHAMMADCITADEL"
+      ]
+    }
+  ],
+  "transliteration": "Mosque of al-Nasir Muhammad at the Citadel",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-mosque-al-nasir-muhammad-citadel",
+      "placeId": null,
+      "placeSlug": "mosque-al-nasir-muhammad-citadel",
+      "placeNameEn": "Mosque of al-Nasir Muhammad (Citadel)",
+      "placeNameAr": "مسجد الناصر محمد بالقلعة",
+      "role": "cover",
+      "imageKitPath": "/places/mosque-al-nasir-muhammad-citadel/cover.jpg",
+      "localFile": "images/mosque-al-nasir-muhammad-citadel/mosque-al-nasir-muhammad-citadel-cover-citadel-courtyard.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_%281%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_(1).jpg",
+      "sourceTitle": "Courtyard of Al-Nasir Muhammad Mosque Cairo Citadel 2019 (1).jpg",
+      "cdnUrl": null,
+      "creator": "Radosław Botev",
+      "license": "CC BY 3.0 PL",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/",
+      "attribution": "Courtyard of Al-Nasir Muhammad Mosque Cairo Citadel 2019 (1).jpg — Radosław Botev, CC BY 3.0 PL, via Wikimedia Commons",
+      "altEn": "The courtyard of Al-Nasir Muhammad Mosque at the Cairo Citadel, framed by columns and arcades.",
+      "altAr": "فناء مسجد الناصر محمد في قلعة القاهرة تحيط به الأعمدة والأروقة.",
+      "captionEn": "Courtyard of Al-Nasir Muhammad Mosque at the Citadel.",
+      "captionAr": "فناء مسجد الناصر محمد بالقلعة.",
+      "mediaType": "photo",
+      "visualType": "courtyard",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 4000,
+      "height": 3000,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1300818,
+      "checksum": "67d7cae148d6c04163964fdf2d4020dc90134930e352410396b31234319267f4",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_(1).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_%281%29.jpg",
+        "creator": "Radosław Botev",
+        "license": "CC BY 3.0 PL",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/",
+        "attribution": "Courtyard of Al-Nasir Muhammad Mosque Cairo Citadel 2019 (1).jpg — Radosław Botev, CC BY 3.0 PL, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-mosque-al-nasir-muhammad-citadel:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "variants": [
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Unknown — requires official or field verification.",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Historic Cairo context — period-specific verification required"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mosque of al-Nasir Muhammad at the Citadel) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع الناصر محمد بالقلعة) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mosque of al-Nasir Muhammad at the Citadel) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (جامع الناصر محمد بالقلعة) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Unknown — requires official or field verification.",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "مسجد الناصر محمد بالقلعة",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "مسجد الناصر محمد بالقلعة"
+        },
+        {
+          "provenance": "gemini",
+          "value": "جامع الناصر محمد بالقلعة"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Mosque of al-Nasir Muhammad at the Citadel",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of al-Nasir Muhammad at the Citadel"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "historic place / research record",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "historic place / research record"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of al-Nasir Muhammad at the Citadel played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع الناصر محمد بالقلعة في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALNASIRMUHAMMADCITADEL"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+                "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mosque of al-Nasir Muhammad at the Citadel played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت جامع الناصر محمد بالقلعة في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MOSQUEALNASIRMUHAMMADCITADEL"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mosque of al-Nasir Muhammad at the Citadel",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of al-Nasir Muhammad at the Citadel"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mosque-al-nasir-muhammad-citadel",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque of al-Nasir Muhammad at the Citadel",
+      "nameAr": "مسجد الناصر محمد بالقلعة",
+      "transliteration": "Mosque of al-Nasir Muhammad at the Citadel",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "historic place / research record",
+      "district": "Unknown — requires official or field verification.",
+      "location": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "historicalSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architectureSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architecturalElements": [],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+            "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mosque-al-nasir-muhammad-citadel-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mosque of al-Nasir Muhammad at the Citadel.",
+          "textAr": "يسجل الجرد هذا الموقع باسم مسجد الناصر محمد بالقلعة.",
+          "confidence": "high",
+          "sourceIds": [
+            "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+            "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-nasir-muhammad-citadel-history",
+          "claimType": "history",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+            "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-nasir-muhammad-citadel-architecture",
+          "claimType": "architecture",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+            "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-al-nasir-muhammad-citadel-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+            "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-nasir-muhammad-citadel-identity",
+            "mosque-al-nasir-muhammad-citadel-history",
+            "mosque-al-nasir-muhammad-citadel-architecture",
+            "mosque-al-nasir-muhammad-citadel-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "mosque-al-nasir-muhammad-citadel:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-al-nasir-muhammad-citadel-identity",
+            "mosque-al-nasir-muhammad-citadel-history",
+            "mosque-al-nasir-muhammad-citadel-architecture",
+            "mosque-al-nasir-muhammad-citadel-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mosque-al-nasir-muhammad-citadel",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque of al-Nasir Muhammad at the Citadel",
+      "nameAr": "جامع الناصر محمد بالقلعة",
+      "transliteration": "Mosque of al-Nasir Muhammad at the Citadel",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mosque of al-Nasir Muhammad at the Citadel) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع الناصر محمد بالقلعة) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of al-Nasir Muhammad at the Citadel played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع الناصر محمد بالقلعة في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEALNASIRMUHAMMADCITADEL"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MOSQUEALNASIRMUHAMMADCITADEL-01",
+          "claimType": "history",
+          "textEn": "The site Mosque of al-Nasir Muhammad at the Citadel is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل جامع الناصر محمد بالقلعة كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-MOSQUEALNASIRMUHAMMADCITADEL"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MOSQUEALNASIRMUHAMMADCITADEL",
+          "title": "Archnet & Ministry Documentation for Mosque of al-Nasir Muhammad at the Citadel",
+          "url": "https://archnet.org/sites/mosque-al-nasir-muhammad-citadel",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MOSQUEALNASIRMUHAMMADCITADEL-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mosque-al-nasir-muhammad-citadel.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mosque-al-nasir-muhammad-citadel.jpg",
+          "title": "General View of Mosque of al-Nasir Muhammad at the Citadel",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mosque of al-Nasir Muhammad at the Citadel\n\nArabic name: **مسجد الناصر محمد بالقلعة**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-nasir-muhammad-citadel`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-nasir-muhammad-citadel:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-nasir-muhammad-citadel:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mosque of al-Nasir Muhammad at the Citadel\n\nArabic name: **مسجد الناصر محمد بالقلعة**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-al-nasir-muhammad-citadel`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-al-nasir-muhammad-citadel:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-al-nasir-muhammad-citadel:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mosque of al-Nasir Muhammad at the Citadel (جامع الناصر محمد بالقلعة)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mosque of al-Nasir Muhammad at the Citadel) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (جامع الناصر محمد بالقلعة) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mosque of al-Nasir Muhammad at the Citadel played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mosque of al-Nasir Muhammad at the Citadel (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mosque-al-nasir-muhammad-citadel.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MOSQUEALNASIRMUHAMMADCITADEL]** [Archnet & Ministry Documentation for Mosque of al-Nasir Muhammad at the Citadel](https://archnet.org/sites/mosque-al-nasir-muhammad-citadel) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-mosque-al-nasir-muhammad-citadel",
+        "placeId": null,
+        "placeSlug": "mosque-al-nasir-muhammad-citadel",
+        "placeNameEn": "Mosque of al-Nasir Muhammad (Citadel)",
+        "placeNameAr": "مسجد الناصر محمد بالقلعة",
+        "role": "cover",
+        "imageKitPath": "/places/mosque-al-nasir-muhammad-citadel/cover.jpg",
+        "localFile": "images/mosque-al-nasir-muhammad-citadel/mosque-al-nasir-muhammad-citadel-cover-citadel-courtyard.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_%281%29.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_(1).jpg",
+        "sourceTitle": "Courtyard of Al-Nasir Muhammad Mosque Cairo Citadel 2019 (1).jpg",
+        "cdnUrl": null,
+        "creator": "Radosław Botev",
+        "license": "CC BY 3.0 PL",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/",
+        "attribution": "Courtyard of Al-Nasir Muhammad Mosque Cairo Citadel 2019 (1).jpg — Radosław Botev, CC BY 3.0 PL, via Wikimedia Commons",
+        "altEn": "The courtyard of Al-Nasir Muhammad Mosque at the Cairo Citadel, framed by columns and arcades.",
+        "altAr": "فناء مسجد الناصر محمد في قلعة القاهرة تحيط به الأعمدة والأروقة.",
+        "captionEn": "Courtyard of Al-Nasir Muhammad Mosque at the Citadel.",
+        "captionAr": "فناء مسجد الناصر محمد بالقلعة.",
+        "mediaType": "photo",
+        "visualType": "courtyard",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 4000,
+        "height": 3000,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1300818,
+        "checksum": "67d7cae148d6c04163964fdf2d4020dc90134930e352410396b31234319267f4",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_(1).jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_%281%29.jpg",
+          "creator": "Radosław Botev",
+          "license": "CC BY 3.0 PL",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/",
+          "attribution": "Courtyard of Al-Nasir Muhammad Mosque Cairo Citadel 2019 (1).jpg — Radosław Botev, CC BY 3.0 PL, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-mosque-al-nasir-muhammad-citadel:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Mosque of al-Nasir Muhammad (Citadel)\n\n- **Place slug:** `mosque-al-nasir-muhammad-citadel`\n- **Asset ID:** `cover-mosque-al-nasir-muhammad-citadel`\n- **Role:** cover\n- **Local file:** `images/mosque-al-nasir-muhammad-citadel/mosque-al-nasir-muhammad-citadel-cover-citadel-courtyard.jpg`\n- **Canonical ImageKit path:** `/places/mosque-al-nasir-muhammad-citadel/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_(1).jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/c/cc/Courtyard_of_Al-Nasir_Muhammad_Mosque_Cairo_Citadel_2019_%281%29.jpg\n- **Source title:** Courtyard of Al-Nasir Muhammad Mosque Cairo Citadel 2019 (1).jpg\n- **Creator:** Radosław Botev\n- **License:** CC BY 3.0 PL\n- **License URL:** https://creativecommons.org/licenses/by/3.0/pl/\n- **Required attribution:** Courtyard of Al-Nasir Muhammad Mosque Cairo Citadel 2019 (1).jpg — Radosław Botev, CC BY 3.0 PL, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The courtyard of Al-Nasir Muhammad Mosque at the Cairo Citadel, framed by columns and arcades.\n- **Alt text (AR):** فناء مسجد الناصر محمد في قلعة القاهرة تحيط به الأعمدة والأروقة.\n- **Caption (EN):** Courtyard of Al-Nasir Muhammad Mosque at the Citadel.\n- **Caption (AR):** فناء مسجد الناصر محمد بالقلعة.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+    "mosque-al-nasir-muhammad-citadel:mota-historic-cairo",
+    "SRC-MOSQUEALNASIRMUHAMMADCITADEL"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-nasir-muhammad-citadel-identity",
+        "mosque-al-nasir-muhammad-citadel-history",
+        "mosque-al-nasir-muhammad-citadel-architecture",
+        "mosque-al-nasir-muhammad-citadel-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mosque-al-nasir-muhammad-citadel:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-al-nasir-muhammad-citadel-identity",
+        "mosque-al-nasir-muhammad-citadel-history",
+        "mosque-al-nasir-muhammad-citadel-architecture",
+        "mosque-al-nasir-muhammad-citadel-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-MOSQUEALNASIRMUHAMMADCITADEL",
+      "title": "Archnet & Ministry Documentation for Mosque of al-Nasir Muhammad at the Citadel",
+      "url": "https://archnet.org/sites/mosque-al-nasir-muhammad-citadel",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MOSQUEALNASIRMUHAMMADCITADEL-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "mosque-al-nasir-muhammad-citadel-identity",
+      "placeSlug": "mosque-al-nasir-muhammad-citadel",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque of al-Nasir Muhammad at the Citadel.",
+      "textAr": "يسجل الجرد هذا الموقع باسم مسجد الناصر محمد بالقلعة.",
+      "confidence": "high",
+      "sourceIds": [
+        "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+        "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "mosque-al-nasir-muhammad-citadel-status",
+      "placeSlug": "mosque-al-nasir-muhammad-citadel",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+        "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MOSQUEALNASIRMUHAMMADCITADEL-01",
+      "placeSlug": "mosque-al-nasir-muhammad-citadel",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mosque of al-Nasir Muhammad at the Citadel is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل جامع الناصر محمد بالقلعة كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-MOSQUEALNASIRMUHAMMADCITADEL"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mosque-al-nasir-muhammad-citadel-history",
+      "placeSlug": "mosque-al-nasir-muhammad-citadel",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+        "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mosque-al-nasir-muhammad-citadel-architecture",
+      "placeSlug": "mosque-al-nasir-muhammad-citadel",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-al-nasir-muhammad-citadel:unesco-historic-cairo",
+        "mosque-al-nasir-muhammad-citadel:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

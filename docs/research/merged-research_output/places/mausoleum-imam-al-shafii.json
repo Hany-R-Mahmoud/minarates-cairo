@@ -1,0 +1,1240 @@
+{
+  "schemaVersion": 1,
+  "slug": "mausoleum-imam-al-shafii",
+  "status": "PROPOSED_V4",
+  "slugAliases": [],
+  "architecturalElements": [
+    "wooden dome",
+    "cenotaph",
+    "mihrab",
+    "funerary chamber",
+    "cemetery landscape",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Southern Cemetery / al-Khalifa",
+  "historicalPeriods": [
+    "Ayyubid with later Ottoman and modern repairs",
+    "1211 CE and later",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mausoleum of Imam al-Shafi'i) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (قبة الإمام الشافعي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Imam al-Shafi'i Cemetery",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "ضريح الإمام الشافعي",
+  "nameEn": "Mausoleum of Imam al-Shafi’i",
+  "placeType": "mausoleum and active shrine",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mausoleum of Imam al-Shafi'i played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت قبة الإمام الشافعي في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MAUSOLEUMIMAMALSHAFII"
+      ]
+    },
+    {
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "relatedPlaceSlug": "mausoleum-imam-al-shafii",
+      "titleEn": "Reading Mausoleum of Imam al-Shafi’i",
+      "titleAr": "قراءة ضريح الإمام الشافعي",
+      "summaryEn": "A bilingual architectural and historical journey through Mausoleum of Imam al-Shafi’i.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في ضريح الإمام الشافعي.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "mausoleum-imam-al-shafii-chapter-1",
+          "titleEn": "Scholarship, Devotion, and the Qarafa",
+          "titleAr": "العلم والزيارة والقرافة",
+          "bodyEn": "Mausoleum of Imam al-Shafi’i belongs to Ayyubid Cairo with later phases, but its significance becomes clearer when placed within the political and urban history of Southern Cemetery / al-Khalifa. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي ضريح الإمام الشافعي إلى القاهرة الأيوبية مع مراحل لاحقة، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة القرافة الجنوبية / الخليفة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "mausoleum-imam-al-shafii-chapter-2",
+          "titleEn": "Reading the Architecture of Mausoleum of Imam al-Shafi’i",
+          "titleAr": "قراءة عمارة ضريح الإمام الشافعي",
+          "bodyEn": "The monument rewards a slow visual reading of great dome, wooden enclosure, inscriptions, Ayyubid patronage and living shrine. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة الكبرى والحاجز الخشبي والنقوش والرعاية الأيوبية والمزار الحي. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "mausoleum-imam-al-shafii-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Ayyubid Cairo with later phases"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mausoleum and active shrine",
+        "Southern Cemetery / al-Khalifa",
+        "Ayyubid and later"
+      ],
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "claimIds": [
+        "claim-mausoleum-imam-al-shafii-story-1",
+        "claim-mausoleum-imam-al-shafii-story-2",
+        "claim-mausoleum-imam-al-shafii-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    }
+  ],
+  "transliteration": "Mausoleum of Imam al-Shafi'i",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-mausoleum-imam-al-shafii",
+      "placeId": null,
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "placeNameEn": "Mausoleum of Imam al-Shafi’i",
+      "placeNameAr": "ضريح الإمام الشافعي",
+      "role": "cover",
+      "imageKitPath": "/places/mausoleum-imam-al-shafii/cover.jpg",
+      "localFile": "images/mausoleum-imam-al-shafii/mausoleum-imam-al-shafii-cover-wooden-enclosure.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Imam_Shafii_Tomb.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Imam_Shafii_Tomb.jpg",
+      "sourceTitle": "Imam Shafii Tomb.jpg",
+      "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/mausoleum-imam-al-shafii/mausoleum-imam-al-shafii-cover-wooden-enclosure.jpg",
+      "creator": "Imam Khairul Annas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Imam Shafii Tomb.jpg — Imam Khairul Annas, CC BY-SA 4.0, via Wikimedia Commons",
+      "altEn": "The carved wooden enclosure around the tomb inside the mausoleum.",
+      "altAr": "الحاجز الخشبي المنحوت حول القبر داخل الضريح.",
+      "captionEn": "The carved wooden enclosure around the tomb inside the mausoleum.",
+      "captionAr": "الحاجز الخشبي المنحوت حول القبر داخل الضريح.",
+      "mediaType": "photo",
+      "visualType": "interior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 3264,
+      "height": 2448,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1877002,
+      "checksum": "27943240042db0445fb64107403ad668cc1625c16076a5c5eee98c78ea056bfe",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "baseline_v4",
+      "provenanceGroup": "baseline_v4",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Imam_Shafii_Tomb.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Imam_Shafii_Tomb.jpg",
+        "creator": "Imam Khairul Annas",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Imam Shafii Tomb.jpg — Imam Khairul Annas, CC BY-SA 4.0, via Wikimedia Commons",
+        "verifiedBy": "baseline_v4",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-mausoleum-imam-al-shafii:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "wooden dome",
+        "cenotaph",
+        "mihrab",
+        "funerary chamber",
+        "cemetery landscape"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "wooden dome",
+            "cenotaph",
+            "mihrab",
+            "funerary chamber",
+            "cemetery landscape"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A domed funerary chamber with a monumental wooden dome, cenotaph, mihrab, and later additions. The complex anchors a major cemetery landscape and pilgrimage tradition.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Southern Cemetery / al-Khalifa",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Imam al-Shafi'i Cemetery"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": "Southern Cemetery / al-Khalifa",
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Ayyubid with later Ottoman and modern repairs",
+        "1211 CE and later"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Ayyubid with later Ottoman and modern repairs",
+            "1211 CE and later"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mausoleum of Imam al-Shafi'i) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (قبة الإمام الشافعي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "The Ayyubid sultan al-Kamil commissioned a mausoleum over the tomb of Imam al-Shafi'i in 1211. The celebrated wooden dome and later fabric reflect centuries of devotion and repair.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mausoleum of Imam al-Shafi'i) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (قبة الإمام الشافعي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Imam al-Shafi'i Cemetery",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Imam al-Shafi'i Cemetery",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "ضريح الإمام الشافعي",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "ضريح الإمام الشافعي"
+        },
+        {
+          "provenance": "gemini",
+          "value": "قبة الإمام الشافعي"
+        }
+      ],
+      "baselineValue": "ضريح الإمام الشافعي",
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Mausoleum of Imam al-Shafi’i",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mausoleum of Imam al-Shafi'i"
+        }
+      ],
+      "baselineValue": "Mausoleum of Imam al-Shafi’i",
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mausoleum and active shrine",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mausoleum and shrine"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": "mausoleum and active shrine",
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mausoleum of Imam al-Shafi'i played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت قبة الإمام الشافعي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MAUSOLEUMIMAMALSHAFII"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mausoleum-imam-al-shafii:unesco-historic-cairo",
+                "mausoleum-imam-al-shafii:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mausoleum of Imam al-Shafi'i played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت قبة الإمام الشافعي في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MAUSOLEUMIMAMALSHAFII"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mausoleum of Imam al-Shafi'i",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mausoleum of Imam al-Shafi'i"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mausoleum-imam-al-shafii",
+      "status": "PROPOSED_V4",
+      "nameEn": "Mausoleum of Imam al-Shafi'i",
+      "nameAr": "ضريح الإمام الشافعي",
+      "transliteration": "Mausoleum of Imam al-Shafi'i",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "mausoleum and shrine",
+      "district": "Imam al-Shafi'i Cemetery",
+      "location": {
+        "descriptionEn": "Imam al-Shafi'i Cemetery",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Ayyubid with later Ottoman and modern repairs",
+        "1211 CE and later"
+      ],
+      "historicalSummary": {
+        "en": "The Ayyubid sultan al-Kamil commissioned a mausoleum over the tomb of Imam al-Shafi'i in 1211. The celebrated wooden dome and later fabric reflect centuries of devotion and repair.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A domed funerary chamber with a monumental wooden dome, cenotaph, mihrab, and later additions. The complex anchors a major cemetery landscape and pilgrimage tradition.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "wooden dome",
+        "cenotaph",
+        "mihrab",
+        "funerary chamber",
+        "cemetery landscape"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mausoleum-imam-al-shafii:unesco-historic-cairo",
+            "mausoleum-imam-al-shafii:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mausoleum-imam-al-shafii-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mausoleum of Imam al-Shafi'i.",
+          "textAr": "يسجل الجرد هذا الموقع باسم ضريح الإمام الشافعي.",
+          "confidence": "high",
+          "sourceIds": [
+            "mausoleum-imam-al-shafii:unesco-historic-cairo",
+            "mausoleum-imam-al-shafii:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-imam-al-shafii-history",
+          "claimType": "history",
+          "textEn": "The Ayyubid sultan al-Kamil commissioned a mausoleum over the tomb of Imam al-Shafi'i in 1211. The celebrated wooden dome and later fabric reflect centuries of devotion and repair.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mausoleum-imam-al-shafii:unesco-historic-cairo",
+            "mausoleum-imam-al-shafii:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-imam-al-shafii-architecture",
+          "claimType": "architecture",
+          "textEn": "A domed funerary chamber with a monumental wooden dome, cenotaph, mihrab, and later additions. The complex anchors a major cemetery landscape and pilgrimage tradition.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mausoleum-imam-al-shafii:unesco-historic-cairo",
+            "mausoleum-imam-al-shafii:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-imam-al-shafii-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mausoleum-imam-al-shafii:unesco-historic-cairo",
+            "mausoleum-imam-al-shafii:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mausoleum-imam-al-shafii:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mausoleum-imam-al-shafii-identity",
+            "mausoleum-imam-al-shafii-history",
+            "mausoleum-imam-al-shafii-architecture",
+            "mausoleum-imam-al-shafii-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "mausoleum-imam-al-shafii:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mausoleum-imam-al-shafii-identity",
+            "mausoleum-imam-al-shafii-history",
+            "mausoleum-imam-al-shafii-architecture",
+            "mausoleum-imam-al-shafii-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mausoleum-imam-al-shafii",
+      "status": "PROPOSED_V4",
+      "nameEn": "Mausoleum of Imam al-Shafi'i",
+      "nameAr": "قبة الإمام الشافعي",
+      "transliteration": "Mausoleum of Imam al-Shafi'i",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mausoleum of Imam al-Shafi'i) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (قبة الإمام الشافعي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mausoleum of Imam al-Shafi'i played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت قبة الإمام الشافعي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MAUSOLEUMIMAMALSHAFII"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MAUSOLEUMIMAMALSHAFII-01",
+          "claimType": "history",
+          "textEn": "The site Mausoleum of Imam al-Shafi'i is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل قبة الإمام الشافعي كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-MAUSOLEUMIMAMALSHAFII"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MAUSOLEUMIMAMALSHAFII",
+          "title": "Archnet & Ministry Documentation for Mausoleum of Imam al-Shafi'i",
+          "url": "https://archnet.org/sites/mausoleum-imam-al-shafii",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MAUSOLEUMIMAMALSHAFII-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mausoleum-imam-al-shafii.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mausoleum-imam-al-shafii.jpg",
+          "title": "General View of Mausoleum of Imam al-Shafi'i",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mausoleum of Imam al-Shafi'i\n\nArabic name: **ضريح الإمام الشافعي**  \nStatus: **PROPOSED_V4**  \nSlug: `mausoleum-imam-al-shafii`\n\n## Historical summary\n\nThe Ayyubid sultan al-Kamil commissioned a mausoleum over the tomb of Imam al-Shafi'i in 1211. The celebrated wooden dome and later fabric reflect centuries of devotion and repair.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA domed funerary chamber with a monumental wooden dome, cenotaph, mihrab, and later additions. The complex anchors a major cemetery landscape and pilgrimage tradition.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- wooden dome\n- cenotaph\n- mihrab\n- funerary chamber\n- cemetery landscape\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mausoleum-imam-al-shafii:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mausoleum-imam-al-shafii:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mausoleum of Imam al-Shafi'i\n\nArabic name: **ضريح الإمام الشافعي**  \nStatus: **PROPOSED_V4**  \nSlug: `mausoleum-imam-al-shafii`\n\n## Historical summary\n\nThe Ayyubid sultan al-Kamil commissioned a mausoleum over the tomb of Imam al-Shafi'i in 1211. The celebrated wooden dome and later fabric reflect centuries of devotion and repair.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA domed funerary chamber with a monumental wooden dome, cenotaph, mihrab, and later additions. The complex anchors a major cemetery landscape and pilgrimage tradition.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- wooden dome\n- cenotaph\n- mihrab\n- funerary chamber\n- cemetery landscape\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mausoleum-imam-al-shafii:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mausoleum-imam-al-shafii:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mausoleum of Imam al-Shafi'i (قبة الإمام الشافعي)\n**Status:** PROPOSED_V4  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mausoleum of Imam al-Shafi'i) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (قبة الإمام الشافعي) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mausoleum of Imam al-Shafi'i played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mausoleum of Imam al-Shafi'i (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mausoleum-imam-al-shafii.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MAUSOLEUMIMAMALSHAFII]** [Archnet & Ministry Documentation for Mausoleum of Imam al-Shafi'i](https://archnet.org/sites/mausoleum-imam-al-shafii) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": {
+      "slug": "mausoleum-imam-al-shafii",
+      "nameEn": "Mausoleum of Imam al-Shafi’i",
+      "nameAr": "ضريح الإمام الشافعي",
+      "alternateNames": [
+        "Imam al-Shafi’i Mausoleum",
+        "قبة الإمام الشافعي"
+      ],
+      "historicalPeriod": "Ayyubid Cairo with later phases",
+      "dynasty": "Ayyubid and later",
+      "district": "Southern Cemetery / al-Khalifa",
+      "placeType": "mausoleum and active shrine",
+      "foundedYearOrRange": "major surviving phase early 13th century; tomb tradition earlier",
+      "dateCertainty": "approximate",
+      "dateDisplayEn": "major surviving phase early 13th century; tomb tradition earlier",
+      "dateDisplayAr": "مرحلة الضريح الكبرى الباقية من أوائل القرن الثالث عشر؛ أما تقاليد القبر فأقدم",
+      "patronEn": "Ayyubid rulers and later patrons",
+      "patronAr": "حكام أيوبيون ورعاة لاحقون",
+      "architectEn": "Unknown",
+      "architectAr": "غير معروف",
+      "originalFunctionEn": "mausoleum and devotional shrine",
+      "originalFunctionAr": "ضريح ومزار",
+      "currentFunctionEn": "active devotional shrine and historic monument",
+      "currentFunctionAr": "مزار ديني قائم وأثر تاريخي",
+      "historicalBriefEn": "The mausoleum marks the burial place of Imam al-Shafi’i. The standing monumental building belongs mainly to later Ayyubid and subsequent phases, not to the date of the imam’s death. Its dome, wooden enclosure, inscriptions, ornament, and cemetery setting connect scholarship, political patronage, devotion, and funerary urbanism. The building has undergone repeated repairs, and scholarship distinguishes the early burial tradition from the architecture now visible. Its interpretation also requires sensitivity: this is not only an art-historical site but a place of devotion within a living cemetery. Photography and visitor behavior should follow current local guidance rather than assumptions based on tourism practice elsewhere.",
+      "historicalBriefAr": "يحدد الضريح موضع دفن الإمام الشافعي. وينتمي المبنى الضخم القائم أساسًا إلى مراحل أيوبية ولاحقة، لا إلى تاريخ وفاة الإمام. وتربط القبة والحاجز الخشبي والنقوش والزخرفة وموقع الجبانة بين العلم والرعاية السياسية والزيارة والعمران الجنائزي. وقد خضع المبنى لإصلاحات متكررة، ويميز البحث بين تقاليد الدفن المبكرة والعمارة الظاهرة اليوم. كما يحتاج تفسيره إلى حساسية خاصة؛ فهو ليس موقعًا لتاريخ الفن فقط، بل مكان للزيارة الدينية داخل جبانة حية. وينبغي أن يتبع التصوير وسلوك الزائر الإرشادات المحلية الحالية.",
+      "clarificationNoteEn": "The early tomb and the later standing architecture must be distinguished.",
+      "clarificationNoteAr": "يجب التمييز بين القبر المبكر والعمارة القائمة اللاحقة.",
+      "keyDates": [
+        {
+          "year": null,
+          "labelEn": "Principal documented phase",
+          "labelAr": "المرحلة الرئيسية الموثقة"
+        }
+      ],
+      "architecturalPhases": [
+        {
+          "nameEn": "Original or principal construction",
+          "nameAr": "الإنشاء الأصلي أو الرئيسي",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Original or principal construction",
+          "descAr": "الإنشاء الأصلي أو الرئيسي"
+        },
+        {
+          "nameEn": "Later repairs, additions, or conservation",
+          "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Later repairs, additions, or conservation",
+          "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+        }
+      ],
+      "latitude": 30.0232,
+      "longitude": 31.2617,
+      "locationPrecision": "approximate",
+      "openingHours": null,
+      "accessibilityConfidence": "low-to-medium",
+      "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+      "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+      "priorityVisualStoryEn": "Dome, carved wooden enclosure, inscriptions, filtered light, and cemetery context.",
+      "priorityVisualStoryAr": "القبة والحاجز الخشبي المنحوت والنقوش والضوء المرشح وسياق الجبانة.",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "claimIds": [
+        "claim-mausoleum-imam-al-shafii-date",
+        "claim-mausoleum-imam-al-shafii-period",
+        "claim-mausoleum-imam-al-shafii-patron",
+        "claim-mausoleum-imam-al-shafii-function",
+        "claim-mausoleum-imam-al-shafii-clarification",
+        "claim-mausoleum-imam-al-shafii-location"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+      "photographyAllowed": "unknown",
+      "activeWorship": true,
+      "funerarySensitive": true,
+      "ticketed": null,
+      "recommendedDurationMin": 33,
+      "recommendedDurationMax": 56
+    },
+    "contentPackageV4Story": {
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "relatedPlaceSlug": "mausoleum-imam-al-shafii",
+      "titleEn": "Reading Mausoleum of Imam al-Shafi’i",
+      "titleAr": "قراءة ضريح الإمام الشافعي",
+      "summaryEn": "A bilingual architectural and historical journey through Mausoleum of Imam al-Shafi’i.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في ضريح الإمام الشافعي.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "mausoleum-imam-al-shafii-chapter-1",
+          "titleEn": "Scholarship, Devotion, and the Qarafa",
+          "titleAr": "العلم والزيارة والقرافة",
+          "bodyEn": "Mausoleum of Imam al-Shafi’i belongs to Ayyubid Cairo with later phases, but its significance becomes clearer when placed within the political and urban history of Southern Cemetery / al-Khalifa. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي ضريح الإمام الشافعي إلى القاهرة الأيوبية مع مراحل لاحقة، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة القرافة الجنوبية / الخليفة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "mausoleum-imam-al-shafii-chapter-2",
+          "titleEn": "Reading the Architecture of Mausoleum of Imam al-Shafi’i",
+          "titleAr": "قراءة عمارة ضريح الإمام الشافعي",
+          "bodyEn": "The monument rewards a slow visual reading of great dome, wooden enclosure, inscriptions, Ayyubid patronage and living shrine. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة الكبرى والحاجز الخشبي والنقوش والرعاية الأيوبية والمزار الحي. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "mausoleum-imam-al-shafii-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Ayyubid Cairo with later phases"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mausoleum and active shrine",
+        "Southern Cemetery / al-Khalifa",
+        "Ayyubid and later"
+      ],
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "claimIds": [
+        "claim-mausoleum-imam-al-shafii-story-1",
+        "claim-mausoleum-imam-al-shafii-story-2",
+        "claim-mausoleum-imam-al-shafii-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    },
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-mausoleum-imam-al-shafii",
+        "placeId": null,
+        "placeSlug": "mausoleum-imam-al-shafii",
+        "placeNameEn": "Mausoleum of Imam al-Shafi’i",
+        "placeNameAr": "ضريح الإمام الشافعي",
+        "role": "cover",
+        "imageKitPath": "/places/mausoleum-imam-al-shafii/cover.jpg",
+        "localFile": "images/mausoleum-imam-al-shafii/mausoleum-imam-al-shafii-cover-wooden-enclosure.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Imam_Shafii_Tomb.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Imam_Shafii_Tomb.jpg",
+        "sourceTitle": "Imam Shafii Tomb.jpg",
+        "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/mausoleum-imam-al-shafii/mausoleum-imam-al-shafii-cover-wooden-enclosure.jpg",
+        "creator": "Imam Khairul Annas",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Imam Shafii Tomb.jpg — Imam Khairul Annas, CC BY-SA 4.0, via Wikimedia Commons",
+        "altEn": "The carved wooden enclosure around the tomb inside the mausoleum.",
+        "altAr": "الحاجز الخشبي المنحوت حول القبر داخل الضريح.",
+        "captionEn": "The carved wooden enclosure around the tomb inside the mausoleum.",
+        "captionAr": "الحاجز الخشبي المنحوت حول القبر داخل الضريح.",
+        "mediaType": "photo",
+        "visualType": "interior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 3264,
+        "height": 2448,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1877002,
+        "checksum": "27943240042db0445fb64107403ad668cc1625c16076a5c5eee98c78ea056bfe",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "baseline_v4",
+        "provenanceGroup": "baseline_v4",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Imam_Shafii_Tomb.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Imam_Shafii_Tomb.jpg",
+          "creator": "Imam Khairul Annas",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Imam Shafii Tomb.jpg — Imam Khairul Annas, CC BY-SA 4.0, via Wikimedia Commons",
+          "verifiedBy": "baseline_v4",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-mausoleum-imam-al-shafii:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": null
+  },
+  "sources": [
+    "mausoleum-imam-al-shafii:unesco-historic-cairo",
+    "mausoleum-imam-al-shafii:mota-historic-cairo",
+    "SRC-MAUSOLEUMIMAMALSHAFII",
+    "src-shafii-mulder",
+    "src-shafii-archnet"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mausoleum-imam-al-shafii:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mausoleum-imam-al-shafii-identity",
+        "mausoleum-imam-al-shafii-history",
+        "mausoleum-imam-al-shafii-architecture",
+        "mausoleum-imam-al-shafii-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mausoleum-imam-al-shafii:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mausoleum-imam-al-shafii-identity",
+        "mausoleum-imam-al-shafii-history",
+        "mausoleum-imam-al-shafii-architecture",
+        "mausoleum-imam-al-shafii-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-MAUSOLEUMIMAMALSHAFII",
+      "title": "Archnet & Ministry Documentation for Mausoleum of Imam al-Shafi'i",
+      "url": "https://archnet.org/sites/mausoleum-imam-al-shafii",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MAUSOLEUMIMAMALSHAFII-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "baselineAcceptedContent": {
+    "sourceIds": [
+      "src-shafii-mulder",
+      "src-shafii-archnet"
+    ],
+    "claimIds": [
+      "claim-mausoleum-imam-al-shafii-date",
+      "claim-mausoleum-imam-al-shafii-period",
+      "claim-mausoleum-imam-al-shafii-patron",
+      "claim-mausoleum-imam-al-shafii-function",
+      "claim-mausoleum-imam-al-shafii-clarification",
+      "claim-mausoleum-imam-al-shafii-location"
+    ],
+    "bilingual": true
+  },
+  "acceptedClaims": [
+    {
+      "claimId": "mausoleum-imam-al-shafii-identity",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mausoleum of Imam al-Shafi'i.",
+      "textAr": "يسجل الجرد هذا الموقع باسم ضريح الإمام الشافعي.",
+      "confidence": "high",
+      "sourceIds": [
+        "mausoleum-imam-al-shafii:unesco-historic-cairo",
+        "mausoleum-imam-al-shafii:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "mausoleum-imam-al-shafii-status",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mausoleum-imam-al-shafii:unesco-historic-cairo",
+        "mausoleum-imam-al-shafii:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MAUSOLEUMIMAMALSHAFII-01",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mausoleum of Imam al-Shafi'i is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل قبة الإمام الشافعي كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-MAUSOLEUMIMAMALSHAFII"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-date",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "date",
+      "textEn": "Mausoleum of Imam al-Shafi’i is dated to major surviving phase early 13th century; tomb tradition earlier.",
+      "textAr": "يؤرخ ضريح الإمام الشافعي إلى major surviving phase early 13th century; tomb tradition earlier.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-period",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "period",
+      "textEn": "The monument belongs primarily to Ayyubid Cairo with later phases.",
+      "textAr": "ينتمي الأثر أساسًا إلى القاهرة الأيوبية مع مراحل لاحقة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-patron",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "patron",
+      "textEn": "The recorded patron is Ayyubid rulers and later patrons.",
+      "textAr": "الراعي المسجل هو حكام أيوبيون ورعاة لاحقون.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-function",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "function",
+      "textEn": "Its original function was mausoleum and devotional shrine.",
+      "textAr": "كانت وظيفته الأصلية ضريح ومزار.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-clarification",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "clarification",
+      "textEn": "The early tomb and the later standing architecture must be distinguished.",
+      "textAr": "يجب التمييز بين القبر المبكر والعمارة القائمة اللاحقة.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-location",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "location",
+      "textEn": "The record locates the monument in Southern Cemetery / al-Khalifa with approximate coordinate precision.",
+      "textAr": "يضع السجل الأثر في منطقة القرافة الجنوبية / الخليفة، مع دقة مكانية مصنفة بوصفها تقريبية.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-story-1",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "claimType": "story-chapter",
+      "textEn": "Mausoleum of Imam al-Shafi’i belongs to Ayyubid Cairo with later phases, but its significance becomes clearer when placed within the political and urban history of Southern Cemetery / al-Khalifa. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "textAr": "ينتمي ضريح الإمام الشافعي إلى القاهرة الأيوبية مع مراحل لاحقة، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة القرافة الجنوبية / الخليفة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-story-2",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "claimType": "story-chapter",
+      "textEn": "The monument rewards a slow visual reading of great dome, wooden enclosure, inscriptions, Ayyubid patronage and living shrine. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "textAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة الكبرى والحاجز الخشبي والنقوش والرعاية الأيوبية والمزار الحي. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-imam-al-shafii-story-3",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": "story-mausoleum-imam-al-shafii",
+      "claimType": "story-chapter",
+      "textEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "textAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shafii-mulder",
+        "src-shafii-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mausoleum-imam-al-shafii-history",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The Ayyubid sultan al-Kamil commissioned a mausoleum over the tomb of Imam al-Shafi'i in 1211. The celebrated wooden dome and later fabric reflect centuries of devotion and repair.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mausoleum-imam-al-shafii:unesco-historic-cairo",
+        "mausoleum-imam-al-shafii:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mausoleum-imam-al-shafii-architecture",
+      "placeSlug": "mausoleum-imam-al-shafii",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A domed funerary chamber with a monumental wooden dome, cenotaph, mihrab, and later additions. The complex anchors a major cemetery landscape and pilgrimage tradition.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mausoleum-imam-al-shafii:unesco-historic-cairo",
+        "mausoleum-imam-al-shafii:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

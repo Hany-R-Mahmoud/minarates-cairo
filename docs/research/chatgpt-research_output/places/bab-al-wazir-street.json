@@ -1,0 +1,117 @@
+{
+  "slug": "bab-al-wazir-street",
+  "status": "CANDIDATE",
+  "nameEn": "Bab al-Wazir Street Ensemble",
+  "nameAr": "Unknown — requires official or field verification.",
+  "transliteration": "Bab al-Wazir Street Ensemble",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "historic place / research record",
+  "district": "Unknown — requires official or field verification.",
+  "location": {
+    "descriptionEn": "Unknown — requires official or field verification.",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Historic Cairo context — period-specific verification required"
+  ],
+  "historicalSummary": {
+    "en": "Unknown — requires official or field verification.",
+    "ar": "Unknown — requires official or field verification."
+  },
+  "architectureSummary": {
+    "en": "Unknown — requires official or field verification.",
+    "ar": "Unknown — requires official or field verification."
+  },
+  "architecturalElements": [],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "bab-al-wazir-street:unesco-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "bab-al-wazir-street-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Bab al-Wazir Street Ensemble.",
+      "textAr": "يسجل الجرد هذا الموقع باسم Unknown — requires official or field verification..",
+      "confidence": "high",
+      "sourceIds": [
+        "bab-al-wazir-street:unesco-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "bab-al-wazir-street-history",
+      "claimType": "history",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "bab-al-wazir-street:unesco-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "bab-al-wazir-street-architecture",
+      "claimType": "architecture",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "bab-al-wazir-street:unesco-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "bab-al-wazir-street-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "bab-al-wazir-street:unesco-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "bab-al-wazir-street:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "bab-al-wazir-street-identity",
+        "bab-al-wazir-street-history",
+        "bab-al-wazir-street-architecture",
+        "bab-al-wazir-street-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Research-only record. It must not be presented as approved public content.",
+    "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

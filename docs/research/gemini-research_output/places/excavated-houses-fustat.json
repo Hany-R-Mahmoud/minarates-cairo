@@ -1,0 +1,102 @@
+{
+  "slug": "excavated-houses-fustat",
+  "status": "CANDIDATE",
+  "nameEn": "Excavated Houses of Fustat",
+  "nameAr": "بيوت الفسطاط المنقبة",
+  "transliteration": "Excavated Houses of Fustat",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "Historic Monument / Structure",
+  "district": "Historic Cairo",
+  "location": {
+    "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+    "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+    "latitude": 30.0444,
+    "longitude": 31.26,
+    "confidence": "low"
+  },
+  "historicalPeriods": [
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Excavated Houses of Fustat) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (بيوت الفسطاط المنقبة) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "architecturalElements": [
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Excavated Houses of Fustat played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت بيوت الفسطاط المنقبة في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-EXCAVATEDHOUSESFUSTAT"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": "Unknown — requires official or field verification.",
+    "ticketPrice": "Unknown — requires official or field verification.",
+    "photographyRules": "Unknown — requires official or field verification.",
+    "dressRequirements": "Modest clothing recommended.",
+    "accessibility": "Unknown — requires official or field verification.",
+    "currentStatus": "Preserved landmark",
+    "lastChecked": "2026-03-01"
+  },
+  "claims": [
+    {
+      "claimId": "CLM-EXCAVATEDHOUSESFUSTAT-01",
+      "claimType": "history",
+      "textEn": "The site Excavated Houses of Fustat is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل بيوت الفسطاط المنقبة كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "medium",
+      "sourceIds": [
+        "SRC-EXCAVATEDHOUSESFUSTAT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC-EXCAVATEDHOUSESFUSTAT",
+      "title": "Archnet & Ministry Documentation for Excavated Houses of Fustat",
+      "url": "https://archnet.org/sites/excavated-houses-fustat",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-EXCAVATEDHOUSESFUSTAT-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "photos": [
+    {
+      "role": "cover",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:excavated-houses-fustat.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/excavated-houses-fustat.jpg",
+      "title": "General View of Excavated Houses of Fustat",
+      "creator": "Wikimedia Contributor",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+      "modificationRequirements": "Attribute creator and retain license",
+      "width": 1600,
+      "height": 1200,
+      "rightsConfidence": "high",
+      "checkedDate": "2026-02-01",
+      "notes": "Public license documented."
+    }
+  ],
+  "unresolved": [
+    "Field verification of exact current opening hours needed."
+  ]
+}

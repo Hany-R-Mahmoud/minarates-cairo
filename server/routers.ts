@@ -7,7 +7,7 @@ import {
   periods, districts, placeTypes, places, sources, walks, comparisons,
   detectiveActivities, stories, userFavorites as favorites, userCollections as collections,
   userNotes as privateNotes, userVisited as visitedRecords, userItineraries as itineraries,
-  auditLog, mediaAssets,
+  auditLog, mediaAssets, placeClaims, placeFeatures, researchReviewItems, placeAliases,
 } from "../drizzle/schema";
 import { eq, and, ilike, inArray, desc, asc, isNotNull, sql } from "drizzle-orm";
 import { z } from "zod";
@@ -30,6 +30,18 @@ const PLACE_SLUG_ALIASES: Record<string, string> = {
 };
 
 const canonicalPlaceSlug = (slug: string) => PLACE_SLUG_ALIASES[slug] ?? slug;
+const jsonStrings = (value: unknown) => Array.isArray(value) ? value.filter((item): item is string => typeof item === "string") : [];
+const RESEARCH_CLAIM_PRIORITY: Record<string, number> = {
+  architecture: 1,
+  history: 2,
+  identity: 3,
+  patron: 4,
+  function: 5,
+  visitor: 6,
+  clarification: 7,
+  date: 8,
+  location: 9,
+};
 
 const periodsRouter = router({
   list: publicProcedure.query(async () => {
@@ -150,6 +162,157 @@ const placesRouter = router({
       placeType: placeType[0] ?? null,
       media,
     };
+  }),
+
+  research: publicProcedure.input(z.object({ slug: z.string() })).query(async ({ input }) => {
+    const db = await getDb();
+    if (!db) return null;
+    const alias = await db.select({ canonicalSlug: placeAliases.canonicalSlug })
+      .from(placeAliases).where(eq(placeAliases.aliasSlug, input.slug)).limit(1);
+    const slug = alias[0]?.canonicalSlug ?? canonicalPlaceSlug(input.slug);
+    const place = (await db.select({ id: places.id, slug: places.slug, nameEn: places.nameEn, nameAr: places.nameAr })
+      .from(places).where(and(eq(places.slug, slug), eq(places.status, "published"))).limit(1))[0];
+    if (!place) return null;
+    const claims = await db.select().from(placeClaims)
+      .where(and(eq(placeClaims.placeSlug, place.slug), eq(placeClaims.status, "accepted")))
+      .orderBy(asc(placeClaims.claimType), asc(placeClaims.id));
+    const features = await db.select().from(placeFeatures)
+      .where(and(eq(placeFeatures.placeSlug, place.slug), eq(placeFeatures.status, "accepted")))
+      .orderBy(asc(placeFeatures.labelEn));
+    const sourceSlugs = Array.from(new Set(claims.flatMap(claim => jsonStrings(claim.sourceRefs))));
+    const sourceRows = sourceSlugs.length
+      ? await db.select().from(sources).where(inArray(sources.slug, sourceSlugs)).orderBy(asc(sources.titleEn))
+      : [];
+    return { claims, features, sources: sourceRows };
+  }),
+
+  researchCoverage: publicProcedure.query(async () => {
+    const db = await getDb();
+    if (!db) return [];
+    const publishedPlaces = await db.select({ slug: places.slug })
+      .from(places)
+      .where(eq(places.status, "published"))
+      .orderBy(asc(places.nameEn));
+    const slugs = publishedPlaces.map(place => place.slug);
+    if (!slugs.length) return [];
+
+    const [claims, features] = await Promise.all([
+      db.select().from(placeClaims)
+        .where(and(eq(placeClaims.status, "accepted"), inArray(placeClaims.placeSlug, slugs)))
+        .orderBy(asc(placeClaims.placeSlug), asc(placeClaims.id)),
+      db.select().from(placeFeatures)
+        .where(and(eq(placeFeatures.status, "accepted"), inArray(placeFeatures.placeSlug, slugs)))
+        .orderBy(asc(placeFeatures.placeSlug), asc(placeFeatures.labelEn)),
+    ]);
+
+    type Coverage = {
+      placeSlug: string;
+      claimCount: number;
+      featureCount: number;
+      sourceSlugs: Set<string>;
+      claimTypes: string[];
+      featureLabels: Array<{ en: string; ar: string | null }>;
+      highlights: Array<{ en: string; ar: string | null; claimType: string }>;
+    };
+
+    const coverage = new Map<string, Coverage>();
+    for (const slug of slugs) {
+      coverage.set(slug, {
+        placeSlug: slug,
+        claimCount: 0,
+        featureCount: 0,
+        sourceSlugs: new Set<string>(),
+        claimTypes: [],
+        featureLabels: [],
+        highlights: [],
+      });
+    }
+
+    for (const claim of claims) {
+      const entry = coverage.get(claim.placeSlug);
+      if (!entry) continue;
+      entry.claimCount += 1;
+      if (!entry.claimTypes.includes(claim.claimType)) entry.claimTypes.push(claim.claimType);
+      for (const sourceSlug of jsonStrings(claim.sourceRefs)) entry.sourceSlugs.add(sourceSlug);
+      if (claim.textEn && entry.highlights.length < 3) {
+        entry.highlights.push({ en: claim.textEn, ar: claim.textAr, claimType: claim.claimType });
+      }
+    }
+
+    for (const feature of features) {
+      const entry = coverage.get(feature.placeSlug);
+      if (!entry) continue;
+      entry.featureCount += 1;
+      if (entry.featureLabels.length < 5) entry.featureLabels.push({ en: feature.labelEn, ar: feature.labelAr });
+      for (const sourceSlug of jsonStrings(feature.sourceRefs)) entry.sourceSlugs.add(sourceSlug);
+    }
+
+    return publishedPlaces.map(place => {
+      const entry = coverage.get(place.slug);
+      if (!entry) return {
+        placeSlug: place.slug,
+        claimCount: 0,
+        featureCount: 0,
+        sourceCount: 0,
+        claimTypes: [],
+        featureLabels: [],
+        highlights: [],
+      };
+      entry.highlights.sort((left, right) => (RESEARCH_CLAIM_PRIORITY[left.claimType] ?? 99) - (RESEARCH_CLAIM_PRIORITY[right.claimType] ?? 99));
+      return {
+        placeSlug: entry.placeSlug,
+        claimCount: entry.claimCount,
+        featureCount: entry.featureCount,
+        sourceCount: entry.sourceSlugs.size,
+        claimTypes: entry.claimTypes,
+        featureLabels: entry.featureLabels,
+        highlights: entry.highlights,
+      };
+    });
+  }),
+
+  researchByStory: publicProcedure.input(z.object({ slug: z.string() })).query(async ({ input }) => {
+    const db = await getDb();
+    if (!db) return { claims: [], places: [], sources: [] };
+    const claims = await db.select().from(placeClaims)
+      .where(and(eq(placeClaims.storySlug, input.slug), eq(placeClaims.status, "accepted")))
+      .orderBy(asc(placeClaims.placeSlug), asc(placeClaims.id));
+    const slugs = Array.from(new Set(claims.map(claim => claim.placeSlug)));
+    const placeRows = slugs.length
+      ? await db.select({ id: places.id, slug: places.slug, nameEn: places.nameEn, nameAr: places.nameAr })
+        .from(places)
+        .where(and(eq(places.status, "published"), inArray(places.slug, slugs)))
+        .orderBy(asc(places.nameEn))
+      : [];
+    const sourceSlugs = Array.from(new Set(claims.flatMap(claim => jsonStrings(claim.sourceRefs))));
+    const sourceRows = sourceSlugs.length
+      ? await db.select().from(sources).where(inArray(sources.slug, sourceSlugs)).orderBy(asc(sources.titleEn))
+      : [];
+    return { claims, places: placeRows, sources: sourceRows };
+  }),
+
+  architectureAtlas: publicProcedure.query(async () => {
+    const db = await getDb();
+    if (!db) return [];
+    const features = await db.select().from(placeFeatures)
+      .where(eq(placeFeatures.status, "accepted"))
+      .orderBy(asc(placeFeatures.placeSlug), asc(placeFeatures.labelEn));
+    const slugs = Array.from(new Set(features.map(feature => feature.placeSlug)));
+    if (!slugs.length) return [];
+    const claims = await db.select().from(placeClaims)
+      .where(and(eq(placeClaims.status, "accepted"), eq(placeClaims.claimType, "architecture"), inArray(placeClaims.placeSlug, slugs)))
+      .orderBy(asc(placeClaims.placeSlug), asc(placeClaims.id));
+    const placeRows = await db.select({ id: places.id, slug: places.slug, nameEn: places.nameEn, nameAr: places.nameAr, coverImageUrl: places.coverImageUrl, foundedYear: places.foundedYear, dateDisplayEn: places.dateDisplayEn })
+      .from(places).where(and(eq(places.status, "published"), inArray(places.slug, slugs)));
+    return placeRows.map(place => ({ place, claims: claims.filter(claim => claim.placeSlug === place.slug), features: features.filter(feature => feature.placeSlug === place.slug) }));
+  }),
+
+  timeline: publicProcedure.query(async () => {
+    const db = await getDb();
+    if (!db) return [];
+    return db.select({ id: places.id, slug: places.slug, nameEn: places.nameEn, nameAr: places.nameAr, foundedYear: places.foundedYear, foundedYearEnd: places.foundedYearEnd, dateDisplayEn: places.dateDisplayEn, dateDisplayAr: places.dateDisplayAr, briefEn: places.briefEn, briefAr: places.briefAr, coverImageUrl: places.coverImageUrl })
+      .from(places).where(and(eq(places.status, "published"), isNotNull(places.foundedYear)))
+      .orderBy(asc(places.foundedYear), asc(places.nameEn));
   }),
 
   // Admin: upsert
@@ -473,6 +636,91 @@ const curatorRouter = router({
       const db = await getDb();
       if (!db) throw new TRPCError({ code: "INTERNAL_SERVER_ERROR" });
       await db.insert(sources).values(input as any);
+      return { success: true };
+    }),
+  listResearchQueue: protectedProcedure
+    .input(z.object({ status: z.enum(["pending", "approved", "rejected", "deferred"]).optional(), kind: z.string().optional(), limit: z.number().min(1).max(200).optional().default(100) }))
+    .query(async ({ ctx, input }) => {
+      if (ctx.user.role !== "admin") throw new TRPCError({ code: "FORBIDDEN" });
+      const db = await getDb();
+      if (!db) return [];
+      const conditions = [];
+      if (input.status) conditions.push(eq(researchReviewItems.status, input.status));
+      if (input.kind) conditions.push(eq(researchReviewItems.kind, input.kind));
+      return db.select().from(researchReviewItems)
+        .where(conditions.length ? and(...conditions) : undefined)
+        .orderBy(asc(researchReviewItems.status), desc(researchReviewItems.createdAt))
+        .limit(input.limit);
+    }),
+  resolveResearchItem: protectedProcedure
+    .input(z.object({ id: z.number(), status: z.enum(["approved", "rejected", "deferred"]), reviewNote: z.string().optional() }))
+    .mutation(async ({ ctx, input }) => {
+      if (ctx.user.role !== "admin") throw new TRPCError({ code: "FORBIDDEN" });
+      const db = await getDb();
+      if (!db) throw new TRPCError({ code: "INTERNAL_SERVER_ERROR" });
+      const item = (await db.select().from(researchReviewItems).where(eq(researchReviewItems.id, input.id)).limit(1))[0];
+      if (!item) throw new TRPCError({ code: "NOT_FOUND" });
+      if (input.status === "approved" && item.kind === "photo") {
+        const payload = z.object({
+          assetId: z.string(), sourceUrl: z.string().url(), sourcePage: z.string().url().optional(),
+          cdnUrl: z.string().url().nullable().optional(), creator: z.string().optional(), license: z.string().optional(), licenseUrl: z.string().url().optional(), attribution: z.string().optional(),
+          altEn: z.string().optional(), altAr: z.string().optional(), captionEn: z.string().optional(), captionAr: z.string().optional(), mediaType: z.enum(["photo", "plan", "illustration", "map"]).optional(), visualType: z.string().optional(), documentaryStatus: z.string().optional(), width: z.number().optional(), height: z.number().optional(), mimeType: z.string().optional(), fileSizeBytes: z.number().optional(), checksum: z.string().optional(), modifications: z.string().nullable().optional(), rightsEvidence: z.object({ evidenceStatus: z.string() }).optional(),
+        }).safeParse(item.payload);
+        if (!payload.success || payload.data.rightsEvidence?.evidenceStatus !== "complete") throw new TRPCError({ code: "BAD_REQUEST", message: "Photo rights evidence is incomplete" });
+        const place = (await db.select({ id: places.id }).from(places).where(and(eq(places.slug, item.placeSlug), eq(places.status, "published"))).limit(1))[0];
+        await db.insert(mediaAssets).values({
+          assetId: payload.data.assetId,
+          placeId: place?.id ?? null,
+          uploadedBy: ctx.user.id,
+          url: payload.data.cdnUrl ?? payload.data.sourceUrl,
+          mediaType: payload.data.mediaType ?? "photo",
+          width: payload.data.width,
+          height: payload.data.height,
+          mimeType: payload.data.mimeType,
+          fileSizeBytes: payload.data.fileSizeBytes,
+          checksum: payload.data.checksum,
+          creator: payload.data.creator,
+          sourcePage: payload.data.sourcePage,
+          license: payload.data.license,
+          licenseUrl: payload.data.licenseUrl,
+          attribution: payload.data.attribution,
+          modifications: payload.data.modifications,
+          altEn: payload.data.altEn,
+          altAr: payload.data.altAr,
+          captionEn: payload.data.captionEn,
+          captionAr: payload.data.captionAr,
+          visualType: payload.data.visualType as "exterior" | "interior" | "portal" | "minaret" | "dome" | "courtyard" | "detail" | "plan" | "map" | "archival" | "street" | "aerial" | "material" | "inscription" | "other" | undefined,
+          documentaryStatus: payload.data.documentaryStatus as "documentary" | "archival" | "illustration" | "decorative" | "generated" | undefined,
+          approved: true,
+        }).onConflictDoUpdate({ target: mediaAssets.assetId, set: { approved: true, updatedAt: new Date() } });
+      }
+      if (input.status === "approved" && item.kind === "claim-quality") {
+        const claim = z.object({ claimId: z.string() }).safeParse(item.payload);
+        if (claim.success) await db.update(placeClaims).set({ status: "accepted", reviewNote: input.reviewNote ?? null, updatedAt: new Date() }).where(eq(placeClaims.claimId, claim.data.claimId));
+      }
+      await db.update(researchReviewItems).set({ status: input.status, reviewNote: input.reviewNote ?? null, reviewedBy: ctx.user.id, reviewedAt: new Date(), updatedAt: new Date() }).where(eq(researchReviewItems.id, input.id));
+      await db.insert(auditLog).values({ entityType: "research", entityId: input.id, action: `review_${input.status}`, userId: ctx.user.id, afterData: { kind: item.kind, reviewNote: input.reviewNote ?? null } });
+      return { success: true };
+    }),
+  listClaims: protectedProcedure
+    .input(z.object({ status: z.enum(["accepted", "alternate", "pending", "rejected"]).optional(), placeSlug: z.string().optional(), limit: z.number().min(1).max(500).optional().default(200) }))
+    .query(async ({ ctx, input }) => {
+      if (ctx.user.role !== "admin") throw new TRPCError({ code: "FORBIDDEN" });
+      const db = await getDb();
+      if (!db) return [];
+      const conditions = [];
+      if (input.status) conditions.push(eq(placeClaims.status, input.status));
+      if (input.placeSlug) conditions.push(eq(placeClaims.placeSlug, input.placeSlug));
+      return db.select().from(placeClaims).where(conditions.length ? and(...conditions) : undefined).orderBy(asc(placeClaims.placeSlug), asc(placeClaims.claimType)).limit(input.limit);
+    }),
+  setClaimStatus: protectedProcedure
+    .input(z.object({ id: z.number(), status: z.enum(["accepted", "alternate", "pending", "rejected"]), reviewNote: z.string().optional() }))
+    .mutation(async ({ ctx, input }) => {
+      if (ctx.user.role !== "admin") throw new TRPCError({ code: "FORBIDDEN" });
+      const db = await getDb();
+      if (!db) throw new TRPCError({ code: "INTERNAL_SERVER_ERROR" });
+      await db.update(placeClaims).set({ status: input.status, reviewNote: input.reviewNote ?? null, updatedAt: new Date() }).where(eq(placeClaims.id, input.id));
+      await db.insert(auditLog).values({ entityType: "claim", entityId: input.id, action: `claim_${input.status}`, userId: ctx.user.id, afterData: { reviewNote: input.reviewNote ?? null } });
       return { success: true };
     }),
   listAllPlaces: protectedProcedure.query(async ({ ctx }) => {

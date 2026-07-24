@@ -1,0 +1,143 @@
+{
+  "slug": "mausoleum-shajarat-al-durr",
+  "status": "PROPOSED_V4",
+  "nameEn": "Mausoleum of Shajarat al-Durr",
+  "nameAr": "ضريح شجر الدر",
+  "transliteration": "Mausoleum of Shajarat al-Durr",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "mausoleum",
+  "district": "Imam al-Shafi'i Cemetery",
+  "location": {
+    "descriptionEn": "Imam al-Shafi'i Cemetery",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Early Mamluk",
+    "13th century CE / c. 1250"
+  ],
+  "historicalSummary": {
+    "en": "Associated with Shajarat al-Durr, the powerful thirteenth-century ruler and patron who helped mark the transition from Ayyubid to Mamluk rule. The foundation is among Cairo's early Mamluk funerary monuments.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A domed funerary structure whose chamber, transition zone, and exterior mass participate in the developing Cairene mausoleum tradition.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "domed chamber",
+    "muqarnas transition",
+    "inscriptions",
+    "funerary enclosure"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+        "mausoleum-shajarat-al-durr:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "mausoleum-shajarat-al-durr-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mausoleum of Shajarat al-Durr.",
+      "textAr": "يسجل الجرد هذا الموقع باسم ضريح شجر الدر.",
+      "confidence": "high",
+      "sourceIds": [
+        "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+        "mausoleum-shajarat-al-durr:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "mausoleum-shajarat-al-durr-history",
+      "claimType": "history",
+      "textEn": "Associated with Shajarat al-Durr, the powerful thirteenth-century ruler and patron who helped mark the transition from Ayyubid to Mamluk rule. The foundation is among Cairo's early Mamluk funerary monuments.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+        "mausoleum-shajarat-al-durr:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "mausoleum-shajarat-al-durr-architecture",
+      "claimType": "architecture",
+      "textEn": "A domed funerary structure whose chamber, transition zone, and exterior mass participate in the developing Cairene mausoleum tradition.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+        "mausoleum-shajarat-al-durr:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "mausoleum-shajarat-al-durr-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+        "mausoleum-shajarat-al-durr:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mausoleum-shajarat-al-durr-identity",
+        "mausoleum-shajarat-al-durr-history",
+        "mausoleum-shajarat-al-durr-architecture",
+        "mausoleum-shajarat-al-durr-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mausoleum-shajarat-al-durr:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mausoleum-shajarat-al-durr-identity",
+        "mausoleum-shajarat-al-durr-history",
+        "mausoleum-shajarat-al-durr-architecture",
+        "mausoleum-shajarat-al-durr-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

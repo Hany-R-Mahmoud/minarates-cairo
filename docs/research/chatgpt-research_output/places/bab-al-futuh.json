@@ -1,0 +1,143 @@
+{
+  "slug": "bab-al-futuh",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Bab al-Futuh",
+  "nameAr": "باب الفتوح",
+  "transliteration": "Bab al-Futuh",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "city gate",
+  "district": "Fatimid Cairo northern wall",
+  "location": {
+    "descriptionEn": "Fatimid Cairo northern wall",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Fatimid",
+    "1087 CE / 480 AH"
+  ],
+  "historicalSummary": {
+    "en": "Built during the fortification of Fatimid Cairo under the vizier Badr al-Jamali. Its name means Gate of Conquests and belongs to the ceremonial vocabulary of the walled city.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A robust stone gate with flanking semicircular towers, vaulted passages, machicolation-like defensive details, and a carefully articulated entrance front.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "flanking towers",
+    "vaulted gate passage",
+    "stone masonry",
+    "defensive parapets"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "bab-al-futuh:unesco-historic-cairo",
+        "bab-al-futuh:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "bab-al-futuh-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Bab al-Futuh.",
+      "textAr": "يسجل الجرد هذا الموقع باسم باب الفتوح.",
+      "confidence": "high",
+      "sourceIds": [
+        "bab-al-futuh:unesco-historic-cairo",
+        "bab-al-futuh:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "bab-al-futuh-history",
+      "claimType": "history",
+      "textEn": "Built during the fortification of Fatimid Cairo under the vizier Badr al-Jamali. Its name means Gate of Conquests and belongs to the ceremonial vocabulary of the walled city.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "bab-al-futuh:unesco-historic-cairo",
+        "bab-al-futuh:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "bab-al-futuh-architecture",
+      "claimType": "architecture",
+      "textEn": "A robust stone gate with flanking semicircular towers, vaulted passages, machicolation-like defensive details, and a carefully articulated entrance front.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "bab-al-futuh:unesco-historic-cairo",
+        "bab-al-futuh:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "bab-al-futuh-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "bab-al-futuh:unesco-historic-cairo",
+        "bab-al-futuh:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "bab-al-futuh:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "bab-al-futuh-identity",
+        "bab-al-futuh-history",
+        "bab-al-futuh-architecture",
+        "bab-al-futuh-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "bab-al-futuh:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "bab-al-futuh-identity",
+        "bab-al-futuh-history",
+        "bab-al-futuh-architecture",
+        "bab-al-futuh-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

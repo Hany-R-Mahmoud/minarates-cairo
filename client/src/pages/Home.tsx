@@ -4,6 +4,7 @@ import { Link } from "wouter";
 import { ArrowRight, ArrowLeft, Map, Compass, BarChart2, Zap, BookMarked, BookOpen, ChevronRight, ImageOff } from "lucide-react";
 import { buildImageKitSrcSet, buildImageKitUrl, isImageKitUrl } from "@shared/media";
 import type { Place } from "@shared/types";
+import { BRAND_LOGO_URL } from "@/const";
 
 const ERA_COLORS: Record<string, string> = {
   "tulunid": "era-tulunid",
@@ -37,6 +38,12 @@ export default function Home() {
   const { data: periods } = trpc.periods.list.useQuery();
   const { data: placesData } = trpc.places.list.useQuery({ limit: 6, offset: 0 });
   const { data: stories } = trpc.stories.list.useQuery();
+  const { data: researchCoverage } = trpc.places.researchCoverage.useQuery();
+  const researchedPlaces = researchCoverage?.filter(item => item.claimCount > 0 || item.featureCount > 0) ?? [];
+  const acceptedClaimCount = researchedPlaces.reduce((total, item) => total + item.claimCount, 0);
+  const featureCount = researchedPlaces.reduce((total, item) => total + item.featureCount, 0);
+  const sourceReferenceCount = researchedPlaces.reduce((total, item) => total + item.sourceCount, 0);
+  const coverageBySlug = new globalThis.Map((researchCoverage ?? []).map(item => [item.placeSlug, item]));
 
   const getPlaceImageAlt = (place: Place) =>
     lang === "ar" ? (place.coverImageAltAr ?? place.coverImageAlt) : place.coverImageAlt;
@@ -77,8 +84,16 @@ export default function Home() {
               </span>
             </div>
 
-            <h1 className={`text-5xl md:text-7xl font-bold leading-tight mb-6 text-[var(--color-parchment-100)] ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
-              {lang === "ar" ? "مآذن القاهرة" : "Minarets\nof Cairo"}
+            <h1 className="mb-6 w-fit">
+              <img
+                src={buildImageKitUrl(BRAND_LOGO_URL, 480)}
+                alt={t("Minarets of Cairo", "مآذن القاهرة")}
+                width={1024}
+                height={1024}
+                fetchPriority="high"
+                decoding="async"
+                className="h-auto w-52 rounded-lg shadow-[var(--shadow-card)] sm:w-64 md:w-72"
+              />
             </h1>
 
             <p className={`text-xl md:text-2xl text-[var(--color-stone-300)] leading-relaxed mb-4 ${lang === "ar" ? "font-[var(--font-arabic)]" : ""}`}>
@@ -167,7 +182,7 @@ export default function Home() {
                   </h3>
                   <p className={`text-sm text-[var(--color-stone-500)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
                     {ep.href === "/monuments" && placesData?.total
-                      ? t(`${placesData.total} published places`, `${placesData.total} موقعاً منشوراً`)
+                      ? t(`${placesData.total} published places · ${researchedPlaces.length} researched`, `${placesData.total} موقعاً منشوراً · ${researchedPlaces.length} موثقاً بحثياً`)
                       : (lang === "ar" ? ep.descAr : ep.descEn)}
                   </p>
                   <div className={`flex items-center gap-1 mt-4 text-[var(--color-terracotta-600)] text-sm font-medium ${isRTL ? "flex-row-reverse" : ""}`}>
@@ -180,6 +195,44 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {researchedPlaces.length > 0 && (
+        <section className="py-14 bg-[var(--color-parchment-100)] border-y border-[var(--color-border)]">
+          <div className="container">
+            <div className={`flex flex-col md:flex-row gap-6 items-start md:items-end justify-between ${isRTL ? "md:flex-row-reverse" : ""}`}>
+              <div className="max-w-2xl">
+                <div className="text-xs text-[var(--color-teal-600)] uppercase tracking-widest font-medium mb-2">
+                  {t("Research layer", "طبقة البحث")}
+                </div>
+                <h2 className={`text-2xl md:text-3xl font-bold text-[var(--color-stone-900)] mb-2 ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
+                  {t("A richer guide, tied to evidence", "دليل أكثر ثراءً مرتبط بالأدلة")}
+                </h2>
+                <p className={`text-[var(--color-stone-600)] leading-relaxed ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                  {t("Accepted research now adds architectural features, historical claims, and source trails to the places you can explore.", "تضيف الأبحاث المقبولة الآن عناصر معمارية وادعاءات تاريخية ومسارات مصادر إلى المعالم التي يمكنك استكشافها.")}
+                </p>
+              </div>
+              <Link href="/architecture">
+                <span className={`text-sm font-medium text-[var(--color-terracotta-600)] hover:underline flex items-center gap-1 cursor-pointer ${isRTL ? "flex-row-reverse" : ""}`}>
+                  {t("Browse the architecture atlas", "تصفح أطلس العمارة")} <ArrowIcon size={14} />
+                </span>
+              </Link>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mt-8">
+              {[
+                [researchedPlaces.length, t("researched places", "مواقع موثقة")],
+                [acceptedClaimCount, t("accepted claims", "ادعاءات مقبولة")],
+                [featureCount, t("architectural features", "عناصر معمارية")],
+                [sourceReferenceCount, t("source references", "إشارات مصدر")],
+              ].map(([value, label]) => (
+                <div key={String(label)} className="bg-white border border-[var(--color-border)] rounded-lg p-4">
+                  <div className="text-2xl font-semibold text-[var(--color-stone-900)]">{value}</div>
+                  <div className={`text-xs text-[var(--color-stone-500)] mt-1 ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>{label}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* ── Featured Monuments ── */}
       <section className="py-20 bg-[var(--color-parchment-100)]">
@@ -237,6 +290,11 @@ export default function Home() {
                     {place.foundedYear && (
                       <p className="text-xs text-[var(--color-stone-500)]">
                         {t("Founded", "التأسيس")} {place.foundedYear} {t("CE", "م")}
+                      </p>
+                    )}
+                    {coverageBySlug.get(place.slug)?.highlights[0] && (
+                      <p className={`mt-3 text-xs text-[var(--color-stone-600)] line-clamp-2 leading-relaxed ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                        {lang === "ar" ? coverageBySlug.get(place.slug)?.highlights[0]?.ar ?? coverageBySlug.get(place.slug)?.highlights[0]?.en : coverageBySlug.get(place.slug)?.highlights[0]?.en}
                       </p>
                     )}
                   </div>

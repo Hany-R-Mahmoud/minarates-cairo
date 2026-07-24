@@ -3,13 +3,16 @@ import { Link } from "wouter";
 import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
 import { ChevronRight, ChevronDown } from "lucide-react";
+import { Badge } from "@/components/ui/badge";
 
 export default function Periods() {
   const { lang, isRTL, t } = useLang();
   const [expanded, setExpanded] = useState<number | null>(null);
   const { data: periods, isLoading } = trpc.periods.list.useQuery();
   const { data: placesData } = trpc.places.list.useQuery({ limit: 100, offset: 0, status: "published" });
+  const { data: researchCoverage } = trpc.places.researchCoverage.useQuery();
   const places = placesData?.items ?? [];
+  const coverageBySlug = new Map((researchCoverage ?? []).map(item => [item.placeSlug, item]));
 
   const getPlacesForPeriod = (periodId: number) =>
     places.filter(p => p.periodId === periodId).slice(0, 6);
@@ -51,7 +54,16 @@ export default function Periods() {
           <div className="space-y-4">
             {(periods ?? []).map(period => {
               const isOpen = expanded === period.id;
+              const allPeriodPlaces = places.filter(place => place.periodId === period.id);
               const periodPlaces = getPlacesForPeriod(period.id);
+              const periodResearch = allPeriodPlaces.reduce((summary, place) => {
+                const research = coverageBySlug.get(place.slug);
+                return {
+                  places: summary.places + (research && (research.claimCount > 0 || research.featureCount > 0) ? 1 : 0),
+                  claims: summary.claims + (research?.claimCount ?? 0),
+                  features: summary.features + (research?.featureCount ?? 0),
+                };
+              }, { places: 0, claims: 0, features: 0 });
               const gradient = ERA_GRADIENT[period.slug] ?? "from-[var(--color-stone-700)] to-[var(--color-stone-600)]";
 
               return (
@@ -89,6 +101,11 @@ export default function Periods() {
                       <span className="text-xs text-[var(--color-stone-400)]">
                         {periodPlaces.length > 0 ? t(`${periodPlaces.length}+ monuments`, `${periodPlaces.length}+ معلم`) : ""}
                       </span>
+                      {periodResearch.claims > 0 && (
+                        <Badge variant="secondary" className="text-[10px]">
+                          {t(`${periodResearch.claims} evidence`, `${periodResearch.claims} دليل`)}
+                        </Badge>
+                      )}
                       {isOpen ? <ChevronDown size={16} className="text-[var(--color-stone-400)]" /> : <ChevronRight size={16} className="text-[var(--color-stone-400)]" />}
                     </div>
                   </button>
@@ -100,6 +117,17 @@ export default function Periods() {
                         <p className={`text-sm text-[var(--color-stone-600)] mb-4 leading-relaxed ${lang === "ar" ? "font-[var(--font-arabic)] text-right" : ""}`}>
                           {lang === "ar" ? period.descriptionAr : period.descriptionEn}
                         </p>
+                      )}
+
+                      {periodResearch.claims > 0 && (
+                        <div className={`mb-4 flex flex-wrap gap-2 ${isRTL ? "flex-row-reverse" : ""}`}>
+                          <Badge variant="secondary">
+                            {t(`${periodResearch.places} researched places`, `${periodResearch.places} مواقع موثقة بحثياً`)}
+                          </Badge>
+                          <Badge variant="outline">
+                            {t(`${periodResearch.features} architectural features`, `${periodResearch.features} عناصر معمارية`)}
+                          </Badge>
+                        </div>
                       )}
 
                       {periodPlaces.length > 0 && (
@@ -116,6 +144,11 @@ export default function Periods() {
                                   </p>
                                   {place.foundedYear && (
                                     <p className="text-xs text-[var(--color-stone-400)] mt-0.5">{place.foundedYear}</p>
+                                  )}
+                                  {(coverageBySlug.get(place.slug)?.featureCount ?? 0) > 0 && (
+                                    <p className="text-[10px] text-[var(--color-teal-600)] mt-1">
+                                      {t(`${coverageBySlug.get(place.slug)?.featureCount} features`, `${coverageBySlug.get(place.slug)?.featureCount} عناصر`)}
+                                    </p>
                                   )}
                                 </div>
                               </Link>

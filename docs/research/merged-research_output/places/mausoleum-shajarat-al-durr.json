@@ -1,0 +1,1235 @@
+{
+  "schemaVersion": 1,
+  "slug": "mausoleum-shajarat-al-durr",
+  "status": "PROPOSED_V4",
+  "slugAliases": [],
+  "architecturalElements": [
+    "domed chamber",
+    "muqarnas transition",
+    "inscriptions",
+    "funerary enclosure",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "al-Khalifa",
+  "historicalPeriods": [
+    "Early Mamluk",
+    "13th century CE / c. 1250",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mausoleum of Shajarat al-Durr) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (شجرة الدر) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Imam al-Shafi'i Cemetery",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "قبة شجرة الدر",
+  "nameEn": "Mausoleum of Shajarat al-Durr",
+  "placeType": "mausoleum",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mausoleum of Shajarat al-Durr played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت شجرة الدر في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MAUSOLEUMSHAJARATALDURR"
+      ]
+    },
+    {
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "relatedPlaceSlug": "mausoleum-shajarat-al-durr",
+      "titleEn": "Reading Mausoleum of Shajarat al-Durr",
+      "titleAr": "قراءة قبة شجرة الدر",
+      "summaryEn": "A bilingual architectural and historical journey through Mausoleum of Shajarat al-Durr.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في قبة شجرة الدر.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "mausoleum-shajarat-al-durr-chapter-1",
+          "titleEn": "A Woman Patron at a Political Threshold",
+          "titleAr": "راعِية عند عتبة سياسية",
+          "bodyEn": "Mausoleum of Shajarat al-Durr belongs to Ayyubid–Mamluk transition, but its significance becomes clearer when placed within the political and urban history of al-Khalifa. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي قبة شجرة الدر إلى مرحلة الانتقال الأيوبي المملوكي، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة الخليفة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "mausoleum-shajarat-al-durr-chapter-2",
+          "titleEn": "Reading the Architecture of Mausoleum of Shajarat al-Durr",
+          "titleAr": "قراءة عمارة قبة شجرة الدر",
+          "bodyEn": "The monument rewards a slow visual reading of compact dome, mihrab, mother-of-pearl tree motif, royal memory and Ayyubid-Mamluk transition. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة المدمجة والمحراب وزخرفة الشجرة بالصدف والذاكرة السلطانية والانتقال الأيوبي المملوكي. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "mausoleum-shajarat-al-durr-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Ayyubid–Mamluk transition"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mausoleum",
+        "al-Khalifa",
+        "Ayyubid / early Mamluk transition"
+      ],
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "claimIds": [
+        "claim-mausoleum-shajarat-al-durr-story-1",
+        "claim-mausoleum-shajarat-al-durr-story-2",
+        "claim-mausoleum-shajarat-al-durr-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    }
+  ],
+  "transliteration": "Mausoleum of Shajarat al-Durr",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-mausoleum-shajarat-al-durr",
+      "placeId": null,
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "placeNameEn": "Mausoleum of Shajarat al-Durr",
+      "placeNameAr": "قبة شجرة الدر",
+      "role": "cover",
+      "imageKitPath": "/places/mausoleum-shajarat-al-durr/cover.jpg",
+      "localFile": "images/mausoleum-shajarat-al-durr/mausoleum-shajarat-al-durr-cover-exterior-dome.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+      "sourceTitle": "Mausoleum of Shajar al-Durr DSCF2771.jpg",
+      "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/mausoleum-shajarat-al-durr/mausoleum-shajarat-al-durr-cover-exterior-dome.jpg",
+      "creator": "R Prazeres",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Mausoleum of Shajar al-Durr DSCF2771.jpg — R Prazeres, CC BY-SA 4.0, via Wikimedia Commons",
+      "altEn": "The white exterior and rounded dome of the Mausoleum of Shajarat al-Durr.",
+      "altAr": "الواجهة البيضاء والقبة المستديرة لضريح شجرة الدر.",
+      "captionEn": "The white exterior and rounded dome of the Mausoleum of Shajarat al-Durr.",
+      "captionAr": "الواجهة البيضاء والقبة المستديرة لضريح شجرة الدر.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 3000,
+      "height": 3808,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1908368,
+      "checksum": "64308a0957f25fd48b3e717a45c14b87a7e49b91c4eb61a350032125e0f92070",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "baseline_v4",
+      "provenanceGroup": "baseline_v4",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+        "creator": "R Prazeres",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Mausoleum of Shajar al-Durr DSCF2771.jpg — R Prazeres, CC BY-SA 4.0, via Wikimedia Commons",
+        "verifiedBy": "baseline_v4",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-mausoleum-shajarat-al-durr:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "domed chamber",
+        "muqarnas transition",
+        "inscriptions",
+        "funerary enclosure"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "domed chamber",
+            "muqarnas transition",
+            "inscriptions",
+            "funerary enclosure"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A domed funerary structure whose chamber, transition zone, and exterior mass participate in the developing Cairene mausoleum tradition.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "al-Khalifa",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Imam al-Shafi'i Cemetery"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": "al-Khalifa",
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Early Mamluk",
+        "13th century CE / c. 1250"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Early Mamluk",
+            "13th century CE / c. 1250"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mausoleum of Shajarat al-Durr) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (شجرة الدر) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Associated with Shajarat al-Durr, the powerful thirteenth-century ruler and patron who helped mark the transition from Ayyubid to Mamluk rule. The foundation is among Cairo's early Mamluk funerary monuments.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mausoleum of Shajarat al-Durr) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (شجرة الدر) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Imam al-Shafi'i Cemetery",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Imam al-Shafi'i Cemetery",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "قبة شجرة الدر",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "ضريح شجر الدر"
+        },
+        {
+          "provenance": "gemini",
+          "value": "شجرة الدر"
+        }
+      ],
+      "baselineValue": "قبة شجرة الدر",
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Mausoleum of Shajarat al-Durr",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mausoleum of Shajarat al-Durr"
+        }
+      ],
+      "baselineValue": "Mausoleum of Shajarat al-Durr",
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mausoleum",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mausoleum"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": "mausoleum",
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mausoleum of Shajarat al-Durr played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت شجرة الدر في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MAUSOLEUMSHAJARATALDURR"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+                "mausoleum-shajarat-al-durr:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mausoleum of Shajarat al-Durr played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت شجرة الدر في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MAUSOLEUMSHAJARATALDURR"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mausoleum of Shajarat al-Durr",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mausoleum of Shajarat al-Durr"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mausoleum-shajarat-al-durr",
+      "status": "PROPOSED_V4",
+      "nameEn": "Mausoleum of Shajarat al-Durr",
+      "nameAr": "ضريح شجر الدر",
+      "transliteration": "Mausoleum of Shajarat al-Durr",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "mausoleum",
+      "district": "Imam al-Shafi'i Cemetery",
+      "location": {
+        "descriptionEn": "Imam al-Shafi'i Cemetery",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Early Mamluk",
+        "13th century CE / c. 1250"
+      ],
+      "historicalSummary": {
+        "en": "Associated with Shajarat al-Durr, the powerful thirteenth-century ruler and patron who helped mark the transition from Ayyubid to Mamluk rule. The foundation is among Cairo's early Mamluk funerary monuments.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A domed funerary structure whose chamber, transition zone, and exterior mass participate in the developing Cairene mausoleum tradition.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "domed chamber",
+        "muqarnas transition",
+        "inscriptions",
+        "funerary enclosure"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+            "mausoleum-shajarat-al-durr:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mausoleum-shajarat-al-durr-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mausoleum of Shajarat al-Durr.",
+          "textAr": "يسجل الجرد هذا الموقع باسم ضريح شجر الدر.",
+          "confidence": "high",
+          "sourceIds": [
+            "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+            "mausoleum-shajarat-al-durr:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-shajarat-al-durr-history",
+          "claimType": "history",
+          "textEn": "Associated with Shajarat al-Durr, the powerful thirteenth-century ruler and patron who helped mark the transition from Ayyubid to Mamluk rule. The foundation is among Cairo's early Mamluk funerary monuments.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+            "mausoleum-shajarat-al-durr:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-shajarat-al-durr-architecture",
+          "claimType": "architecture",
+          "textEn": "A domed funerary structure whose chamber, transition zone, and exterior mass participate in the developing Cairene mausoleum tradition.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+            "mausoleum-shajarat-al-durr:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-shajarat-al-durr-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+            "mausoleum-shajarat-al-durr:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mausoleum-shajarat-al-durr-identity",
+            "mausoleum-shajarat-al-durr-history",
+            "mausoleum-shajarat-al-durr-architecture",
+            "mausoleum-shajarat-al-durr-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "mausoleum-shajarat-al-durr:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mausoleum-shajarat-al-durr-identity",
+            "mausoleum-shajarat-al-durr-history",
+            "mausoleum-shajarat-al-durr-architecture",
+            "mausoleum-shajarat-al-durr-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mausoleum-shajarat-al-durr",
+      "status": "PROPOSED_V4",
+      "nameEn": "Mausoleum of Shajarat al-Durr",
+      "nameAr": "شجرة الدر",
+      "transliteration": "Mausoleum of Shajarat al-Durr",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mausoleum of Shajarat al-Durr) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (شجرة الدر) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mausoleum of Shajarat al-Durr played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت شجرة الدر في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MAUSOLEUMSHAJARATALDURR"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MAUSOLEUMSHAJARATALDURR-01",
+          "claimType": "history",
+          "textEn": "The site Mausoleum of Shajarat al-Durr is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل شجرة الدر كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-MAUSOLEUMSHAJARATALDURR"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MAUSOLEUMSHAJARATALDURR",
+          "title": "Archnet & Ministry Documentation for Mausoleum of Shajarat al-Durr",
+          "url": "https://archnet.org/sites/mausoleum-shajarat-al-durr",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MAUSOLEUMSHAJARATALDURR-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mausoleum-shajarat-al-durr.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mausoleum-shajarat-al-durr.jpg",
+          "title": "General View of Mausoleum of Shajarat al-Durr",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mausoleum of Shajarat al-Durr\n\nArabic name: **ضريح شجر الدر**  \nStatus: **PROPOSED_V4**  \nSlug: `mausoleum-shajarat-al-durr`\n\n## Historical summary\n\nAssociated with Shajarat al-Durr, the powerful thirteenth-century ruler and patron who helped mark the transition from Ayyubid to Mamluk rule. The foundation is among Cairo's early Mamluk funerary monuments.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA domed funerary structure whose chamber, transition zone, and exterior mass participate in the developing Cairene mausoleum tradition.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- domed chamber\n- muqarnas transition\n- inscriptions\n- funerary enclosure\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mausoleum-shajarat-al-durr:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mausoleum-shajarat-al-durr:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mausoleum of Shajarat al-Durr\n\nArabic name: **ضريح شجر الدر**  \nStatus: **PROPOSED_V4**  \nSlug: `mausoleum-shajarat-al-durr`\n\n## Historical summary\n\nAssociated with Shajarat al-Durr, the powerful thirteenth-century ruler and patron who helped mark the transition from Ayyubid to Mamluk rule. The foundation is among Cairo's early Mamluk funerary monuments.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA domed funerary structure whose chamber, transition zone, and exterior mass participate in the developing Cairene mausoleum tradition.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- domed chamber\n- muqarnas transition\n- inscriptions\n- funerary enclosure\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mausoleum-shajarat-al-durr:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mausoleum-shajarat-al-durr:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mausoleum of Shajarat al-Durr (شجرة الدر)\n**Status:** PROPOSED_V4  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mausoleum of Shajarat al-Durr) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (شجرة الدر) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mausoleum of Shajarat al-Durr played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mausoleum of Shajarat al-Durr (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mausoleum-shajarat-al-durr.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MAUSOLEUMSHAJARATALDURR]** [Archnet & Ministry Documentation for Mausoleum of Shajarat al-Durr](https://archnet.org/sites/mausoleum-shajarat-al-durr) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": {
+      "slug": "mausoleum-shajarat-al-durr",
+      "nameEn": "Mausoleum of Shajarat al-Durr",
+      "nameAr": "قبة شجرة الدر",
+      "alternateNames": [
+        "Mausoleum of Shajar al-Durr"
+      ],
+      "historicalPeriod": "Ayyubid–Mamluk transition",
+      "dynasty": "Ayyubid / early Mamluk transition",
+      "district": "al-Khalifa",
+      "placeType": "mausoleum",
+      "foundedYearOrRange": "1250 CE",
+      "dateCertainty": "certain",
+      "dateDisplayEn": "1250 CE",
+      "dateDisplayAr": "1250م",
+      "patronEn": "Shajarat al-Durr",
+      "patronAr": "شجرة الدر",
+      "architectEn": "Unknown",
+      "architectAr": "غير معروف",
+      "originalFunctionEn": "royal mausoleum",
+      "originalFunctionAr": "ضريح سلطاني",
+      "currentFunctionEn": "historic funerary monument",
+      "currentFunctionAr": "أثر جنائزي تاريخي",
+      "historicalBriefEn": "Shajarat al-Durr’s mausoleum belongs to the transition between Ayyubid and Mamluk rule. Its compact domed form and interior imagery link personal commemoration, female patronage, and political legitimacy. Interpretation should emphasize government, patronage, and memory rather than romanticized retellings. The monument also belongs to a cluster of shrines and mausoleums in al-Khalifa, where small buildings carry dense political and devotional meanings. Its compact scale makes close looking essential: the transition beneath the dome, the mihrab, surface decoration, and later repairs explain more than a distant exterior view can reveal. The surviving monument also contributes to the wider history of small domed mausoleums in al-Khalifa, where close comparison of plan, decoration, patronage, and later repair can reveal distinctions that are easily lost in broad dynastic summaries.",
+      "historicalBriefAr": "تنتمي قبة شجرة الدر إلى الانتقال بين الحكم الأيوبي والمملوكي. ويربط شكلها المدمج ذي القبة وصورها الداخلية بين التذكار الشخصي ورعاية النساء والشرعية السياسية. وينبغي أن يركز التفسير على الحكم والرعاية والذاكرة بدل الروايات الرومانسية. وينتمي الأثر أيضًا إلى مجموعة من المشاهد والأضرحة في منطقة الخليفة، حيث تحمل المباني الصغيرة معاني سياسية ودينية كثيفة. ويجعل حجمه المدمج النظر القريب ضروريًا؛ فمنطقة الانتقال تحت القبة والمحراب والزخرفة السطحية والإصلاحات اللاحقة تكشف ما لا يظهر في منظر خارجي بعيد. ويسهم الأثر الباقي أيضًا في التاريخ الأوسع للأضرحة الصغيرة ذات القباب في منطقة الخليفة، حيث تكشف المقارنة الدقيقة بين الخطة والزخرفة والرعاية والإصلاحات اللاحقة فروقًا تضيع بسهولة في الملخصات العامة للعصور.",
+      "clarificationNoteEn": "Popular stories must not replace sourced political and architectural history.",
+      "clarificationNoteAr": "يجب ألا تحل الروايات الشعبية محل التاريخ السياسي والمعماري الموثق.",
+      "keyDates": [
+        {
+          "year": 1250,
+          "labelEn": "Principal documented phase",
+          "labelAr": "المرحلة الرئيسية الموثقة"
+        }
+      ],
+      "architecturalPhases": [
+        {
+          "nameEn": "Original or principal construction",
+          "nameAr": "الإنشاء الأصلي أو الرئيسي",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Original or principal construction",
+          "descAr": "الإنشاء الأصلي أو الرئيسي"
+        },
+        {
+          "nameEn": "Later repairs, additions, or conservation",
+          "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Later repairs, additions, or conservation",
+          "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+        }
+      ],
+      "latitude": 30.028,
+      "longitude": 31.2535,
+      "locationPrecision": "approximate",
+      "openingHours": null,
+      "accessibilityConfidence": "low-to-medium",
+      "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+      "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+      "priorityVisualStoryEn": "White dome, exterior carved motifs, mihrab, and female patronage.",
+      "priorityVisualStoryAr": "القبة البيضاء والزخارف الخارجية والمحراب ورعاية النساء.",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "claimIds": [
+        "claim-mausoleum-shajarat-al-durr-date",
+        "claim-mausoleum-shajarat-al-durr-period",
+        "claim-mausoleum-shajarat-al-durr-patron",
+        "claim-mausoleum-shajarat-al-durr-function",
+        "claim-mausoleum-shajarat-al-durr-clarification",
+        "claim-mausoleum-shajarat-al-durr-location"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+      "photographyAllowed": "unknown",
+      "activeWorship": false,
+      "funerarySensitive": true,
+      "ticketed": null,
+      "recommendedDurationMin": 22,
+      "recommendedDurationMax": 37
+    },
+    "contentPackageV4Story": {
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "relatedPlaceSlug": "mausoleum-shajarat-al-durr",
+      "titleEn": "Reading Mausoleum of Shajarat al-Durr",
+      "titleAr": "قراءة قبة شجرة الدر",
+      "summaryEn": "A bilingual architectural and historical journey through Mausoleum of Shajarat al-Durr.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في قبة شجرة الدر.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "mausoleum-shajarat-al-durr-chapter-1",
+          "titleEn": "A Woman Patron at a Political Threshold",
+          "titleAr": "راعِية عند عتبة سياسية",
+          "bodyEn": "Mausoleum of Shajarat al-Durr belongs to Ayyubid–Mamluk transition, but its significance becomes clearer when placed within the political and urban history of al-Khalifa. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي قبة شجرة الدر إلى مرحلة الانتقال الأيوبي المملوكي، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة الخليفة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "mausoleum-shajarat-al-durr-chapter-2",
+          "titleEn": "Reading the Architecture of Mausoleum of Shajarat al-Durr",
+          "titleAr": "قراءة عمارة قبة شجرة الدر",
+          "bodyEn": "The monument rewards a slow visual reading of compact dome, mihrab, mother-of-pearl tree motif, royal memory and Ayyubid-Mamluk transition. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة المدمجة والمحراب وزخرفة الشجرة بالصدف والذاكرة السلطانية والانتقال الأيوبي المملوكي. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "mausoleum-shajarat-al-durr-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Ayyubid–Mamluk transition"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mausoleum",
+        "al-Khalifa",
+        "Ayyubid / early Mamluk transition"
+      ],
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "claimIds": [
+        "claim-mausoleum-shajarat-al-durr-story-1",
+        "claim-mausoleum-shajarat-al-durr-story-2",
+        "claim-mausoleum-shajarat-al-durr-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    },
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-mausoleum-shajarat-al-durr",
+        "placeId": null,
+        "placeSlug": "mausoleum-shajarat-al-durr",
+        "placeNameEn": "Mausoleum of Shajarat al-Durr",
+        "placeNameAr": "قبة شجرة الدر",
+        "role": "cover",
+        "imageKitPath": "/places/mausoleum-shajarat-al-durr/cover.jpg",
+        "localFile": "images/mausoleum-shajarat-al-durr/mausoleum-shajarat-al-durr-cover-exterior-dome.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+        "sourceTitle": "Mausoleum of Shajar al-Durr DSCF2771.jpg",
+        "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/mausoleum-shajarat-al-durr/mausoleum-shajarat-al-durr-cover-exterior-dome.jpg",
+        "creator": "R Prazeres",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Mausoleum of Shajar al-Durr DSCF2771.jpg — R Prazeres, CC BY-SA 4.0, via Wikimedia Commons",
+        "altEn": "The white exterior and rounded dome of the Mausoleum of Shajarat al-Durr.",
+        "altAr": "الواجهة البيضاء والقبة المستديرة لضريح شجرة الدر.",
+        "captionEn": "The white exterior and rounded dome of the Mausoleum of Shajarat al-Durr.",
+        "captionAr": "الواجهة البيضاء والقبة المستديرة لضريح شجرة الدر.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 3000,
+        "height": 3808,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1908368,
+        "checksum": "64308a0957f25fd48b3e717a45c14b87a7e49b91c4eb61a350032125e0f92070",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "baseline_v4",
+        "provenanceGroup": "baseline_v4",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mausoleum_of_Shajar_al-Durr_DSCF2771.jpg",
+          "creator": "R Prazeres",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Mausoleum of Shajar al-Durr DSCF2771.jpg — R Prazeres, CC BY-SA 4.0, via Wikimedia Commons",
+          "verifiedBy": "baseline_v4",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-mausoleum-shajarat-al-durr:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": null
+  },
+  "sources": [
+    "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+    "mausoleum-shajarat-al-durr:mota-historic-cairo",
+    "SRC-MAUSOLEUMSHAJARATALDURR",
+    "src-shajarat-archnet",
+    "src-shajarat-patronage"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mausoleum-shajarat-al-durr-identity",
+        "mausoleum-shajarat-al-durr-history",
+        "mausoleum-shajarat-al-durr-architecture",
+        "mausoleum-shajarat-al-durr-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mausoleum-shajarat-al-durr:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mausoleum-shajarat-al-durr-identity",
+        "mausoleum-shajarat-al-durr-history",
+        "mausoleum-shajarat-al-durr-architecture",
+        "mausoleum-shajarat-al-durr-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-MAUSOLEUMSHAJARATALDURR",
+      "title": "Archnet & Ministry Documentation for Mausoleum of Shajarat al-Durr",
+      "url": "https://archnet.org/sites/mausoleum-shajarat-al-durr",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MAUSOLEUMSHAJARATALDURR-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "baselineAcceptedContent": {
+    "sourceIds": [
+      "src-shajarat-archnet",
+      "src-shajarat-patronage"
+    ],
+    "claimIds": [
+      "claim-mausoleum-shajarat-al-durr-date",
+      "claim-mausoleum-shajarat-al-durr-period",
+      "claim-mausoleum-shajarat-al-durr-patron",
+      "claim-mausoleum-shajarat-al-durr-function",
+      "claim-mausoleum-shajarat-al-durr-clarification",
+      "claim-mausoleum-shajarat-al-durr-location"
+    ],
+    "bilingual": true
+  },
+  "acceptedClaims": [
+    {
+      "claimId": "mausoleum-shajarat-al-durr-identity",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mausoleum of Shajarat al-Durr.",
+      "textAr": "يسجل الجرد هذا الموقع باسم ضريح شجر الدر.",
+      "confidence": "high",
+      "sourceIds": [
+        "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+        "mausoleum-shajarat-al-durr:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "mausoleum-shajarat-al-durr-status",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+        "mausoleum-shajarat-al-durr:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MAUSOLEUMSHAJARATALDURR-01",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mausoleum of Shajarat al-Durr is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل شجرة الدر كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-MAUSOLEUMSHAJARATALDURR"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-date",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "date",
+      "textEn": "Mausoleum of Shajarat al-Durr is dated to 1250 CE.",
+      "textAr": "يؤرخ قبة شجرة الدر إلى 1250 م.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-period",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "period",
+      "textEn": "The monument belongs primarily to Ayyubid–Mamluk transition.",
+      "textAr": "ينتمي الأثر أساسًا إلى مرحلة الانتقال الأيوبي المملوكي.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-patron",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "patron",
+      "textEn": "The recorded patron is Shajarat al-Durr.",
+      "textAr": "الراعي المسجل هو شجرة الدر.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-function",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "function",
+      "textEn": "Its original function was royal mausoleum.",
+      "textAr": "كانت وظيفته الأصلية ضريح سلطاني.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-clarification",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "clarification",
+      "textEn": "Popular stories must not replace sourced political and architectural history.",
+      "textAr": "يجب ألا تحل الروايات الشعبية محل التاريخ السياسي والمعماري الموثق.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-location",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "location",
+      "textEn": "The record locates the monument in al-Khalifa with approximate coordinate precision.",
+      "textAr": "يضع السجل الأثر في منطقة الخليفة، مع دقة مكانية مصنفة بوصفها تقريبية.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-story-1",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "claimType": "story-chapter",
+      "textEn": "Mausoleum of Shajarat al-Durr belongs to Ayyubid–Mamluk transition, but its significance becomes clearer when placed within the political and urban history of al-Khalifa. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "textAr": "ينتمي قبة شجرة الدر إلى مرحلة الانتقال الأيوبي المملوكي، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة الخليفة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-story-2",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "claimType": "story-chapter",
+      "textEn": "The monument rewards a slow visual reading of compact dome, mihrab, mother-of-pearl tree motif, royal memory and Ayyubid-Mamluk transition. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "textAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة المدمجة والمحراب وزخرفة الشجرة بالصدف والذاكرة السلطانية والانتقال الأيوبي المملوكي. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-mausoleum-shajarat-al-durr-story-3",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": "story-mausoleum-shajarat-al-durr",
+      "claimType": "story-chapter",
+      "textEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "textAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-shajarat-archnet",
+        "src-shajarat-patronage"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mausoleum-shajarat-al-durr-history",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Associated with Shajarat al-Durr, the powerful thirteenth-century ruler and patron who helped mark the transition from Ayyubid to Mamluk rule. The foundation is among Cairo's early Mamluk funerary monuments.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+        "mausoleum-shajarat-al-durr:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mausoleum-shajarat-al-durr-architecture",
+      "placeSlug": "mausoleum-shajarat-al-durr",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A domed funerary structure whose chamber, transition zone, and exterior mass participate in the developing Cairene mausoleum tradition.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mausoleum-shajarat-al-durr:unesco-historic-cairo",
+        "mausoleum-shajarat-al-durr:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

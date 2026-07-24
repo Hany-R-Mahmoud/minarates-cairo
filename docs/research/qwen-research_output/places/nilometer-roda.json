@@ -1,0 +1,144 @@
+{
+  "slug": "nilometer-roda",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Nilometer on Roda Island",
+  "nameAr": "مقياس النيل بالروضة",
+  "transliteration": "Nilometer on Roda Island",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "hydraulic measuring structure",
+  "district": "Roda Island",
+  "location": {
+    "descriptionEn": "Roda Island",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Abbasid with later repairs",
+    "861 CE / 247 AH"
+  ],
+  "historicalSummary": {
+    "en": "Constructed on Roda Island in the Abbasid period to measure the Nile's annual rise. Its readings informed taxation, agriculture, and the ritual and administrative calendar of Egypt.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A square well-like chamber contains a graduated marble column surrounded by water channels and a domed enclosure. The apparatus joins scientific measurement with monumental architectural framing.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "graduated column",
+    "water chamber",
+    "domed enclosure",
+    "hydraulic channels",
+    "Qur'anic inscriptions"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "nilometer-roda:unesco-historic-cairo",
+        "nilometer-roda:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "nilometer-roda-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Nilometer on Roda Island.",
+      "textAr": "يسجل الجرد هذا الموقع باسم مقياس النيل بالروضة.",
+      "confidence": "high",
+      "sourceIds": [
+        "nilometer-roda:unesco-historic-cairo",
+        "nilometer-roda:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "nilometer-roda-history",
+      "claimType": "history",
+      "textEn": "Constructed on Roda Island in the Abbasid period to measure the Nile's annual rise. Its readings informed taxation, agriculture, and the ritual and administrative calendar of Egypt.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "nilometer-roda:unesco-historic-cairo",
+        "nilometer-roda:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "nilometer-roda-architecture",
+      "claimType": "architecture",
+      "textEn": "A square well-like chamber contains a graduated marble column surrounded by water channels and a domed enclosure. The apparatus joins scientific measurement with monumental architectural framing.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "nilometer-roda:unesco-historic-cairo",
+        "nilometer-roda:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "nilometer-roda-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "nilometer-roda:unesco-historic-cairo",
+        "nilometer-roda:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "nilometer-roda:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "nilometer-roda-identity",
+        "nilometer-roda-history",
+        "nilometer-roda-architecture",
+        "nilometer-roda-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "nilometer-roda:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "nilometer-roda-identity",
+        "nilometer-roda-history",
+        "nilometer-roda-architecture",
+        "nilometer-roda-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

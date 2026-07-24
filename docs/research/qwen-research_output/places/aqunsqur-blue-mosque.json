@@ -1,0 +1,144 @@
+{
+  "slug": "aqunsqur-blue-mosque",
+  "status": "PROPOSED_V4",
+  "nameEn": "Aqsunqur Mosque / Blue Mosque",
+  "nameAr": "جامع آق سنقر",
+  "transliteration": "Aqsunqur Mosque  Blue Mosque",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "mosque and funerary complex",
+  "district": "Darb al-Ahmar",
+  "location": {
+    "descriptionEn": "Darb al-Ahmar",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Bahri Mamluk with Ottoman tilework",
+    "1347 CE; tilework 17th century"
+  ],
+  "historicalSummary": {
+    "en": "Founded in 1347 by Amir Aqsunqur and later associated with the family of Sultan Qaytbay. Its popular name refers to the blue-and-turquoise Iznik tiles added during an Ottoman-period restoration.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A hypostyle mosque with a qibla iwan and funerary spaces, distinguished by extensive tile revetment, carved stone, and a carefully articulated facade and minaret.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "Iznik tiles",
+    "qibla iwan",
+    "hypostyle prayer hall",
+    "mausoleum",
+    "minaret"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "aqunsqur-blue-mosque:unesco-historic-cairo",
+        "aqunsqur-blue-mosque:mota-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "aqunsqur-blue-mosque-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Aqsunqur Mosque / Blue Mosque.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع آق سنقر.",
+      "confidence": "high",
+      "sourceIds": [
+        "aqunsqur-blue-mosque:unesco-historic-cairo",
+        "aqunsqur-blue-mosque:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "aqunsqur-blue-mosque-history",
+      "claimType": "history",
+      "textEn": "Founded in 1347 by Amir Aqsunqur and later associated with the family of Sultan Qaytbay. Its popular name refers to the blue-and-turquoise Iznik tiles added during an Ottoman-period restoration.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "aqunsqur-blue-mosque:unesco-historic-cairo",
+        "aqunsqur-blue-mosque:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "aqunsqur-blue-mosque-architecture",
+      "claimType": "architecture",
+      "textEn": "A hypostyle mosque with a qibla iwan and funerary spaces, distinguished by extensive tile revetment, carved stone, and a carefully articulated facade and minaret.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "aqunsqur-blue-mosque:unesco-historic-cairo",
+        "aqunsqur-blue-mosque:mota-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "aqunsqur-blue-mosque-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "aqunsqur-blue-mosque:unesco-historic-cairo",
+        "aqunsqur-blue-mosque:mota-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "aqunsqur-blue-mosque:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "aqunsqur-blue-mosque-identity",
+        "aqunsqur-blue-mosque-history",
+        "aqunsqur-blue-mosque-architecture",
+        "aqunsqur-blue-mosque-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "aqunsqur-blue-mosque:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "aqunsqur-blue-mosque-identity",
+        "aqunsqur-blue-mosque-history",
+        "aqunsqur-blue-mosque-architecture",
+        "aqunsqur-blue-mosque-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

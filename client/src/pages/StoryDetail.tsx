@@ -5,6 +5,7 @@ import { ArrowLeft, ArrowRight, BookOpen } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Streamdown } from "streamdown";
 import { buildImageKitSrcSet, buildImageKitUrl } from "@shared/media";
+import { Badge } from "@/components/ui/badge";
 
 export default function StoryDetail() {
   const { slug } = useParams<{ slug: string }>();
@@ -12,6 +13,7 @@ export default function StoryDetail() {
   const BackIcon = isRTL ? ArrowRight : ArrowLeft;
 
   const { data: story, isLoading } = trpc.stories.bySlug.useQuery({ slug: slug ?? "" }, { enabled: !!slug });
+  const { data: storyResearch } = trpc.places.researchByStory.useQuery({ slug: slug ?? "" }, { enabled: !!slug });
 
   if (isLoading) {
     return (
@@ -99,6 +101,47 @@ export default function StoryDetail() {
             </div>
           )}
         </div>
+        {storyResearch && storyResearch.claims.length > 0 && (
+          <section className="max-w-3xl mx-auto mt-12 border-t border-[var(--color-border)] pt-8" aria-labelledby="story-research-heading">
+            <div className={`flex flex-wrap items-center gap-2 mb-4 ${isRTL ? "flex-row-reverse" : ""}`}>
+              <h2 id="story-research-heading" className={`text-xl font-semibold text-[var(--color-stone-900)] ${lang === "ar" ? "font-[var(--font-arabic)]" : "font-[var(--font-serif)]"}`}>
+                {t("Research notes connected to this story", "ملاحظات بحثية مرتبطة بهذه القصة")}
+              </h2>
+              <Badge variant="secondary">
+                {t(`${storyResearch.claims.length} accepted claims`, `${storyResearch.claims.length} ادعاء مقبول`)}
+              </Badge>
+            </div>
+            <div className="space-y-3">
+              {storyResearch.claims.map(claim => (
+                <article key={claim.claimId} className={`p-4 bg-[var(--color-parchment-100)] border border-[var(--color-border)] rounded-lg ${lang === "ar" ? "text-right" : ""}`}>
+                  <div className={`flex flex-wrap items-center gap-2 mb-2 ${isRTL ? "flex-row-reverse" : ""}`}>
+                    <Badge variant="outline" className="text-[10px]">{claim.claimType}</Badge>
+                    <span className="text-[10px] text-[var(--color-stone-500)]">
+                      {t(`${claim.confidence ?? "unknown"} confidence`, `ثقة ${claim.confidence ?? "غير معروفة"}`)}
+                    </span>
+                  </div>
+                  <p className={`text-sm text-[var(--color-stone-700)] leading-relaxed ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+                    {lang === "ar" ? claim.textAr ?? claim.textEn : claim.textEn}
+                  </p>
+                </article>
+              ))}
+            </div>
+            {storyResearch.places.length > 0 && (
+              <div className={`mt-5 flex flex-wrap gap-2 ${isRTL ? "flex-row-reverse" : ""}`}>
+                {storyResearch.places.map(place => (
+                  <Link key={place.id} href={`/monuments/${place.slug}`}>
+                    <span className="text-xs text-[var(--color-terracotta-600)] hover:underline cursor-pointer">
+                      {lang === "ar" ? place.nameAr : place.nameEn}
+                    </span>
+                  </Link>
+                ))}
+                <span className="text-xs text-[var(--color-stone-500)]">
+                  {t(`${storyResearch.sources.length} linked sources`, `${storyResearch.sources.length} مصادر مرتبطة`)}
+                </span>
+              </div>
+            )}
+          </section>
+        )}
       </div>
     </div>
   );

@@ -1,0 +1,117 @@
+{
+  "slug": "al-azhar-park",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Al-Azhar Park",
+  "nameAr": "حديقة الأزهر",
+  "transliteration": "Ḥadīqat al-Azhar",
+  "alternativeNames": [
+    "Azhar Park"
+  ],
+  "relatedSlugs": [],
+  "placeType": "Urban Park / Landscape Heritage",
+  "district": "Al-Darb al-Ahmar",
+  "location": {
+    "descriptionEn": "Hilly green urban space built over historical debris, bordering the Ayyubid Wall.",
+    "descriptionAr": "مساحة خضراء حضرية أقيمت فوق موقع ردم تاريخي وتطل على السور الأيوبي.",
+    "latitude": 30.0411,
+    "longitude": 31.2653,
+    "confidence": "high"
+  },
+  "historicalPeriods": [
+    "Modern / Contemporary (Incorporating Ayyubid Wall)"
+  ],
+  "historicalSummary": {
+    "en": "Gifted to Cairo by the Aga Khan Trust for Culture (AKTC) and opened in 2005. The park construction led to major archaeological excavations along the adjacent 12th-century Ayyubid city wall.",
+    "ar": "أنشئت بتمويل من أغاخان للثقافة وافتتحت عام 2005. كشف مشروع الحديقة عن أجزاء واسعة من السور الأيوبي التاريخي."
+  },
+  "architectureSummary": {
+    "en": "Contemporary landscape design inspired by traditional Islamic gardens, featuring geometric water channels, native flora, and terraced viewpoints overlooking Islamic Cairo.",
+    "ar": "تصميم حدائقي حديث مستوحي من الحدائق الإسلامية التاريخية مع قنوات مائية هندسية وإطلالات بانورامية على القاهرة الإسلامية."
+  },
+  "architecturalElements": [
+    "Water Channels",
+    "Terraced Viewpoints",
+    "Ayyubid Wall Integration"
+  ],
+  "stories": [
+    {
+      "titleEn": "Urban Transformation",
+      "titleAr": "التحول الحضري",
+      "summaryEn": "Transformed a 500-year-old rubbish dump into a major green lung and heritage axis for Cairo.",
+      "summaryAr": "تحويل الموقع من مقلب نفايات عمره 500 عام إلى أحد أهم المتنزهات والمتنفسات الحضرية.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-AKTC-AZHARPARK"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": "09:00 - 23:00",
+    "ticketPrice": "Ticketed entry fee applies at turnstiles",
+    "photographyRules": "Casual personal photography permitted",
+    "dressRequirements": "Standard casual attire",
+    "accessibility": "Wheelchair accessible paths and electric cart services available",
+    "currentStatus": "Open daily to public",
+    "lastChecked": "2026-03-01"
+  },
+  "claims": [
+    {
+      "claimId": "CLM-AZHARPARK-01",
+      "claimType": "history",
+      "textEn": "Opened in 2005 as an AKTC urban revitalization project.",
+      "textAr": "تم افتتاح الحديقة عام 2005 ضمن مشروع التنمية الحضرية لشركة أغاخان للثقافة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-AKTC-AZHARPARK",
+        "SRC-MTA-AZHARPARK"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC-AKTC-AZHARPARK",
+      "title": "Aga Khan Historic Cities Programme - Al-Azhar Park",
+      "url": "https://www.akdn.org/our-agencies/aga-khan-trust-culture/cairo-projects",
+      "sourceType": "conservation_report",
+      "publisher": "Aga Khan Development Network",
+      "publicationDate": "2005-03-25",
+      "accessedDate": "2026-01-18",
+      "supports": [
+        "CLM-AZHARPARK-01"
+      ],
+      "notes": "Project completion documentation."
+    },
+    {
+      "sourceId": "SRC-MTA-AZHARPARK",
+      "title": "Egypt Tourism Portal - Al Azhar Park",
+      "url": "https://egymonuments.gov.eg/en/attractions/al-azhar-park",
+      "sourceType": "official_portal",
+      "publisher": "Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-01",
+      "supports": [
+        "CLM-AZHARPARK-01"
+      ],
+      "notes": "Official site listing."
+    }
+  ],
+  "photos": [
+    {
+      "role": "cover",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Al-Azhar_Park_Panorama.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Al-Azhar_Park_Panorama.jpg",
+      "title": "Al-Azhar Park Panoramic View",
+      "creator": "Wikimedia Contributor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "CC BY-SA 3.0 via Wikimedia Commons",
+      "modificationRequirements": "ShareAlike conditions apply",
+      "width": 1920,
+      "height": 1080,
+      "rightsConfidence": "high",
+      "checkedDate": "2026-01-20",
+      "notes": "Verified."
+    }
+  ],
+  "unresolved": []
+}

@@ -1,0 +1,1231 @@
+{
+  "schemaVersion": 1,
+  "slug": "sinan-pasha-mosque-bulaq",
+  "status": "PROPOSED_V4",
+  "slugAliases": [],
+  "architecturalElements": [
+    "central dome",
+    "minaret",
+    "prayer hall",
+    "port district setting",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Bulaq",
+  "historicalPeriods": [
+    "Ottoman",
+    "1571 CE / 979 AH",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Sinan Pasha Mosque) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (جامع سنان باشا ببولاق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Bulaq",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "جامع سنان باشا",
+  "nameEn": "Sinan Pasha Mosque",
+  "placeType": "mosque",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Sinan Pasha Mosque played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت جامع سنان باشا ببولاق في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-SINANPASHAMOSQUEBULAQ"
+      ]
+    },
+    {
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "relatedPlaceSlug": "sinan-pasha-mosque-bulaq",
+      "titleEn": "Reading Sinan Pasha Mosque",
+      "titleAr": "قراءة جامع سنان باشا",
+      "summaryEn": "A bilingual architectural and historical journey through Sinan Pasha Mosque.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في جامع سنان باشا.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "sinan-pasha-mosque-bulaq-chapter-1",
+          "titleEn": "A Mosque for a Nile Port",
+          "titleAr": "مسجد لميناء على النيل",
+          "bodyEn": "Sinan Pasha Mosque belongs to Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of Bulaq. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي جامع سنان باشا إلى القاهرة العثمانية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة بولاق. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "sinan-pasha-mosque-bulaq-chapter-2",
+          "titleEn": "Reading the Architecture of Sinan Pasha Mosque",
+          "titleAr": "قراءة عمارة جامع سنان باشا",
+          "bodyEn": "The monument rewards a slow visual reading of single stone dome, portico, minaret, Bulaq commerce and the displaced Nile edge. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة الحجرية الواحدة والرواق والمئذنة وتجارة بولاق وتحول حافة النيل. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "sinan-pasha-mosque-bulaq-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Ottoman Cairo"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mosque",
+        "Bulaq",
+        "Ottoman"
+      ],
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "claimIds": [
+        "claim-sinan-pasha-mosque-bulaq-story-1",
+        "claim-sinan-pasha-mosque-bulaq-story-2",
+        "claim-sinan-pasha-mosque-bulaq-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    }
+  ],
+  "transliteration": "Sinan Pasha Mosque",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-sinan-pasha-mosque-bulaq",
+      "placeId": null,
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "placeNameEn": "Sinan Pasha Mosque",
+      "placeNameAr": "جامع سنان باشا",
+      "role": "cover",
+      "imageKitPath": "/places/sinan-pasha-mosque-bulaq/cover.jpg",
+      "localFile": "images/sinan-pasha-mosque-bulaq/sinan-pasha-mosque-bulaq-cover-northern-exterior.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+      "sourceTitle": "Sinan Pasha Mosque Cairo 17 from north.jpg",
+      "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/sinan-pasha-mosque-bulaq/sinan-pasha-mosque-bulaq-cover-northern-exterior.jpg",
+      "creator": "Marsupium",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Sinan Pasha Mosque Cairo 17 from north.jpg — Marsupium, CC BY-SA 4.0, via Wikimedia Commons",
+      "altEn": "The domed exterior and portico of Sinan Pasha Mosque in Bulaq.",
+      "altAr": "الواجهة ذات القبة والرواق لجامع سنان باشا في بولاق.",
+      "captionEn": "The domed exterior and portico of Sinan Pasha Mosque in Bulaq.",
+      "captionAr": "الواجهة ذات القبة والرواق لجامع سنان باشا في بولاق.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 4032,
+      "height": 3024,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1879957,
+      "checksum": "f796416684a3fc5a55b8d97575ae1f0e9f9ae0bc69536b22431a1b0ccd41f8bf",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "baseline_v4",
+      "provenanceGroup": "baseline_v4",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+        "creator": "Marsupium",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Sinan Pasha Mosque Cairo 17 from north.jpg — Marsupium, CC BY-SA 4.0, via Wikimedia Commons",
+        "verifiedBy": "baseline_v4",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-sinan-pasha-mosque-bulaq:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "central dome",
+        "minaret",
+        "prayer hall",
+        "port district setting"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "central dome",
+            "minaret",
+            "prayer hall",
+            "port district setting"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A domed Ottoman mosque with a prominent single dome, minaret, prayer hall, and port-related urban setting; its form belongs to the imperial Ottoman architectural vocabulary adapted to Cairo.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Bulaq",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Bulaq"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": "Bulaq",
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Ottoman",
+        "1571 CE / 979 AH"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Ottoman",
+            "1571 CE / 979 AH"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Sinan Pasha Mosque) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع سنان باشا ببولاق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Built in Bulaq in the Ottoman period for Sinan Pasha, governor of Egypt. Its location reflects Bulaq's role as Cairo's river port and commercial gateway.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Sinan Pasha Mosque) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (جامع سنان باشا ببولاق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Bulaq",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Bulaq",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "جامع سنان باشا",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "جامع سنان باشا ببولاق"
+        }
+      ],
+      "baselineValue": "جامع سنان باشا",
+      "conflict": false
+    },
+    "nameEn": {
+      "canonical": "Sinan Pasha Mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Sinan Pasha Mosque"
+        }
+      ],
+      "baselineValue": "Sinan Pasha Mosque",
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mosque"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": "mosque",
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Sinan Pasha Mosque played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع سنان باشا ببولاق في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-SINANPASHAMOSQUEBULAQ"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+                "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Sinan Pasha Mosque played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت جامع سنان باشا ببولاق في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-SINANPASHAMOSQUEBULAQ"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Sinan Pasha Mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Sinan Pasha Mosque"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "sinan-pasha-mosque-bulaq",
+      "status": "PROPOSED_V4",
+      "nameEn": "Sinan Pasha Mosque",
+      "nameAr": "جامع سنان باشا ببولاق",
+      "transliteration": "Sinan Pasha Mosque",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "mosque",
+      "district": "Bulaq",
+      "location": {
+        "descriptionEn": "Bulaq",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Ottoman",
+        "1571 CE / 979 AH"
+      ],
+      "historicalSummary": {
+        "en": "Built in Bulaq in the Ottoman period for Sinan Pasha, governor of Egypt. Its location reflects Bulaq's role as Cairo's river port and commercial gateway.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A domed Ottoman mosque with a prominent single dome, minaret, prayer hall, and port-related urban setting; its form belongs to the imperial Ottoman architectural vocabulary adapted to Cairo.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "central dome",
+        "minaret",
+        "prayer hall",
+        "port district setting"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+            "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "sinan-pasha-mosque-bulaq-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Sinan Pasha Mosque.",
+          "textAr": "يسجل الجرد هذا الموقع باسم جامع سنان باشا ببولاق.",
+          "confidence": "high",
+          "sourceIds": [
+            "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+            "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "sinan-pasha-mosque-bulaq-history",
+          "claimType": "history",
+          "textEn": "Built in Bulaq in the Ottoman period for Sinan Pasha, governor of Egypt. Its location reflects Bulaq's role as Cairo's river port and commercial gateway.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+            "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "sinan-pasha-mosque-bulaq-architecture",
+          "claimType": "architecture",
+          "textEn": "A domed Ottoman mosque with a prominent single dome, minaret, prayer hall, and port-related urban setting; its form belongs to the imperial Ottoman architectural vocabulary adapted to Cairo.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+            "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "sinan-pasha-mosque-bulaq-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+            "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "sinan-pasha-mosque-bulaq-identity",
+            "sinan-pasha-mosque-bulaq-history",
+            "sinan-pasha-mosque-bulaq-architecture",
+            "sinan-pasha-mosque-bulaq-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "sinan-pasha-mosque-bulaq:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "sinan-pasha-mosque-bulaq-identity",
+            "sinan-pasha-mosque-bulaq-history",
+            "sinan-pasha-mosque-bulaq-architecture",
+            "sinan-pasha-mosque-bulaq-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "sinan-pasha-mosque-bulaq",
+      "status": "PROPOSED_V4",
+      "nameEn": "Sinan Pasha Mosque",
+      "nameAr": "جامع سنان باشا ببولاق",
+      "transliteration": "Sinan Pasha Mosque",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Sinan Pasha Mosque) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع سنان باشا ببولاق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Sinan Pasha Mosque played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع سنان باشا ببولاق في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-SINANPASHAMOSQUEBULAQ"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-SINANPASHAMOSQUEBULAQ-01",
+          "claimType": "history",
+          "textEn": "The site Sinan Pasha Mosque is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل جامع سنان باشا ببولاق كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-SINANPASHAMOSQUEBULAQ"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-SINANPASHAMOSQUEBULAQ",
+          "title": "Archnet & Ministry Documentation for Sinan Pasha Mosque",
+          "url": "https://archnet.org/sites/sinan-pasha-mosque-bulaq",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-SINANPASHAMOSQUEBULAQ-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:sinan-pasha-mosque-bulaq.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/sinan-pasha-mosque-bulaq.jpg",
+          "title": "General View of Sinan Pasha Mosque",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Sinan Pasha Mosque\n\nArabic name: **جامع سنان باشا ببولاق**  \nStatus: **PROPOSED_V4**  \nSlug: `sinan-pasha-mosque-bulaq`\n\n## Historical summary\n\nBuilt in Bulaq in the Ottoman period for Sinan Pasha, governor of Egypt. Its location reflects Bulaq's role as Cairo's river port and commercial gateway.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA domed Ottoman mosque with a prominent single dome, minaret, prayer hall, and port-related urban setting; its form belongs to the imperial Ottoman architectural vocabulary adapted to Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- central dome\n- minaret\n- prayer hall\n- port district setting\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **sinan-pasha-mosque-bulaq:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **sinan-pasha-mosque-bulaq:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Sinan Pasha Mosque\n\nArabic name: **جامع سنان باشا ببولاق**  \nStatus: **PROPOSED_V4**  \nSlug: `sinan-pasha-mosque-bulaq`\n\n## Historical summary\n\nBuilt in Bulaq in the Ottoman period for Sinan Pasha, governor of Egypt. Its location reflects Bulaq's role as Cairo's river port and commercial gateway.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA domed Ottoman mosque with a prominent single dome, minaret, prayer hall, and port-related urban setting; its form belongs to the imperial Ottoman architectural vocabulary adapted to Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- central dome\n- minaret\n- prayer hall\n- port district setting\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **sinan-pasha-mosque-bulaq:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **sinan-pasha-mosque-bulaq:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Sinan Pasha Mosque (جامع سنان باشا ببولاق)\n**Status:** PROPOSED_V4  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Sinan Pasha Mosque) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (جامع سنان باشا ببولاق) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Sinan Pasha Mosque played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Sinan Pasha Mosque (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/sinan-pasha-mosque-bulaq.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-SINANPASHAMOSQUEBULAQ]** [Archnet & Ministry Documentation for Sinan Pasha Mosque](https://archnet.org/sites/sinan-pasha-mosque-bulaq) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": {
+      "slug": "sinan-pasha-mosque-bulaq",
+      "nameEn": "Sinan Pasha Mosque",
+      "nameAr": "جامع سنان باشا",
+      "alternateNames": [
+        "Mosque of Sinan Pasha in Bulaq"
+      ],
+      "historicalPeriod": "Ottoman Cairo",
+      "dynasty": "Ottoman",
+      "district": "Bulaq",
+      "placeType": "mosque",
+      "foundedYearOrRange": "1571 CE",
+      "dateCertainty": "certain",
+      "dateDisplayEn": "1571 CE",
+      "dateDisplayAr": "1571م",
+      "patronEn": "Sinan Pasha",
+      "patronAr": "سنان باشا",
+      "architectEn": "Unknown",
+      "architectAr": "غير معروف",
+      "originalFunctionEn": "congregational mosque in the port district",
+      "originalFunctionAr": "مسجد جامع في الحي المينائي",
+      "currentFunctionEn": "active mosque and historic monument",
+      "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+      "historicalBriefEn": "Sinan Pasha Mosque stands in Bulaq, Cairo’s historic port and commercial district. Its central dome, surrounding portico, stone walls, and minaret demonstrate an Ottoman mosque type adapted to an Egyptian urban setting. The story connects architecture to river trade and the transformed Nile edge. The mosque’s relationship to Bulaq is essential. The district linked Cairo to river transport and regional trade, yet later urban works altered the shoreline and street pattern. Architectural interpretation should therefore combine the surviving mosque with historical maps and avoid presenting the modern surroundings as an unchanged sixteenth-century port.",
+      "historicalBriefAr": "يقع جامع سنان باشا في بولاق، الحي المينائي والتجاري التاريخي للقاهرة. وتوضح قبته المركزية ورواقه المحيط وجدرانه الحجرية ومئذنته نموذجًا عثمانيًا جرى تكييفه مع بيئة حضرية مصرية. وتربط القصة العمارة بتجارة النهر وتحول حافة النيل. وتعد علاقة الجامع ببولاق أساسية؛ فقد ربط الحي القاهرة بالنقل النهري والتجارة الإقليمية، لكن الأعمال العمرانية اللاحقة غيرت الشاطئ وشبكة الشوارع. لذلك ينبغي أن يجمع التفسير بين الجامع الباقي والخرائط التاريخية، وألا يقدم المحيط الحديث بوصفه ميناء القرن السادس عشر دون تغير.",
+      "clarificationNoteEn": "The present streets are not the original sixteenth-century port landscape.",
+      "clarificationNoteAr": "الشوارع الحالية ليست مشهد الميناء الأصلي في القرن السادس عشر.",
+      "keyDates": [
+        {
+          "year": 1571,
+          "labelEn": "Principal documented phase",
+          "labelAr": "المرحلة الرئيسية الموثقة"
+        }
+      ],
+      "architecturalPhases": [
+        {
+          "nameEn": "Original or principal construction",
+          "nameAr": "الإنشاء الأصلي أو الرئيسي",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Original or principal construction",
+          "descAr": "الإنشاء الأصلي أو الرئيسي"
+        },
+        {
+          "nameEn": "Later repairs, additions, or conservation",
+          "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Later repairs, additions, or conservation",
+          "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+        }
+      ],
+      "latitude": 30.062583,
+      "longitude": 31.229144,
+      "locationPrecision": "exact",
+      "openingHours": null,
+      "accessibilityConfidence": "low-to-medium",
+      "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+      "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+      "priorityVisualStoryEn": "Central dome, portico, minaret, and modern Bulaq around the monument.",
+      "priorityVisualStoryAr": "القبة المركزية والرواق والمئذنة وبولاق الحديثة حول الأثر.",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "claimIds": [
+        "claim-sinan-pasha-mosque-bulaq-date",
+        "claim-sinan-pasha-mosque-bulaq-period",
+        "claim-sinan-pasha-mosque-bulaq-patron",
+        "claim-sinan-pasha-mosque-bulaq-function",
+        "claim-sinan-pasha-mosque-bulaq-clarification",
+        "claim-sinan-pasha-mosque-bulaq-location"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+      "photographyAllowed": "unknown",
+      "activeWorship": true,
+      "funerarySensitive": false,
+      "ticketed": null,
+      "recommendedDurationMin": 26,
+      "recommendedDurationMax": 43
+    },
+    "contentPackageV4Story": {
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "relatedPlaceSlug": "sinan-pasha-mosque-bulaq",
+      "titleEn": "Reading Sinan Pasha Mosque",
+      "titleAr": "قراءة جامع سنان باشا",
+      "summaryEn": "A bilingual architectural and historical journey through Sinan Pasha Mosque.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في جامع سنان باشا.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "sinan-pasha-mosque-bulaq-chapter-1",
+          "titleEn": "A Mosque for a Nile Port",
+          "titleAr": "مسجد لميناء على النيل",
+          "bodyEn": "Sinan Pasha Mosque belongs to Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of Bulaq. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي جامع سنان باشا إلى القاهرة العثمانية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة بولاق. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "sinan-pasha-mosque-bulaq-chapter-2",
+          "titleEn": "Reading the Architecture of Sinan Pasha Mosque",
+          "titleAr": "قراءة عمارة جامع سنان باشا",
+          "bodyEn": "The monument rewards a slow visual reading of single stone dome, portico, minaret, Bulaq commerce and the displaced Nile edge. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة الحجرية الواحدة والرواق والمئذنة وتجارة بولاق وتحول حافة النيل. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "sinan-pasha-mosque-bulaq-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Ottoman Cairo"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mosque",
+        "Bulaq",
+        "Ottoman"
+      ],
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "claimIds": [
+        "claim-sinan-pasha-mosque-bulaq-story-1",
+        "claim-sinan-pasha-mosque-bulaq-story-2",
+        "claim-sinan-pasha-mosque-bulaq-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    },
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-sinan-pasha-mosque-bulaq",
+        "placeId": null,
+        "placeSlug": "sinan-pasha-mosque-bulaq",
+        "placeNameEn": "Sinan Pasha Mosque",
+        "placeNameAr": "جامع سنان باشا",
+        "role": "cover",
+        "imageKitPath": "/places/sinan-pasha-mosque-bulaq/cover.jpg",
+        "localFile": "images/sinan-pasha-mosque-bulaq/sinan-pasha-mosque-bulaq-cover-northern-exterior.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+        "sourceTitle": "Sinan Pasha Mosque Cairo 17 from north.jpg",
+        "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/sinan-pasha-mosque-bulaq/sinan-pasha-mosque-bulaq-cover-northern-exterior.jpg",
+        "creator": "Marsupium",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Sinan Pasha Mosque Cairo 17 from north.jpg — Marsupium, CC BY-SA 4.0, via Wikimedia Commons",
+        "altEn": "The domed exterior and portico of Sinan Pasha Mosque in Bulaq.",
+        "altAr": "الواجهة ذات القبة والرواق لجامع سنان باشا في بولاق.",
+        "captionEn": "The domed exterior and portico of Sinan Pasha Mosque in Bulaq.",
+        "captionAr": "الواجهة ذات القبة والرواق لجامع سنان باشا في بولاق.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 4032,
+        "height": 3024,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1879957,
+        "checksum": "f796416684a3fc5a55b8d97575ae1f0e9f9ae0bc69536b22431a1b0ccd41f8bf",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "baseline_v4",
+        "provenanceGroup": "baseline_v4",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sinan_Pasha_Mosque_Cairo_17_from_north.jpg",
+          "creator": "Marsupium",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Sinan Pasha Mosque Cairo 17 from north.jpg — Marsupium, CC BY-SA 4.0, via Wikimedia Commons",
+          "verifiedBy": "baseline_v4",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-sinan-pasha-mosque-bulaq:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": null
+  },
+  "sources": [
+    "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+    "sinan-pasha-mosque-bulaq:mota-historic-cairo",
+    "SRC-SINANPASHAMOSQUEBULAQ",
+    "src-sinan-archnet",
+    "src-sinan-swelim"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sinan-pasha-mosque-bulaq-identity",
+        "sinan-pasha-mosque-bulaq-history",
+        "sinan-pasha-mosque-bulaq-architecture",
+        "sinan-pasha-mosque-bulaq-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "sinan-pasha-mosque-bulaq:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sinan-pasha-mosque-bulaq-identity",
+        "sinan-pasha-mosque-bulaq-history",
+        "sinan-pasha-mosque-bulaq-architecture",
+        "sinan-pasha-mosque-bulaq-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-SINANPASHAMOSQUEBULAQ",
+      "title": "Archnet & Ministry Documentation for Sinan Pasha Mosque",
+      "url": "https://archnet.org/sites/sinan-pasha-mosque-bulaq",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-SINANPASHAMOSQUEBULAQ-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "baselineAcceptedContent": {
+    "sourceIds": [
+      "src-sinan-archnet",
+      "src-sinan-swelim"
+    ],
+    "claimIds": [
+      "claim-sinan-pasha-mosque-bulaq-date",
+      "claim-sinan-pasha-mosque-bulaq-period",
+      "claim-sinan-pasha-mosque-bulaq-patron",
+      "claim-sinan-pasha-mosque-bulaq-function",
+      "claim-sinan-pasha-mosque-bulaq-clarification",
+      "claim-sinan-pasha-mosque-bulaq-location"
+    ],
+    "bilingual": true
+  },
+  "acceptedClaims": [
+    {
+      "claimId": "sinan-pasha-mosque-bulaq-identity",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Sinan Pasha Mosque.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع سنان باشا ببولاق.",
+      "confidence": "high",
+      "sourceIds": [
+        "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+        "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "sinan-pasha-mosque-bulaq-status",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+        "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-SINANPASHAMOSQUEBULAQ-01",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Sinan Pasha Mosque is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل جامع سنان باشا ببولاق كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-SINANPASHAMOSQUEBULAQ"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-date",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "date",
+      "textEn": "Sinan Pasha Mosque is dated to 1571 CE.",
+      "textAr": "يؤرخ جامع سنان باشا إلى 1571 م.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-period",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "period",
+      "textEn": "The monument belongs primarily to Ottoman Cairo.",
+      "textAr": "ينتمي الأثر أساسًا إلى القاهرة العثمانية.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-patron",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "patron",
+      "textEn": "The recorded patron is Sinan Pasha.",
+      "textAr": "الراعي المسجل هو سنان باشا.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-function",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "function",
+      "textEn": "Its original function was congregational mosque in the port district.",
+      "textAr": "كانت وظيفته الأصلية مسجد جامع في الحي المينائي.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-clarification",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "clarification",
+      "textEn": "The present streets are not the original sixteenth-century port landscape.",
+      "textAr": "الشوارع الحالية ليست مشهد الميناء الأصلي في القرن السادس عشر.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-location",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "location",
+      "textEn": "The record locates the monument in Bulaq with exact coordinate precision.",
+      "textAr": "يضع السجل الأثر في منطقة بولاق، مع دقة مكانية مصنفة بوصفها دقيقة.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-story-1",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "claimType": "story-chapter",
+      "textEn": "Sinan Pasha Mosque belongs to Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of Bulaq. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "textAr": "ينتمي جامع سنان باشا إلى القاهرة العثمانية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة بولاق. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-story-2",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "claimType": "story-chapter",
+      "textEn": "The monument rewards a slow visual reading of single stone dome, portico, minaret, Bulaq commerce and the displaced Nile edge. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "textAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة الحجرية الواحدة والرواق والمئذنة وتجارة بولاق وتحول حافة النيل. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sinan-pasha-mosque-bulaq-story-3",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": "story-sinan-pasha-mosque-bulaq",
+      "claimType": "story-chapter",
+      "textEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "textAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sinan-archnet",
+        "src-sinan-swelim"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "sinan-pasha-mosque-bulaq-history",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Built in Bulaq in the Ottoman period for Sinan Pasha, governor of Egypt. Its location reflects Bulaq's role as Cairo's river port and commercial gateway.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+        "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "sinan-pasha-mosque-bulaq-architecture",
+      "placeSlug": "sinan-pasha-mosque-bulaq",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A domed Ottoman mosque with a prominent single dome, minaret, prayer hall, and port-related urban setting; its form belongs to the imperial Ottoman architectural vocabulary adapted to Cairo.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sinan-pasha-mosque-bulaq:unesco-historic-cairo",
+        "sinan-pasha-mosque-bulaq:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

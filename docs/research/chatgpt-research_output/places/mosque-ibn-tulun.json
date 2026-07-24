@@ -1,0 +1,165 @@
+{
+  "slug": "mosque-ibn-tulun",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Mosque of Ahmad Ibn Tulun",
+  "nameAr": "جامع أحمد بن طولون",
+  "transliteration": "Mosque of Ahmad Ibn Tulun",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "congregational mosque",
+  "district": "al-Qata'i / Sayyida Zeinab",
+  "location": {
+    "descriptionEn": "al-Qata'i / Sayyida Zeinab",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Tulunid",
+    "876–879 CE / 263–265 AH"
+  ],
+  "historicalSummary": {
+    "en": "Founded by Ahmad ibn Tulun for his new administrative city al-Qata'i. It is one of the oldest and largest surviving Islamic monuments in Cairo and preserves a major early Islamic architectural language.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A vast open courtyard is surrounded by four arcades; the outer ziyada separates the mosque from the city. Brick construction, pointed arches, stucco ornament, and the spiral minaret define the monument.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "open courtyard",
+    "four arcades",
+    "ziyadas",
+    "spiral minaret",
+    "brick and stucco"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "mosque-ibn-tulun:unesco-historic-cairo",
+        "mosque-ibn-tulun:mota-historic-cairo",
+        "mosque-ibn-tulun:archnet-ibn-tulun"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "mosque-ibn-tulun-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque of Ahmad Ibn Tulun.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع أحمد بن طولون.",
+      "confidence": "high",
+      "sourceIds": [
+        "mosque-ibn-tulun:unesco-historic-cairo",
+        "mosque-ibn-tulun:mota-historic-cairo",
+        "mosque-ibn-tulun:archnet-ibn-tulun"
+      ]
+    },
+    {
+      "claimId": "mosque-ibn-tulun-history",
+      "claimType": "history",
+      "textEn": "Founded by Ahmad ibn Tulun for his new administrative city al-Qata'i. It is one of the oldest and largest surviving Islamic monuments in Cairo and preserves a major early Islamic architectural language.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-ibn-tulun:unesco-historic-cairo",
+        "mosque-ibn-tulun:mota-historic-cairo",
+        "mosque-ibn-tulun:archnet-ibn-tulun"
+      ]
+    },
+    {
+      "claimId": "mosque-ibn-tulun-architecture",
+      "claimType": "architecture",
+      "textEn": "A vast open courtyard is surrounded by four arcades; the outer ziyada separates the mosque from the city. Brick construction, pointed arches, stucco ornament, and the spiral minaret define the monument.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-ibn-tulun:unesco-historic-cairo",
+        "mosque-ibn-tulun:mota-historic-cairo",
+        "mosque-ibn-tulun:archnet-ibn-tulun"
+      ]
+    },
+    {
+      "claimId": "mosque-ibn-tulun-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-ibn-tulun:unesco-historic-cairo",
+        "mosque-ibn-tulun:mota-historic-cairo",
+        "mosque-ibn-tulun:archnet-ibn-tulun"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "mosque-ibn-tulun:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-ibn-tulun-identity",
+        "mosque-ibn-tulun-history",
+        "mosque-ibn-tulun-architecture",
+        "mosque-ibn-tulun-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mosque-ibn-tulun:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-ibn-tulun-identity",
+        "mosque-ibn-tulun-history",
+        "mosque-ibn-tulun-architecture",
+        "mosque-ibn-tulun-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "mosque-ibn-tulun:archnet-ibn-tulun",
+      "title": "Jami' ibn Tulun",
+      "url": "https://www.archnet.org/sites/1522",
+      "sourceType": "architectural documentation",
+      "publisher": "Archnet / Aga Khan Documentation Center",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-ibn-tulun-identity",
+        "mosque-ibn-tulun-history",
+        "mosque-ibn-tulun-architecture",
+        "mosque-ibn-tulun-status"
+      ],
+      "notes": "Monument record and restoration documentation."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

@@ -1,0 +1,1247 @@
+{
+  "schemaVersion": 1,
+  "slug": "aqsunqur-blue-mosque",
+  "status": "PROPOSED_V4",
+  "slugAliases": [
+    "aqunsqur-blue-mosque"
+  ],
+  "architecturalElements": [
+    "Iznik tiles",
+    "qibla iwan",
+    "hypostyle prayer hall",
+    "mausoleum",
+    "minaret",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Darb al-Ahmar",
+  "historicalPeriods": [
+    "Bahri Mamluk with Ottoman tilework",
+    "1347 CE; tilework 17th century",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Aqsunqur Mosque / Blue Mosque) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (جامع أق سنقر / الجامع الأزرق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Darb al-Ahmar",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "جامع آق سنقر (الجامع الأزرق)",
+  "nameEn": "Aqsunqur Mosque (Blue Mosque)",
+  "placeType": "mosque and funerary complex",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Aqsunqur Mosque / Blue Mosque played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت جامع أق سنقر / الجامع الأزرق في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-AQUNSQURBLUEMOSQUE"
+      ]
+    },
+    {
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "relatedPlaceSlug": "aqsunqur-blue-mosque",
+      "titleEn": "Reading Aqsunqur Mosque (Blue Mosque)",
+      "titleAr": "قراءة جامع آق سنقر (الجامع الأزرق)",
+      "summaryEn": "A bilingual architectural and historical journey through Aqsunqur Mosque (Blue Mosque).",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في جامع آق سنقر (الجامع الأزرق).",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "aqsunqur-blue-mosque-chapter-1",
+          "titleEn": "A Mamluk Mosque with an Ottoman Memory",
+          "titleAr": "جامع مملوكي بذاكرة عثمانية",
+          "bodyEn": "Aqsunqur Mosque (Blue Mosque) belongs to Bahri Mamluk with Ottoman decorative phase, but its significance becomes clearer when placed within the political and urban history of Darb al-Ahmar. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي جامع آق سنقر (الجامع الأزرق) إلى العصر المملوكي البحري مع مرحلة زخرفية عثمانية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة الدرب الأحمر. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "aqsunqur-blue-mosque-chapter-2",
+          "titleEn": "Reading the Architecture of Aqsunqur Mosque (Blue Mosque)",
+          "titleAr": "قراءة عمارة جامع آق سنقر (الجامع الأزرق)",
+          "bodyEn": "The monument rewards a slow visual reading of Mamluk plan, mausoleums, minbar, blue Iznik-style tiles and conservation. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل الخطة المملوكية والأضرحة والمنبر والبلاطات الزرقاء ذات الطابع الإزنيقي والترميم. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "aqsunqur-blue-mosque-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Bahri Mamluk with Ottoman decorative phase"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mosque and funerary complex",
+        "Darb al-Ahmar",
+        "Bahri Mamluk / Ottoman"
+      ],
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "claimIds": [
+        "claim-aqsunqur-blue-mosque-story-1",
+        "claim-aqsunqur-blue-mosque-story-2",
+        "claim-aqsunqur-blue-mosque-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    }
+  ],
+  "transliteration": "Aqsunqur Mosque  Blue Mosque",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-aqsunqur-blue-mosque",
+      "placeId": null,
+      "placeSlug": "aqsunqur-blue-mosque",
+      "placeNameEn": "Aqsunqur Mosque (Blue Mosque)",
+      "placeNameAr": "جامع آق سنقر (الجامع الأزرق)",
+      "role": "cover",
+      "imageKitPath": "/places/aqsunqur-blue-mosque/cover.jpg",
+      "localFile": "images/aqsunqur-blue-mosque/aqsunqur-blue-mosque-cover-tiled-mihrab.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Blue-mosque-bradybd.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue-mosque-bradybd.JPG",
+      "sourceTitle": "Blue-mosque-bradybd.JPG",
+      "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/aqsunqur-blue-mosque/aqsunqur-blue-mosque-cover-tiled-mihrab.jpg",
+      "creator": "Brady Brim-DeForest",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "Blue-mosque-bradybd.JPG — Brady Brim-DeForest, CC BY 3.0, via Wikimedia Commons",
+      "altEn": "The tiled qibla wall, mihrab, and minbar inside Aqsunqur Mosque.",
+      "altAr": "جدار القبلة المكسو بالبلاطات والمحراب والمنبر داخل جامع آق سنقر.",
+      "captionEn": "The tiled qibla wall, mihrab, and minbar inside Aqsunqur Mosque.",
+      "captionAr": "جدار القبلة المكسو بالبلاطات والمحراب والمنبر داخل جامع آق سنقر.",
+      "mediaType": "photo",
+      "visualType": "interior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 300,
+      "height": 451,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 181680,
+      "checksum": "df64976789fac55aceb09dca7e0a54c6561de3460db41defbaa0ff91a20a8de1",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "baseline_v4",
+      "provenanceGroup": "baseline_v4",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue-mosque-bradybd.JPG",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Blue-mosque-bradybd.JPG",
+        "creator": "Brady Brim-DeForest",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Blue-mosque-bradybd.JPG — Brady Brim-DeForest, CC BY 3.0, via Wikimedia Commons",
+        "verifiedBy": "baseline_v4",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-aqsunqur-blue-mosque:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "Iznik tiles",
+        "qibla iwan",
+        "hypostyle prayer hall",
+        "mausoleum",
+        "minaret"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Iznik tiles",
+            "qibla iwan",
+            "hypostyle prayer hall",
+            "mausoleum",
+            "minaret"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A hypostyle mosque with a qibla iwan and funerary spaces, distinguished by extensive tile revetment, carved stone, and a carefully articulated facade and minaret.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Darb al-Ahmar",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Darb al-Ahmar"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": "Darb al-Ahmar",
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Bahri Mamluk with Ottoman tilework",
+        "1347 CE; tilework 17th century"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Bahri Mamluk with Ottoman tilework",
+            "1347 CE; tilework 17th century"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Aqsunqur Mosque / Blue Mosque) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع أق سنقر / الجامع الأزرق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Founded in 1347 by Amir Aqsunqur and later associated with the family of Sultan Qaytbay. Its popular name refers to the blue-and-turquoise Iznik tiles added during an Ottoman-period restoration.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Aqsunqur Mosque / Blue Mosque) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (جامع أق سنقر / الجامع الأزرق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Darb al-Ahmar",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Darb al-Ahmar",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "جامع آق سنقر (الجامع الأزرق)",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "جامع آق سنقر"
+        },
+        {
+          "provenance": "gemini",
+          "value": "جامع أق سنقر / الجامع الأزرق"
+        }
+      ],
+      "baselineValue": "جامع آق سنقر (الجامع الأزرق)",
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Aqsunqur Mosque (Blue Mosque)",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Aqsunqur Mosque / Blue Mosque"
+        }
+      ],
+      "baselineValue": "Aqsunqur Mosque (Blue Mosque)",
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mosque and funerary complex",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mosque and funerary complex"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": "mosque and funerary complex",
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Aqsunqur Mosque / Blue Mosque played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع أق سنقر / الجامع الأزرق في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-AQUNSQURBLUEMOSQUE"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "aqunsqur-blue-mosque:unesco-historic-cairo",
+                "aqunsqur-blue-mosque:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Aqsunqur Mosque / Blue Mosque played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت جامع أق سنقر / الجامع الأزرق في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-AQUNSQURBLUEMOSQUE"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Aqsunqur Mosque  Blue Mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Aqsunqur Mosque  Blue Mosque"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Aqsunqur Mosque / Blue Mosque"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "aqunsqur-blue-mosque",
+      "status": "PROPOSED_V4",
+      "nameEn": "Aqsunqur Mosque / Blue Mosque",
+      "nameAr": "جامع آق سنقر",
+      "transliteration": "Aqsunqur Mosque  Blue Mosque",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "mosque and funerary complex",
+      "district": "Darb al-Ahmar",
+      "location": {
+        "descriptionEn": "Darb al-Ahmar",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Bahri Mamluk with Ottoman tilework",
+        "1347 CE; tilework 17th century"
+      ],
+      "historicalSummary": {
+        "en": "Founded in 1347 by Amir Aqsunqur and later associated with the family of Sultan Qaytbay. Its popular name refers to the blue-and-turquoise Iznik tiles added during an Ottoman-period restoration.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A hypostyle mosque with a qibla iwan and funerary spaces, distinguished by extensive tile revetment, carved stone, and a carefully articulated facade and minaret.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "Iznik tiles",
+        "qibla iwan",
+        "hypostyle prayer hall",
+        "mausoleum",
+        "minaret"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "aqunsqur-blue-mosque:unesco-historic-cairo",
+            "aqunsqur-blue-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "aqunsqur-blue-mosque-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Aqsunqur Mosque / Blue Mosque.",
+          "textAr": "يسجل الجرد هذا الموقع باسم جامع آق سنقر.",
+          "confidence": "high",
+          "sourceIds": [
+            "aqunsqur-blue-mosque:unesco-historic-cairo",
+            "aqunsqur-blue-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "aqunsqur-blue-mosque-history",
+          "claimType": "history",
+          "textEn": "Founded in 1347 by Amir Aqsunqur and later associated with the family of Sultan Qaytbay. Its popular name refers to the blue-and-turquoise Iznik tiles added during an Ottoman-period restoration.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "aqunsqur-blue-mosque:unesco-historic-cairo",
+            "aqunsqur-blue-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "aqunsqur-blue-mosque-architecture",
+          "claimType": "architecture",
+          "textEn": "A hypostyle mosque with a qibla iwan and funerary spaces, distinguished by extensive tile revetment, carved stone, and a carefully articulated facade and minaret.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "aqunsqur-blue-mosque:unesco-historic-cairo",
+            "aqunsqur-blue-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "aqunsqur-blue-mosque-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "aqunsqur-blue-mosque:unesco-historic-cairo",
+            "aqunsqur-blue-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "aqunsqur-blue-mosque:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "aqunsqur-blue-mosque-identity",
+            "aqunsqur-blue-mosque-history",
+            "aqunsqur-blue-mosque-architecture",
+            "aqunsqur-blue-mosque-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "aqunsqur-blue-mosque:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "aqunsqur-blue-mosque-identity",
+            "aqunsqur-blue-mosque-history",
+            "aqunsqur-blue-mosque-architecture",
+            "aqunsqur-blue-mosque-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "aqunsqur-blue-mosque",
+      "status": "PROPOSED_V4",
+      "nameEn": "Aqsunqur Mosque / Blue Mosque",
+      "nameAr": "جامع أق سنقر / الجامع الأزرق",
+      "transliteration": "Aqsunqur Mosque / Blue Mosque",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Aqsunqur Mosque / Blue Mosque) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع أق سنقر / الجامع الأزرق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Aqsunqur Mosque / Blue Mosque played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع أق سنقر / الجامع الأزرق في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-AQUNSQURBLUEMOSQUE"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-AQUNSQURBLUEMOSQUE-01",
+          "claimType": "history",
+          "textEn": "The site Aqsunqur Mosque / Blue Mosque is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل جامع أق سنقر / الجامع الأزرق كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-AQUNSQURBLUEMOSQUE"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-AQUNSQURBLUEMOSQUE",
+          "title": "Archnet & Ministry Documentation for Aqsunqur Mosque / Blue Mosque",
+          "url": "https://archnet.org/sites/aqunsqur-blue-mosque",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-AQUNSQURBLUEMOSQUE-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:aqunsqur-blue-mosque.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/aqunsqur-blue-mosque.jpg",
+          "title": "General View of Aqsunqur Mosque / Blue Mosque",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Aqsunqur Mosque / Blue Mosque\n\nArabic name: **جامع آق سنقر**  \nStatus: **PROPOSED_V4**  \nSlug: `aqunsqur-blue-mosque`\n\n## Historical summary\n\nFounded in 1347 by Amir Aqsunqur and later associated with the family of Sultan Qaytbay. Its popular name refers to the blue-and-turquoise Iznik tiles added during an Ottoman-period restoration.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA hypostyle mosque with a qibla iwan and funerary spaces, distinguished by extensive tile revetment, carved stone, and a carefully articulated facade and minaret.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- Iznik tiles\n- qibla iwan\n- hypostyle prayer hall\n- mausoleum\n- minaret\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **aqunsqur-blue-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **aqunsqur-blue-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Aqsunqur Mosque / Blue Mosque\n\nArabic name: **جامع آق سنقر**  \nStatus: **PROPOSED_V4**  \nSlug: `aqunsqur-blue-mosque`\n\n## Historical summary\n\nFounded in 1347 by Amir Aqsunqur and later associated with the family of Sultan Qaytbay. Its popular name refers to the blue-and-turquoise Iznik tiles added during an Ottoman-period restoration.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA hypostyle mosque with a qibla iwan and funerary spaces, distinguished by extensive tile revetment, carved stone, and a carefully articulated facade and minaret.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- Iznik tiles\n- qibla iwan\n- hypostyle prayer hall\n- mausoleum\n- minaret\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **aqunsqur-blue-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **aqunsqur-blue-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Aqsunqur Mosque / Blue Mosque (جامع أق سنقر / الجامع الأزرق)\n**Status:** PROPOSED_V4  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Aqsunqur Mosque / Blue Mosque) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (جامع أق سنقر / الجامع الأزرق) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Aqsunqur Mosque / Blue Mosque played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Aqsunqur Mosque / Blue Mosque (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/aqunsqur-blue-mosque.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-AQUNSQURBLUEMOSQUE]** [Archnet & Ministry Documentation for Aqsunqur Mosque / Blue Mosque](https://archnet.org/sites/aqunsqur-blue-mosque) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": {
+      "slug": "aqsunqur-blue-mosque",
+      "nameEn": "Aqsunqur Mosque (Blue Mosque)",
+      "nameAr": "جامع آق سنقر (الجامع الأزرق)",
+      "alternateNames": [
+        "Blue Mosque",
+        "Mosque of Ibrahim Agha",
+        "جامع إبراهيم أغا"
+      ],
+      "historicalPeriod": "Bahri Mamluk with Ottoman decorative phase",
+      "dynasty": "Bahri Mamluk / Ottoman",
+      "district": "Darb al-Ahmar",
+      "placeType": "mosque and funerary complex",
+      "foundedYearOrRange": "1346–1347 CE; major later Ottoman tile phase",
+      "dateCertainty": "certain",
+      "dateDisplayEn": "1346–1347 CE; major later Ottoman tile phase",
+      "dateDisplayAr": "1346–1347م؛ ومرحلة عثمانية كبرى للبلاطات في القرن السابع عشر",
+      "patronEn": "Amir Aqsunqur; later Ibrahim Agha",
+      "patronAr": "الأمير آق سنقر؛ ثم إبراهيم أغا",
+      "architectEn": "Unknown",
+      "architectAr": "غير معروف",
+      "originalFunctionEn": "mosque and funerary foundation",
+      "originalFunctionAr": "مسجد ومنشأة جنائزية",
+      "currentFunctionEn": "active mosque and historic monument",
+      "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+      "historicalBriefEn": "Aqsunqur Mosque combines a fourteenth-century Mamluk foundation with a major Ottoman decorative phase. Blue and turquoise tiles transformed the qibla wall and created the popular modern name. Its plan, mausoleums, minbar, stonework, and tiles should be read as layers rather than one style. Conservation has also become part of the monument’s modern history, because stabilizing the roof, masonry, minaret, and tile panels required close study of how different phases were joined. A visitor should therefore compare structure and surface rather than assuming that the celebrated blue interior belongs to the founding campaign.",
+      "historicalBriefAr": "يجمع جامع آق سنقر بين منشأة مملوكية من القرن الرابع عشر ومرحلة زخرفية عثمانية كبيرة. وقد غيرت البلاطات الزرقاء والفيروزية جدار القبلة وصنعت الاسم الشائع الحديث. ويجب قراءة الخطة والأضرحة والمنبر والحجر والبلاطات بوصفها طبقات لا طرازًا واحدًا. وأصبح الترميم جزءًا من التاريخ الحديث للأثر، إذ تطلب تثبيت السقف والبناء والمئذنة ولوحات البلاطات دراسة دقيقة لكيفية اتصال المراحل المختلفة. لذلك ينبغي للزائر أن يقارن بين الهيكل والسطح، وألا يفترض أن الداخل الأزرق الشهير يعود كله إلى حملة التأسيس.",
+      "clarificationNoteEn": "The famous blue tiles belong mainly to a later Ottoman phase.",
+      "clarificationNoteAr": "تنتمي البلاطات الزرقاء الشهيرة أساسًا إلى مرحلة عثمانية لاحقة.",
+      "keyDates": [
+        {
+          "year": 1346,
+          "labelEn": "Principal documented phase",
+          "labelAr": "المرحلة الرئيسية الموثقة"
+        }
+      ],
+      "architecturalPhases": [
+        {
+          "nameEn": "Original or principal construction",
+          "nameAr": "الإنشاء الأصلي أو الرئيسي",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Original or principal construction",
+          "descAr": "الإنشاء الأصلي أو الرئيسي"
+        },
+        {
+          "nameEn": "Later repairs, additions, or conservation",
+          "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Later repairs, additions, or conservation",
+          "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+        }
+      ],
+      "latitude": 30.036,
+      "longitude": 31.26,
+      "locationPrecision": "exact",
+      "openingHours": null,
+      "accessibilityConfidence": "low-to-medium",
+      "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+      "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+      "priorityVisualStoryEn": "Blue tiles, mihrab, minbar, striped arches, and the contrast between Mamluk structure and Ottoman surface.",
+      "priorityVisualStoryAr": "البلاطات الزرقاء والمحراب والمنبر والعقود المخططة والتباين بين الهيكل المملوكي والسطح العثماني.",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "claimIds": [
+        "claim-aqsunqur-blue-mosque-date",
+        "claim-aqsunqur-blue-mosque-period",
+        "claim-aqsunqur-blue-mosque-patron",
+        "claim-aqsunqur-blue-mosque-function",
+        "claim-aqsunqur-blue-mosque-clarification",
+        "claim-aqsunqur-blue-mosque-location"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+      "photographyAllowed": "unknown",
+      "activeWorship": true,
+      "funerarySensitive": true,
+      "ticketed": null,
+      "recommendedDurationMin": 33,
+      "recommendedDurationMax": 56
+    },
+    "contentPackageV4Story": {
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "relatedPlaceSlug": "aqsunqur-blue-mosque",
+      "titleEn": "Reading Aqsunqur Mosque (Blue Mosque)",
+      "titleAr": "قراءة جامع آق سنقر (الجامع الأزرق)",
+      "summaryEn": "A bilingual architectural and historical journey through Aqsunqur Mosque (Blue Mosque).",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في جامع آق سنقر (الجامع الأزرق).",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "aqsunqur-blue-mosque-chapter-1",
+          "titleEn": "A Mamluk Mosque with an Ottoman Memory",
+          "titleAr": "جامع مملوكي بذاكرة عثمانية",
+          "bodyEn": "Aqsunqur Mosque (Blue Mosque) belongs to Bahri Mamluk with Ottoman decorative phase, but its significance becomes clearer when placed within the political and urban history of Darb al-Ahmar. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي جامع آق سنقر (الجامع الأزرق) إلى العصر المملوكي البحري مع مرحلة زخرفية عثمانية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة الدرب الأحمر. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "aqsunqur-blue-mosque-chapter-2",
+          "titleEn": "Reading the Architecture of Aqsunqur Mosque (Blue Mosque)",
+          "titleAr": "قراءة عمارة جامع آق سنقر (الجامع الأزرق)",
+          "bodyEn": "The monument rewards a slow visual reading of Mamluk plan, mausoleums, minbar, blue Iznik-style tiles and conservation. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل الخطة المملوكية والأضرحة والمنبر والبلاطات الزرقاء ذات الطابع الإزنيقي والترميم. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "aqsunqur-blue-mosque-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Bahri Mamluk with Ottoman decorative phase"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mosque and funerary complex",
+        "Darb al-Ahmar",
+        "Bahri Mamluk / Ottoman"
+      ],
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "claimIds": [
+        "claim-aqsunqur-blue-mosque-story-1",
+        "claim-aqsunqur-blue-mosque-story-2",
+        "claim-aqsunqur-blue-mosque-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    },
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-aqsunqur-blue-mosque",
+        "placeId": null,
+        "placeSlug": "aqsunqur-blue-mosque",
+        "placeNameEn": "Aqsunqur Mosque (Blue Mosque)",
+        "placeNameAr": "جامع آق سنقر (الجامع الأزرق)",
+        "role": "cover",
+        "imageKitPath": "/places/aqsunqur-blue-mosque/cover.jpg",
+        "localFile": "images/aqsunqur-blue-mosque/aqsunqur-blue-mosque-cover-tiled-mihrab.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Blue-mosque-bradybd.JPG",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue-mosque-bradybd.JPG",
+        "sourceTitle": "Blue-mosque-bradybd.JPG",
+        "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/aqsunqur-blue-mosque/aqsunqur-blue-mosque-cover-tiled-mihrab.jpg",
+        "creator": "Brady Brim-DeForest",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Blue-mosque-bradybd.JPG — Brady Brim-DeForest, CC BY 3.0, via Wikimedia Commons",
+        "altEn": "The tiled qibla wall, mihrab, and minbar inside Aqsunqur Mosque.",
+        "altAr": "جدار القبلة المكسو بالبلاطات والمحراب والمنبر داخل جامع آق سنقر.",
+        "captionEn": "The tiled qibla wall, mihrab, and minbar inside Aqsunqur Mosque.",
+        "captionAr": "جدار القبلة المكسو بالبلاطات والمحراب والمنبر داخل جامع آق سنقر.",
+        "mediaType": "photo",
+        "visualType": "interior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 300,
+        "height": 451,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 181680,
+        "checksum": "df64976789fac55aceb09dca7e0a54c6561de3460db41defbaa0ff91a20a8de1",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "baseline_v4",
+        "provenanceGroup": "baseline_v4",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue-mosque-bradybd.JPG",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Blue-mosque-bradybd.JPG",
+          "creator": "Brady Brim-DeForest",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Blue-mosque-bradybd.JPG — Brady Brim-DeForest, CC BY 3.0, via Wikimedia Commons",
+          "verifiedBy": "baseline_v4",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-aqsunqur-blue-mosque:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": null
+  },
+  "sources": [
+    "aqunsqur-blue-mosque:unesco-historic-cairo",
+    "aqunsqur-blue-mosque:mota-historic-cairo",
+    "SRC-AQUNSQURBLUEMOSQUE",
+    "src-aqsunqur-wmf",
+    "src-aqsunqur-archnet"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "aqunsqur-blue-mosque:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "aqunsqur-blue-mosque-identity",
+        "aqunsqur-blue-mosque-history",
+        "aqunsqur-blue-mosque-architecture",
+        "aqunsqur-blue-mosque-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "aqunsqur-blue-mosque:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "aqunsqur-blue-mosque-identity",
+        "aqunsqur-blue-mosque-history",
+        "aqunsqur-blue-mosque-architecture",
+        "aqunsqur-blue-mosque-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-AQUNSQURBLUEMOSQUE",
+      "title": "Archnet & Ministry Documentation for Aqsunqur Mosque / Blue Mosque",
+      "url": "https://archnet.org/sites/aqunsqur-blue-mosque",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-AQUNSQURBLUEMOSQUE-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "baselineAcceptedContent": {
+    "sourceIds": [
+      "src-aqsunqur-wmf",
+      "src-aqsunqur-archnet"
+    ],
+    "claimIds": [
+      "claim-aqsunqur-blue-mosque-date",
+      "claim-aqsunqur-blue-mosque-period",
+      "claim-aqsunqur-blue-mosque-patron",
+      "claim-aqsunqur-blue-mosque-function",
+      "claim-aqsunqur-blue-mosque-clarification",
+      "claim-aqsunqur-blue-mosque-location"
+    ],
+    "bilingual": true
+  },
+  "acceptedClaims": [
+    {
+      "claimId": "aqunsqur-blue-mosque-identity",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Aqsunqur Mosque / Blue Mosque.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع آق سنقر.",
+      "confidence": "high",
+      "sourceIds": [
+        "aqunsqur-blue-mosque:unesco-historic-cairo",
+        "aqunsqur-blue-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "aqunsqur-blue-mosque-status",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "aqunsqur-blue-mosque:unesco-historic-cairo",
+        "aqunsqur-blue-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-AQUNSQURBLUEMOSQUE-01",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Aqsunqur Mosque / Blue Mosque is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل جامع أق سنقر / الجامع الأزرق كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-AQUNSQURBLUEMOSQUE"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-date",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "date",
+      "textEn": "Aqsunqur Mosque (Blue Mosque) is dated to 1346–1347 CE; major later Ottoman tile phase.",
+      "textAr": "يؤرخ جامع آق سنقر (الجامع الأزرق) إلى 1346–1347 م; major later Ottoman tile phase.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-period",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "period",
+      "textEn": "The monument belongs primarily to Bahri Mamluk with Ottoman decorative phase.",
+      "textAr": "ينتمي الأثر أساسًا إلى Bahri Mamluk with Ottoman decorative phase.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-patron",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "patron",
+      "textEn": "The recorded patron is Amir Aqsunqur; later Ibrahim Agha.",
+      "textAr": "الراعي المسجل هو الأمير آق سنقر؛ ثم إبراهيم أغا.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-function",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "function",
+      "textEn": "Its original function was mosque and funerary foundation.",
+      "textAr": "كانت وظيفته الأصلية مسجد ومنشأة جنائزية.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-clarification",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "clarification",
+      "textEn": "The famous blue tiles belong mainly to a later Ottoman phase.",
+      "textAr": "تنتمي البلاطات الزرقاء الشهيرة أساسًا إلى مرحلة عثمانية لاحقة.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-location",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "location",
+      "textEn": "The record locates the monument in Darb al-Ahmar with exact coordinate precision.",
+      "textAr": "يضع السجل الأثر في منطقة الدرب الأحمر، مع دقة مكانية مصنفة بوصفها دقيقة.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-story-1",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "claimType": "story-chapter",
+      "textEn": "Aqsunqur Mosque (Blue Mosque) belongs to Bahri Mamluk with Ottoman decorative phase, but its significance becomes clearer when placed within the political and urban history of Darb al-Ahmar. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "textAr": "ينتمي جامع آق سنقر (الجامع الأزرق) إلى العصر المملوكي البحري مع مرحلة زخرفية عثمانية، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة الدرب الأحمر. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-story-2",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "claimType": "story-chapter",
+      "textEn": "The monument rewards a slow visual reading of Mamluk plan, mausoleums, minbar, blue Iznik-style tiles and conservation. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "textAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل الخطة المملوكية والأضرحة والمنبر والبلاطات الزرقاء ذات الطابع الإزنيقي والترميم. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-aqsunqur-blue-mosque-story-3",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": "story-aqsunqur-blue-mosque",
+      "claimType": "story-chapter",
+      "textEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "textAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-aqsunqur-wmf",
+        "src-aqsunqur-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "aqunsqur-blue-mosque-history",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Founded in 1347 by Amir Aqsunqur and later associated with the family of Sultan Qaytbay. Its popular name refers to the blue-and-turquoise Iznik tiles added during an Ottoman-period restoration.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "aqunsqur-blue-mosque:unesco-historic-cairo",
+        "aqunsqur-blue-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "aqunsqur-blue-mosque-architecture",
+      "placeSlug": "aqsunqur-blue-mosque",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A hypostyle mosque with a qibla iwan and funerary spaces, distinguished by extensive tile revetment, carved stone, and a carefully articulated facade and minaret.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "aqunsqur-blue-mosque:unesco-historic-cairo",
+        "aqunsqur-blue-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

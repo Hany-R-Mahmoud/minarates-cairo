@@ -6,6 +6,7 @@ import { Clock, MapPin, ChevronRight, AlertTriangle, Accessibility, Download } f
 import { Badge } from "@/components/ui/badge";
 import { toast } from "sonner";
 import PageIntro from "@/components/PageIntro";
+import { readResearchStops } from "@/lib/research";
 
 const DIFFICULTY_COLORS: Record<string, string> = {
   easy: "bg-green-100 text-green-700 border-green-200",
@@ -22,6 +23,8 @@ const DIFFICULTY_LABELS: Record<string, { en: string; ar: string }> = {
 export default function Walks() {
   const { lang, isRTL, t } = useLang();
   const { data: walks, isLoading } = trpc.walks.list.useQuery({ status: "published" });
+  const { data: researchCoverage } = trpc.places.researchCoverage.useQuery();
+  const coverageBySlug = new Map((researchCoverage ?? []).map(item => [item.placeSlug, item]));
 
   const formatDuration = (minutes: number | null) => {
     if (!minutes) return null;
@@ -52,7 +55,13 @@ export default function Walks() {
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {(walks ?? []).map(walk => (
+            {(walks ?? []).map(walk => {
+              const stopResearch = readResearchStops(walk.stops)
+                .map(stop => stop.placeSlug ? coverageBySlug.get(stop.placeSlug) : undefined)
+                .filter((item): item is NonNullable<typeof item> => Boolean(item));
+              const evidenceCount = stopResearch.reduce((total, item) => total + item.claimCount, 0);
+              const featureCount = stopResearch.reduce((total, item) => total + item.featureCount, 0);
+              return (
               <Link key={walk.id} href={`/walks/${walk.slug}`}>
                 <div className="monument-card cursor-pointer group h-full flex flex-col">
                   {/* Top accent */}
@@ -103,6 +112,12 @@ export default function Walks() {
                       </div>
                     )}
 
+                    {stopResearch.length > 0 && (
+                      <div className={`mt-3 text-[10px] text-[var(--color-teal-600)] ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                        {t(`${stopResearch.length} researched stops · ${evidenceCount} evidence · ${featureCount} features`, `${stopResearch.length} محطة موثقة · ${evidenceCount} دليل · ${featureCount} عناصر`)}
+                      </div>
+                    )}
+
                     <div className={`flex items-center gap-1 mt-3 text-[var(--color-terracotta-600)] text-xs font-medium ${isRTL ? "flex-row-reverse" : ""}`}>
                       <span>{t("View Walk", "عرض الجولة")}</span>
                       <ChevronRight size={12} />
@@ -110,7 +125,8 @@ export default function Walks() {
                   </div>
                 </div>
               </Link>
-            ))}
+              );
+            })}
           </div>
         )}
 

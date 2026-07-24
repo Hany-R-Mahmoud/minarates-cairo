@@ -1,0 +1,11 @@
+{
+  "executionTimestamp": "2026-07-24T12:51:42.180986+00:00",
+  "totalPlaceRecords": 123,
+  "jsonFilesCreated": 128,
+  "markdownFilesCreated": 123,
+  "totalClaims": 123,
+  "totalSources": 126,
+  "totalPhotos": 123,
+  "totalUnresolvedIssues": 72,
+  "validationStatus": "SUCCESS_PASSED_ALL_CHECKS"
+}

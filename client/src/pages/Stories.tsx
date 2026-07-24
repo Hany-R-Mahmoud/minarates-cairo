@@ -4,10 +4,16 @@ import { trpc } from "@/lib/trpc";
 import { ChevronRight, BookOpen, ImageOff } from "lucide-react";
 import { buildImageKitSrcSet, buildImageKitUrl } from "@shared/media";
 import PageIntro from "@/components/PageIntro";
+import { Badge } from "@/components/ui/badge";
+import { readResearchPlaceIds } from "@/lib/research";
 
 export default function Stories() {
   const { lang, isRTL, t } = useLang();
   const { data: stories, isLoading } = trpc.stories.list.useQuery();
+  const { data: placesData } = trpc.places.list.useQuery({ limit: 100, offset: 0, status: "published" });
+  const { data: researchCoverage } = trpc.places.researchCoverage.useQuery();
+  const placesById = new Map((placesData?.items ?? []).map(place => [place.id, place]));
+  const coverageBySlug = new Map((researchCoverage ?? []).map(item => [item.placeSlug, item]));
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
@@ -24,7 +30,19 @@ export default function Stories() {
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {(stories ?? []).map(story => (
+            {(stories ?? []).map(story => {
+              const relatedIds = Array.from(new Set([
+                ...(story.placeId ? [story.placeId] : []),
+                ...readResearchPlaceIds(story.relatedPlaceIds),
+              ]));
+              const relatedResearch = relatedIds
+                .map(id => placesById.get(id)?.slug)
+                .filter((placeSlug): placeSlug is string => Boolean(placeSlug))
+                .map(placeSlug => coverageBySlug.get(placeSlug))
+                .filter((item): item is NonNullable<typeof item> => Boolean(item && item.claimCount > 0));
+              const evidenceCount = relatedResearch.reduce((total, item) => total + item.claimCount, 0);
+              const featureCount = relatedResearch.reduce((total, item) => total + item.featureCount, 0);
+              return (
               <Link key={story.id} href={`/stories/${story.slug}`}>
                 <div className="monument-card cursor-pointer group h-full flex flex-col overflow-hidden">
                   {/* Cover image area */}
@@ -57,6 +75,16 @@ export default function Stories() {
                         {lang === "ar" ? story.summaryAr : story.summaryEn}
                       </p>
                     )}
+                    {relatedResearch.length > 0 && (
+                      <div className={`flex flex-wrap gap-1.5 mt-3 ${isRTL ? "flex-row-reverse" : ""}`}>
+                        <Badge variant="secondary" className="text-[10px]">
+                          {t(`${relatedResearch.length} researched places`, `${relatedResearch.length} مواقع موثقة`)}
+                        </Badge>
+                        <Badge variant="outline" className="text-[10px]">
+                          {t(`${evidenceCount} evidence · ${featureCount} features`, `${evidenceCount} دليل · ${featureCount} عناصر`)}
+                        </Badge>
+                      </div>
+                    )}
                     <div className={`flex items-center gap-1 mt-4 text-[var(--color-terracotta-600)] text-xs font-medium ${isRTL ? "flex-row-reverse" : ""}`}>
                       <span>{t("Read Story", "اقرأ القصة")}</span>
                       <ChevronRight size={12} />
@@ -64,7 +92,8 @@ export default function Stories() {
                   </div>
                 </div>
               </Link>
-            ))}
+              );
+            })}
           </div>
         )}
 

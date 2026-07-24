@@ -16,6 +16,7 @@ export default function MapPage() {
 
   const { data: periods } = trpc.periods.list.useQuery();
   const { data: districts } = trpc.districts.list.useQuery();
+  const { data: researchCoverage } = trpc.places.researchCoverage.useQuery();
   const { data: placesData } = trpc.places.list.useQuery({
     limit: 100,
     offset: 0,
@@ -25,6 +26,8 @@ export default function MapPage() {
   });
 
   const places = placesData?.items ?? [];
+  const coverageBySlug = new Map((researchCoverage ?? []).map(item => [item.placeSlug, item]));
+  const researchCoverageKey = (researchCoverage ?? []).map(item => `${item.placeSlug}:${item.claimCount}:${item.featureCount}`).join("|");
   const placesWithCoords = places.filter(p => p.lat && p.lng);
   const markerKey = placesWithCoords
     .map(place => `${place.id}:${place.slug}:${place.lat}:${place.lng}`)
@@ -91,7 +94,7 @@ export default function MapPage() {
 
             const popupContent = document.createElement("div");
             popupContent.dir = lang === "ar" ? "rtl" : "ltr";
-            popupContent.style.cssText = "font-family: system-ui; padding: 4px 0;";
+            popupContent.style.cssText = "font-family: var(--font-sans); padding: 4px 0;";
 
             const name = document.createElement("div");
             name.textContent = displayName;
@@ -103,6 +106,14 @@ export default function MapPage() {
               year.textContent = `${place.foundedYear} CE`;
               year.style.cssText = "font-size: 11px; color: #6b6b6b; margin-top: 2px;";
               popupContent.appendChild(year);
+            }
+
+            const research = coverageBySlug.get(place.slug);
+            if (research && (research.claimCount > 0 || research.featureCount > 0)) {
+              const evidence = document.createElement("div");
+              evidence.textContent = t(`${research.claimCount} evidence · ${research.featureCount} features`, `${research.claimCount} دليل · ${research.featureCount} عناصر`);
+              evidence.style.cssText = "font-size: 11px; color: #2f7777; margin-top: 4px;";
+              popupContent.appendChild(evidence);
             }
 
             const link = document.createElement("a");
@@ -135,7 +146,7 @@ export default function MapPage() {
         (map as { remove: () => void }).remove();
       }
     };
-  }, [view, markerKey, lang]);
+  }, [view, markerKey, researchCoverageKey, lang]);
 
   return (
     <div className="page-enter min-h-screen bg-[var(--color-background)]" dir={isRTL ? "rtl" : "ltr"}>
@@ -148,7 +159,7 @@ export default function MapPage() {
                 {t("Interactive Map", "الخريطة التفاعلية")}
               </h1>
               <p className={`text-[var(--color-stone-400)] text-sm ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
-                {t(`${placesWithCoords.length} mapped monuments`, `${placesWithCoords.length} معلم على الخريطة`)}
+                {t(`${placesWithCoords.length} mapped monuments · ${places.filter(place => (coverageBySlug.get(place.slug)?.claimCount ?? 0) > 0).length} research-linked`, `${placesWithCoords.length} معلم على الخريطة · ${places.filter(place => (coverageBySlug.get(place.slug)?.claimCount ?? 0) > 0).length} مرتبط بالبحث`)}
               </p>
             </div>
             <div className="flex items-center gap-2">
@@ -224,6 +235,11 @@ export default function MapPage() {
                       </h3>
                       {place.foundedYear && (
                         <p className="text-xs text-[var(--color-stone-400)] mt-0.5">{place.foundedYear} CE</p>
+                      )}
+                      {(coverageBySlug.get(place.slug)?.claimCount ?? 0) > 0 && (
+                        <p className={`text-[10px] text-[var(--color-teal-600)] mt-1 ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+                          {t(`${coverageBySlug.get(place.slug)?.claimCount} evidence · ${coverageBySlug.get(place.slug)?.featureCount ?? 0} features`, `${coverageBySlug.get(place.slug)?.claimCount} دليل · ${coverageBySlug.get(place.slug)?.featureCount ?? 0} عناصر`)}
+                        </p>
                       )}
                     </div>
                     {isRTL ? <ChevronLeft size={14} className="text-[var(--color-stone-400)] shrink-0 mt-0.5" /> : <ChevronRight size={14} className="text-[var(--color-stone-400)] shrink-0 mt-0.5" />}

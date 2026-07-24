@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "errors": [],
+  "warnings": [],
+  "checks": {
+    "placeCount": 123,
+    "uniqueSlugs": true,
+    "statusCounts": {
+      "CANDIDATE": 72,
+      "PUBLISHED_MEDIA": 41,
+      "PROPOSED_V4": 10
+    },
+    "jsonPlaceFiles": 123,
+    "markdownPlaceFiles": 123,
+    "acceptedClaimCount": 407,
+    "acceptedPhotoCount": 51,
+    "sourceCount": 390,
+    "conflictCount": 4279,
+    "unresolvedRecordCount": 864
+  }
+}

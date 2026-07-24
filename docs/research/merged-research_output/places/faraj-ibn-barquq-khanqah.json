@@ -1,0 +1,865 @@
+{
+  "schemaVersion": 1,
+  "slug": "faraj-ibn-barquq-khanqah",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Unknown — requires official or field verification.",
+  "historicalPeriods": [
+    "Historic Cairo context — period-specific verification required",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Khanqah and Mosque of Faraj ibn Barquq) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (خانقاه فرج بن برقوق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Unknown — requires official or field verification.",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "خانقاه ومسجد فرج بن برقوق",
+  "nameEn": "Khanqah and Mosque of Faraj ibn Barquq",
+  "placeType": "historic place / research record",
+  "relatedSlugs": [
+    "complex-barquq-muizz"
+  ],
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Khanqah and Mosque of Faraj ibn Barquq played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت خانقاه فرج بن برقوق في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-FARAJIBNBARQUQKHANQAH"
+      ]
+    }
+  ],
+  "transliteration": "Khanqah and Mosque of Faraj ibn Barquq",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-faraj-ibn-barquq-khanqah",
+      "placeId": null,
+      "placeSlug": "faraj-ibn-barquq-khanqah",
+      "placeNameEn": "Khanqah and Mosque of Faraj ibn Barquq",
+      "placeNameAr": "خانقاه ومسجد فرج بن برقوق",
+      "role": "cover",
+      "imageKitPath": "/places/faraj-ibn-barquq-khanqah/cover.jpg",
+      "localFile": "images/faraj-ibn-barquq-khanqah/faraj-ibn-barquq-khanqah-cover-exterior-domes-minarets.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Khanqah_of_Farag_ibn_Barquq%2C_photo_by_Hatem_Moushir_3.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Khanqah_of_Farag_ibn_Barquq,_photo_by_Hatem_Moushir_3.jpg",
+      "sourceTitle": "Khanqah of Farag ibn Barquq, photo by Hatem Moushir 3.jpg",
+      "cdnUrl": null,
+      "creator": "Hatem Moushir",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Khanqah of Farag ibn Barquq, photo by Hatem Moushir 3.jpg — Hatem Moushir, CC BY-SA 4.0, via Wikimedia Commons",
+      "altEn": "The exterior of the Khanqah of Faraj ibn Barquq with stone walls, domes, and minarets.",
+      "altAr": "الواجهة الخارجية لخانقاه فرج بن برقوق وتظهر الجدران الحجرية والقباب والمآذن.",
+      "captionEn": "Exterior of the Khanqah of Faraj ibn Barquq.",
+      "captionAr": "الواجهة الخارجية لخانقاه فرج بن برقوق.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 6000,
+      "height": 4000,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 6104479,
+      "checksum": "e965746e61e8b6c977c340a305b479a6304055e7387d0d075366ecaab10faca3",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Khanqah_of_Farag_ibn_Barquq,_photo_by_Hatem_Moushir_3.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Khanqah_of_Farag_ibn_Barquq%2C_photo_by_Hatem_Moushir_3.jpg",
+        "creator": "Hatem Moushir",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Khanqah of Farag ibn Barquq, photo by Hatem Moushir 3.jpg — Hatem Moushir, CC BY-SA 4.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-faraj-ibn-barquq-khanqah:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "variants": [
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Unknown — requires official or field verification.",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Historic Cairo context — period-specific verification required"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Khanqah and Mosque of Faraj ibn Barquq) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (خانقاه فرج بن برقوق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Khanqah and Mosque of Faraj ibn Barquq) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (خانقاه فرج بن برقوق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Unknown — requires official or field verification.",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "خانقاه ومسجد فرج بن برقوق",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "خانقاه ومسجد فرج بن برقوق"
+        },
+        {
+          "provenance": "gemini",
+          "value": "خانقاه فرج بن برقوق"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Khanqah and Mosque of Faraj ibn Barquq",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Khanqah and Mosque of Faraj ibn Barquq"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "historic place / research record",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "historic place / research record"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": [
+        "complex-barquq-muizz"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "complex-barquq-muizz"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Khanqah and Mosque of Faraj ibn Barquq played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت خانقاه فرج بن برقوق في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-FARAJIBNBARQUQKHANQAH"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+                "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Khanqah and Mosque of Faraj ibn Barquq played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت خانقاه فرج بن برقوق في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-FARAJIBNBARQUQKHANQAH"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Khanqah and Mosque of Faraj ibn Barquq",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Khanqah and Mosque of Faraj ibn Barquq"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "faraj-ibn-barquq-khanqah",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Khanqah and Mosque of Faraj ibn Barquq",
+      "nameAr": "خانقاه ومسجد فرج بن برقوق",
+      "transliteration": "Khanqah and Mosque of Faraj ibn Barquq",
+      "alternativeNames": [],
+      "relatedSlugs": [
+        "complex-barquq-muizz"
+      ],
+      "placeType": "historic place / research record",
+      "district": "Unknown — requires official or field verification.",
+      "location": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "historicalSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architectureSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architecturalElements": [],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+            "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "faraj-ibn-barquq-khanqah-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Khanqah and Mosque of Faraj ibn Barquq.",
+          "textAr": "يسجل الجرد هذا الموقع باسم خانقاه ومسجد فرج بن برقوق.",
+          "confidence": "high",
+          "sourceIds": [
+            "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+            "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "faraj-ibn-barquq-khanqah-history",
+          "claimType": "history",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+            "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "faraj-ibn-barquq-khanqah-architecture",
+          "claimType": "architecture",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+            "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "faraj-ibn-barquq-khanqah-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+            "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "faraj-ibn-barquq-khanqah-identity",
+            "faraj-ibn-barquq-khanqah-history",
+            "faraj-ibn-barquq-khanqah-architecture",
+            "faraj-ibn-barquq-khanqah-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "faraj-ibn-barquq-khanqah:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "faraj-ibn-barquq-khanqah-identity",
+            "faraj-ibn-barquq-khanqah-history",
+            "faraj-ibn-barquq-khanqah-architecture",
+            "faraj-ibn-barquq-khanqah-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "faraj-ibn-barquq-khanqah",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Khanqah and Mosque of Faraj ibn Barquq",
+      "nameAr": "خانقاه فرج بن برقوق",
+      "transliteration": "Khanqah and Mosque of Faraj ibn Barquq",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Khanqah and Mosque of Faraj ibn Barquq) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (خانقاه فرج بن برقوق) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Khanqah and Mosque of Faraj ibn Barquq played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت خانقاه فرج بن برقوق في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-FARAJIBNBARQUQKHANQAH"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-FARAJIBNBARQUQKHANQAH-01",
+          "claimType": "history",
+          "textEn": "The site Khanqah and Mosque of Faraj ibn Barquq is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل خانقاه فرج بن برقوق كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-FARAJIBNBARQUQKHANQAH"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-FARAJIBNBARQUQKHANQAH",
+          "title": "Archnet & Ministry Documentation for Khanqah and Mosque of Faraj ibn Barquq",
+          "url": "https://archnet.org/sites/faraj-ibn-barquq-khanqah",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-FARAJIBNBARQUQKHANQAH-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:faraj-ibn-barquq-khanqah.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/faraj-ibn-barquq-khanqah.jpg",
+          "title": "General View of Khanqah and Mosque of Faraj ibn Barquq",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Khanqah and Mosque of Faraj ibn Barquq\n\nArabic name: **خانقاه ومسجد فرج بن برقوق**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `faraj-ibn-barquq-khanqah`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **faraj-ibn-barquq-khanqah:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **faraj-ibn-barquq-khanqah:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Khanqah and Mosque of Faraj ibn Barquq\n\nArabic name: **خانقاه ومسجد فرج بن برقوق**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `faraj-ibn-barquq-khanqah`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **faraj-ibn-barquq-khanqah:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **faraj-ibn-barquq-khanqah:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Khanqah and Mosque of Faraj ibn Barquq (خانقاه فرج بن برقوق)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Khanqah and Mosque of Faraj ibn Barquq) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (خانقاه فرج بن برقوق) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Khanqah and Mosque of Faraj ibn Barquq played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Khanqah and Mosque of Faraj ibn Barquq (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/faraj-ibn-barquq-khanqah.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-FARAJIBNBARQUQKHANQAH]** [Archnet & Ministry Documentation for Khanqah and Mosque of Faraj ibn Barquq](https://archnet.org/sites/faraj-ibn-barquq-khanqah) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-faraj-ibn-barquq-khanqah",
+        "placeId": null,
+        "placeSlug": "faraj-ibn-barquq-khanqah",
+        "placeNameEn": "Khanqah and Mosque of Faraj ibn Barquq",
+        "placeNameAr": "خانقاه ومسجد فرج بن برقوق",
+        "role": "cover",
+        "imageKitPath": "/places/faraj-ibn-barquq-khanqah/cover.jpg",
+        "localFile": "images/faraj-ibn-barquq-khanqah/faraj-ibn-barquq-khanqah-cover-exterior-domes-minarets.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Khanqah_of_Farag_ibn_Barquq%2C_photo_by_Hatem_Moushir_3.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Khanqah_of_Farag_ibn_Barquq,_photo_by_Hatem_Moushir_3.jpg",
+        "sourceTitle": "Khanqah of Farag ibn Barquq, photo by Hatem Moushir 3.jpg",
+        "cdnUrl": null,
+        "creator": "Hatem Moushir",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Khanqah of Farag ibn Barquq, photo by Hatem Moushir 3.jpg — Hatem Moushir, CC BY-SA 4.0, via Wikimedia Commons",
+        "altEn": "The exterior of the Khanqah of Faraj ibn Barquq with stone walls, domes, and minarets.",
+        "altAr": "الواجهة الخارجية لخانقاه فرج بن برقوق وتظهر الجدران الحجرية والقباب والمآذن.",
+        "captionEn": "Exterior of the Khanqah of Faraj ibn Barquq.",
+        "captionAr": "الواجهة الخارجية لخانقاه فرج بن برقوق.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 6000,
+        "height": 4000,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 6104479,
+        "checksum": "e965746e61e8b6c977c340a305b479a6304055e7387d0d075366ecaab10faca3",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Khanqah_of_Farag_ibn_Barquq,_photo_by_Hatem_Moushir_3.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Khanqah_of_Farag_ibn_Barquq%2C_photo_by_Hatem_Moushir_3.jpg",
+          "creator": "Hatem Moushir",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Khanqah of Farag ibn Barquq, photo by Hatem Moushir 3.jpg — Hatem Moushir, CC BY-SA 4.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-faraj-ibn-barquq-khanqah:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Khanqah and Mosque of Faraj ibn Barquq\n\n- **Place slug:** `faraj-ibn-barquq-khanqah`\n- **Asset ID:** `cover-faraj-ibn-barquq-khanqah`\n- **Role:** cover\n- **Local file:** `images/faraj-ibn-barquq-khanqah/faraj-ibn-barquq-khanqah-cover-exterior-domes-minarets.jpg`\n- **Canonical ImageKit path:** `/places/faraj-ibn-barquq-khanqah/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Khanqah_of_Farag_ibn_Barquq,_photo_by_Hatem_Moushir_3.jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/c/ca/Khanqah_of_Farag_ibn_Barquq%2C_photo_by_Hatem_Moushir_3.jpg\n- **Source title:** Khanqah of Farag ibn Barquq, photo by Hatem Moushir 3.jpg\n- **Creator:** Hatem Moushir\n- **License:** CC BY-SA 4.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/4.0/\n- **Required attribution:** Khanqah of Farag ibn Barquq, photo by Hatem Moushir 3.jpg — Hatem Moushir, CC BY-SA 4.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The exterior of the Khanqah of Faraj ibn Barquq with stone walls, domes, and minarets.\n- **Alt text (AR):** الواجهة الخارجية لخانقاه فرج بن برقوق وتظهر الجدران الحجرية والقباب والمآذن.\n- **Caption (EN):** Exterior of the Khanqah of Faraj ibn Barquq.\n- **Caption (AR):** الواجهة الخارجية لخانقاه فرج بن برقوق.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+    "faraj-ibn-barquq-khanqah:mota-historic-cairo",
+    "SRC-FARAJIBNBARQUQKHANQAH"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "faraj-ibn-barquq-khanqah-identity",
+        "faraj-ibn-barquq-khanqah-history",
+        "faraj-ibn-barquq-khanqah-architecture",
+        "faraj-ibn-barquq-khanqah-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "faraj-ibn-barquq-khanqah:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "faraj-ibn-barquq-khanqah-identity",
+        "faraj-ibn-barquq-khanqah-history",
+        "faraj-ibn-barquq-khanqah-architecture",
+        "faraj-ibn-barquq-khanqah-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-FARAJIBNBARQUQKHANQAH",
+      "title": "Archnet & Ministry Documentation for Khanqah and Mosque of Faraj ibn Barquq",
+      "url": "https://archnet.org/sites/faraj-ibn-barquq-khanqah",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-FARAJIBNBARQUQKHANQAH-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "faraj-ibn-barquq-khanqah-identity",
+      "placeSlug": "faraj-ibn-barquq-khanqah",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Khanqah and Mosque of Faraj ibn Barquq.",
+      "textAr": "يسجل الجرد هذا الموقع باسم خانقاه ومسجد فرج بن برقوق.",
+      "confidence": "high",
+      "sourceIds": [
+        "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+        "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "faraj-ibn-barquq-khanqah-status",
+      "placeSlug": "faraj-ibn-barquq-khanqah",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+        "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-FARAJIBNBARQUQKHANQAH-01",
+      "placeSlug": "faraj-ibn-barquq-khanqah",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Khanqah and Mosque of Faraj ibn Barquq is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل خانقاه فرج بن برقوق كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-FARAJIBNBARQUQKHANQAH"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "faraj-ibn-barquq-khanqah-history",
+      "placeSlug": "faraj-ibn-barquq-khanqah",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+        "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "faraj-ibn-barquq-khanqah-architecture",
+      "placeSlug": "faraj-ibn-barquq-khanqah",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "faraj-ibn-barquq-khanqah:unesco-historic-cairo",
+        "faraj-ibn-barquq-khanqah:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

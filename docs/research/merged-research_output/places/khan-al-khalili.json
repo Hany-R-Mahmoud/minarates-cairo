@@ -1,0 +1,875 @@
+{
+  "schemaVersion": 1,
+  "slug": "khan-al-khalili",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "market lanes",
+    "vaulted passages",
+    "commercial courtyards",
+    "shops",
+    "historic street fronts",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "al-Azhar / Fatimid Cairo",
+  "historicalPeriods": [
+    "Mamluk to modern",
+    "founded 1382 CE",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Khan al-Khalili) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (خان الخليلي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "al-Azhar / Fatimid Cairo",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "خان الخليلي",
+  "nameEn": "Khan al-Khalili",
+  "placeType": "market and commercial quarter",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Khan al-Khalili played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت خان الخليلي في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-KHANALKHALILI"
+      ]
+    }
+  ],
+  "transliteration": "Khan al-Khalili",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-khan-al-khalili",
+      "placeId": null,
+      "placeSlug": "khan-al-khalili",
+      "placeNameEn": "Khan al-Khalili",
+      "placeNameAr": "خان الخليلي",
+      "role": "cover",
+      "imageKitPath": "/places/khan-al-khalili/cover.jpg",
+      "localFile": "images/khan-al-khalili/khan-al-khalili-cover-market-passage.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Khan_el-Khalili_market_in_Cairo%2C_Egypt_%282743501345%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg",
+      "sourceTitle": "The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg",
+      "cdnUrl": null,
+      "creator": "V Manninen",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution": "The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg — V Manninen, CC BY 2.0, via Wikimedia Commons",
+      "altEn": "A narrow covered passage in Khan al-Khalili with hanging merchandise, shop displays, and pedestrians.",
+      "altAr": "ممر ضيق مغطى في خان الخليلي تتدلى فيه البضائع وتظهر واجهات المحال والمشاة.",
+      "captionEn": "A market passage in Khan al-Khalili.",
+      "captionAr": "ممر تجاري في خان الخليلي.",
+      "mediaType": "photo",
+      "visualType": "street",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 2048,
+      "height": 1536,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1195912,
+      "checksum": "56363ee1de48033b3d91e6fae0ca92722d643e35fa71e20746391dfede32568c",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Khan_el-Khalili_market_in_Cairo%2C_Egypt_%282743501345%29.jpg",
+        "creator": "V Manninen",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg — V Manninen, CC BY 2.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-khan-al-khalili:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "market lanes",
+        "vaulted passages",
+        "commercial courtyards",
+        "shops",
+        "historic street fronts"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "market lanes",
+            "vaulted passages",
+            "commercial courtyards",
+            "shops",
+            "historic street fronts"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A dense network of lanes, shops, vaulted passages, courtyards, and commercial buildings whose spatial character reflects incremental urban growth.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "al-Azhar / Fatimid Cairo",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "al-Azhar / Fatimid Cairo"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Mamluk to modern",
+        "founded 1382 CE"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Mamluk to modern",
+            "founded 1382 CE"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Khan al-Khalili) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (خان الخليلي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Founded as a commercial foundation in the late fourteenth century by the emir al-Khalili under Sultan Barquq. The market has evolved while retaining its role in Cairo's visitor economy and craft traditions.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Khan al-Khalili) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (خان الخليلي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "al-Azhar / Fatimid Cairo",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "al-Azhar / Fatimid Cairo",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "خان الخليلي",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "خان الخليلي"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "nameEn": {
+      "canonical": "Khan al-Khalili",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Khan al-Khalili"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "market and commercial quarter",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "market and commercial quarter"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Khan al-Khalili played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت خان الخليلي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-KHANALKHALILI"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "khan-al-khalili:unesco-historic-cairo",
+                "khan-al-khalili:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Khan al-Khalili played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت خان الخليلي في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-KHANALKHALILI"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Khan al-Khalili",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Khan al-Khalili"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "khan-al-khalili",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Khan al-Khalili",
+      "nameAr": "خان الخليلي",
+      "transliteration": "Khan al-Khalili",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "market and commercial quarter",
+      "district": "al-Azhar / Fatimid Cairo",
+      "location": {
+        "descriptionEn": "al-Azhar / Fatimid Cairo",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Mamluk to modern",
+        "founded 1382 CE"
+      ],
+      "historicalSummary": {
+        "en": "Founded as a commercial foundation in the late fourteenth century by the emir al-Khalili under Sultan Barquq. The market has evolved while retaining its role in Cairo's visitor economy and craft traditions.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A dense network of lanes, shops, vaulted passages, courtyards, and commercial buildings whose spatial character reflects incremental urban growth.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "market lanes",
+        "vaulted passages",
+        "commercial courtyards",
+        "shops",
+        "historic street fronts"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "khan-al-khalili:unesco-historic-cairo",
+            "khan-al-khalili:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "khan-al-khalili-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Khan al-Khalili.",
+          "textAr": "يسجل الجرد هذا الموقع باسم خان الخليلي.",
+          "confidence": "high",
+          "sourceIds": [
+            "khan-al-khalili:unesco-historic-cairo",
+            "khan-al-khalili:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "khan-al-khalili-history",
+          "claimType": "history",
+          "textEn": "Founded as a commercial foundation in the late fourteenth century by the emir al-Khalili under Sultan Barquq. The market has evolved while retaining its role in Cairo's visitor economy and craft traditions.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "khan-al-khalili:unesco-historic-cairo",
+            "khan-al-khalili:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "khan-al-khalili-architecture",
+          "claimType": "architecture",
+          "textEn": "A dense network of lanes, shops, vaulted passages, courtyards, and commercial buildings whose spatial character reflects incremental urban growth.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "khan-al-khalili:unesco-historic-cairo",
+            "khan-al-khalili:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "khan-al-khalili-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "khan-al-khalili:unesco-historic-cairo",
+            "khan-al-khalili:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "khan-al-khalili:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "khan-al-khalili-identity",
+            "khan-al-khalili-history",
+            "khan-al-khalili-architecture",
+            "khan-al-khalili-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "khan-al-khalili:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "khan-al-khalili-identity",
+            "khan-al-khalili-history",
+            "khan-al-khalili-architecture",
+            "khan-al-khalili-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "khan-al-khalili",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Khan al-Khalili",
+      "nameAr": "خان الخليلي",
+      "transliteration": "Khan al-Khalili",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Khan al-Khalili) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (خان الخليلي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Khan al-Khalili played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت خان الخليلي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-KHANALKHALILI"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-KHANALKHALILI-01",
+          "claimType": "history",
+          "textEn": "The site Khan al-Khalili is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل خان الخليلي كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-KHANALKHALILI"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-KHANALKHALILI",
+          "title": "Archnet & Ministry Documentation for Khan al-Khalili",
+          "url": "https://archnet.org/sites/khan-al-khalili",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-KHANALKHALILI-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:khan-al-khalili.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/khan-al-khalili.jpg",
+          "title": "General View of Khan al-Khalili",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Khan al-Khalili\n\nArabic name: **خان الخليلي**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `khan-al-khalili`\n\n## Historical summary\n\nFounded as a commercial foundation in the late fourteenth century by the emir al-Khalili under Sultan Barquq. The market has evolved while retaining its role in Cairo's visitor economy and craft traditions.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA dense network of lanes, shops, vaulted passages, courtyards, and commercial buildings whose spatial character reflects incremental urban growth.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- market lanes\n- vaulted passages\n- commercial courtyards\n- shops\n- historic street fronts\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **khan-al-khalili:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **khan-al-khalili:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Khan al-Khalili\n\nArabic name: **خان الخليلي**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `khan-al-khalili`\n\n## Historical summary\n\nFounded as a commercial foundation in the late fourteenth century by the emir al-Khalili under Sultan Barquq. The market has evolved while retaining its role in Cairo's visitor economy and craft traditions.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA dense network of lanes, shops, vaulted passages, courtyards, and commercial buildings whose spatial character reflects incremental urban growth.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- market lanes\n- vaulted passages\n- commercial courtyards\n- shops\n- historic street fronts\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **khan-al-khalili:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **khan-al-khalili:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Khan al-Khalili (خان الخليلي)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Khan al-Khalili) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (خان الخليلي) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Khan al-Khalili played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Khan al-Khalili (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/khan-al-khalili.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-KHANALKHALILI]** [Archnet & Ministry Documentation for Khan al-Khalili](https://archnet.org/sites/khan-al-khalili) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-khan-al-khalili",
+        "placeId": null,
+        "placeSlug": "khan-al-khalili",
+        "placeNameEn": "Khan al-Khalili",
+        "placeNameAr": "خان الخليلي",
+        "role": "cover",
+        "imageKitPath": "/places/khan-al-khalili/cover.jpg",
+        "localFile": "images/khan-al-khalili/khan-al-khalili-cover-market-passage.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Khan_el-Khalili_market_in_Cairo%2C_Egypt_%282743501345%29.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg",
+        "sourceTitle": "The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg",
+        "cdnUrl": null,
+        "creator": "V Manninen",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg — V Manninen, CC BY 2.0, via Wikimedia Commons",
+        "altEn": "A narrow covered passage in Khan al-Khalili with hanging merchandise, shop displays, and pedestrians.",
+        "altAr": "ممر ضيق مغطى في خان الخليلي تتدلى فيه البضائع وتظهر واجهات المحال والمشاة.",
+        "captionEn": "A market passage in Khan al-Khalili.",
+        "captionAr": "ممر تجاري في خان الخليلي.",
+        "mediaType": "photo",
+        "visualType": "street",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 2048,
+        "height": 1536,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1195912,
+        "checksum": "56363ee1de48033b3d91e6fae0ca92722d643e35fa71e20746391dfede32568c",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Khan_el-Khalili_market_in_Cairo%2C_Egypt_%282743501345%29.jpg",
+          "creator": "V Manninen",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "attribution": "The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg — V Manninen, CC BY 2.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-khan-al-khalili:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Khan al-Khalili\n\n- **Place slug:** `khan-al-khalili`\n- **Asset ID:** `cover-khan-al-khalili`\n- **Role:** cover\n- **Local file:** `images/khan-al-khalili/khan-al-khalili-cover-market-passage.jpg`\n- **Canonical ImageKit path:** `/places/khan-al-khalili/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:The_Khan_el-Khalili_market_in_Cairo,_Egypt_(2743501345).jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Khan_el-Khalili_market_in_Cairo%2C_Egypt_%282743501345%29.jpg\n- **Source title:** The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg\n- **Creator:** V Manninen\n- **License:** CC BY 2.0\n- **License URL:** https://creativecommons.org/licenses/by/2.0/\n- **Required attribution:** The Khan el-Khalili market in Cairo, Egypt (2743501345).jpg — V Manninen, CC BY 2.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** A narrow covered passage in Khan al-Khalili with hanging merchandise, shop displays, and pedestrians.\n- **Alt text (AR):** ممر ضيق مغطى في خان الخليلي تتدلى فيه البضائع وتظهر واجهات المحال والمشاة.\n- **Caption (EN):** A market passage in Khan al-Khalili.\n- **Caption (AR):** ممر تجاري في خان الخليلي.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "khan-al-khalili:unesco-historic-cairo",
+    "khan-al-khalili:mota-historic-cairo",
+    "SRC-KHANALKHALILI"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "khan-al-khalili:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "khan-al-khalili-identity",
+        "khan-al-khalili-history",
+        "khan-al-khalili-architecture",
+        "khan-al-khalili-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "khan-al-khalili:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "khan-al-khalili-identity",
+        "khan-al-khalili-history",
+        "khan-al-khalili-architecture",
+        "khan-al-khalili-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-KHANALKHALILI",
+      "title": "Archnet & Ministry Documentation for Khan al-Khalili",
+      "url": "https://archnet.org/sites/khan-al-khalili",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-KHANALKHALILI-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "khan-al-khalili-identity",
+      "placeSlug": "khan-al-khalili",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Khan al-Khalili.",
+      "textAr": "يسجل الجرد هذا الموقع باسم خان الخليلي.",
+      "confidence": "high",
+      "sourceIds": [
+        "khan-al-khalili:unesco-historic-cairo",
+        "khan-al-khalili:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "khan-al-khalili-status",
+      "placeSlug": "khan-al-khalili",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "khan-al-khalili:unesco-historic-cairo",
+        "khan-al-khalili:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-KHANALKHALILI-01",
+      "placeSlug": "khan-al-khalili",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Khan al-Khalili is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل خان الخليلي كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-KHANALKHALILI"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "khan-al-khalili-history",
+      "placeSlug": "khan-al-khalili",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Founded as a commercial foundation in the late fourteenth century by the emir al-Khalili under Sultan Barquq. The market has evolved while retaining its role in Cairo's visitor economy and craft traditions.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "khan-al-khalili:unesco-historic-cairo",
+        "khan-al-khalili:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "khan-al-khalili-architecture",
+      "placeSlug": "khan-al-khalili",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A dense network of lanes, shops, vaulted passages, courtyards, and commercial buildings whose spatial character reflects incremental urban growth.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "khan-al-khalili:unesco-historic-cairo",
+        "khan-al-khalili:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

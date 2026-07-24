@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 1,
+  "slug": "muhammad-ali-mosque",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "central dome",
+    "semi-domes",
+    "minarets",
+    "marble courtyard",
+    "prayer hall",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Cairo Citadel",
+  "historicalPeriods": [
+    "Ottoman revival / Muhammad Ali period",
+    "1830–1848 CE",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mosque of Muhammad Ali) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (جامع محمد علي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Cairo Citadel",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "جامع محمد علي باشا",
+  "nameEn": "Mosque of Muhammad Ali",
+  "placeType": "mosque",
+  "relatedSlugs": [
+    "mosque-muhammad-ali-citadel"
+  ],
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mosque of Muhammad Ali played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت جامع محمد علي في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MUHAMMADALIMOSQUE"
+      ]
+    }
+  ],
+  "transliteration": "Mosque of Muhammad Ali",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-muhammad-ali-mosque",
+      "placeId": null,
+      "placeSlug": "muhammad-ali-mosque",
+      "placeNameEn": "Mosque of Muhammad Ali",
+      "placeNameAr": "جامع محمد علي",
+      "role": "cover",
+      "imageKitPath": "/places/muhammad-ali-mosque/cover.jpg",
+      "localFile": "images/muhammad-ali-mosque/muhammad-ali-mosque-cover-exterior-domes-minarets.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg",
+      "sourceTitle": "Muhammad Ali Mosque 1.jpg",
+      "cdnUrl": null,
+      "creator": "Kallerna",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+      "altEn": "The Mosque of Muhammad Ali at the Cairo Citadel with cascading domes and two slender minarets.",
+      "altAr": "مسجد محمد علي في قلعة القاهرة بقبابه المتدرجة ومئذنتيه النحيلتين.",
+      "captionEn": "Exterior of the Mosque of Muhammad Ali.",
+      "captionAr": "الواجهة الخارجية لمسجد محمد علي.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 2994,
+      "height": 2220,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1557245,
+      "checksum": "bbbc60dd2f83d35357b50ea69be4f8f797c8e93db0ecb661a8b06de6f9ecd6ac",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg",
+        "creator": "Kallerna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-muhammad-ali-mosque:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "central dome",
+        "semi-domes",
+        "minarets",
+        "marble courtyard",
+        "prayer hall"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "central dome",
+            "semi-domes",
+            "minarets",
+            "marble courtyard",
+            "prayer hall"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "The mosque is organized around a monumental central dome, semi-domes, Ottoman-style minarets, a courtyard, and richly finished interior surfaces.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Cairo Citadel",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Cairo Citadel"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Ottoman revival / Muhammad Ali period",
+        "1830–1848 CE"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Ottoman revival / Muhammad Ali period",
+            "1830–1848 CE"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mosque of Muhammad Ali) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع محمد علي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A parallel project record for the Mosque of Muhammad Ali, retained separately from mosque-muhammad-ali-citadel.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mosque of Muhammad Ali) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (جامع محمد علي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Cairo Citadel",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Cairo Citadel",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "جامع محمد علي باشا",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "جامع محمد علي باشا"
+        },
+        {
+          "provenance": "gemini",
+          "value": "جامع محمد علي"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Mosque of Muhammad Ali",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of Muhammad Ali"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mosque"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": [
+        "mosque-muhammad-ali-citadel"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "mosque-muhammad-ali-citadel"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of Muhammad Ali played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع محمد علي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MUHAMMADALIMOSQUE"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "muhammad-ali-mosque:unesco-historic-cairo",
+                "muhammad-ali-mosque:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mosque of Muhammad Ali played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت جامع محمد علي في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MUHAMMADALIMOSQUE"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mosque of Muhammad Ali",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of Muhammad Ali"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "muhammad-ali-mosque",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque of Muhammad Ali",
+      "nameAr": "جامع محمد علي باشا",
+      "transliteration": "Mosque of Muhammad Ali",
+      "alternativeNames": [],
+      "relatedSlugs": [
+        "mosque-muhammad-ali-citadel"
+      ],
+      "placeType": "mosque",
+      "district": "Cairo Citadel",
+      "location": {
+        "descriptionEn": "Cairo Citadel",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Ottoman revival / Muhammad Ali period",
+        "1830–1848 CE"
+      ],
+      "historicalSummary": {
+        "en": "A parallel project record for the Mosque of Muhammad Ali, retained separately from mosque-muhammad-ali-citadel.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "The mosque is organized around a monumental central dome, semi-domes, Ottoman-style minarets, a courtyard, and richly finished interior surfaces.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "central dome",
+        "semi-domes",
+        "minarets",
+        "marble courtyard",
+        "prayer hall"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "muhammad-ali-mosque:unesco-historic-cairo",
+            "muhammad-ali-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "muhammad-ali-mosque-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mosque of Muhammad Ali.",
+          "textAr": "يسجل الجرد هذا الموقع باسم جامع محمد علي باشا.",
+          "confidence": "high",
+          "sourceIds": [
+            "muhammad-ali-mosque:unesco-historic-cairo",
+            "muhammad-ali-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "muhammad-ali-mosque-history",
+          "claimType": "history",
+          "textEn": "A parallel project record for the Mosque of Muhammad Ali, retained separately from mosque-muhammad-ali-citadel.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "muhammad-ali-mosque:unesco-historic-cairo",
+            "muhammad-ali-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "muhammad-ali-mosque-architecture",
+          "claimType": "architecture",
+          "textEn": "The mosque is organized around a monumental central dome, semi-domes, Ottoman-style minarets, a courtyard, and richly finished interior surfaces.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "muhammad-ali-mosque:unesco-historic-cairo",
+            "muhammad-ali-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "muhammad-ali-mosque-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "muhammad-ali-mosque:unesco-historic-cairo",
+            "muhammad-ali-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "muhammad-ali-mosque:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "muhammad-ali-mosque-identity",
+            "muhammad-ali-mosque-history",
+            "muhammad-ali-mosque-architecture",
+            "muhammad-ali-mosque-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "muhammad-ali-mosque:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "muhammad-ali-mosque-identity",
+            "muhammad-ali-mosque-history",
+            "muhammad-ali-mosque-architecture",
+            "muhammad-ali-mosque-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "muhammad-ali-mosque",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque of Muhammad Ali",
+      "nameAr": "جامع محمد علي",
+      "transliteration": "Mosque of Muhammad Ali",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mosque of Muhammad Ali) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع محمد علي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of Muhammad Ali played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع محمد علي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MUHAMMADALIMOSQUE"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MUHAMMADALIMOSQUE-01",
+          "claimType": "history",
+          "textEn": "The site Mosque of Muhammad Ali is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل جامع محمد علي كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-MUHAMMADALIMOSQUE"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MUHAMMADALIMOSQUE",
+          "title": "Archnet & Ministry Documentation for Mosque of Muhammad Ali",
+          "url": "https://archnet.org/sites/muhammad-ali-mosque",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MUHAMMADALIMOSQUE-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:muhammad-ali-mosque.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/muhammad-ali-mosque.jpg",
+          "title": "General View of Mosque of Muhammad Ali",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mosque of Muhammad Ali\n\nArabic name: **جامع محمد علي باشا**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `muhammad-ali-mosque`\n\n## Historical summary\n\nA parallel project record for the Mosque of Muhammad Ali, retained separately from mosque-muhammad-ali-citadel.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nThe mosque is organized around a monumental central dome, semi-domes, Ottoman-style minarets, a courtyard, and richly finished interior surfaces.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- central dome\n- semi-domes\n- minarets\n- marble courtyard\n- prayer hall\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **muhammad-ali-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **muhammad-ali-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mosque of Muhammad Ali\n\nArabic name: **جامع محمد علي باشا**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `muhammad-ali-mosque`\n\n## Historical summary\n\nA parallel project record for the Mosque of Muhammad Ali, retained separately from mosque-muhammad-ali-citadel.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nThe mosque is organized around a monumental central dome, semi-domes, Ottoman-style minarets, a courtyard, and richly finished interior surfaces.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- central dome\n- semi-domes\n- minarets\n- marble courtyard\n- prayer hall\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **muhammad-ali-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **muhammad-ali-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mosque of Muhammad Ali (جامع محمد علي)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mosque of Muhammad Ali) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (جامع محمد علي) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mosque of Muhammad Ali played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mosque of Muhammad Ali (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/muhammad-ali-mosque.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MUHAMMADALIMOSQUE]** [Archnet & Ministry Documentation for Mosque of Muhammad Ali](https://archnet.org/sites/muhammad-ali-mosque) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-muhammad-ali-mosque",
+        "placeId": null,
+        "placeSlug": "muhammad-ali-mosque",
+        "placeNameEn": "Mosque of Muhammad Ali",
+        "placeNameAr": "جامع محمد علي",
+        "role": "cover",
+        "imageKitPath": "/places/muhammad-ali-mosque/cover.jpg",
+        "localFile": "images/muhammad-ali-mosque/muhammad-ali-mosque-cover-exterior-domes-minarets.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg",
+        "sourceTitle": "Muhammad Ali Mosque 1.jpg",
+        "cdnUrl": null,
+        "creator": "Kallerna",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+        "altEn": "The Mosque of Muhammad Ali at the Cairo Citadel with cascading domes and two slender minarets.",
+        "altAr": "مسجد محمد علي في قلعة القاهرة بقبابه المتدرجة ومئذنتيه النحيلتين.",
+        "captionEn": "Exterior of the Mosque of Muhammad Ali.",
+        "captionAr": "الواجهة الخارجية لمسجد محمد علي.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 2994,
+        "height": 2220,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1557245,
+        "checksum": "bbbc60dd2f83d35357b50ea69be4f8f797c8e93db0ecb661a8b06de6f9ecd6ac",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg",
+          "creator": "Kallerna",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "attribution": "Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-muhammad-ali-mosque:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Mosque of Muhammad Ali\n\n- **Place slug:** `muhammad-ali-mosque`\n- **Asset ID:** `cover-muhammad-ali-mosque`\n- **Role:** cover\n- **Local file:** `images/muhammad-ali-mosque/muhammad-ali-mosque-cover-exterior-domes-minarets.jpg`\n- **Canonical ImageKit path:** `/places/muhammad-ali-mosque/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Muhammad_Ali_Mosque_1.jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/f/fc/Muhammad_Ali_Mosque_1.jpg\n- **Source title:** Muhammad Ali Mosque 1.jpg\n- **Creator:** Kallerna\n- **License:** CC BY-SA 3.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/3.0/\n- **Required attribution:** Muhammad Ali Mosque 1.jpg — Kallerna, CC BY-SA 3.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The Mosque of Muhammad Ali at the Cairo Citadel with cascading domes and two slender minarets.\n- **Alt text (AR):** مسجد محمد علي في قلعة القاهرة بقبابه المتدرجة ومئذنتيه النحيلتين.\n- **Caption (EN):** Exterior of the Mosque of Muhammad Ali.\n- **Caption (AR):** الواجهة الخارجية لمسجد محمد علي.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "muhammad-ali-mosque:unesco-historic-cairo",
+    "muhammad-ali-mosque:mota-historic-cairo",
+    "SRC-MUHAMMADALIMOSQUE"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "muhammad-ali-mosque:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "muhammad-ali-mosque-identity",
+        "muhammad-ali-mosque-history",
+        "muhammad-ali-mosque-architecture",
+        "muhammad-ali-mosque-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "muhammad-ali-mosque:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "muhammad-ali-mosque-identity",
+        "muhammad-ali-mosque-history",
+        "muhammad-ali-mosque-architecture",
+        "muhammad-ali-mosque-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-MUHAMMADALIMOSQUE",
+      "title": "Archnet & Ministry Documentation for Mosque of Muhammad Ali",
+      "url": "https://archnet.org/sites/muhammad-ali-mosque",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MUHAMMADALIMOSQUE-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "muhammad-ali-mosque-identity",
+      "placeSlug": "muhammad-ali-mosque",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque of Muhammad Ali.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع محمد علي باشا.",
+      "confidence": "high",
+      "sourceIds": [
+        "muhammad-ali-mosque:unesco-historic-cairo",
+        "muhammad-ali-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "muhammad-ali-mosque-status",
+      "placeSlug": "muhammad-ali-mosque",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "muhammad-ali-mosque:unesco-historic-cairo",
+        "muhammad-ali-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MUHAMMADALIMOSQUE-01",
+      "placeSlug": "muhammad-ali-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mosque of Muhammad Ali is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل جامع محمد علي كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-MUHAMMADALIMOSQUE"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "muhammad-ali-mosque-history",
+      "placeSlug": "muhammad-ali-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "A parallel project record for the Mosque of Muhammad Ali, retained separately from mosque-muhammad-ali-citadel.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "muhammad-ali-mosque:unesco-historic-cairo",
+        "muhammad-ali-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "muhammad-ali-mosque-architecture",
+      "placeSlug": "muhammad-ali-mosque",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "The mosque is organized around a monumental central dome, semi-domes, Ottoman-style minarets, a courtyard, and richly finished interior surfaces.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "muhammad-ali-mosque:unesco-historic-cairo",
+        "muhammad-ali-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

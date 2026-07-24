@@ -1,0 +1,166 @@
+{
+  "slug": "qalawun-complex",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Qalawun Complex",
+  "nameAr": "مجموعة السلطان قلاوون",
+  "transliteration": "Qalawun Complex",
+  "alternativeNames": [],
+  "relatedSlugs": [
+    "complex-qalawun"
+  ],
+  "placeType": "religious, medical, and funerary complex",
+  "district": "Bayn al-Qasrayn / al-Muizz",
+  "location": {
+    "descriptionEn": "Bayn al-Qasrayn / al-Muizz",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Bahri Mamluk",
+    "1284–1285 CE / 683–684 AH"
+  ],
+  "historicalSummary": {
+    "en": "This parallel project record describes the Qalawun Complex, founded by Sultan al-Mansur Qalawun and preserved as a separate slug from complex-qalawun.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "The complex brings together a ceremonial portal, mausoleum, madrasa, and bimaristan within the dense Bayn al-Qasrayn urban fabric.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "portal",
+    "mausoleum",
+    "madrasa",
+    "bimaristan"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "qalawun-complex:unesco-historic-cairo",
+        "qalawun-complex:mota-historic-cairo",
+        "qalawun-complex:archnet-qalawun"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "qalawun-complex-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Qalawun Complex.",
+      "textAr": "يسجل الجرد هذا الموقع باسم مجموعة السلطان قلاوون.",
+      "confidence": "high",
+      "sourceIds": [
+        "qalawun-complex:unesco-historic-cairo",
+        "qalawun-complex:mota-historic-cairo",
+        "qalawun-complex:archnet-qalawun"
+      ]
+    },
+    {
+      "claimId": "qalawun-complex-history",
+      "claimType": "history",
+      "textEn": "This parallel project record describes the Qalawun Complex, founded by Sultan al-Mansur Qalawun and preserved as a separate slug from complex-qalawun.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "qalawun-complex:unesco-historic-cairo",
+        "qalawun-complex:mota-historic-cairo",
+        "qalawun-complex:archnet-qalawun"
+      ]
+    },
+    {
+      "claimId": "qalawun-complex-architecture",
+      "claimType": "architecture",
+      "textEn": "The complex brings together a ceremonial portal, mausoleum, madrasa, and bimaristan within the dense Bayn al-Qasrayn urban fabric.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "qalawun-complex:unesco-historic-cairo",
+        "qalawun-complex:mota-historic-cairo",
+        "qalawun-complex:archnet-qalawun"
+      ]
+    },
+    {
+      "claimId": "qalawun-complex-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "qalawun-complex:unesco-historic-cairo",
+        "qalawun-complex:mota-historic-cairo",
+        "qalawun-complex:archnet-qalawun"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "qalawun-complex:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "qalawun-complex-identity",
+        "qalawun-complex-history",
+        "qalawun-complex-architecture",
+        "qalawun-complex-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "qalawun-complex:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "qalawun-complex-identity",
+        "qalawun-complex-history",
+        "qalawun-complex-architecture",
+        "qalawun-complex-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "qalawun-complex:archnet-qalawun",
+      "title": "Madrasa and Mausoleum of Sultan Qalawun",
+      "url": "https://www.archnet.org/sites/2228",
+      "sourceType": "architectural documentation",
+      "publisher": "Archnet / Aga Khan Documentation Center",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "qalawun-complex-identity",
+        "qalawun-complex-history",
+        "qalawun-complex-architecture",
+        "qalawun-complex-status"
+      ],
+      "notes": "Monument record and scholarly bibliography."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

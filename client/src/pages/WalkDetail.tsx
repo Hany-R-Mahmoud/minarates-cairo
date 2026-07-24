@@ -3,6 +3,7 @@ import { useLang } from "@/contexts/LanguageContext";
 import { trpc } from "@/lib/trpc";
 import { ArrowLeft, ArrowRight, Clock, MapPin, AlertTriangle, Accessibility, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { readResearchStops } from "@/lib/research";
 
 const DIFFICULTY_LABELS: Record<string, { en: string; ar: string }> = {
   easy: { en: "Easy", ar: "سهل" },
@@ -16,6 +17,7 @@ export default function WalkDetail() {
   const BackIcon = isRTL ? ArrowRight : ArrowLeft;
 
   const { data: walk, isLoading, isError, refetch } = trpc.walks.bySlug.useQuery({ slug: slug ?? "" }, { enabled: !!slug });
+  const { data: researchCoverage } = trpc.places.researchCoverage.useQuery();
 
   if (isLoading) {
     return (
@@ -58,7 +60,13 @@ export default function WalkDetail() {
   const description = lang === "ar" ? walk.descriptionAr : walk.descriptionEn;
   const accessibilityNotes = lang === "ar" ? walk.accessibilityNotesAr : walk.accessibilityNotesEn;
   const staleNote = lang === "ar" ? walk.staleInfoNoteAr : walk.staleInfoNoteEn;
-  const stops = (walk.stops as Array<{ placeSlug?: string; order?: number; placeId?: number; orderIndex?: number; noteEn?: string; noteAr?: string; activeWorship?: boolean }> | null) ?? [];
+  const stops = readResearchStops(walk.stops);
+  const coverageBySlug = new Map((researchCoverage ?? []).map(item => [item.placeSlug, item]));
+  const researchedStops = stops
+    .map(stop => stop.placeSlug ? coverageBySlug.get(stop.placeSlug) : undefined)
+    .filter((item): item is NonNullable<typeof item> => Boolean(item));
+  const evidenceCount = researchedStops.reduce((total, item) => total + item.claimCount, 0);
+  const featureCount = researchedStops.reduce((total, item) => total + item.featureCount, 0);
 
   const formatDuration = (minutes: number | null) => {
     if (!minutes) return null;
@@ -147,7 +155,9 @@ export default function WalkDetail() {
                   {t(`${stops.length} Stops`, `${stops.length} محطة`)}
                 </h2>
                 <div className="space-y-3">
-                  {stops.map((stop, i) => (
+                  {stops.map((stop, i) => {
+                    const research = stop.placeSlug ? coverageBySlug.get(stop.placeSlug) : undefined;
+                    return (
                     <div key={`${stop.placeSlug ?? stop.placeId ?? "stop"}-${i}`} className={`flex items-start gap-3 p-4 bg-[var(--color-parchment-100)] rounded-lg border border-[var(--color-border)] ${isRTL ? "flex-row-reverse" : ""}`}>
                       <div className="w-7 h-7 rounded-full bg-[var(--color-terracotta-600)] text-white text-xs flex items-center justify-center shrink-0 font-semibold">
                         {stop.order ?? stop.orderIndex ?? i + 1}
@@ -172,9 +182,15 @@ export default function WalkDetail() {
                             {lang === "ar" ? stop.noteAr : stop.noteEn}
                           </p>
                         )}
+                        {research && (
+                          <p className="text-[10px] text-[var(--color-teal-600)] mt-2">
+                            {t(`${research.claimCount} evidence · ${research.featureCount} features`, `${research.claimCount} دليل · ${research.featureCount} عناصر`)}
+                          </p>
+                        )}
                       </div>
                     </div>
-                  ))}
+                    );
+                  })}
                 </div>
               </div>
             )}
@@ -182,6 +198,19 @@ export default function WalkDetail() {
 
           {/* Sidebar */}
           <div className="space-y-5">
+            {researchedStops.length > 0 && (
+              <div className="notebook-card">
+                <h3 className={`font-semibold text-[var(--color-stone-900)] text-sm mb-2 ${lang === "ar" ? "font-[var(--font-arabic)] text-right" : ""}`}>
+                  {t("Research across this walk", "البحث المرتبط بهذه الجولة")}
+                </h3>
+                <p className={`text-sm text-[var(--color-stone-600)] leading-relaxed ${lang === "ar" ? "font-[var(--font-arabic-sans)] text-right" : ""}`}>
+                  {t(`${researchedStops.length} stops connect to ${evidenceCount} accepted evidence records and ${featureCount} architectural features.`, `${researchedStops.length} محطة ترتبط بـ ${evidenceCount} سجل أدلة مقبول و${featureCount} عنصراً معمارياً.`)}
+                </p>
+                <Link href="/architecture" className={`inline-flex mt-3 text-xs text-[var(--color-terracotta-600)] hover:underline ${isRTL ? "flex-row-reverse" : ""}`}>
+                  {t("Open architecture atlas", "افتح أطلس العمارة")}
+                </Link>
+              </div>
+            )}
             {/* Accessibility */}
             {accessibilityNotes && (
               <div className="notebook-card">

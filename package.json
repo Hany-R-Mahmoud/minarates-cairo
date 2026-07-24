@@ -17,10 +17,13 @@
     "db:seed:expansion": "node server/expand-seed.mjs",
     "db:canonicalize:places": "node server/canonicalize-place-slugs.mjs",
     "db:import:content": "node server/import-content-package.mjs",
+    "db:import:research": "node server/import-research-package.mjs",
     "media:manifest": "node server/export-media-manifest.mjs",
     "media:check": "node server/check-media-manifest.mjs",
     "media:check:strict": "node server/check-media-manifest.mjs --strict",
     "media:sync": "node server/sync-media-manifest.mjs",
+    "media:discover:wikimedia": "node server/discover-wikimedia-photos.mjs",
+    "content:refine:clarifications": "node server/refine-monument-copy.mjs",
     "db:push": "pnpm db:generate && pnpm db:migrate"
   },
   "dependencies": {

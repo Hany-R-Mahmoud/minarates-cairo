@@ -1,0 +1,123 @@
+{
+  "slug": "al-azhar-mosque",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Al-Azhar Mosque",
+  "nameAr": "جامع الأزهر",
+  "transliteration": "Jāmiʿ al-Azhar",
+  "alternativeNames": [
+    "The Splendid Mosque"
+  ],
+  "relatedSlugs": [
+    "mosque-al-azhar"
+  ],
+  "placeType": "Mosque & University",
+  "district": "Al-Darb al-Ahmar / Al-Azhar",
+  "location": {
+    "descriptionEn": "Located at Al-Azhar Square in Historic Cairo.",
+    "descriptionAr": "يقع في ميدان الأزهر بقلب القاهرة التاريخية.",
+    "latitude": 30.0458,
+    "longitude": 31.2627,
+    "confidence": "high"
+  },
+  "historicalPeriods": [
+    "Fatimid",
+    "Mamluk",
+    "Ottoman"
+  ],
+  "historicalSummary": {
+    "en": "Founded in 970 AD by the Fatimid general Jawhar al-Siqilli shortly after the conquest of Egypt. It grew to become one of the premier centers of Sunni Islamic learning globally.",
+    "ar": "تأسس عام 970 م على يد القائد الفاطمي جوهر الصقلي عقب فتح مصر، ليتحول لاحقاً إلى أحد أهم مراكز العلوم الإسلامية في العالم."
+  },
+  "architectureSummary": {
+    "en": "A composite complex illustrating multi-era Islamic architecture, featuring Fatimid keel-arch arcades, Mamluk minarets (such as Qaytbay and al-Ghuri), and Ottoman expansions.",
+    "ar": "مجمع معماري متكامل يعكس تطور العمارة الإسلامية عبر العصور، من العقود الفاطمية إلى المآذن المملوكية والتوسعات العثمانية."
+  },
+  "architecturalElements": [
+    "Fatimid Stucco",
+    "Multiple Minarets",
+    "Marble-Paved Courtyard",
+    "Mamluk Porticos"
+  ],
+  "stories": [
+    {
+      "titleEn": "Foundation of Cairo",
+      "titleAr": "تأسيس القاهرة",
+      "summaryEn": "Al-Azhar was the first congregational mosque built in Fatimid Al-Qahira.",
+      "summaryAr": "كان الأزهر أول جامع أقيم في القاهرة الفاطمية.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-ARCHNET-AZHAR",
+        "SRC-MTA-AZHAR"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": "05:00 - 22:00 (Outside prayer times preferred for sightseers)",
+    "ticketPrice": "Free entry",
+    "photographyRules": "Non-disruptive photography permitted in courtyard",
+    "dressRequirements": "Strict modest dress; shoes must be removed or covered",
+    "accessibility": "Courtyard accessible; ramp available at side entrance",
+    "currentStatus": "Active place of worship and learning",
+    "lastChecked": "2026-03-01"
+  },
+  "claims": [
+    {
+      "claimId": "CLM-AZHAR-01",
+      "claimType": "history",
+      "textEn": "Founded in 970 AD by Jawhar al-Siqilli.",
+      "textAr": "تأسس سنة 970 م بواسطة جوهر الصقلي.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-ARCHNET-AZHAR",
+        "SRC-MTA-AZHAR"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC-ARCHNET-AZHAR",
+      "title": "Archnet: Al-Azhar Mosque",
+      "url": "https://archnet.org/sites/1512",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center at MIT",
+      "publicationDate": "2010-01-01",
+      "accessedDate": "2026-01-15",
+      "supports": [
+        "CLM-AZHAR-01"
+      ],
+      "notes": "Architectural survey record."
+    },
+    {
+      "sourceId": "SRC-MTA-AZHAR",
+      "title": "Ministry of Tourism and Antiquities - Al-Azhar Mosque",
+      "url": "https://egymonuments.gov.eg/en/monuments/al-azhar-mosque",
+      "sourceType": "official_portal",
+      "publisher": "Ministry of Tourism and Antiquities",
+      "publicationDate": "2021-02-01",
+      "accessedDate": "2026-02-10",
+      "supports": [
+        "CLM-AZHAR-01"
+      ],
+      "notes": "Official antiquity portal."
+    }
+  ],
+  "photos": [
+    {
+      "role": "cover",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Al-Azhar_Mosque_Courtyard.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Al-Azhar_Mosque_Courtyard.jpg",
+      "title": "Al-Azhar Courtyard and Minarets",
+      "creator": "Wikimedia Contributor",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "CC BY 4.0 via Wikimedia Commons",
+      "modificationRequirements": "Attribute creator",
+      "width": 2048,
+      "height": 1536,
+      "rightsConfidence": "high",
+      "checkedDate": "2026-01-20",
+      "notes": "Verified CC BY 4.0 file."
+    }
+  ],
+  "unresolved": []
+}

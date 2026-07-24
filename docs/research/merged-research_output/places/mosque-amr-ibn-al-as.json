@@ -1,0 +1,875 @@
+{
+  "schemaVersion": 1,
+  "slug": "mosque-amr-ibn-al-as",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "architecturalElements": [
+    "courtyard",
+    "arcades",
+    "prayer hall",
+    "columns and reused material",
+    "ablution spaces",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Old Cairo / Fustat",
+  "historicalPeriods": [
+    "Early Islamic with many reconstructions",
+    "641–642 CE and later",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mosque of Amr ibn al-As) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (جامع عمرو بن العاص) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Old Cairo / Fustat",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "جامع عمرو بن العاص",
+  "nameEn": "Mosque of Amr ibn al-As",
+  "placeType": "congregational mosque",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mosque of Amr ibn al-As played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت جامع عمرو بن العاص في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MOSQUEAMRIBNALAS"
+      ]
+    }
+  ],
+  "transliteration": "Mosque of Amr ibn al-As",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-mosque-amr-ibn-al-as",
+      "placeId": null,
+      "placeSlug": "mosque-amr-ibn-al-as",
+      "placeNameEn": "Mosque of Amr ibn al-As",
+      "placeNameAr": "جامع عمرو بن العاص",
+      "role": "cover",
+      "imageKitPath": "/places/mosque-amr-ibn-al-as/cover.jpg",
+      "localFile": "images/mosque-amr-ibn-al-as/mosque-amr-ibn-al-as-cover-exterior-minaret.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mosque_of_Amr_ibn_al-Aas%2C_Old_Cairo%2C_641-42_%283%29_%2852087662345%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mosque_of_Amr_ibn_al-Aas,_Old_Cairo,_641-42_(3)_(52087662345).jpg",
+      "sourceTitle": "Mosque of Amr ibn al-Aas, Old Cairo, 641-42 (3) (52087662345).jpg",
+      "cdnUrl": null,
+      "creator": "Richard Mortel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution": "Mosque of Amr ibn al-Aas, Old Cairo, 641-42 (3) (52087662345).jpg — Richard Mortel, CC BY 2.0, via Wikimedia Commons",
+      "altEn": "The exterior arcade and minaret of the Mosque of Amr ibn al-As under a blue sky.",
+      "altAr": "الرواق الخارجي ومئذنة جامع عمرو بن العاص تحت سماء زرقاء.",
+      "captionEn": "Exterior and minaret of the Mosque of Amr ibn al-As.",
+      "captionAr": "الواجهة الخارجية ومئذنة جامع عمرو بن العاص.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 4000,
+      "height": 3000,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 2567919,
+      "checksum": "443f58ab134a644324e157c4323be9c9004b92c2406a742c763eec3daea14444",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mosque_of_Amr_ibn_al-Aas,_Old_Cairo,_641-42_(3)_(52087662345).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mosque_of_Amr_ibn_al-Aas%2C_Old_Cairo%2C_641-42_%283%29_%2852087662345%29.jpg",
+        "creator": "Richard Mortel",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Mosque of Amr ibn al-Aas, Old Cairo, 641-42 (3) (52087662345).jpg — Richard Mortel, CC BY 2.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-mosque-amr-ibn-al-as:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "courtyard",
+        "arcades",
+        "prayer hall",
+        "columns and reused material",
+        "ablution spaces"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "courtyard",
+            "arcades",
+            "prayer hall",
+            "columns and reused material",
+            "ablution spaces"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A large courtyard mosque with arcades and a prayer hall, shaped by successive rebuilding campaigns and by the urban growth of Fustat and Old Cairo.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Old Cairo / Fustat",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Old Cairo / Fustat"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Early Islamic with many reconstructions",
+        "641–642 CE and later"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Early Islamic with many reconstructions",
+            "641–642 CE and later"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mosque of Amr ibn al-As) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع عمرو بن العاص) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Founded after the Arab conquest of Egypt as the principal mosque of Fustat. The building was repeatedly enlarged, rebuilt, and restored, so its present form is a layered historical record rather than a single-period structure.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mosque of Amr ibn al-As) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (جامع عمرو بن العاص) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Old Cairo / Fustat",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Old Cairo / Fustat",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "جامع عمرو بن العاص",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "جامع عمرو بن العاص"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "nameEn": {
+      "canonical": "Mosque of Amr ibn al-As",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of Amr ibn al-As"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "congregational mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "congregational mosque"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of Amr ibn al-As played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع عمرو بن العاص في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEAMRIBNALAS"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mosque-amr-ibn-al-as:unesco-historic-cairo",
+                "mosque-amr-ibn-al-as:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mosque of Amr ibn al-As played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت جامع عمرو بن العاص في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MOSQUEAMRIBNALAS"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mosque of Amr ibn al-As",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of Amr ibn al-As"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mosque-amr-ibn-al-as",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque of Amr ibn al-As",
+      "nameAr": "جامع عمرو بن العاص",
+      "transliteration": "Mosque of Amr ibn al-As",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "congregational mosque",
+      "district": "Old Cairo / Fustat",
+      "location": {
+        "descriptionEn": "Old Cairo / Fustat",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Early Islamic with many reconstructions",
+        "641–642 CE and later"
+      ],
+      "historicalSummary": {
+        "en": "Founded after the Arab conquest of Egypt as the principal mosque of Fustat. The building was repeatedly enlarged, rebuilt, and restored, so its present form is a layered historical record rather than a single-period structure.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A large courtyard mosque with arcades and a prayer hall, shaped by successive rebuilding campaigns and by the urban growth of Fustat and Old Cairo.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "courtyard",
+        "arcades",
+        "prayer hall",
+        "columns and reused material",
+        "ablution spaces"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mosque-amr-ibn-al-as:unesco-historic-cairo",
+            "mosque-amr-ibn-al-as:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mosque-amr-ibn-al-as-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mosque of Amr ibn al-As.",
+          "textAr": "يسجل الجرد هذا الموقع باسم جامع عمرو بن العاص.",
+          "confidence": "high",
+          "sourceIds": [
+            "mosque-amr-ibn-al-as:unesco-historic-cairo",
+            "mosque-amr-ibn-al-as:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-amr-ibn-al-as-history",
+          "claimType": "history",
+          "textEn": "Founded after the Arab conquest of Egypt as the principal mosque of Fustat. The building was repeatedly enlarged, rebuilt, and restored, so its present form is a layered historical record rather than a single-period structure.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mosque-amr-ibn-al-as:unesco-historic-cairo",
+            "mosque-amr-ibn-al-as:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-amr-ibn-al-as-architecture",
+          "claimType": "architecture",
+          "textEn": "A large courtyard mosque with arcades and a prayer hall, shaped by successive rebuilding campaigns and by the urban growth of Fustat and Old Cairo.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "mosque-amr-ibn-al-as:unesco-historic-cairo",
+            "mosque-amr-ibn-al-as:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mosque-amr-ibn-al-as-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mosque-amr-ibn-al-as:unesco-historic-cairo",
+            "mosque-amr-ibn-al-as:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mosque-amr-ibn-al-as:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-amr-ibn-al-as-identity",
+            "mosque-amr-ibn-al-as-history",
+            "mosque-amr-ibn-al-as-architecture",
+            "mosque-amr-ibn-al-as-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "mosque-amr-ibn-al-as:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mosque-amr-ibn-al-as-identity",
+            "mosque-amr-ibn-al-as-history",
+            "mosque-amr-ibn-al-as-architecture",
+            "mosque-amr-ibn-al-as-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mosque-amr-ibn-al-as",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Mosque of Amr ibn al-As",
+      "nameAr": "جامع عمرو بن العاص",
+      "transliteration": "Mosque of Amr ibn al-As",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mosque of Amr ibn al-As) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع عمرو بن العاص) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of Amr ibn al-As played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع عمرو بن العاص في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MOSQUEAMRIBNALAS"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MOSQUEAMRIBNALAS-01",
+          "claimType": "history",
+          "textEn": "The site Mosque of Amr ibn al-As is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل جامع عمرو بن العاص كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-MOSQUEAMRIBNALAS"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MOSQUEAMRIBNALAS",
+          "title": "Archnet & Ministry Documentation for Mosque of Amr ibn al-As",
+          "url": "https://archnet.org/sites/mosque-amr-ibn-al-as",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MOSQUEAMRIBNALAS-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mosque-amr-ibn-al-as.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mosque-amr-ibn-al-as.jpg",
+          "title": "General View of Mosque of Amr ibn al-As",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mosque of Amr ibn al-As\n\nArabic name: **جامع عمرو بن العاص**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-amr-ibn-al-as`\n\n## Historical summary\n\nFounded after the Arab conquest of Egypt as the principal mosque of Fustat. The building was repeatedly enlarged, rebuilt, and restored, so its present form is a layered historical record rather than a single-period structure.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA large courtyard mosque with arcades and a prayer hall, shaped by successive rebuilding campaigns and by the urban growth of Fustat and Old Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- courtyard\n- arcades\n- prayer hall\n- columns and reused material\n- ablution spaces\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-amr-ibn-al-as:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-amr-ibn-al-as:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mosque of Amr ibn al-As\n\nArabic name: **جامع عمرو بن العاص**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `mosque-amr-ibn-al-as`\n\n## Historical summary\n\nFounded after the Arab conquest of Egypt as the principal mosque of Fustat. The building was repeatedly enlarged, rebuilt, and restored, so its present form is a layered historical record rather than a single-period structure.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA large courtyard mosque with arcades and a prayer hall, shaped by successive rebuilding campaigns and by the urban growth of Fustat and Old Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- courtyard\n- arcades\n- prayer hall\n- columns and reused material\n- ablution spaces\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mosque-amr-ibn-al-as:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **mosque-amr-ibn-al-as:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mosque of Amr ibn al-As (جامع عمرو بن العاص)\n**Status:** PUBLISHED_MEDIA  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mosque of Amr ibn al-As) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (جامع عمرو بن العاص) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mosque of Amr ibn al-As played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mosque of Amr ibn al-As (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mosque-amr-ibn-al-as.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MOSQUEAMRIBNALAS]** [Archnet & Ministry Documentation for Mosque of Amr ibn al-As](https://archnet.org/sites/mosque-amr-ibn-al-as) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-mosque-amr-ibn-al-as",
+        "placeId": null,
+        "placeSlug": "mosque-amr-ibn-al-as",
+        "placeNameEn": "Mosque of Amr ibn al-As",
+        "placeNameAr": "جامع عمرو بن العاص",
+        "role": "cover",
+        "imageKitPath": "/places/mosque-amr-ibn-al-as/cover.jpg",
+        "localFile": "images/mosque-amr-ibn-al-as/mosque-amr-ibn-al-as-cover-exterior-minaret.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mosque_of_Amr_ibn_al-Aas%2C_Old_Cairo%2C_641-42_%283%29_%2852087662345%29.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mosque_of_Amr_ibn_al-Aas,_Old_Cairo,_641-42_(3)_(52087662345).jpg",
+        "sourceTitle": "Mosque of Amr ibn al-Aas, Old Cairo, 641-42 (3) (52087662345).jpg",
+        "cdnUrl": null,
+        "creator": "Richard Mortel",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Mosque of Amr ibn al-Aas, Old Cairo, 641-42 (3) (52087662345).jpg — Richard Mortel, CC BY 2.0, via Wikimedia Commons",
+        "altEn": "The exterior arcade and minaret of the Mosque of Amr ibn al-As under a blue sky.",
+        "altAr": "الرواق الخارجي ومئذنة جامع عمرو بن العاص تحت سماء زرقاء.",
+        "captionEn": "Exterior and minaret of the Mosque of Amr ibn al-As.",
+        "captionAr": "الواجهة الخارجية ومئذنة جامع عمرو بن العاص.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 4000,
+        "height": 3000,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 2567919,
+        "checksum": "443f58ab134a644324e157c4323be9c9004b92c2406a742c763eec3daea14444",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mosque_of_Amr_ibn_al-Aas,_Old_Cairo,_641-42_(3)_(52087662345).jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Mosque_of_Amr_ibn_al-Aas%2C_Old_Cairo%2C_641-42_%283%29_%2852087662345%29.jpg",
+          "creator": "Richard Mortel",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "attribution": "Mosque of Amr ibn al-Aas, Old Cairo, 641-42 (3) (52087662345).jpg — Richard Mortel, CC BY 2.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-mosque-amr-ibn-al-as:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Mosque of Amr ibn al-As\n\n- **Place slug:** `mosque-amr-ibn-al-as`\n- **Asset ID:** `cover-mosque-amr-ibn-al-as`\n- **Role:** cover\n- **Local file:** `images/mosque-amr-ibn-al-as/mosque-amr-ibn-al-as-cover-exterior-minaret.jpg`\n- **Canonical ImageKit path:** `/places/mosque-amr-ibn-al-as/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Mosque_of_Amr_ibn_al-Aas,_Old_Cairo,_641-42_(3)_(52087662345).jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/9/91/Mosque_of_Amr_ibn_al-Aas%2C_Old_Cairo%2C_641-42_%283%29_%2852087662345%29.jpg\n- **Source title:** Mosque of Amr ibn al-Aas, Old Cairo, 641-42 (3) (52087662345).jpg\n- **Creator:** Richard Mortel\n- **License:** CC BY 2.0\n- **License URL:** https://creativecommons.org/licenses/by/2.0/\n- **Required attribution:** Mosque of Amr ibn al-Aas, Old Cairo, 641-42 (3) (52087662345).jpg — Richard Mortel, CC BY 2.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The exterior arcade and minaret of the Mosque of Amr ibn al-As under a blue sky.\n- **Alt text (AR):** الرواق الخارجي ومئذنة جامع عمرو بن العاص تحت سماء زرقاء.\n- **Caption (EN):** Exterior and minaret of the Mosque of Amr ibn al-As.\n- **Caption (AR):** الواجهة الخارجية ومئذنة جامع عمرو بن العاص.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "mosque-amr-ibn-al-as:unesco-historic-cairo",
+    "mosque-amr-ibn-al-as:mota-historic-cairo",
+    "SRC-MOSQUEAMRIBNALAS"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mosque-amr-ibn-al-as:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-amr-ibn-al-as-identity",
+        "mosque-amr-ibn-al-as-history",
+        "mosque-amr-ibn-al-as-architecture",
+        "mosque-amr-ibn-al-as-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "mosque-amr-ibn-al-as:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mosque-amr-ibn-al-as-identity",
+        "mosque-amr-ibn-al-as-history",
+        "mosque-amr-ibn-al-as-architecture",
+        "mosque-amr-ibn-al-as-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-MOSQUEAMRIBNALAS",
+      "title": "Archnet & Ministry Documentation for Mosque of Amr ibn al-As",
+      "url": "https://archnet.org/sites/mosque-amr-ibn-al-as",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MOSQUEAMRIBNALAS-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "mosque-amr-ibn-al-as-identity",
+      "placeSlug": "mosque-amr-ibn-al-as",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque of Amr ibn al-As.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع عمرو بن العاص.",
+      "confidence": "high",
+      "sourceIds": [
+        "mosque-amr-ibn-al-as:unesco-historic-cairo",
+        "mosque-amr-ibn-al-as:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "mosque-amr-ibn-al-as-status",
+      "placeSlug": "mosque-amr-ibn-al-as",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mosque-amr-ibn-al-as:unesco-historic-cairo",
+        "mosque-amr-ibn-al-as:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MOSQUEAMRIBNALAS-01",
+      "placeSlug": "mosque-amr-ibn-al-as",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mosque of Amr ibn al-As is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل جامع عمرو بن العاص كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-MOSQUEAMRIBNALAS"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mosque-amr-ibn-al-as-history",
+      "placeSlug": "mosque-amr-ibn-al-as",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Founded after the Arab conquest of Egypt as the principal mosque of Fustat. The building was repeatedly enlarged, rebuilt, and restored, so its present form is a layered historical record rather than a single-period structure.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-amr-ibn-al-as:unesco-historic-cairo",
+        "mosque-amr-ibn-al-as:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mosque-amr-ibn-al-as-architecture",
+      "placeSlug": "mosque-amr-ibn-al-as",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A large courtyard mosque with arcades and a prayer hall, shaped by successive rebuilding campaigns and by the urban growth of Fustat and Old Cairo.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "mosque-amr-ibn-al-as:unesco-historic-cairo",
+        "mosque-amr-ibn-al-as:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

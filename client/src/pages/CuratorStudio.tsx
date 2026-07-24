@@ -71,6 +71,10 @@ export default function CuratorStudio() {
               <FileText size={12} className="mr-1" />
               {t("Sources", "المصادر")}
             </TabsTrigger>
+            <TabsTrigger value="research" className={`data-[state=active]:bg-white ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
+              <CheckCircle size={12} className="mr-1" />
+              {t("Research queue", "قائمة البحث")}
+            </TabsTrigger>
             <TabsTrigger value="audit" className={`data-[state=active]:bg-white ${lang === "ar" ? "font-[var(--font-arabic-sans)]" : ""}`}>
               <History size={12} className="mr-1" />
               {t("Audit Log", "سجل التدقيق")}
@@ -80,6 +84,7 @@ export default function CuratorStudio() {
           <TabsContent value="places"><PlacesTab /></TabsContent>
           <TabsContent value="media"><MediaTab /></TabsContent>
           <TabsContent value="sources"><SourcesTab /></TabsContent>
+          <TabsContent value="research"><ResearchTab /></TabsContent>
           <TabsContent value="audit"><AuditTab /></TabsContent>
         </Tabs>
       </div>
@@ -286,6 +291,33 @@ function SourcesTab() {
           ))}
         </div>
       )}
+    </div>
+  );
+}
+
+function ResearchTab() {
+  const { lang, isRTL, t } = useLang();
+  const utils = trpc.useUtils();
+  const { data: queue, isLoading, refetch } = trpc.curator.listResearchQueue.useQuery({ status: "pending", limit: 100 });
+  const resolve = trpc.curator.resolveResearchItem.useMutation({
+    onSuccess: () => { toast.success(t("Research item updated.", "تم تحديث عنصر البحث.")); utils.curator.listResearchQueue.invalidate(); utils.curator.getAuditLog.invalidate(); },
+    onError: error => toast.error(error.message),
+  });
+  const summary = (payload: unknown) => {
+    if (!payload || typeof payload !== "object") return t("Research item", "عنصر بحث");
+    const record = payload as Record<string, unknown>;
+    for (const key of ["nameEn", "title", "titleEn", "textEn", "placeNameEn"]) if (typeof record[key] === "string" && record[key]) return record[key] as string;
+    return t("Research item", "عنصر بحث");
+  };
+  const links = (value: unknown) => Array.isArray(value) ? value.filter((item): item is string => typeof item === "string" && item.startsWith("http")) : [];
+
+  return (
+    <div className="space-y-4">
+      <div className={`flex items-start justify-between gap-4 ${isRTL ? "flex-row-reverse" : ""}`}>
+        <div><h3 className={`font-semibold text-[var(--color-stone-900)] ${lang === "ar" ? "font-[var(--font-arabic)]" : ""}`}>{t("Research review queue", "قائمة مراجعة البحث")}</h3><p className="mt-1 text-xs text-[var(--color-stone-500)]">{t("Approve only records with adequate evidence. Approved photos are promoted into the existing media gallery.", "اعتمد فقط السجلات ذات الأدلة الكافية. تُنقل الصور المعتمدة إلى معرض الوسائط الحالي.")}</p></div>
+        <Button variant="ghost" size="sm" onClick={() => refetch()}><RefreshCw size={13} className="mr-1" />{t("Refresh", "تحديث")}</Button>
+      </div>
+      {isLoading ? <div className="space-y-2">{Array.from({ length: 8 }).map((_, index) => <div key={index} className="skeleton h-24 rounded" />)}</div> : queue?.length ? <div className="space-y-3">{queue.map(item => <article key={item.id} className="rounded-lg border border-[var(--color-border)] bg-white p-4"><div className={`flex flex-col gap-3 lg:flex-row lg:items-start lg:justify-between ${isRTL ? "lg:flex-row-reverse" : ""}`}><div className="min-w-0 flex-1"><div className="flex flex-wrap items-center gap-2"><Badge variant="outline">{item.kind}</Badge><span className="text-xs text-[var(--color-stone-400)]">{item.placeSlug}</span></div><p className="mt-2 text-sm font-medium text-[var(--color-stone-800)]">{summary(item.payload)}</p>{Array.isArray(item.reasons) && item.reasons.length > 0 && <p className="mt-1 text-xs text-[var(--color-stone-500)]">{item.reasons.filter((reason): reason is string => typeof reason === "string").join(" · ")}</p>}{links(item.sourceUrls).length > 0 && <div className="mt-2 flex flex-wrap gap-3">{links(item.sourceUrls).map(url => <a key={url} href={url} target="_blank" rel="noopener noreferrer" className="text-xs text-[var(--color-terracotta-600)] hover:underline">{t("Open source", "فتح المصدر")}</a>)}</div>}</div><div className="flex shrink-0 gap-2"><Button size="sm" onClick={() => resolve.mutate({ id: item.id, status: "approved" })} disabled={resolve.isPending} className="bg-green-700 hover:bg-green-800">{t("Approve", "اعتماد")}</Button><Button size="sm" variant="outline" onClick={() => resolve.mutate({ id: item.id, status: "deferred" })} disabled={resolve.isPending}>{t("Defer", "تأجيل")}</Button><Button size="sm" variant="outline" onClick={() => resolve.mutate({ id: item.id, status: "rejected" })} disabled={resolve.isPending} className="text-red-700">{t("Reject", "رفض")}</Button></div></div></article>)}</div> : <div className="py-12 text-center text-sm text-[var(--color-stone-500)]">{t("The review queue is clear.", "قائمة المراجعة فارغة.")}</div>}
     </div>
   );
 }

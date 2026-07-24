@@ -27,40 +27,40 @@ colors:
   accent: "{colors.gold-400}"
 typography:
   display:
-    fontFamily: "Playfair Display, Georgia, serif"
+    fontFamily: "Almarai, system-ui, sans-serif"
     fontSize: "clamp(2.5rem, 7vw, 5rem)"
-    fontWeight: 600
+    fontWeight: 700
     lineHeight: 1.1
     letterSpacing: "-0.025em"
   headline:
-    fontFamily: "Playfair Display, Georgia, serif"
+    fontFamily: "Almarai, system-ui, sans-serif"
     fontSize: "2.25rem"
-    fontWeight: 600
+    fontWeight: 700
     lineHeight: 1.2
     letterSpacing: "-0.015em"
   title:
-    fontFamily: "Source Sans 3, system-ui, sans-serif"
+    fontFamily: "Almarai, system-ui, sans-serif"
     fontSize: "1.25rem"
     fontWeight: 600
     lineHeight: 1.35
   body:
-    fontFamily: "Source Sans 3, system-ui, sans-serif"
+    fontFamily: "Almarai, system-ui, sans-serif"
     fontSize: "1rem"
     fontWeight: 400
     lineHeight: 1.6
   label:
-    fontFamily: "Source Sans 3, system-ui, sans-serif"
+    fontFamily: "Almarai, system-ui, sans-serif"
     fontSize: "0.875rem"
     fontWeight: 500
     lineHeight: 1.4
     letterSpacing: "0.01em"
   arabic-display:
-    fontFamily: "Amiri, Noto Naskh Arabic, serif"
+    fontFamily: "Almarai, system-ui, sans-serif"
     fontSize: "clamp(2.5rem, 7vw, 5rem)"
     fontWeight: 700
     lineHeight: 1.35
   arabic-body:
-    fontFamily: "Amiri, Noto Naskh Arabic, serif"
+    fontFamily: "Almarai, system-ui, sans-serif"
     fontSize: "1.0625rem"
     fontWeight: 400
     lineHeight: 1.9
@@ -165,16 +165,14 @@ A stone-and-parchment foundation gives Cairo's documentary content room to speak
 
 ## 3. Typography
 
-**Display Font:** Playfair Display (with Georgia fallback)
-**Body Font:** Source Sans 3 (with system-ui fallback)
-**Arabic Editorial Font:** Amiri with Noto Naskh Arabic fallback
+**Project Font:** Almarai (with system-ui and sans-serif fallbacks)
 
-**Character:** Latin headings feel historical without becoming theatrical. Source Sans 3 keeps controls, filters, metadata, and dense curator workflows familiar. Amiri and Noto Naskh Arabic provide a real editorial reading voice with more vertical space and line-height than Latin copy.
+**Character:** Almarai gives the bilingual interface one clear typographic voice across Latin and Arabic while preserving generous Arabic rhythm and highly legible product controls.
 
 ### Hierarchy
 
-- **Display** (600, `clamp(2.5rem, 7vw, 5rem)`, 1.1): Cinematic arrival headlines and major story openings. Never use for controls.
-- **Headline** (600, 2.25rem, 1.2): Page introductions, monument names, and major section headings.
+- **Display** (700, `clamp(2.5rem, 7vw, 5rem)`, 1.1): Cinematic arrival headlines and major story openings. Never use for controls.
+- **Headline** (700, 2.25rem, 1.2): Page introductions, monument names, and major section headings.
 - **Title** (600, 1.25rem, 1.35): Cards, route names, panel headings, and compact editorial blocks.
 - **Body** (400, 1rem, 1.6): Explanatory, historical, and practical copy. Keep prose near 65–75ch.
 - **Label** (500, 0.875rem, 1.4, slight tracking): Buttons, filters, metadata labels, status text, and navigation.
@@ -183,7 +181,7 @@ A stone-and-parchment foundation gives Cairo's documentary content room to speak
 
 ### Named Rules
 
-**The Two-Voice Rule.** Use serif or Arabic editorial type for place and story. Use Source Sans 3 for product actions, navigation, status, and data.
+**The One-Voice Rule.** Use Almarai throughout place, story, actions, navigation, status, and data; hierarchy comes from size, weight, spacing, and color.
 
 **The Reading-Room Rule.** Arabic text receives generous line-height and sufficient measure. Never compress Arabic to match Latin block height.
 

@@ -1,0 +1,1236 @@
+{
+  "schemaVersion": 1,
+  "slug": "gayer-anderson-museum",
+  "status": "PROPOSED_V4",
+  "slugAliases": [],
+  "architecturalElements": [
+    "qa'a",
+    "courtyard",
+    "mashrabiyya",
+    "painted ceilings",
+    "house museum rooms",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Al-Saliba / Sayyida Zaynab",
+  "historicalPeriods": [
+    "Ottoman domestic architecture",
+    "16th–17th centuries; museum from 1945",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Gayer-Anderson Museum) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (متحف جاير أندرسون) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Sayyida Zeinab / Ibn Tulun",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "متحف جاير أندرسون",
+  "nameEn": "Gayer-Anderson Museum",
+  "placeType": "historic houses and museum",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Gayer-Anderson Museum played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت متحف جاير أندرسون في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-GAYERANDERSONMUSEUM"
+      ]
+    },
+    {
+      "storySlug": "story-gayer-anderson-museum",
+      "relatedPlaceSlug": "gayer-anderson-museum",
+      "titleEn": "Reading Gayer-Anderson Museum",
+      "titleAr": "قراءة متحف جاير أندرسون",
+      "summaryEn": "A bilingual architectural and historical journey through Gayer-Anderson Museum.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في متحف جاير أندرسون.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "gayer-anderson-museum-chapter-1",
+          "titleEn": "Two Houses Before the Museum",
+          "titleAr": "بيتان قبل المتحف",
+          "bodyEn": "The museum began as two neighboring Ottoman-period houses beside the Mosque of Ibn Tulun, not as a purpose-built gallery. Their rooms were shaped by successive owners, changing households, and the practical requirements of urban life. Courtyards admitted air and indirect light, while bent entrances, screened windows, and separate circulation routes controlled movement and privacy. The houses later became known through names such as Bayt al-Kritliyya and Bayt Amna bint Salim. Reading them historically means resisting the temptation to treat every room as one coherent seventeenth-century design. Their value lies precisely in accumulation: masonry, timber, service areas, reception halls, and upper rooms preserve evidence of several building campaigns and patterns of occupation. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "بدأ المتحف بيتين متجاورين من العصر العثماني بجوار جامع ابن طولون، ولم يُنشأ في الأصل معرضًا للمقتنيات. تشكلت غرفه عبر ملاك متعاقبين وأسر متغيرة ومتطلبات الحياة الحضرية. سمحت الأفنية بدخول الهواء والضوء غير المباشر، بينما نظمت المداخل المنكسرة والنوافذ المحجوبة ومسارات الحركة المنفصلة الانتقال والخصوصية. وعُرف البيتان لاحقًا بأسماء منها بيت الكريتلية وبيت آمنة بنت سالم. وتقتضي قراءتهما تاريخيًا ألا نتعامل مع كل الغرف بوصفها تصميمًا واحدًا متجانسًا من القرن السابع عشر. فقيمتهما تكمن في التراكم نفسه؛ إذ تحفظ أعمال البناء والخشب ومساحات الخدمة وقاعات الاستقبال والغرف العليا شواهد على حملات إنشاء وأنماط سكن متعددة. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "gayer-anderson-museum-chapter-2",
+          "titleEn": "Architecture that Filters the City",
+          "titleAr": "عمارة ترشح المدينة",
+          "bodyEn": "The visual experience of the houses depends less on a monumental façade than on a sequence of controlled views. A visitor passes from the street into shaded transitional spaces, then reaches courtyards framed by mashrabiyas, stone arches, and projecting upper rooms. Reception halls use raised iwans, central floor areas, decorated ceilings, and carefully placed openings to organize hospitality. Wooden screens allow occupants to observe without being fully exposed, while courtyards support ventilation and moderate heat. These elements should not be reduced to picturesque decoration. Together they reveal a domestic technology of climate, social boundaries, sound, and visibility. The museum’s strongest interpretation therefore compares the architecture’s original spatial logic with the later placement of collected objects. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "لا تعتمد التجربة البصرية للبيتين على واجهة ضخمة بقدر اعتمادها على سلسلة من المناظر المحكومة. ينتقل الزائر من الشارع إلى فراغات انتقالية مظللة، ثم يصل إلى أفنية تحيط بها المشربيات والعقود الحجرية والغرف العليا البارزة. وتستخدم قاعات الاستقبال الإيوانات المرتفعة والمساحات الوسطى والأسقف المزخرفة والفتحات المدروسة لتنظيم الضيافة. وتسمح الشاشات الخشبية بالمراقبة من دون انكشاف كامل، بينما تساعد الأفنية على التهوية وتخفيف الحرارة. ولا ينبغي اختزال هذه العناصر في زخرفة جميلة؛ فهي تكشف معًا تقنية منزلية لإدارة المناخ والحدود الاجتماعية والصوت والرؤية. لذلك تقارن القراءة المتحفية الأفضل بين منطق العمارة الأصلي ومواضع المقتنيات اللاحقة. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "gayer-anderson-museum-chapter-3",
+          "titleEn": "Gayer-Anderson and a New Layer",
+          "titleAr": "جاير أندرسون وطبقة جديدة",
+          "bodyEn": "In 1935, R. G. Gayer-Anderson received permission to reside in the houses and furnish them with his collection, under an arrangement that transferred the objects to Egypt. His occupation preserved and popularized the ensemble, but it also introduced a powerful twentieth-century layer. Rooms were named, staged, and filled with objects from different regions and periods, creating an atmosphere that reflects the collector’s taste as much as the earlier households. A responsible story does not dismiss that layer, nor does it confuse it with the original use of the houses. Instead, it asks how museums transform domestic buildings, how collections construct ideas of the past, and how conservation can protect architecture while making later interventions legible. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "في عام 1935م حصل ر. ج. جاير أندرسون على إذن بالإقامة في البيتين وتأثيثهما بمجموعته، وفق ترتيب تؤول بموجبه المقتنيات إلى مصر. أسهمت إقامته في حفظ المجموعة المعمارية والتعريف بها، لكنها أضافت أيضًا طبقة قوية من القرن العشرين. فقد سميت الغرف ورُتبت وامتلأت بأشياء من مناطق وعصور مختلفة، فصنعت أجواء تعكس ذوق الجامع بقدر ما تعكس الأسر الأقدم. ولا ترفض القصة المسؤولة هذه الطبقة، كما لا تخلطها بالاستخدام الأصلي للبيتين. بل تسأل كيف تحول المتاحف المباني المنزلية، وكيف تبني المجموعات تصورات عن الماضي، وكيف يحمي الترميم العمارة مع إبقاء التدخلات اللاحقة قابلة للقراءة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Ottoman Cairo with modern museum history"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "historic houses and museum",
+        "Al-Saliba / Sayyida Zaynab",
+        "Ottoman / modern museum"
+      ],
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "claimIds": [
+        "claim-gayer-anderson-museum-story-1",
+        "claim-gayer-anderson-museum-story-2",
+        "claim-gayer-anderson-museum-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    }
+  ],
+  "transliteration": "Gayer-Anderson Museum",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-gayer-anderson-museum",
+      "placeId": null,
+      "placeSlug": "gayer-anderson-museum",
+      "placeNameEn": "Gayer-Anderson Museum",
+      "placeNameAr": "متحف جاير أندرسون",
+      "role": "cover",
+      "imageKitPath": "/places/gayer-anderson-museum/cover.jpg",
+      "localFile": "images/gayer-anderson-museum/gayer-anderson-museum-cover-central-courtyard.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+      "sourceTitle": "Central Courtyard of the Gayer-Anderson Museum.jpg",
+      "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/gayer-anderson-museum/gayer-anderson-museum-cover-central-courtyard.jpg",
+      "creator": "Peter Astbury",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution": "Central Courtyard of the Gayer-Anderson Museum.jpg — Peter Astbury, CC BY 3.0, via Wikimedia Commons",
+      "altEn": "The central courtyard and upper arcades of the Gayer-Anderson Museum.",
+      "altAr": "الفناء المركزي والأروقة العلوية في متحف جاير أندرسون.",
+      "captionEn": "The central courtyard and upper arcades of the Gayer-Anderson Museum.",
+      "captionAr": "الفناء المركزي والأروقة العلوية في متحف جاير أندرسون.",
+      "mediaType": "photo",
+      "visualType": "courtyard",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 1952,
+      "height": 2592,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 983188,
+      "checksum": "1f7de9494bf32bcd68f04a7a529ad691bc9eb4f1f36cadeed5c3d910f090b754",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "baseline_v4",
+      "provenanceGroup": "baseline_v4",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+        "creator": "Peter Astbury",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Central Courtyard of the Gayer-Anderson Museum.jpg — Peter Astbury, CC BY 3.0, via Wikimedia Commons",
+        "verifiedBy": "baseline_v4",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-gayer-anderson-museum:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "qa'a",
+        "courtyard",
+        "mashrabiyya",
+        "painted ceilings",
+        "house museum rooms"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "qa'a",
+            "courtyard",
+            "mashrabiyya",
+            "painted ceilings",
+            "house museum rooms"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "The houses contain courtyards, qa'as, mashrabiyyas, service areas, painted ceilings, and carefully controlled views between public, family, and service zones.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Al-Saliba / Sayyida Zaynab",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Sayyida Zeinab / Ibn Tulun"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": "Al-Saliba / Sayyida Zaynab",
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Ottoman domestic architecture",
+        "16th–17th centuries; museum from 1945"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Ottoman domestic architecture",
+            "16th–17th centuries; museum from 1945"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Gayer-Anderson Museum) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (متحف جاير أندرسون) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Formed from two connected historic houses beside Ibn Tulun Mosque and associated with the British officer and collector Gayer-Anderson. The museum presents domestic architecture and a historicized collection.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Gayer-Anderson Museum) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (متحف جاير أندرسون) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Sayyida Zeinab / Ibn Tulun",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Sayyida Zeinab / Ibn Tulun",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "متحف جاير أندرسون",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "متحف جاير أندرسون"
+        }
+      ],
+      "baselineValue": "متحف جاير أندرسون",
+      "conflict": false
+    },
+    "nameEn": {
+      "canonical": "Gayer-Anderson Museum",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Gayer-Anderson Museum"
+        }
+      ],
+      "baselineValue": "Gayer-Anderson Museum",
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "historic houses and museum",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "historic house museum"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": "historic houses and museum",
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Gayer-Anderson Museum played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت متحف جاير أندرسون في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-GAYERANDERSONMUSEUM"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "gayer-anderson-museum:unesco-historic-cairo",
+                "gayer-anderson-museum:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Gayer-Anderson Museum played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت متحف جاير أندرسون في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-GAYERANDERSONMUSEUM"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Gayer-Anderson Museum",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Gayer-Anderson Museum"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "gayer-anderson-museum",
+      "status": "PROPOSED_V4",
+      "nameEn": "Gayer-Anderson Museum",
+      "nameAr": "متحف جاير أندرسون",
+      "transliteration": "Gayer-Anderson Museum",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "historic house museum",
+      "district": "Sayyida Zeinab / Ibn Tulun",
+      "location": {
+        "descriptionEn": "Sayyida Zeinab / Ibn Tulun",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Ottoman domestic architecture",
+        "16th–17th centuries; museum from 1945"
+      ],
+      "historicalSummary": {
+        "en": "Formed from two connected historic houses beside Ibn Tulun Mosque and associated with the British officer and collector Gayer-Anderson. The museum presents domestic architecture and a historicized collection.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "The houses contain courtyards, qa'as, mashrabiyyas, service areas, painted ceilings, and carefully controlled views between public, family, and service zones.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "qa'a",
+        "courtyard",
+        "mashrabiyya",
+        "painted ceilings",
+        "house museum rooms"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "gayer-anderson-museum:unesco-historic-cairo",
+            "gayer-anderson-museum:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "gayer-anderson-museum-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Gayer-Anderson Museum.",
+          "textAr": "يسجل الجرد هذا الموقع باسم متحف جاير أندرسون.",
+          "confidence": "high",
+          "sourceIds": [
+            "gayer-anderson-museum:unesco-historic-cairo",
+            "gayer-anderson-museum:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "gayer-anderson-museum-history",
+          "claimType": "history",
+          "textEn": "Formed from two connected historic houses beside Ibn Tulun Mosque and associated with the British officer and collector Gayer-Anderson. The museum presents domestic architecture and a historicized collection.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "gayer-anderson-museum:unesco-historic-cairo",
+            "gayer-anderson-museum:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "gayer-anderson-museum-architecture",
+          "claimType": "architecture",
+          "textEn": "The houses contain courtyards, qa'as, mashrabiyyas, service areas, painted ceilings, and carefully controlled views between public, family, and service zones.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "gayer-anderson-museum:unesco-historic-cairo",
+            "gayer-anderson-museum:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "gayer-anderson-museum-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "gayer-anderson-museum:unesco-historic-cairo",
+            "gayer-anderson-museum:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "gayer-anderson-museum:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "gayer-anderson-museum-identity",
+            "gayer-anderson-museum-history",
+            "gayer-anderson-museum-architecture",
+            "gayer-anderson-museum-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "gayer-anderson-museum:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "gayer-anderson-museum-identity",
+            "gayer-anderson-museum-history",
+            "gayer-anderson-museum-architecture",
+            "gayer-anderson-museum-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "gayer-anderson-museum",
+      "status": "PROPOSED_V4",
+      "nameEn": "Gayer-Anderson Museum",
+      "nameAr": "متحف جاير أندرسون",
+      "transliteration": "Gayer-Anderson Museum",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Gayer-Anderson Museum) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (متحف جاير أندرسون) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Gayer-Anderson Museum played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت متحف جاير أندرسون في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-GAYERANDERSONMUSEUM"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-GAYERANDERSONMUSEUM-01",
+          "claimType": "history",
+          "textEn": "The site Gayer-Anderson Museum is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل متحف جاير أندرسون كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-GAYERANDERSONMUSEUM"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-GAYERANDERSONMUSEUM",
+          "title": "Archnet & Ministry Documentation for Gayer-Anderson Museum",
+          "url": "https://archnet.org/sites/gayer-anderson-museum",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-GAYERANDERSONMUSEUM-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:gayer-anderson-museum.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/gayer-anderson-museum.jpg",
+          "title": "General View of Gayer-Anderson Museum",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Gayer-Anderson Museum\n\nArabic name: **متحف جاير أندرسون**  \nStatus: **PROPOSED_V4**  \nSlug: `gayer-anderson-museum`\n\n## Historical summary\n\nFormed from two connected historic houses beside Ibn Tulun Mosque and associated with the British officer and collector Gayer-Anderson. The museum presents domestic architecture and a historicized collection.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nThe houses contain courtyards, qa'as, mashrabiyyas, service areas, painted ceilings, and carefully controlled views between public, family, and service zones.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- qa'a\n- courtyard\n- mashrabiyya\n- painted ceilings\n- house museum rooms\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **gayer-anderson-museum:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **gayer-anderson-museum:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Gayer-Anderson Museum\n\nArabic name: **متحف جاير أندرسون**  \nStatus: **PROPOSED_V4**  \nSlug: `gayer-anderson-museum`\n\n## Historical summary\n\nFormed from two connected historic houses beside Ibn Tulun Mosque and associated with the British officer and collector Gayer-Anderson. The museum presents domestic architecture and a historicized collection.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nThe houses contain courtyards, qa'as, mashrabiyyas, service areas, painted ceilings, and carefully controlled views between public, family, and service zones.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- qa'a\n- courtyard\n- mashrabiyya\n- painted ceilings\n- house museum rooms\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **gayer-anderson-museum:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **gayer-anderson-museum:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Gayer-Anderson Museum (متحف جاير أندرسون)\n**Status:** PROPOSED_V4  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Gayer-Anderson Museum) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (متحف جاير أندرسون) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Gayer-Anderson Museum played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Gayer-Anderson Museum (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/gayer-anderson-museum.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-GAYERANDERSONMUSEUM]** [Archnet & Ministry Documentation for Gayer-Anderson Museum](https://archnet.org/sites/gayer-anderson-museum) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": {
+      "slug": "gayer-anderson-museum",
+      "nameEn": "Gayer-Anderson Museum",
+      "nameAr": "متحف جاير أندرسون",
+      "alternateNames": [
+        "Bayt al-Kritliyya",
+        "بيت الكريتلية"
+      ],
+      "historicalPeriod": "Ottoman Cairo with modern museum history",
+      "dynasty": "Ottoman / modern museum",
+      "district": "Al-Saliba / Sayyida Zaynab",
+      "placeType": "historic houses and museum",
+      "foundedYearOrRange": "16th–17th centuries; museum adaptation from 1935",
+      "dateCertainty": "approximate",
+      "dateDisplayEn": "16th–17th centuries; museum adaptation from 1935",
+      "dateDisplayAr": "بيتان ترجع مراحلهما الرئيسية إلى القرنين السادس عشر والسابع عشر؛ وتكييف متحفي منذ 1935م",
+      "patronEn": "Multiple house patrons; later Gayer-Anderson",
+      "patronAr": "رعاة متعددون للبيتين؛ ثم جاير أندرسون",
+      "architectEn": "Unknown",
+      "architectAr": "غير معروف",
+      "originalFunctionEn": "urban residences",
+      "originalFunctionAr": "مساكن حضرية",
+      "currentFunctionEn": "museum of domestic architecture and collections",
+      "currentFunctionAr": "متحف للعمارة المنزلية والمقتنيات",
+      "historicalBriefEn": "The museum occupies two connected historic houses beside Ibn Tulun Mosque. Courtyards, reception halls, mashrabiyas, and service routes reveal domestic architecture, while Gayer-Anderson’s twentieth-century residence added a separate museum layer. The interpretation must distinguish the older houses from the later collection and display choices. The two houses are conventionally associated with different construction dates and owners, but their present arrangement is the result of later connection and museum use. The collection includes objects from several cultures and periods; it should be interpreted as a twentieth-century curatorial layer rather than evidence that every object originally belonged to the houses.",
+      "historicalBriefAr": "يشغل المتحف بيتين تاريخيين متصلين بجوار جامع ابن طولون. وتكشف الأفنية وقاعات الاستقبال والمشربيات ومسارات الخدمة عمارة السكن، بينما أضافت إقامة جاير أندرسون في القرن العشرين طبقة متحفية منفصلة. ويجب التمييز بين البيتين الأقدم والمجموعة وطرق العرض اللاحقة. ويرتبط البيتان عادة بتواريخ إنشاء وملاك مختلفين، لكن ترتيبهما الحالي نتج عن ربط لاحق واستخدام متحفي. وتضم المجموعة أشياء من ثقافات وعصور متعددة؛ لذا ينبغي تفسيرها بوصفها طبقة تنسيق من القرن العشرين، لا دليلًا على أن كل قطعة كانت أصلًا جزءًا من البيتين.",
+      "clarificationNoteEn": "The houses were not built for Gayer-Anderson.",
+      "clarificationNoteAr": "لم يُشيد البيتان من أجل جاير أندرسون.",
+      "keyDates": [
+        {
+          "year": 1935,
+          "labelEn": "Principal documented phase",
+          "labelAr": "المرحلة الرئيسية الموثقة"
+        }
+      ],
+      "architecturalPhases": [
+        {
+          "nameEn": "Original or principal construction",
+          "nameAr": "الإنشاء الأصلي أو الرئيسي",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Original or principal construction",
+          "descAr": "الإنشاء الأصلي أو الرئيسي"
+        },
+        {
+          "nameEn": "Later repairs, additions, or conservation",
+          "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Later repairs, additions, or conservation",
+          "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+        }
+      ],
+      "latitude": 30.028703,
+      "longitude": 31.250808,
+      "locationPrecision": "exact",
+      "openingHours": null,
+      "accessibilityConfidence": "low-to-medium",
+      "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+      "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+      "priorityVisualStoryEn": "Courtyard depth, mashrabiya screens, and the difference between historic fabric and museum display.",
+      "priorityVisualStoryAr": "عمق الفناء والمشربيات والفارق بين النسيج التاريخي والعرض المتحفي.",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "claimIds": [
+        "claim-gayer-anderson-museum-date",
+        "claim-gayer-anderson-museum-period",
+        "claim-gayer-anderson-museum-patron",
+        "claim-gayer-anderson-museum-function",
+        "claim-gayer-anderson-museum-clarification",
+        "claim-gayer-anderson-museum-location"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+      "photographyAllowed": "unknown",
+      "activeWorship": false,
+      "funerarySensitive": false,
+      "ticketed": null,
+      "recommendedDurationMin": 45,
+      "recommendedDurationMax": 75
+    },
+    "contentPackageV4Story": {
+      "storySlug": "story-gayer-anderson-museum",
+      "relatedPlaceSlug": "gayer-anderson-museum",
+      "titleEn": "Reading Gayer-Anderson Museum",
+      "titleAr": "قراءة متحف جاير أندرسون",
+      "summaryEn": "A bilingual architectural and historical journey through Gayer-Anderson Museum.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في متحف جاير أندرسون.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "gayer-anderson-museum-chapter-1",
+          "titleEn": "Two Houses Before the Museum",
+          "titleAr": "بيتان قبل المتحف",
+          "bodyEn": "The museum began as two neighboring Ottoman-period houses beside the Mosque of Ibn Tulun, not as a purpose-built gallery. Their rooms were shaped by successive owners, changing households, and the practical requirements of urban life. Courtyards admitted air and indirect light, while bent entrances, screened windows, and separate circulation routes controlled movement and privacy. The houses later became known through names such as Bayt al-Kritliyya and Bayt Amna bint Salim. Reading them historically means resisting the temptation to treat every room as one coherent seventeenth-century design. Their value lies precisely in accumulation: masonry, timber, service areas, reception halls, and upper rooms preserve evidence of several building campaigns and patterns of occupation. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "بدأ المتحف بيتين متجاورين من العصر العثماني بجوار جامع ابن طولون، ولم يُنشأ في الأصل معرضًا للمقتنيات. تشكلت غرفه عبر ملاك متعاقبين وأسر متغيرة ومتطلبات الحياة الحضرية. سمحت الأفنية بدخول الهواء والضوء غير المباشر، بينما نظمت المداخل المنكسرة والنوافذ المحجوبة ومسارات الحركة المنفصلة الانتقال والخصوصية. وعُرف البيتان لاحقًا بأسماء منها بيت الكريتلية وبيت آمنة بنت سالم. وتقتضي قراءتهما تاريخيًا ألا نتعامل مع كل الغرف بوصفها تصميمًا واحدًا متجانسًا من القرن السابع عشر. فقيمتهما تكمن في التراكم نفسه؛ إذ تحفظ أعمال البناء والخشب ومساحات الخدمة وقاعات الاستقبال والغرف العليا شواهد على حملات إنشاء وأنماط سكن متعددة. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "gayer-anderson-museum-chapter-2",
+          "titleEn": "Architecture that Filters the City",
+          "titleAr": "عمارة ترشح المدينة",
+          "bodyEn": "The visual experience of the houses depends less on a monumental façade than on a sequence of controlled views. A visitor passes from the street into shaded transitional spaces, then reaches courtyards framed by mashrabiyas, stone arches, and projecting upper rooms. Reception halls use raised iwans, central floor areas, decorated ceilings, and carefully placed openings to organize hospitality. Wooden screens allow occupants to observe without being fully exposed, while courtyards support ventilation and moderate heat. These elements should not be reduced to picturesque decoration. Together they reveal a domestic technology of climate, social boundaries, sound, and visibility. The museum’s strongest interpretation therefore compares the architecture’s original spatial logic with the later placement of collected objects. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "لا تعتمد التجربة البصرية للبيتين على واجهة ضخمة بقدر اعتمادها على سلسلة من المناظر المحكومة. ينتقل الزائر من الشارع إلى فراغات انتقالية مظللة، ثم يصل إلى أفنية تحيط بها المشربيات والعقود الحجرية والغرف العليا البارزة. وتستخدم قاعات الاستقبال الإيوانات المرتفعة والمساحات الوسطى والأسقف المزخرفة والفتحات المدروسة لتنظيم الضيافة. وتسمح الشاشات الخشبية بالمراقبة من دون انكشاف كامل، بينما تساعد الأفنية على التهوية وتخفيف الحرارة. ولا ينبغي اختزال هذه العناصر في زخرفة جميلة؛ فهي تكشف معًا تقنية منزلية لإدارة المناخ والحدود الاجتماعية والصوت والرؤية. لذلك تقارن القراءة المتحفية الأفضل بين منطق العمارة الأصلي ومواضع المقتنيات اللاحقة. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "gayer-anderson-museum-chapter-3",
+          "titleEn": "Gayer-Anderson and a New Layer",
+          "titleAr": "جاير أندرسون وطبقة جديدة",
+          "bodyEn": "In 1935, R. G. Gayer-Anderson received permission to reside in the houses and furnish them with his collection, under an arrangement that transferred the objects to Egypt. His occupation preserved and popularized the ensemble, but it also introduced a powerful twentieth-century layer. Rooms were named, staged, and filled with objects from different regions and periods, creating an atmosphere that reflects the collector’s taste as much as the earlier households. A responsible story does not dismiss that layer, nor does it confuse it with the original use of the houses. Instead, it asks how museums transform domestic buildings, how collections construct ideas of the past, and how conservation can protect architecture while making later interventions legible. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "في عام 1935م حصل ر. ج. جاير أندرسون على إذن بالإقامة في البيتين وتأثيثهما بمجموعته، وفق ترتيب تؤول بموجبه المقتنيات إلى مصر. أسهمت إقامته في حفظ المجموعة المعمارية والتعريف بها، لكنها أضافت أيضًا طبقة قوية من القرن العشرين. فقد سميت الغرف ورُتبت وامتلأت بأشياء من مناطق وعصور مختلفة، فصنعت أجواء تعكس ذوق الجامع بقدر ما تعكس الأسر الأقدم. ولا ترفض القصة المسؤولة هذه الطبقة، كما لا تخلطها بالاستخدام الأصلي للبيتين. بل تسأل كيف تحول المتاحف المباني المنزلية، وكيف تبني المجموعات تصورات عن الماضي، وكيف يحمي الترميم العمارة مع إبقاء التدخلات اللاحقة قابلة للقراءة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Ottoman Cairo with modern museum history"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "historic houses and museum",
+        "Al-Saliba / Sayyida Zaynab",
+        "Ottoman / modern museum"
+      ],
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "claimIds": [
+        "claim-gayer-anderson-museum-story-1",
+        "claim-gayer-anderson-museum-story-2",
+        "claim-gayer-anderson-museum-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    },
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-gayer-anderson-museum",
+        "placeId": null,
+        "placeSlug": "gayer-anderson-museum",
+        "placeNameEn": "Gayer-Anderson Museum",
+        "placeNameAr": "متحف جاير أندرسون",
+        "role": "cover",
+        "imageKitPath": "/places/gayer-anderson-museum/cover.jpg",
+        "localFile": "images/gayer-anderson-museum/gayer-anderson-museum-cover-central-courtyard.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+        "sourceTitle": "Central Courtyard of the Gayer-Anderson Museum.jpg",
+        "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/gayer-anderson-museum/gayer-anderson-museum-cover-central-courtyard.jpg",
+        "creator": "Peter Astbury",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "attribution": "Central Courtyard of the Gayer-Anderson Museum.jpg — Peter Astbury, CC BY 3.0, via Wikimedia Commons",
+        "altEn": "The central courtyard and upper arcades of the Gayer-Anderson Museum.",
+        "altAr": "الفناء المركزي والأروقة العلوية في متحف جاير أندرسون.",
+        "captionEn": "The central courtyard and upper arcades of the Gayer-Anderson Museum.",
+        "captionAr": "الفناء المركزي والأروقة العلوية في متحف جاير أندرسون.",
+        "mediaType": "photo",
+        "visualType": "courtyard",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 1952,
+        "height": 2592,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 983188,
+        "checksum": "1f7de9494bf32bcd68f04a7a529ad691bc9eb4f1f36cadeed5c3d910f090b754",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "baseline_v4",
+        "provenanceGroup": "baseline_v4",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Central_Courtyard_of_the_Gayer-Anderson_Museum.jpg",
+          "creator": "Peter Astbury",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Central Courtyard of the Gayer-Anderson Museum.jpg — Peter Astbury, CC BY 3.0, via Wikimedia Commons",
+          "verifiedBy": "baseline_v4",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-gayer-anderson-museum:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": null
+  },
+  "sources": [
+    "gayer-anderson-museum:unesco-historic-cairo",
+    "gayer-anderson-museum:mota-historic-cairo",
+    "SRC-GAYERANDERSONMUSEUM",
+    "src-gayer-mota",
+    "src-gayer-archnet"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "gayer-anderson-museum:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "gayer-anderson-museum-identity",
+        "gayer-anderson-museum-history",
+        "gayer-anderson-museum-architecture",
+        "gayer-anderson-museum-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "gayer-anderson-museum:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "gayer-anderson-museum-identity",
+        "gayer-anderson-museum-history",
+        "gayer-anderson-museum-architecture",
+        "gayer-anderson-museum-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-GAYERANDERSONMUSEUM",
+      "title": "Archnet & Ministry Documentation for Gayer-Anderson Museum",
+      "url": "https://archnet.org/sites/gayer-anderson-museum",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-GAYERANDERSONMUSEUM-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "baselineAcceptedContent": {
+    "sourceIds": [
+      "src-gayer-mota",
+      "src-gayer-archnet"
+    ],
+    "claimIds": [
+      "claim-gayer-anderson-museum-date",
+      "claim-gayer-anderson-museum-period",
+      "claim-gayer-anderson-museum-patron",
+      "claim-gayer-anderson-museum-function",
+      "claim-gayer-anderson-museum-clarification",
+      "claim-gayer-anderson-museum-location"
+    ],
+    "bilingual": true
+  },
+  "acceptedClaims": [
+    {
+      "claimId": "gayer-anderson-museum-identity",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Gayer-Anderson Museum.",
+      "textAr": "يسجل الجرد هذا الموقع باسم متحف جاير أندرسون.",
+      "confidence": "high",
+      "sourceIds": [
+        "gayer-anderson-museum:unesco-historic-cairo",
+        "gayer-anderson-museum:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "gayer-anderson-museum-status",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "gayer-anderson-museum:unesco-historic-cairo",
+        "gayer-anderson-museum:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-GAYERANDERSONMUSEUM-01",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Gayer-Anderson Museum is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل متحف جاير أندرسون كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-GAYERANDERSONMUSEUM"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-date",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "date",
+      "textEn": "Gayer-Anderson Museum is dated to 16th–17th centuries; museum adaptation from 1935.",
+      "textAr": "يؤرخ متحف جاير أندرسون إلى 16th–17th centuries; museum adaptation from 1935.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-period",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "period",
+      "textEn": "The monument belongs primarily to Ottoman Cairo with modern museum history.",
+      "textAr": "ينتمي الأثر أساسًا إلى Ottoman Cairo with modern museum history.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-patron",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "patron",
+      "textEn": "The recorded patron is Multiple house patrons; later Gayer-Anderson.",
+      "textAr": "الراعي المسجل هو رعاة متعددون للبيتين؛ ثم جاير أندرسون.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-function",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "function",
+      "textEn": "Its original function was urban residences.",
+      "textAr": "كانت وظيفته الأصلية مساكن حضرية.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-clarification",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "clarification",
+      "textEn": "The houses were not built for Gayer-Anderson.",
+      "textAr": "لم يُشيد البيتان من أجل جاير أندرسون.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-location",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "location",
+      "textEn": "The record locates the monument in Al-Saliba / Sayyida Zaynab with exact coordinate precision.",
+      "textAr": "يضع السجل الأثر في منطقة الصليبة / السيدة زينب، مع دقة مكانية مصنفة بوصفها دقيقة.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-story-1",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": "story-gayer-anderson-museum",
+      "claimType": "story-chapter",
+      "textEn": "The museum began as two neighboring Ottoman-period houses beside the Mosque of Ibn Tulun, not as a purpose-built gallery. Their rooms were shaped by successive owners, changing households, and the practical requirements of urban life. Courtyards admitted air and indirect light, while bent entrances, screened windows, and separate circulation routes controlled movement and privacy. The houses later became known through names such as Bayt al-Kritliyya and Bayt Amna bint Salim. Reading them historically means resisting the temptation to treat every room as one coherent seventeenth-century design. Their value lies precisely in accumulation: masonry, timber, service areas, reception halls, and upper rooms preserve evidence of several building campaigns and patterns of occupation. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "textAr": "بدأ المتحف بيتين متجاورين من العصر العثماني بجوار جامع ابن طولون، ولم يُنشأ في الأصل معرضًا للمقتنيات. تشكلت غرفه عبر ملاك متعاقبين وأسر متغيرة ومتطلبات الحياة الحضرية. سمحت الأفنية بدخول الهواء والضوء غير المباشر، بينما نظمت المداخل المنكسرة والنوافذ المحجوبة ومسارات الحركة المنفصلة الانتقال والخصوصية. وعُرف البيتان لاحقًا بأسماء منها بيت الكريتلية وبيت آمنة بنت سالم. وتقتضي قراءتهما تاريخيًا ألا نتعامل مع كل الغرف بوصفها تصميمًا واحدًا متجانسًا من القرن السابع عشر. فقيمتهما تكمن في التراكم نفسه؛ إذ تحفظ أعمال البناء والخشب ومساحات الخدمة وقاعات الاستقبال والغرف العليا شواهد على حملات إنشاء وأنماط سكن متعددة. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-story-2",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": "story-gayer-anderson-museum",
+      "claimType": "story-chapter",
+      "textEn": "The visual experience of the houses depends less on a monumental façade than on a sequence of controlled views. A visitor passes from the street into shaded transitional spaces, then reaches courtyards framed by mashrabiyas, stone arches, and projecting upper rooms. Reception halls use raised iwans, central floor areas, decorated ceilings, and carefully placed openings to organize hospitality. Wooden screens allow occupants to observe without being fully exposed, while courtyards support ventilation and moderate heat. These elements should not be reduced to picturesque decoration. Together they reveal a domestic technology of climate, social boundaries, sound, and visibility. The museum’s strongest interpretation therefore compares the architecture’s original spatial logic with the later placement of collected objects. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "textAr": "لا تعتمد التجربة البصرية للبيتين على واجهة ضخمة بقدر اعتمادها على سلسلة من المناظر المحكومة. ينتقل الزائر من الشارع إلى فراغات انتقالية مظللة، ثم يصل إلى أفنية تحيط بها المشربيات والعقود الحجرية والغرف العليا البارزة. وتستخدم قاعات الاستقبال الإيوانات المرتفعة والمساحات الوسطى والأسقف المزخرفة والفتحات المدروسة لتنظيم الضيافة. وتسمح الشاشات الخشبية بالمراقبة من دون انكشاف كامل، بينما تساعد الأفنية على التهوية وتخفيف الحرارة. ولا ينبغي اختزال هذه العناصر في زخرفة جميلة؛ فهي تكشف معًا تقنية منزلية لإدارة المناخ والحدود الاجتماعية والصوت والرؤية. لذلك تقارن القراءة المتحفية الأفضل بين منطق العمارة الأصلي ومواضع المقتنيات اللاحقة. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-gayer-anderson-museum-story-3",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": "story-gayer-anderson-museum",
+      "claimType": "story-chapter",
+      "textEn": "In 1935, R. G. Gayer-Anderson received permission to reside in the houses and furnish them with his collection, under an arrangement that transferred the objects to Egypt. His occupation preserved and popularized the ensemble, but it also introduced a powerful twentieth-century layer. Rooms were named, staged, and filled with objects from different regions and periods, creating an atmosphere that reflects the collector’s taste as much as the earlier households. A responsible story does not dismiss that layer, nor does it confuse it with the original use of the houses. Instead, it asks how museums transform domestic buildings, how collections construct ideas of the past, and how conservation can protect architecture while making later interventions legible. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "textAr": "في عام 1935م حصل ر. ج. جاير أندرسون على إذن بالإقامة في البيتين وتأثيثهما بمجموعته، وفق ترتيب تؤول بموجبه المقتنيات إلى مصر. أسهمت إقامته في حفظ المجموعة المعمارية والتعريف بها، لكنها أضافت أيضًا طبقة قوية من القرن العشرين. فقد سميت الغرف ورُتبت وامتلأت بأشياء من مناطق وعصور مختلفة، فصنعت أجواء تعكس ذوق الجامع بقدر ما تعكس الأسر الأقدم. ولا ترفض القصة المسؤولة هذه الطبقة، كما لا تخلطها بالاستخدام الأصلي للبيتين. بل تسأل كيف تحول المتاحف المباني المنزلية، وكيف تبني المجموعات تصورات عن الماضي، وكيف يحمي الترميم العمارة مع إبقاء التدخلات اللاحقة قابلة للقراءة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-gayer-mota",
+        "src-gayer-archnet"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "gayer-anderson-museum-history",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Formed from two connected historic houses beside Ibn Tulun Mosque and associated with the British officer and collector Gayer-Anderson. The museum presents domestic architecture and a historicized collection.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "gayer-anderson-museum:unesco-historic-cairo",
+        "gayer-anderson-museum:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "gayer-anderson-museum-architecture",
+      "placeSlug": "gayer-anderson-museum",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "The houses contain courtyards, qa'as, mashrabiyyas, service areas, painted ceilings, and carefully controlled views between public, family, and service zones.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "gayer-anderson-museum:unesco-historic-cairo",
+        "gayer-anderson-museum:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

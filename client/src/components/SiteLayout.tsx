@@ -4,7 +4,7 @@ import { useLang } from "@/contexts/LanguageContext";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import {
   Menu, Map, BookOpen, Compass, BarChart2, Zap, BookMarked,
-  PenLine, Globe, Home, Layers
+  PenLine, Globe, Home, Layers, Blocks, Clock3
 } from "lucide-react";
 import {
   DropdownMenu,
@@ -13,7 +13,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { useAuth } from "@/_core/hooks/useAuth";
-import { startLogin } from "@/const";
+import { BRAND_LOGO_URL, startLogin } from "@/const";
 
 interface NavItem {
   href: string;
@@ -38,6 +38,8 @@ const navGroups: NavGroup[] = [
       { href: "/map", labelKey: "nav.map", labelEn: "Map", labelAr: "الخريطة", icon: <Map size={16} /> },
       { href: "/walks", labelKey: "nav.walks", labelEn: "Walks", labelAr: "الجولات", icon: <Compass size={16} /> },
       { href: "/periods", labelKey: "nav.periods", labelEn: "Periods", labelAr: "الحقب", icon: <Layers size={16} /> },
+      { href: "/architecture", labelKey: "nav.architecture", labelEn: "Architecture", labelAr: "العمارة", icon: <Blocks size={16} /> },
+      { href: "/timeline", labelKey: "nav.timeline", labelEn: "Timeline", labelAr: "الخط الزمني", icon: <Clock3 size={16} /> },
     ],
   },
   {
@@ -82,10 +84,18 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
         <div className="container">
           <div className="flex items-center justify-between h-16 gap-4">
             {/* Logo */}
-            <Link href="/" className="flex items-center gap-2 shrink-0">
-              <div className="w-8 h-8 rounded bg-[var(--color-terracotta-600)] flex items-center justify-center">
-                <span className="text-white font-bold text-sm font-[var(--font-arabic)]">م</span>
-              </div>
+            <Link
+              href="/"
+              aria-label={t("Minarets of Cairo home", "الرئيسية — مآذن القاهرة")}
+              className="flex items-center gap-2 shrink-0"
+            >
+              <img
+                src={`${BRAND_LOGO_URL}?tr=w-96,h-96,q-85,f-auto`}
+                alt=""
+                width={40}
+                height={40}
+                className="h-10 w-10 rounded-sm object-cover"
+              />
               <div className="hidden sm:block">
                 <div className={`font-[var(--font-serif)] font-semibold text-sm leading-tight ${isHome ? "text-[var(--color-parchment-100)]" : "text-[var(--color-stone-900)]"}`}>
                   {lang === "ar" ? "مآذن القاهرة" : "Minarets of Cairo"}
@@ -265,9 +275,15 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
               <div>
                 <div className="flex items-center gap-2 mb-3">
-                  <div className="w-7 h-7 rounded bg-[var(--color-terracotta-600)] flex items-center justify-center">
-                    <span className="text-white font-bold text-xs font-[var(--font-arabic)]">م</span>
-                  </div>
+                  <img
+                    src={`${BRAND_LOGO_URL}?tr=w-128,h-128,q-85,f-auto`}
+                    alt=""
+                    width={56}
+                    height={56}
+                    loading="lazy"
+                    decoding="async"
+                    className="h-14 w-14 rounded-sm object-cover"
+                  />
                   <span className="font-[var(--font-serif)] text-[var(--color-parchment-200)] font-semibold">
                     {lang === "ar" ? "مآذن القاهرة" : "Minarets of Cairo"}
                   </span>

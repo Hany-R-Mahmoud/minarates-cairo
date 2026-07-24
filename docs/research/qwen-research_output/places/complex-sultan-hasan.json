@@ -1,0 +1,167 @@
+{
+  "slug": "complex-sultan-hasan",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Mosque and Madrasa of Sultan Hasan",
+  "nameAr": "جامع ومدرسة السلطان حسن",
+  "transliteration": "Mosque and Madrasa of Sultan Hasan",
+  "alternativeNames": [],
+  "relatedSlugs": [
+    "sultan-hasan-mosque"
+  ],
+  "placeType": "mosque and madrasa complex",
+  "district": "Midan Salah al-Din",
+  "location": {
+    "descriptionEn": "Midan Salah al-Din",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Bahri Mamluk",
+    "1356–1363 CE / 757–764 AH"
+  ],
+  "historicalSummary": {
+    "en": "Commissioned by Sultan al-Nasir Hasan and built during a period of political turbulence and plague. The foundation was intended to teach the four Sunni legal schools and to serve as a royal funerary monument.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architectureSummary": {
+    "en": "A monumental four-iwan madrasa organized around a deep courtyard, with tall stone walls, a domed mausoleum chamber, monumental entrance, and exceptionally large spatial scale.",
+    "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+  },
+  "architecturalElements": [
+    "four iwans",
+    "central courtyard",
+    "domed mausoleum",
+    "muqarnas portal",
+    "madrasa cells"
+  ],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "complex-sultan-hasan:unesco-historic-cairo",
+        "complex-sultan-hasan:mota-historic-cairo",
+        "complex-sultan-hasan:archnet-sultan-hasan"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "complex-sultan-hasan-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque and Madrasa of Sultan Hasan.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع ومدرسة السلطان حسن.",
+      "confidence": "high",
+      "sourceIds": [
+        "complex-sultan-hasan:unesco-historic-cairo",
+        "complex-sultan-hasan:mota-historic-cairo",
+        "complex-sultan-hasan:archnet-sultan-hasan"
+      ]
+    },
+    {
+      "claimId": "complex-sultan-hasan-history",
+      "claimType": "history",
+      "textEn": "Commissioned by Sultan al-Nasir Hasan and built during a period of political turbulence and plague. The foundation was intended to teach the four Sunni legal schools and to serve as a royal funerary monument.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "complex-sultan-hasan:unesco-historic-cairo",
+        "complex-sultan-hasan:mota-historic-cairo",
+        "complex-sultan-hasan:archnet-sultan-hasan"
+      ]
+    },
+    {
+      "claimId": "complex-sultan-hasan-architecture",
+      "claimType": "architecture",
+      "textEn": "A monumental four-iwan madrasa organized around a deep courtyard, with tall stone walls, a domed mausoleum chamber, monumental entrance, and exceptionally large spatial scale.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "complex-sultan-hasan:unesco-historic-cairo",
+        "complex-sultan-hasan:mota-historic-cairo",
+        "complex-sultan-hasan:archnet-sultan-hasan"
+      ]
+    },
+    {
+      "claimId": "complex-sultan-hasan-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "complex-sultan-hasan:unesco-historic-cairo",
+        "complex-sultan-hasan:mota-historic-cairo",
+        "complex-sultan-hasan:archnet-sultan-hasan"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "complex-sultan-hasan:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "complex-sultan-hasan-identity",
+        "complex-sultan-hasan-history",
+        "complex-sultan-hasan-architecture",
+        "complex-sultan-hasan-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "complex-sultan-hasan:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "complex-sultan-hasan-identity",
+        "complex-sultan-hasan-history",
+        "complex-sultan-hasan-architecture",
+        "complex-sultan-hasan-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "complex-sultan-hasan:archnet-sultan-hasan",
+      "title": "Mosque-Madrasa of Sultan Hasan",
+      "url": "https://www.archnet.org/sites/2212",
+      "sourceType": "architectural documentation",
+      "publisher": "Archnet / Aga Khan Documentation Center",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "complex-sultan-hasan-identity",
+        "complex-sultan-hasan-history",
+        "complex-sultan-hasan-architecture",
+        "complex-sultan-hasan-status"
+      ],
+      "notes": "Monument record and scholarly bibliography."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

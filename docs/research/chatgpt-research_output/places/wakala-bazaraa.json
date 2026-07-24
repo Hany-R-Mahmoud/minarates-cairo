@@ -1,0 +1,117 @@
+{
+  "slug": "wakala-bazaraa",
+  "status": "CANDIDATE",
+  "nameEn": "Wakala Bazaraa",
+  "nameAr": "وكالة بازرعة",
+  "transliteration": "Wakala Bazaraa",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "historic place / research record",
+  "district": "Unknown — requires official or field verification.",
+  "location": {
+    "descriptionEn": "Unknown — requires official or field verification.",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "historicalPeriods": [
+    "Historic Cairo context — period-specific verification required"
+  ],
+  "historicalSummary": {
+    "en": "Unknown — requires official or field verification.",
+    "ar": "Unknown — requires official or field verification."
+  },
+  "architectureSummary": {
+    "en": "Unknown — requires official or field verification.",
+    "ar": "Unknown — requires official or field verification."
+  },
+  "architecturalElements": [],
+  "stories": [
+    {
+      "titleEn": "Heritage significance",
+      "titleAr": "الأهمية التراثية",
+      "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+      "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+      "classification": "interpretation",
+      "sourceIds": [
+        "wakala-bazaraa:unesco-historic-cairo"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "claims": [
+    {
+      "claimId": "wakala-bazaraa-identity",
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Wakala Bazaraa.",
+      "textAr": "يسجل الجرد هذا الموقع باسم وكالة بازرعة.",
+      "confidence": "high",
+      "sourceIds": [
+        "wakala-bazaraa:unesco-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "wakala-bazaraa-history",
+      "claimType": "history",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "wakala-bazaraa:unesco-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "wakala-bazaraa-architecture",
+      "claimType": "architecture",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "wakala-bazaraa:unesco-historic-cairo"
+      ]
+    },
+    {
+      "claimId": "wakala-bazaraa-status",
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "wakala-bazaraa:unesco-historic-cairo"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "wakala-bazaraa:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "wakala-bazaraa-identity",
+        "wakala-bazaraa-history",
+        "wakala-bazaraa-architecture",
+        "wakala-bazaraa-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    }
+  ],
+  "photos": [],
+  "unresolved": [
+    "Research-only record. It must not be presented as approved public content.",
+    "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ]
+}

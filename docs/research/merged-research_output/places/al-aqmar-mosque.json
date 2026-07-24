@@ -1,0 +1,994 @@
+{
+  "schemaVersion": 1,
+  "slug": "al-aqmar-mosque",
+  "status": "PUBLISHED_MEDIA",
+  "slugAliases": [],
+  "alternativeNames": [
+    "Mosque of the Moonlit",
+    "Al-Aqmar"
+  ],
+  "architecturalElements": [
+    "carved stone facade",
+    "qibla wall",
+    "hypostyle prayer space",
+    "inscription bands",
+    "Muqarnas Hoods",
+    "Stone Facade Alignment",
+    "Keel Arches",
+    "Kufic Inscriptions"
+  ],
+  "architectureSummary": {
+    "en": "Features an elaborately carved stone facade with stalactite hood (muqarnas) niches, a central medallion, and early Arabic epigraphy. The interior contains a small hypostyle courtyard surrounded by pointed arches.",
+    "ar": "يتميز بواجهة حجرية منحوتة ببراعة تحوي مقرنصات وميدالية مركزية وكتابات خطية كوفية. يتكون الداخل من صحن صغير مكشوف تحيط به أروقة ذات عقود مدببة."
+  },
+  "district": "Fatimid Cairo / al-Muizz",
+  "historicalPeriods": [
+    "Fatimid",
+    "1125 CE / 519 AH"
+  ],
+  "historicalSummary": {
+    "en": "Built in 1125 AD (519 AH) under Fatimid Vizier Al-Ma'mun al-Bata'ihi during the reign of Caliph Al-Amir bi-Ahkam Allah. Notable for being one of the earliest mosques in Cairo to feature a street-adjusted facade offset from its interior qibla orientation.",
+    "ar": "بُني عام 1125 م (519 هـ) في عهد الوزير الفاطمي المأمون البطائحي والخليفة الآمر بأحكام الله. يتميز بكونه من أوائل المساجد في القاهرة التي ضبطت واجهتها مع خط الشارع بخلاف اتجاه القبلة الداخلي."
+  },
+  "location": {
+    "descriptionEn": "Fatimid Cairo / al-Muizz",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "الجامع الأقمر",
+  "nameEn": "Al-Aqmar Mosque",
+  "placeType": "mosque",
+  "relatedSlugs": [
+    "mosque-al-aqmar"
+  ],
+  "stories": [
+    {
+      "titleEn": "Street Orientation Innovation",
+      "titleAr": "ابتكار التوافق مع الشارع",
+      "summaryEn": "Architects aligned the facade with the existing Fatimid avenue grid while rotating the interior layout toward Mecca.",
+      "summaryAr": "قام المهندسون بمحاذاة الواجهة مع مسار الشارع الفاطمي مع تدوير التخطيط الداخلي ليواجه القبلة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-ARCHNET-AQMAR",
+        "SRC-MTA-AQMAR"
+      ]
+    }
+  ],
+  "transliteration": "Al-Aqmar Mosque",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-al-aqmar-mosque",
+      "placeId": null,
+      "placeSlug": "al-aqmar-mosque",
+      "placeNameEn": "Al-Aqmar Mosque",
+      "placeNameAr": "جامع الأقمر",
+      "role": "cover",
+      "imageKitPath": "/places/al-aqmar-mosque/cover.jpg",
+      "localFile": "images/al-aqmar-mosque/al-aqmar-mosque-cover-facade.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Al_aqmar_facade.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Al_aqmar_facade.jpg",
+      "sourceTitle": "Al_aqmar_facade.jpg",
+      "cdnUrl": null,
+      "creator": "TheLongTone",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Al_aqmar_facade.jpg — TheLongTone, CC BY-SA 3.0, via Wikimedia Commons",
+      "altEn": "The carved stone facade of Al-Aqmar Mosque fills the frame.",
+      "altAr": "تملأ الواجهة الحجرية المنحوتة لجامع الأقمر إطار الصورة.",
+      "captionEn": "Carved stone facade of Al-Aqmar Mosque.",
+      "captionAr": "الواجهة الحجرية المنحوتة لجامع الأقمر.",
+      "mediaType": "photo",
+      "visualType": "exterior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 3072,
+      "height": 2304,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 2087732,
+      "checksum": "6c34480412bfb6346330514a041084062e2e9a53e1f0e466e55ce4e0051880a7",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "media_v2",
+      "provenanceGroup": "media_v2",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Al_aqmar_facade.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Al_aqmar_facade.jpg",
+        "creator": "TheLongTone",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Al_aqmar_facade.jpg — TheLongTone, CC BY-SA 3.0, via Wikimedia Commons",
+        "verifiedBy": "media_v2",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-al-aqmar-mosque:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": [
+        "Mosque of the Moonlit",
+        "Al-Aqmar"
+      ],
+      "variants": [
+        {
+          "provenance": "gemini",
+          "value": [
+            "Mosque of the Moonlit",
+            "Al-Aqmar"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "carved stone facade",
+        "qibla wall",
+        "hypostyle prayer space",
+        "inscription bands"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "carved stone facade",
+            "qibla wall",
+            "hypostyle prayer space",
+            "inscription bands"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Muqarnas Hoods",
+            "Stone Facade Alignment",
+            "Keel Arches",
+            "Kufic Inscriptions"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Features an elaborately carved stone facade with stalactite hood (muqarnas) niches, a central medallion, and early Arabic epigraphy. The interior contains a small hypostyle courtyard surrounded by pointed arches.",
+        "ar": "يتميز بواجهة حجرية منحوتة ببراعة تحوي مقرنصات وميدالية مركزية وكتابات خطية كوفية. يتكون الداخل من صحن صغير مكشوف تحيط به أروقة ذات عقود مدببة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A compact congregational mosque with a richly carved stone facade, a hypostyle prayer space, and a qibla-oriented interior adapted to a non-orthogonal urban site. Its facade is a major surviving Fatimid contribution to Cairo's street architecture.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Features an elaborately carved stone facade with stalactite hood (muqarnas) niches, a central medallion, and early Arabic epigraphy. The interior contains a small hypostyle courtyard surrounded by pointed arches.",
+            "ar": "يتميز بواجهة حجرية منحوتة ببراعة تحوي مقرنصات وميدالية مركزية وكتابات خطية كوفية. يتكون الداخل من صحن صغير مكشوف تحيط به أروقة ذات عقود مدببة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Fatimid Cairo / al-Muizz",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Fatimid Cairo / al-Muizz"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Al-Gamaleya / Al-Mu'izz Street"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Fatimid",
+        "1125 CE / 519 AH"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Fatimid",
+            "1125 CE / 519 AH"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Fatimid"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "Built in 1125 AD (519 AH) under Fatimid Vizier Al-Ma'mun al-Bata'ihi during the reign of Caliph Al-Amir bi-Ahkam Allah. Notable for being one of the earliest mosques in Cairo to feature a street-adjusted facade offset from its interior qibla orientation.",
+        "ar": "بُني عام 1125 م (519 هـ) في عهد الوزير الفاطمي المأمون البطائحي والخليفة الآمر بأحكام الله. يتميز بكونه من أوائل المساجد في القاهرة التي ضبطت واجهتها مع خط الشارع بخلاف اتجاه القبلة الداخلي."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Built in 1125 under the Fatimid caliph al-Amir bi-Ahkam Allah through the vizier al-Ma'mun al-Bata'ihi. Its street-facing stone facade responds to the alignment of the existing urban route.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Built in 1125 AD (519 AH) under Fatimid Vizier Al-Ma'mun al-Bata'ihi during the reign of Caliph Al-Amir bi-Ahkam Allah. Notable for being one of the earliest mosques in Cairo to feature a street-adjusted facade offset from its interior qibla orientation.",
+            "ar": "بُني عام 1125 م (519 هـ) في عهد الوزير الفاطمي المأمون البطائحي والخليفة الآمر بأحكام الله. يتميز بكونه من أوائل المساجد في القاهرة التي ضبطت واجهتها مع خط الشارع بخلاف اتجاه القبلة الداخلي."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Fatimid Cairo / al-Muizz",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Fatimid Cairo / al-Muizz",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located on the northern section of Al-Mu'izz li-Din Allah Street in Historic Cairo.",
+            "descriptionAr": "يقع في الجزء الشمالي من شارع المعز لدين الله الفاطمي في القاهرة التاريخية.",
+            "latitude": 30.0507,
+            "longitude": 31.2612,
+            "confidence": "high"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "الجامع الأقمر",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "الجامع الأقمر"
+        },
+        {
+          "provenance": "gemini",
+          "value": "جامع الأقمر"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Al-Aqmar Mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Aqmar Mosque"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mosque"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Mosque"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": [
+        "mosque-al-aqmar"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "mosque-al-aqmar"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Street Orientation Innovation",
+          "titleAr": "ابتكار التوافق مع الشارع",
+          "summaryEn": "Architects aligned the facade with the existing Fatimid avenue grid while rotating the interior layout toward Mecca.",
+          "summaryAr": "قام المهندسون بمحاذاة الواجهة مع مسار الشارع الفاطمي مع تدوير التخطيط الداخلي ليواجه القبلة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-ARCHNET-AQMAR",
+            "SRC-MTA-AQMAR"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "al-aqmar-mosque:unesco-historic-cairo",
+                "al-aqmar-mosque:mota-historic-cairo",
+                "al-aqmar-mosque:archnet-aqmar"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Street Orientation Innovation",
+              "titleAr": "ابتكار التوافق مع الشارع",
+              "summaryEn": "Architects aligned the facade with the existing Fatimid avenue grid while rotating the interior layout toward Mecca.",
+              "summaryAr": "قام المهندسون بمحاذاة الواجهة مع مسار الشارع الفاطمي مع تدوير التخطيط الداخلي ليواجه القبلة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-ARCHNET-AQMAR",
+                "SRC-MTA-AQMAR"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Al-Aqmar Mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Al-Aqmar Mosque"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Jāmiʿ al-Aqmar"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "09:00 - 17:00",
+            "ticketPrice": "Included in Al-Mu'izz street visitor pass / standard historic site entry",
+            "photographyRules": "Allowed without flash; tripod permissions required",
+            "dressRequirements": "Modest dress required; head covering for women upon entry to prayer hall",
+            "accessibility": "Level entrance with minor threshold step",
+            "currentStatus": "Open to visitors",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "al-aqmar-mosque",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Aqmar Mosque",
+      "nameAr": "الجامع الأقمر",
+      "transliteration": "Al-Aqmar Mosque",
+      "alternativeNames": [],
+      "relatedSlugs": [
+        "mosque-al-aqmar"
+      ],
+      "placeType": "mosque",
+      "district": "Fatimid Cairo / al-Muizz",
+      "location": {
+        "descriptionEn": "Fatimid Cairo / al-Muizz",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Fatimid",
+        "1125 CE / 519 AH"
+      ],
+      "historicalSummary": {
+        "en": "Built in 1125 under the Fatimid caliph al-Amir bi-Ahkam Allah through the vizier al-Ma'mun al-Bata'ihi. Its street-facing stone facade responds to the alignment of the existing urban route.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A compact congregational mosque with a richly carved stone facade, a hypostyle prayer space, and a qibla-oriented interior adapted to a non-orthogonal urban site. Its facade is a major surviving Fatimid contribution to Cairo's street architecture.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "carved stone facade",
+        "qibla wall",
+        "hypostyle prayer space",
+        "inscription bands"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "al-aqmar-mosque:unesco-historic-cairo",
+            "al-aqmar-mosque:mota-historic-cairo",
+            "al-aqmar-mosque:archnet-aqmar"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "al-aqmar-mosque-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Al-Aqmar Mosque.",
+          "textAr": "يسجل الجرد هذا الموقع باسم الجامع الأقمر.",
+          "confidence": "high",
+          "sourceIds": [
+            "al-aqmar-mosque:unesco-historic-cairo",
+            "al-aqmar-mosque:mota-historic-cairo",
+            "al-aqmar-mosque:archnet-aqmar"
+          ]
+        },
+        {
+          "claimId": "al-aqmar-mosque-history",
+          "claimType": "history",
+          "textEn": "Built in 1125 under the Fatimid caliph al-Amir bi-Ahkam Allah through the vizier al-Ma'mun al-Bata'ihi. Its street-facing stone facade responds to the alignment of the existing urban route.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "al-aqmar-mosque:unesco-historic-cairo",
+            "al-aqmar-mosque:mota-historic-cairo",
+            "al-aqmar-mosque:archnet-aqmar"
+          ]
+        },
+        {
+          "claimId": "al-aqmar-mosque-architecture",
+          "claimType": "architecture",
+          "textEn": "A compact congregational mosque with a richly carved stone facade, a hypostyle prayer space, and a qibla-oriented interior adapted to a non-orthogonal urban site. Its facade is a major surviving Fatimid contribution to Cairo's street architecture.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "al-aqmar-mosque:unesco-historic-cairo",
+            "al-aqmar-mosque:mota-historic-cairo",
+            "al-aqmar-mosque:archnet-aqmar"
+          ]
+        },
+        {
+          "claimId": "al-aqmar-mosque-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "al-aqmar-mosque:unesco-historic-cairo",
+            "al-aqmar-mosque:mota-historic-cairo",
+            "al-aqmar-mosque:archnet-aqmar"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "al-aqmar-mosque:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-aqmar-mosque-identity",
+            "al-aqmar-mosque-history",
+            "al-aqmar-mosque-architecture",
+            "al-aqmar-mosque-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "al-aqmar-mosque:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-aqmar-mosque-identity",
+            "al-aqmar-mosque-history",
+            "al-aqmar-mosque-architecture",
+            "al-aqmar-mosque-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        },
+        {
+          "sourceId": "al-aqmar-mosque:archnet-aqmar",
+          "title": "Jami' al-Aqmar",
+          "url": "https://www.archnet.org/sites/2310",
+          "sourceType": "architectural documentation",
+          "publisher": "Archnet / Aga Khan Documentation Center",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "al-aqmar-mosque-identity",
+            "al-aqmar-mosque-history",
+            "al-aqmar-mosque-architecture",
+            "al-aqmar-mosque-status"
+          ],
+          "notes": "Monument record with historical and architectural documentation."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "al-aqmar-mosque",
+      "status": "PUBLISHED_MEDIA",
+      "nameEn": "Al-Aqmar Mosque",
+      "nameAr": "جامع الأقمر",
+      "transliteration": "Jāmiʿ al-Aqmar",
+      "alternativeNames": [
+        "Mosque of the Moonlit",
+        "Al-Aqmar"
+      ],
+      "relatedSlugs": [
+        "mosque-al-aqmar"
+      ],
+      "placeType": "Mosque",
+      "district": "Al-Gamaleya / Al-Mu'izz Street",
+      "location": {
+        "descriptionEn": "Located on the northern section of Al-Mu'izz li-Din Allah Street in Historic Cairo.",
+        "descriptionAr": "يقع في الجزء الشمالي من شارع المعز لدين الله الفاطمي في القاهرة التاريخية.",
+        "latitude": 30.0507,
+        "longitude": 31.2612,
+        "confidence": "high"
+      },
+      "historicalPeriods": [
+        "Fatimid"
+      ],
+      "historicalSummary": {
+        "en": "Built in 1125 AD (519 AH) under Fatimid Vizier Al-Ma'mun al-Bata'ihi during the reign of Caliph Al-Amir bi-Ahkam Allah. Notable for being one of the earliest mosques in Cairo to feature a street-adjusted facade offset from its interior qibla orientation.",
+        "ar": "بُني عام 1125 م (519 هـ) في عهد الوزير الفاطمي المأمون البطائحي والخليفة الآمر بأحكام الله. يتميز بكونه من أوائل المساجد في القاهرة التي ضبطت واجهتها مع خط الشارع بخلاف اتجاه القبلة الداخلي."
+      },
+      "architectureSummary": {
+        "en": "Features an elaborately carved stone facade with stalactite hood (muqarnas) niches, a central medallion, and early Arabic epigraphy. The interior contains a small hypostyle courtyard surrounded by pointed arches.",
+        "ar": "يتميز بواجهة حجرية منحوتة ببراعة تحوي مقرنصات وميدالية مركزية وكتابات خطية كوفية. يتكون الداخل من صحن صغير مكشوف تحيط به أروقة ذات عقود مدببة."
+      },
+      "architecturalElements": [
+        "Muqarnas Hoods",
+        "Stone Facade Alignment",
+        "Keel Arches",
+        "Kufic Inscriptions"
+      ],
+      "stories": [
+        {
+          "titleEn": "Street Orientation Innovation",
+          "titleAr": "ابتكار التوافق مع الشارع",
+          "summaryEn": "Architects aligned the facade with the existing Fatimid avenue grid while rotating the interior layout toward Mecca.",
+          "summaryAr": "قام المهندسون بمحاذاة الواجهة مع مسار الشارع الفاطمي مع تدوير التخطيط الداخلي ليواجه القبلة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-ARCHNET-AQMAR",
+            "SRC-MTA-AQMAR"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "09:00 - 17:00",
+        "ticketPrice": "Included in Al-Mu'izz street visitor pass / standard historic site entry",
+        "photographyRules": "Allowed without flash; tripod permissions required",
+        "dressRequirements": "Modest dress required; head covering for women upon entry to prayer hall",
+        "accessibility": "Level entrance with minor threshold step",
+        "currentStatus": "Open to visitors",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-AQMAR-01",
+          "claimType": "history",
+          "textEn": "The mosque was commissioned in 1125 AD by Vizier al-Ma'mun al-Bata'ihi.",
+          "textAr": "تأسس المسجد عام 1125 م على يد الوزير المأمون البطائحي.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-ARCHNET-AQMAR",
+            "SRC-MTA-AQMAR"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-ARCHNET-AQMAR",
+          "title": "Archnet: Al-Aqmar Mosque",
+          "url": "https://archnet.org/sites/2217",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center at MIT",
+          "publicationDate": "2011-01-01",
+          "accessedDate": "2026-01-15",
+          "supports": [
+            "CLM-AQMAR-01"
+          ],
+          "notes": "Comprehensive architectural documentation."
+        },
+        {
+          "sourceId": "SRC-MTA-AQMAR",
+          "title": "Egyptian Ministry of Tourism and Antiquities - Al-Aqmar",
+          "url": "https://egymonuments.gov.eg/en/monuments/al-aqmar-mosque",
+          "sourceType": "official_portal",
+          "publisher": "Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-05-10",
+          "accessedDate": "2026-02-10",
+          "supports": [
+            "CLM-AQMAR-01"
+          ],
+          "notes": "Official state heritage listing."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Al-Aqmar_Mosque_Cairo.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Al-Aqmar_Mosque_Cairo.jpg",
+          "title": "Al-Aqmar Mosque Main Facade",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute original author and share under same license",
+          "width": 1920,
+          "height": 1080,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-01-20",
+          "notes": "Verified public license."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Al-Aqmar Mosque\n\nArabic name: **الجامع الأقمر**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `al-aqmar-mosque`\n\n## Historical summary\n\nBuilt in 1125 under the Fatimid caliph al-Amir bi-Ahkam Allah through the vizier al-Ma'mun al-Bata'ihi. Its street-facing stone facade responds to the alignment of the existing urban route.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA compact congregational mosque with a richly carved stone facade, a hypostyle prayer space, and a qibla-oriented interior adapted to a non-orthogonal urban site. Its facade is a major surviving Fatimid contribution to Cairo's street architecture.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- carved stone facade\n- qibla wall\n- hypostyle prayer space\n- inscription bands\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **al-aqmar-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **al-aqmar-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n- **al-aqmar-mosque:archnet-aqmar** — [Jami' al-Aqmar](https://www.archnet.org/sites/2310) (Archnet / Aga Khan Documentation Center)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Al-Aqmar Mosque\n\nArabic name: **الجامع الأقمر**  \nStatus: **PUBLISHED_MEDIA**  \nSlug: `al-aqmar-mosque`\n\n## Historical summary\n\nBuilt in 1125 under the Fatimid caliph al-Amir bi-Ahkam Allah through the vizier al-Ma'mun al-Bata'ihi. Its street-facing stone facade responds to the alignment of the existing urban route.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA compact congregational mosque with a richly carved stone facade, a hypostyle prayer space, and a qibla-oriented interior adapted to a non-orthogonal urban site. Its facade is a major surviving Fatimid contribution to Cairo's street architecture.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- carved stone facade\n- qibla wall\n- hypostyle prayer space\n- inscription bands\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **al-aqmar-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **al-aqmar-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n- **al-aqmar-mosque:archnet-aqmar** — [Jami' al-Aqmar](https://www.archnet.org/sites/2310) (Archnet / Aga Khan Documentation Center)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Al-Aqmar Mosque (جامع الأقمر)\n**Status:** PUBLISHED_MEDIA  \n**District:** Al-Gamaleya / Al-Mu'izz Street  \n**Type:** Mosque  \n\n## Historical Summary\nBuilt in 1125 AD (519 AH) under Fatimid Vizier Al-Ma'mun al-Bata'ihi during the reign of Caliph Al-Amir bi-Ahkam Allah. Notable for being one of the earliest mosques in Cairo to feature a street-adjusted facade offset from its interior qibla orientation.\n\n*بُني عام 1125 م (519 هـ) في عهد الوزير الفاطمي المأمون البطائحي والخليفة الآمر بأحكام الله. يتميز بكونه من أوائل المساجد في القاهرة التي ضبطت واجهتها مع خط الشارع بخلاف اتجاه القبلة الداخلي.*\n\n## Architectural Details\nFeatures an elaborately carved stone facade with stalactite hood (muqarnas) niches, a central medallion, and early Arabic epigraphy. The interior contains a small hypostyle courtyard surrounded by pointed arches.\n\n### Key Elements\n- Muqarnas Hoods\n- Stone Facade Alignment\n- Keel Arches\n- Kufic Inscriptions\n\n## Stories & Heritage Significance\n### Street Orientation Innovation (ابتكار التوافق مع الشارع)\n**Classification:** fact\nArchitects aligned the facade with the existing Fatimid avenue grid while rotating the interior layout toward Mecca.\n\n## Visitor Information\n- **Opening Hours:** 09:00 - 17:00\n- **Ticket Price:** Included in Al-Mu'izz street visitor pass / standard historic site entry\n- **Photography Rules:** Allowed without flash; tripod permissions required\n- **Dress Code:** Modest dress required; head covering for women upon entry to prayer hall\n- **Accessibility:** Level entrance with minor threshold step\n\n## Photo Candidates\n- **[COVER]** Al-Aqmar Mosque Main Facade (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/4/41/Al-Aqmar_Mosque_Cairo.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-ARCHNET-AQMAR]** [Archnet: Al-Aqmar Mosque](https://archnet.org/sites/2217) - *Aga Khan Documentation Center at MIT*\n- **[SRC-MTA-AQMAR]** [Egyptian Ministry of Tourism and Antiquities - Al-Aqmar](https://egymonuments.gov.eg/en/monuments/al-aqmar-mosque) - *Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-al-aqmar-mosque",
+        "placeId": null,
+        "placeSlug": "al-aqmar-mosque",
+        "placeNameEn": "Al-Aqmar Mosque",
+        "placeNameAr": "جامع الأقمر",
+        "role": "cover",
+        "imageKitPath": "/places/al-aqmar-mosque/cover.jpg",
+        "localFile": "images/al-aqmar-mosque/al-aqmar-mosque-cover-facade.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Al_aqmar_facade.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Al_aqmar_facade.jpg",
+        "sourceTitle": "Al_aqmar_facade.jpg",
+        "cdnUrl": null,
+        "creator": "TheLongTone",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Al_aqmar_facade.jpg — TheLongTone, CC BY-SA 3.0, via Wikimedia Commons",
+        "altEn": "The carved stone facade of Al-Aqmar Mosque fills the frame.",
+        "altAr": "تملأ الواجهة الحجرية المنحوتة لجامع الأقمر إطار الصورة.",
+        "captionEn": "Carved stone facade of Al-Aqmar Mosque.",
+        "captionAr": "الواجهة الحجرية المنحوتة لجامع الأقمر.",
+        "mediaType": "photo",
+        "visualType": "exterior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 3072,
+        "height": 2304,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 2087732,
+        "checksum": "6c34480412bfb6346330514a041084062e2e9a53e1f0e466e55ce4e0051880a7",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "media_v2",
+        "provenanceGroup": "media_v2",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Al_aqmar_facade.jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Al_aqmar_facade.jpg",
+          "creator": "TheLongTone",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "attribution": "Al_aqmar_facade.jpg — TheLongTone, CC BY-SA 3.0, via Wikimedia Commons",
+          "verifiedBy": "media_v2",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-al-aqmar-mosque:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": "# Research note — Al-Aqmar Mosque\n\n- **Place slug:** `al-aqmar-mosque`\n- **Asset ID:** `cover-al-aqmar-mosque`\n- **Role:** cover\n- **Local file:** `images/al-aqmar-mosque/al-aqmar-mosque-cover-facade.jpg`\n- **Canonical ImageKit path:** `/places/al-aqmar-mosque/cover.jpg`\n- **Verification date carried forward:** 2026-07-19\n\n## Why this revised cover was kept or selected\n\nThis revised patch keeps or refines a minaret-led or architecturally clearer image choice from the verified pool.\n\nThis file uses the verified source image selected specifically for this published record.\n\n## Source and rights\n\n- **Source page:** https://commons.wikimedia.org/wiki/File:Al_aqmar_facade.jpg\n- **Direct original image URL:** https://upload.wikimedia.org/wikipedia/commons/8/85/Al_aqmar_facade.jpg\n- **Source title:** Al_aqmar_facade.jpg\n- **Creator:** TheLongTone\n- **License:** CC BY-SA 3.0\n- **License URL:** https://creativecommons.org/licenses/by-sa/3.0/\n- **Required attribution:** Al_aqmar_facade.jpg — TheLongTone, CC BY-SA 3.0, via Wikimedia Commons\n\n## Display copy\n\n- **Alt text (EN):** The carved stone facade of Al-Aqmar Mosque fills the frame.\n- **Alt text (AR):** تملأ الواجهة الحجرية المنحوتة لجامع الأقمر إطار الصورة.\n- **Caption (EN):** Carved stone facade of Al-Aqmar Mosque.\n- **Caption (AR):** الواجهة الحجرية المنحوتة لجامع الأقمر.\n\n## Packaging note\n\nThe local filename was renamed to describe its role and subject more clearly.\n\n## Modifications\n\nNone\n"
+  },
+  "sources": [
+    "al-aqmar-mosque:unesco-historic-cairo",
+    "al-aqmar-mosque:mota-historic-cairo",
+    "al-aqmar-mosque:archnet-aqmar",
+    "SRC-ARCHNET-AQMAR",
+    "SRC-MTA-AQMAR"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "al-aqmar-mosque:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-aqmar-mosque-identity",
+        "al-aqmar-mosque-history",
+        "al-aqmar-mosque-architecture",
+        "al-aqmar-mosque-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "al-aqmar-mosque:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-aqmar-mosque-identity",
+        "al-aqmar-mosque-history",
+        "al-aqmar-mosque-architecture",
+        "al-aqmar-mosque-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "al-aqmar-mosque:archnet-aqmar",
+      "title": "Jami' al-Aqmar",
+      "url": "https://www.archnet.org/sites/2310",
+      "sourceType": "architectural documentation",
+      "publisher": "Archnet / Aga Khan Documentation Center",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "al-aqmar-mosque-identity",
+        "al-aqmar-mosque-history",
+        "al-aqmar-mosque-architecture",
+        "al-aqmar-mosque-status"
+      ],
+      "notes": "Monument record with historical and architectural documentation."
+    },
+    {
+      "sourceId": "SRC-ARCHNET-AQMAR",
+      "title": "Archnet: Al-Aqmar Mosque",
+      "url": "https://archnet.org/sites/2217",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center at MIT",
+      "publicationDate": "2011-01-01",
+      "accessedDate": "2026-01-15",
+      "supports": [
+        "CLM-AQMAR-01"
+      ],
+      "notes": "Comprehensive architectural documentation."
+    },
+    {
+      "sourceId": "SRC-MTA-AQMAR",
+      "title": "Egyptian Ministry of Tourism and Antiquities - Al-Aqmar",
+      "url": "https://egymonuments.gov.eg/en/monuments/al-aqmar-mosque",
+      "sourceType": "official_portal",
+      "publisher": "Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-05-10",
+      "accessedDate": "2026-02-10",
+      "supports": [
+        "CLM-AQMAR-01"
+      ],
+      "notes": "Official state heritage listing."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "acceptedClaims": [
+    {
+      "claimId": "al-aqmar-mosque-identity",
+      "placeSlug": "al-aqmar-mosque",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Al-Aqmar Mosque.",
+      "textAr": "يسجل الجرد هذا الموقع باسم الجامع الأقمر.",
+      "confidence": "high",
+      "sourceIds": [
+        "al-aqmar-mosque:unesco-historic-cairo",
+        "al-aqmar-mosque:mota-historic-cairo",
+        "al-aqmar-mosque:archnet-aqmar"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "al-aqmar-mosque-status",
+      "placeSlug": "al-aqmar-mosque",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "al-aqmar-mosque:unesco-historic-cairo",
+        "al-aqmar-mosque:mota-historic-cairo",
+        "al-aqmar-mosque:archnet-aqmar"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-AQMAR-01",
+      "placeSlug": "al-aqmar-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The mosque was commissioned in 1125 AD by Vizier al-Ma'mun al-Bata'ihi.",
+      "textAr": "تأسس المسجد عام 1125 م على يد الوزير المأمون البطائحي.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-ARCHNET-AQMAR",
+        "SRC-MTA-AQMAR"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "al-aqmar-mosque-history",
+      "placeSlug": "al-aqmar-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Built in 1125 under the Fatimid caliph al-Amir bi-Ahkam Allah through the vizier al-Ma'mun al-Bata'ihi. Its street-facing stone facade responds to the alignment of the existing urban route.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-aqmar-mosque:unesco-historic-cairo",
+        "al-aqmar-mosque:mota-historic-cairo",
+        "al-aqmar-mosque:archnet-aqmar"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "al-aqmar-mosque-architecture",
+      "placeSlug": "al-aqmar-mosque",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A compact congregational mosque with a richly carved stone facade, a hypostyle prayer space, and a qibla-oriented interior adapted to a non-orthogonal urban site. Its facade is a major surviving Fatimid contribution to Cairo's street architecture.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "al-aqmar-mosque:unesco-historic-cairo",
+        "al-aqmar-mosque:mota-historic-cairo",
+        "al-aqmar-mosque:archnet-aqmar"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

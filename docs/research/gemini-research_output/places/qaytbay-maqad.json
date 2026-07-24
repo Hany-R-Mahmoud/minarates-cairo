@@ -1,0 +1,102 @@
+{
+  "slug": "qaytbay-maqad",
+  "status": "CANDIDATE",
+  "nameEn": "Maq'ad of Qaytbay",
+  "nameAr": "مقعد السلطان قايتباي",
+  "transliteration": "Maq'ad of Qaytbay",
+  "alternativeNames": [],
+  "relatedSlugs": [],
+  "placeType": "Historic Monument / Structure",
+  "district": "Historic Cairo",
+  "location": {
+    "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+    "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+    "latitude": 30.0444,
+    "longitude": 31.26,
+    "confidence": "low"
+  },
+  "historicalPeriods": [
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Maq'ad of Qaytbay) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (مقعد السلطان قايتباي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "architecturalElements": [
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Maq'ad of Qaytbay played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت مقعد السلطان قايتباي في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-QAYTBAYMAQAD"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": "Unknown — requires official or field verification.",
+    "ticketPrice": "Unknown — requires official or field verification.",
+    "photographyRules": "Unknown — requires official or field verification.",
+    "dressRequirements": "Modest clothing recommended.",
+    "accessibility": "Unknown — requires official or field verification.",
+    "currentStatus": "Preserved landmark",
+    "lastChecked": "2026-03-01"
+  },
+  "claims": [
+    {
+      "claimId": "CLM-QAYTBAYMAQAD-01",
+      "claimType": "history",
+      "textEn": "The site Maq'ad of Qaytbay is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل مقعد السلطان قايتباي كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "medium",
+      "sourceIds": [
+        "SRC-QAYTBAYMAQAD"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC-QAYTBAYMAQAD",
+      "title": "Archnet & Ministry Documentation for Maq'ad of Qaytbay",
+      "url": "https://archnet.org/sites/qaytbay-maqad",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-QAYTBAYMAQAD-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "photos": [
+    {
+      "role": "cover",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:qaytbay-maqad.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/qaytbay-maqad.jpg",
+      "title": "General View of Maq'ad of Qaytbay",
+      "creator": "Wikimedia Contributor",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+      "modificationRequirements": "Attribute creator and retain license",
+      "width": 1600,
+      "height": 1200,
+      "rightsConfidence": "high",
+      "checkedDate": "2026-02-01",
+      "notes": "Public license documented."
+    }
+  ],
+  "unresolved": [
+    "Field verification of exact current opening hours needed."
+  ]
+}

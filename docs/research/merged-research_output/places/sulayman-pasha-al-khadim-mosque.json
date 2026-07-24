@@ -1,0 +1,1240 @@
+{
+  "schemaVersion": 1,
+  "slug": "sulayman-pasha-al-khadim-mosque",
+  "status": "PROPOSED_V4",
+  "slugAliases": [],
+  "architecturalElements": [
+    "dome",
+    "Ottoman prayer hall",
+    "minaret",
+    "cemetery",
+    "courtyard",
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Cairo Citadel",
+  "historicalPeriods": [
+    "Ottoman",
+    "1528 CE / 935 AH",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mosque of Sulayman Pasha al-Khadim) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (جامع سارية الجبل / سليمان باشا الخادم) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Cairo Citadel",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "جامع سليمان باشا الخادم",
+  "nameEn": "Mosque of Sulayman Pasha al-Khadim",
+  "placeType": "mosque",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mosque of Sulayman Pasha al-Khadim played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت جامع سارية الجبل / سليمان باشا الخادم في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-SULAYMANPASHAALKHADIMMOSQUE"
+      ]
+    },
+    {
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "relatedPlaceSlug": "sulayman-pasha-al-khadim-mosque",
+      "titleEn": "Reading Mosque of Sulayman Pasha al-Khadim",
+      "titleAr": "قراءة جامع سليمان باشا الخادم",
+      "summaryEn": "A bilingual architectural and historical journey through Mosque of Sulayman Pasha al-Khadim.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في جامع سليمان باشا الخادم.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "sulayman-pasha-al-khadim-mosque-chapter-1",
+          "titleEn": "Ottoman Architecture Inside the Citadel",
+          "titleAr": "عمارة عثمانية داخل القلعة",
+          "bodyEn": "Mosque of Sulayman Pasha al-Khadim belongs to Early Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of Cairo Citadel. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي جامع سليمان باشا الخادم إلى بدايات العصر العثماني في القاهرة، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة قلعة القاهرة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "sulayman-pasha-al-khadim-mosque-chapter-2",
+          "titleEn": "Reading the Architecture of Mosque of Sulayman Pasha al-Khadim",
+          "titleAr": "قراءة عمارة جامع سليمان باشا الخادم",
+          "bodyEn": "The monument rewards a slow visual reading of central dome, half-domes, pencil minaret, arcade and comparison with al-Nasir Muhammad. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة المركزية وأنصاف القباب والمئذنة القلمية والرواق والمقارنة بجامع الناصر محمد. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "sulayman-pasha-al-khadim-mosque-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Early Ottoman Cairo"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mosque",
+        "Cairo Citadel",
+        "Ottoman"
+      ],
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "claimIds": [
+        "claim-sulayman-pasha-al-khadim-mosque-story-1",
+        "claim-sulayman-pasha-al-khadim-mosque-story-2",
+        "claim-sulayman-pasha-al-khadim-mosque-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    }
+  ],
+  "transliteration": "Mosque of Sulayman Pasha al-Khadim",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [
+    {
+      "assetId": "cover-sulayman-pasha-al-khadim-mosque",
+      "placeId": null,
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "placeNameEn": "Mosque of Sulayman Pasha al-Khadim",
+      "placeNameAr": "جامع سليمان باشا الخادم",
+      "role": "cover",
+      "imageKitPath": "/places/sulayman-pasha-al-khadim-mosque/cover.jpg",
+      "localFile": "images/sulayman-pasha-al-khadim-mosque/sulayman-pasha-al-khadim-mosque-cover-arcade.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sulayman_Pasha_al-Khadem_Mosque_%2826065%29.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sulayman_Pasha_al-Khadem_Mosque_(26065).jpg",
+      "sourceTitle": "Sulayman Pasha al-Khadem Mosque (26065).jpg",
+      "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/sulayman-pasha-al-khadim-mosque/sulayman-pasha-al-khadim-mosque-cover-arcade.jpg",
+      "creator": "Amr F. Nagy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "Sulayman Pasha al-Khadem Mosque (26065).jpg — Amr F. Nagy, CC BY-SA 4.0, via Wikimedia Commons",
+      "altEn": "A stone arcade and hanging lamps inside the Mosque of Sulayman Pasha.",
+      "altAr": "رواق حجري ومصابيح معلقة داخل جامع سليمان باشا.",
+      "captionEn": "A stone arcade and hanging lamps inside the Mosque of Sulayman Pasha.",
+      "captionAr": "رواق حجري ومصابيح معلقة داخل جامع سليمان باشا.",
+      "mediaType": "photo",
+      "visualType": "interior",
+      "documentaryStatus": "documentary",
+      "modifications": null,
+      "width": 1920,
+      "height": 2560,
+      "mimeType": "image/jpeg",
+      "fileSizeBytes": 1104402,
+      "checksum": "71af174a2334362557c184afec96ef6030b82ff45ca640c04d6c41283478115a",
+      "verifiedAt": "2026-07-19",
+      "status": "source-verified",
+      "provenance": "baseline_v4",
+      "provenanceGroup": "baseline_v4",
+      "rightsEvidence": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Sulayman_Pasha_al-Khadem_Mosque_(26065).jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sulayman_Pasha_al-Khadem_Mosque_%2826065%29.jpg",
+        "creator": "Amr F. Nagy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Sulayman Pasha al-Khadem Mosque (26065).jpg — Amr F. Nagy, CC BY-SA 4.0, via Wikimedia Commons",
+        "verifiedBy": "baseline_v4",
+        "evidenceStatus": "complete",
+        "sourceId": "photo:cover-sulayman-pasha-al-khadim-mosque:source-page"
+      },
+      "acceptanceStatus": "accepted-baseline-media"
+    }
+  ],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "dome",
+        "Ottoman prayer hall",
+        "minaret",
+        "cemetery",
+        "courtyard"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "dome",
+            "Ottoman prayer hall",
+            "minaret",
+            "cemetery",
+            "courtyard"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "A domed prayer hall with Ottoman spatial organization, a surrounding cemetery and service spaces, and a minaret that differs from the dominant Mamluk forms of the Citadel.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Cairo Citadel",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Cairo Citadel"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": "Cairo Citadel",
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Ottoman",
+        "1528 CE / 935 AH"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Ottoman",
+            "1528 CE / 935 AH"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mosque of Sulayman Pasha al-Khadim) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع سارية الجبل / سليمان باشا الخادم) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Built by Sulayman Pasha al-Khadim in the Citadel during the first Ottoman period in Egypt. It is commonly identified as the first Ottoman-style mosque built in Cairo.",
+            "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mosque of Sulayman Pasha al-Khadim) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (جامع سارية الجبل / سليمان باشا الخادم) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Cairo Citadel",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Cairo Citadel",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "medium"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "جامع سليمان باشا الخادم",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "جامع سليمان باشا الخادم"
+        },
+        {
+          "provenance": "gemini",
+          "value": "جامع سارية الجبل / سليمان باشا الخادم"
+        }
+      ],
+      "baselineValue": "جامع سليمان باشا الخادم",
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Mosque of Sulayman Pasha al-Khadim",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of Sulayman Pasha al-Khadim"
+        }
+      ],
+      "baselineValue": "Mosque of Sulayman Pasha al-Khadim",
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "mosque",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "mosque and funerary complex"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": "mosque",
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of Sulayman Pasha al-Khadim played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع سارية الجبل / سليمان باشا الخادم في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-SULAYMANPASHAALKHADIMMOSQUE"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+                "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mosque of Sulayman Pasha al-Khadim played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت جامع سارية الجبل / سليمان باشا الخادم في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-SULAYMANPASHAALKHADIMMOSQUE"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mosque of Sulayman Pasha al-Khadim",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mosque of Sulayman Pasha al-Khadim"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "sulayman-pasha-al-khadim-mosque",
+      "status": "PROPOSED_V4",
+      "nameEn": "Mosque of Sulayman Pasha al-Khadim",
+      "nameAr": "جامع سليمان باشا الخادم",
+      "transliteration": "Mosque of Sulayman Pasha al-Khadim",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "mosque and funerary complex",
+      "district": "Cairo Citadel",
+      "location": {
+        "descriptionEn": "Cairo Citadel",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Ottoman",
+        "1528 CE / 935 AH"
+      ],
+      "historicalSummary": {
+        "en": "Built by Sulayman Pasha al-Khadim in the Citadel during the first Ottoman period in Egypt. It is commonly identified as the first Ottoman-style mosque built in Cairo.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architectureSummary": {
+        "en": "A domed prayer hall with Ottoman spatial organization, a surrounding cemetery and service spaces, and a minaret that differs from the dominant Mamluk forms of the Citadel.",
+        "ar": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام."
+      },
+      "architecturalElements": [
+        "dome",
+        "Ottoman prayer hall",
+        "minaret",
+        "cemetery",
+        "courtyard"
+      ],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+            "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "sulayman-pasha-al-khadim-mosque-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mosque of Sulayman Pasha al-Khadim.",
+          "textAr": "يسجل الجرد هذا الموقع باسم جامع سليمان باشا الخادم.",
+          "confidence": "high",
+          "sourceIds": [
+            "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+            "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "sulayman-pasha-al-khadim-mosque-history",
+          "claimType": "history",
+          "textEn": "Built by Sulayman Pasha al-Khadim in the Citadel during the first Ottoman period in Egypt. It is commonly identified as the first Ottoman-style mosque built in Cairo.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+            "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "sulayman-pasha-al-khadim-mosque-architecture",
+          "claimType": "architecture",
+          "textEn": "A domed prayer hall with Ottoman spatial organization, a surrounding cemetery and service spaces, and a minaret that differs from the dominant Mamluk forms of the Citadel.",
+          "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+          "confidence": "medium",
+          "sourceIds": [
+            "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+            "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "sulayman-pasha-al-khadim-mosque-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+            "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "sulayman-pasha-al-khadim-mosque-identity",
+            "sulayman-pasha-al-khadim-mosque-history",
+            "sulayman-pasha-al-khadim-mosque-architecture",
+            "sulayman-pasha-al-khadim-mosque-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        },
+        {
+          "sourceId": "sulayman-pasha-al-khadim-mosque:mota-historic-cairo",
+          "title": "Historic Cairo — World Heritage",
+          "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+          "sourceType": "official heritage register",
+          "publisher": "Egyptian Ministry of Tourism and Antiquities",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "sulayman-pasha-al-khadim-mosque-identity",
+            "sulayman-pasha-al-khadim-mosque-history",
+            "sulayman-pasha-al-khadim-mosque-architecture",
+            "sulayman-pasha-al-khadim-mosque-status"
+          ],
+          "notes": "Official Egyptian heritage context and component areas."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Arabic editorial translation requires specialist review before publication.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "sulayman-pasha-al-khadim-mosque",
+      "status": "PROPOSED_V4",
+      "nameEn": "Mosque of Sulayman Pasha al-Khadim",
+      "nameAr": "جامع سارية الجبل / سليمان باشا الخادم",
+      "transliteration": "Mosque of Sulayman Pasha al-Khadim",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "medium"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mosque of Sulayman Pasha al-Khadim) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (جامع سارية الجبل / سليمان باشا الخادم) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mosque of Sulayman Pasha al-Khadim played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت جامع سارية الجبل / سليمان باشا الخادم في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-SULAYMANPASHAALKHADIMMOSQUE"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-SULAYMANPASHAALKHADIMMOSQUE-01",
+          "claimType": "history",
+          "textEn": "The site Mosque of Sulayman Pasha al-Khadim is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل جامع سارية الجبل / سليمان باشا الخادم كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "high",
+          "sourceIds": [
+            "SRC-SULAYMANPASHAALKHADIMMOSQUE"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-SULAYMANPASHAALKHADIMMOSQUE",
+          "title": "Archnet & Ministry Documentation for Mosque of Sulayman Pasha al-Khadim",
+          "url": "https://archnet.org/sites/sulayman-pasha-al-khadim-mosque",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-SULAYMANPASHAALKHADIMMOSQUE-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:sulayman-pasha-al-khadim-mosque.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/sulayman-pasha-al-khadim-mosque.jpg",
+          "title": "General View of Mosque of Sulayman Pasha al-Khadim",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": []
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mosque of Sulayman Pasha al-Khadim\n\nArabic name: **جامع سليمان باشا الخادم**  \nStatus: **PROPOSED_V4**  \nSlug: `sulayman-pasha-al-khadim-mosque`\n\n## Historical summary\n\nBuilt by Sulayman Pasha al-Khadim in the Citadel during the first Ottoman period in Egypt. It is commonly identified as the first Ottoman-style mosque built in Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA domed prayer hall with Ottoman spatial organization, a surrounding cemetery and service spaces, and a minaret that differs from the dominant Mamluk forms of the Citadel.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- dome\n- Ottoman prayer hall\n- minaret\n- cemetery\n- courtyard\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **sulayman-pasha-al-khadim-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **sulayman-pasha-al-khadim-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mosque of Sulayman Pasha al-Khadim\n\nArabic name: **جامع سليمان باشا الخادم**  \nStatus: **PROPOSED_V4**  \nSlug: `sulayman-pasha-al-khadim-mosque`\n\n## Historical summary\n\nBuilt by Sulayman Pasha al-Khadim in the Citadel during the first Ottoman period in Egypt. It is commonly identified as the first Ottoman-style mosque built in Cairo.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\n## Architecture summary\n\nA domed prayer hall with Ottoman spatial organization, a surrounding cemetery and service spaces, and a minaret that differs from the dominant Mamluk forms of the Citadel.\n\nيتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.\n\nArchitectural elements:\n- dome\n- Ottoman prayer hall\n- minaret\n- cemetery\n- courtyard\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **sulayman-pasha-al-khadim-mosque:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n- **sulayman-pasha-al-khadim-mosque:mota-historic-cairo** — [Historic Cairo — World Heritage](https://egymonuments.gov.eg/world-heritage/historic-cairo/) (Egyptian Ministry of Tourism and Antiquities)\n\n## Unresolved items\n\n- Arabic editorial translation requires specialist review before publication.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mosque of Sulayman Pasha al-Khadim (جامع سارية الجبل / سليمان باشا الخادم)\n**Status:** PROPOSED_V4  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mosque of Sulayman Pasha al-Khadim) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (جامع سارية الجبل / سليمان باشا الخادم) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mosque of Sulayman Pasha al-Khadim played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mosque of Sulayman Pasha al-Khadim (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/sulayman-pasha-al-khadim-mosque.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-SULAYMANPASHAALKHADIMMOSQUE]** [Archnet & Ministry Documentation for Mosque of Sulayman Pasha al-Khadim](https://archnet.org/sites/sulayman-pasha-al-khadim-mosque) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\nNo open issues.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": {
+      "slug": "sulayman-pasha-al-khadim-mosque",
+      "nameEn": "Mosque of Sulayman Pasha al-Khadim",
+      "nameAr": "جامع سليمان باشا الخادم",
+      "alternateNames": [
+        "Sariyat al-Jabal Mosque",
+        "مسجد سارية الجبل"
+      ],
+      "historicalPeriod": "Early Ottoman Cairo",
+      "dynasty": "Ottoman",
+      "district": "Cairo Citadel",
+      "placeType": "mosque",
+      "foundedYearOrRange": "1528 CE",
+      "dateCertainty": "certain",
+      "dateDisplayEn": "1528 CE",
+      "dateDisplayAr": "1528م",
+      "patronEn": "Sulayman Pasha al-Khadim",
+      "patronAr": "سليمان باشا الخادم",
+      "architectEn": "Unknown",
+      "architectAr": "غير معروف",
+      "originalFunctionEn": "mosque for the Citadel community",
+      "originalFunctionAr": "مسجد لمجتمع القلعة",
+      "currentFunctionEn": "active mosque and historic monument",
+      "currentFunctionAr": "مسجد قائم وأثر تاريخي",
+      "historicalBriefEn": "Built inside the Citadel in 1528, the mosque is an early expression of Ottoman architectural language in Cairo. Its central dome, arcades, pencil minaret, and painted or tiled surfaces contrast with nearby Mamluk forms and make a direct comparison with al-Nasir Muhammad possible. The forecourt and associated shrine of Sidi Sariya add local devotional history to the imported Ottoman courtly vocabulary. This mixture is important: the mosque demonstrates political change after 1517, but it was built within an Egyptian fortress using local labor, materials, and inherited sacred associations. Its meaning emerges from both connection and contrast.",
+      "historicalBriefAr": "شُيد الجامع داخل القلعة سنة 1528م، وهو تعبير مبكر عن اللغة المعمارية العثمانية في القاهرة. وتختلف قبته المركزية وأروقته ومئذنته القلمية وأسطحه المصورة أو المكسوة عن الأشكال المملوكية القريبة، مما يتيح مقارنته مباشرة بجامع الناصر محمد. ويضيف الفناء الأمامي والمشهد المرتبط بسيدي سارية تاريخًا دينيًا محليًا إلى المفردات العثمانية ذات الطابع الرسمي. وهذا المزج مهم؛ فالجامع يعبر عن تغير سياسي بعد 1517م، لكنه شُيد داخل قلعة مصرية بعمالة ومواد وارتباطات دينية موروثة. وينشأ معناه من الاتصال والتباين معًا.",
+      "clarificationNoteEn": "It is distinct from the nineteenth-century Mosque of Muhammad Ali.",
+      "clarificationNoteAr": "يختلف عن مسجد محمد علي الذي يعود إلى القرن التاسع عشر.",
+      "keyDates": [
+        {
+          "year": 1528,
+          "labelEn": "Principal documented phase",
+          "labelAr": "المرحلة الرئيسية الموثقة"
+        }
+      ],
+      "architecturalPhases": [
+        {
+          "nameEn": "Original or principal construction",
+          "nameAr": "الإنشاء الأصلي أو الرئيسي",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Original or principal construction",
+          "descAr": "الإنشاء الأصلي أو الرئيسي"
+        },
+        {
+          "nameEn": "Later repairs, additions, or conservation",
+          "nameAr": "إصلاحات أو إضافات أو ترميمات لاحقة",
+          "startYear": null,
+          "endYear": null,
+          "descEn": "Later repairs, additions, or conservation",
+          "descAr": "إصلاحات أو إضافات أو ترميمات لاحقة"
+        }
+      ],
+      "latitude": 30.031104,
+      "longitude": 31.264357,
+      "locationPrecision": "exact",
+      "openingHours": null,
+      "accessibilityConfidence": "low-to-medium",
+      "accessibilityNotesEn": "Historic thresholds, stairs, surfaces, and current public access require field verification.",
+      "accessibilityNotesAr": "تحتاج العتبات والسلالم والأسطح التاريخية وحالة الوصول العام إلى تحقق ميداني.",
+      "priorityVisualStoryEn": "Arcades, central dome, pencil minaret, and comparison with the Mamluk Citadel mosque.",
+      "priorityVisualStoryAr": "الأروقة والقبة المركزية والمئذنة القلمية والمقارنة مع جامع القلعة المملوكي.",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "claimIds": [
+        "claim-sulayman-pasha-al-khadim-mosque-date",
+        "claim-sulayman-pasha-al-khadim-mosque-period",
+        "claim-sulayman-pasha-al-khadim-mosque-patron",
+        "claim-sulayman-pasha-al-khadim-mosque-function",
+        "claim-sulayman-pasha-al-khadim-mosque-clarification",
+        "claim-sulayman-pasha-al-khadim-mosque-location"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation",
+      "photographyAllowed": "unknown",
+      "activeWorship": true,
+      "funerarySensitive": false,
+      "ticketed": null,
+      "recommendedDurationMin": 30,
+      "recommendedDurationMax": 50
+    },
+    "contentPackageV4Story": {
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "relatedPlaceSlug": "sulayman-pasha-al-khadim-mosque",
+      "titleEn": "Reading Mosque of Sulayman Pasha al-Khadim",
+      "titleAr": "قراءة جامع سليمان باشا الخادم",
+      "summaryEn": "A bilingual architectural and historical journey through Mosque of Sulayman Pasha al-Khadim.",
+      "summaryAr": "رحلة معمارية وتاريخية ثنائية اللغة في جامع سليمان باشا الخادم.",
+      "storyType": "place-deep-dive",
+      "chapters": [
+        {
+          "chapterSlug": "sulayman-pasha-al-khadim-mosque-chapter-1",
+          "titleEn": "Ottoman Architecture Inside the Citadel",
+          "titleAr": "عمارة عثمانية داخل القلعة",
+          "bodyEn": "Mosque of Sulayman Pasha al-Khadim belongs to Early Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of Cairo Citadel. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+          "bodyAr": "ينتمي جامع سليمان باشا الخادم إلى بدايات العصر العثماني في القاهرة، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة قلعة القاهرة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة."
+        },
+        {
+          "chapterSlug": "sulayman-pasha-al-khadim-mosque-chapter-2",
+          "titleEn": "Reading the Architecture of Mosque of Sulayman Pasha al-Khadim",
+          "titleAr": "قراءة عمارة جامع سليمان باشا الخادم",
+          "bodyEn": "The monument rewards a slow visual reading of central dome, half-domes, pencil minaret, arcade and comparison with al-Nasir Muhammad. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+          "bodyAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة المركزية وأنصاف القباب والمئذنة القلمية والرواق والمقارنة بجامع الناصر محمد. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة."
+        },
+        {
+          "chapterSlug": "sulayman-pasha-al-khadim-mosque-chapter-3",
+          "titleEn": "Transformation, Use, and Responsible Interpretation",
+          "titleAr": "التحول والاستخدام والتفسير المسؤول",
+          "bodyEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+          "bodyAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية."
+        }
+      ],
+      "relatedPeriods": [
+        "Early Ottoman Cairo"
+      ],
+      "relatedPlaces": [],
+      "tags": [
+        "mosque",
+        "Cairo Citadel",
+        "Ottoman"
+      ],
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "claimIds": [
+        "claim-sulayman-pasha-al-khadim-mosque-story-1",
+        "claim-sulayman-pasha-al-khadim-mosque-story-2",
+        "claim-sulayman-pasha-al-khadim-mosque-story-3"
+      ],
+      "proposedPublicationStatus": "proposed-publishable-after-codex-validation"
+    },
+    "contentPackageV4Candidate": null,
+    "mediaPackageV2Assets": [
+      {
+        "assetId": "cover-sulayman-pasha-al-khadim-mosque",
+        "placeId": null,
+        "placeSlug": "sulayman-pasha-al-khadim-mosque",
+        "placeNameEn": "Mosque of Sulayman Pasha al-Khadim",
+        "placeNameAr": "جامع سليمان باشا الخادم",
+        "role": "cover",
+        "imageKitPath": "/places/sulayman-pasha-al-khadim-mosque/cover.jpg",
+        "localFile": "images/sulayman-pasha-al-khadim-mosque/sulayman-pasha-al-khadim-mosque-cover-arcade.jpg",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sulayman_Pasha_al-Khadem_Mosque_%2826065%29.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Sulayman_Pasha_al-Khadem_Mosque_(26065).jpg",
+        "sourceTitle": "Sulayman Pasha al-Khadem Mosque (26065).jpg",
+        "cdnUrl": "https://ik.imagekit.io/hrim/images/minarates/extra-10/sulayman-pasha-al-khadim-mosque/sulayman-pasha-al-khadim-mosque-cover-arcade.jpg",
+        "creator": "Amr F. Nagy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "attribution": "Sulayman Pasha al-Khadem Mosque (26065).jpg — Amr F. Nagy, CC BY-SA 4.0, via Wikimedia Commons",
+        "altEn": "A stone arcade and hanging lamps inside the Mosque of Sulayman Pasha.",
+        "altAr": "رواق حجري ومصابيح معلقة داخل جامع سليمان باشا.",
+        "captionEn": "A stone arcade and hanging lamps inside the Mosque of Sulayman Pasha.",
+        "captionAr": "رواق حجري ومصابيح معلقة داخل جامع سليمان باشا.",
+        "mediaType": "photo",
+        "visualType": "interior",
+        "documentaryStatus": "documentary",
+        "modifications": null,
+        "width": 1920,
+        "height": 2560,
+        "mimeType": "image/jpeg",
+        "fileSizeBytes": 1104402,
+        "checksum": "71af174a2334362557c184afec96ef6030b82ff45ca640c04d6c41283478115a",
+        "verifiedAt": "2026-07-19",
+        "status": "source-verified",
+        "provenance": "baseline_v4",
+        "provenanceGroup": "baseline_v4",
+        "rightsEvidence": {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sulayman_Pasha_al-Khadem_Mosque_(26065).jpg",
+          "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sulayman_Pasha_al-Khadem_Mosque_%2826065%29.jpg",
+          "creator": "Amr F. Nagy",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Sulayman Pasha al-Khadem Mosque (26065).jpg — Amr F. Nagy, CC BY-SA 4.0, via Wikimedia Commons",
+          "verifiedBy": "baseline_v4",
+          "evidenceStatus": "complete",
+          "sourceId": "photo:cover-sulayman-pasha-al-khadim-mosque:source-page"
+        },
+        "acceptanceStatus": "accepted-baseline-media"
+      }
+    ],
+    "mediaPackageV2ResearchNote": null
+  },
+  "sources": [
+    "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+    "sulayman-pasha-al-khadim-mosque:mota-historic-cairo",
+    "SRC-SULAYMANPASHAALKHADIMMOSQUE",
+    "src-sulayman-pasha-archnet",
+    "src-sulayman-pasha-plan"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sulayman-pasha-al-khadim-mosque-identity",
+        "sulayman-pasha-al-khadim-mosque-history",
+        "sulayman-pasha-al-khadim-mosque-architecture",
+        "sulayman-pasha-al-khadim-mosque-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "sulayman-pasha-al-khadim-mosque:mota-historic-cairo",
+      "title": "Historic Cairo — World Heritage",
+      "url": "https://egymonuments.gov.eg/world-heritage/historic-cairo/",
+      "sourceType": "official heritage register",
+      "publisher": "Egyptian Ministry of Tourism and Antiquities",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "sulayman-pasha-al-khadim-mosque-identity",
+        "sulayman-pasha-al-khadim-mosque-history",
+        "sulayman-pasha-al-khadim-mosque-architecture",
+        "sulayman-pasha-al-khadim-mosque-status"
+      ],
+      "notes": "Official Egyptian heritage context and component areas."
+    },
+    {
+      "sourceId": "SRC-SULAYMANPASHAALKHADIMMOSQUE",
+      "title": "Archnet & Ministry Documentation for Mosque of Sulayman Pasha al-Khadim",
+      "url": "https://archnet.org/sites/sulayman-pasha-al-khadim-mosque",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-SULAYMANPASHAALKHADIMMOSQUE-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Arabic editorial translation requires specialist review before publication.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified."
+  ],
+  "baselineAcceptedContent": {
+    "sourceIds": [
+      "src-sulayman-pasha-archnet",
+      "src-sulayman-pasha-plan"
+    ],
+    "claimIds": [
+      "claim-sulayman-pasha-al-khadim-mosque-date",
+      "claim-sulayman-pasha-al-khadim-mosque-period",
+      "claim-sulayman-pasha-al-khadim-mosque-patron",
+      "claim-sulayman-pasha-al-khadim-mosque-function",
+      "claim-sulayman-pasha-al-khadim-mosque-clarification",
+      "claim-sulayman-pasha-al-khadim-mosque-location"
+    ],
+    "bilingual": true
+  },
+  "acceptedClaims": [
+    {
+      "claimId": "sulayman-pasha-al-khadim-mosque-identity",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mosque of Sulayman Pasha al-Khadim.",
+      "textAr": "يسجل الجرد هذا الموقع باسم جامع سليمان باشا الخادم.",
+      "confidence": "high",
+      "sourceIds": [
+        "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+        "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "sulayman-pasha-al-khadim-mosque-status",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+        "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-SULAYMANPASHAALKHADIMMOSQUE-01",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mosque of Sulayman Pasha al-Khadim is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل جامع سارية الجبل / سليمان باشا الخادم كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-SULAYMANPASHAALKHADIMMOSQUE"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-date",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "date",
+      "textEn": "Mosque of Sulayman Pasha al-Khadim is dated to 1528 CE.",
+      "textAr": "يؤرخ جامع سليمان باشا الخادم إلى 1528 م.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-period",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "period",
+      "textEn": "The monument belongs primarily to Early Ottoman Cairo.",
+      "textAr": "ينتمي الأثر أساسًا إلى بدايات العصر العثماني في القاهرة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-patron",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "patron",
+      "textEn": "The recorded patron is Sulayman Pasha al-Khadim.",
+      "textAr": "الراعي المسجل هو سليمان باشا الخادم.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-function",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "function",
+      "textEn": "Its original function was mosque for the Citadel community.",
+      "textAr": "كانت وظيفته الأصلية مسجد لمجتمع القلعة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-clarification",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "clarification",
+      "textEn": "It is distinct from the nineteenth-century Mosque of Muhammad Ali.",
+      "textAr": "يختلف عن مسجد محمد علي الذي يعود إلى القرن التاسع عشر.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-location",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "location",
+      "textEn": "The record locates the monument in Cairo Citadel with exact coordinate precision.",
+      "textAr": "يضع السجل الأثر في منطقة قلعة القاهرة، مع دقة مكانية مصنفة بوصفها دقيقة.",
+      "confidence": "qualified",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-story-1",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "claimType": "story-chapter",
+      "textEn": "Mosque of Sulayman Pasha al-Khadim belongs to Early Ottoman Cairo, but its significance becomes clearer when placed within the political and urban history of Cairo Citadel. The foundation was not an isolated object: it answered needs of worship, commemoration, residence, education, charity, or administration identified in its endowment and later use. Its patronage linked architecture to authority and public reputation, while subsequent repairs changed how the building was experienced. The record must therefore distinguish the founding phase from later alterations and modern conservation. This historical setting prevents the monument from being reduced to a photograph or a single date and explains why its location shaped both form and meaning. This context also clarifies which parts of the surviving fabric can be tied confidently to the foundation and which require qualified language.",
+      "textAr": "ينتمي جامع سليمان باشا الخادم إلى بدايات العصر العثماني في القاهرة، لكن أهميته تتضح أكثر عند وضعه داخل التاريخ السياسي والعمراني لمنطقة قلعة القاهرة. فلم تكن المنشأة جسمًا معزولًا، بل استجابت لحاجات العبادة أو التذكار أو السكن أو التعليم أو الخير أو الإدارة بحسب وقفها واستخدامها اللاحق. وربطت الرعاية المعمار بالسلطة والسمعة العامة، بينما غيرت الإصلاحات اللاحقة طريقة اختبار المبنى. لذلك يجب التمييز بين مرحلة التأسيس والتعديلات التالية والترميم الحديث. ويمنع هذا السياق اختزال الأثر في صورة أو تاريخ واحد، ويوضح كيف شكل الموقع هيئته ومعناه. ويساعد هذا السياق أيضًا على تمييز الأجزاء التي يمكن نسبتها بثقة إلى التأسيس من الأجزاء التي تحتاج إلى صياغة مؤهلة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-story-2",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "claimType": "story-chapter",
+      "textEn": "The monument rewards a slow visual reading of central dome, half-domes, pencil minaret, arcade and comparison with al-Nasir Muhammad. These elements are not interchangeable ornaments. Each directs movement, frames light, marks hierarchy, or communicates function. Materials and construction techniques reveal what was locally available and what arrived through wider networks of craftsmen and trade. A useful visit follows the sequence from street or cemetery approach to threshold, transitional space, principal room, and secondary areas, noting where later work interrupts or reinforces the original composition. Photographs should combine an establishing view with details that show joints, surfaces, screens, inscriptions, and evidence of repair rather than presenting only an attractive silhouette. Looking at wear, repairs, blocked openings, and reused elements can reveal the building’s history as clearly as its most polished decoration.",
+      "textAr": "تستحق عمارة الأثر قراءة بصرية بطيئة لعناصر مثل القبة المركزية وأنصاف القباب والمئذنة القلمية والرواق والمقارنة بجامع الناصر محمد. فهذه العناصر ليست زخارف قابلة للتبادل، بل يوجه كل منها الحركة أو يؤطر الضوء أو يحدد التراتب أو يعلن الوظيفة. وتكشف المواد وتقنيات البناء ما كان متاحًا محليًا وما وصل عبر شبكات أوسع من الحرفيين والتجارة. وتتبع الزيارة المفيدة التسلسل من الشارع أو الجبانة إلى العتبة والفراغ الانتقالي والحجرة الرئيسية والمساحات الثانوية، مع ملاحظة مواضع العمل اللاحق التي تقطع التكوين الأصلي أو تعززه. وينبغي أن تجمع الصور بين منظر شامل وتفاصيل الوصلات والأسطح والشاشات والنقوش وآثار الإصلاح، لا أن تكتفي بخط خارجي جذاب. كما تكشف آثار الاستعمال والإصلاح والفتحات المغلقة والعناصر المعاد استخدامها تاريخ المبنى بوضوح لا يقل عن زخارفه المصقولة.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "claim-sulayman-pasha-al-khadim-mosque-story-3",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": "story-sulayman-pasha-al-khadim-mosque",
+      "claimType": "story-chapter",
+      "textEn": "The present monument is the result of survival, rebuilding, changing use, and conservation. Its current condition cannot be read as an untouched survival of the founding year. Some features may belong to later patrons; others may have been repaired with new materials or reassembled during conservation. Where the site remains connected to worship or burial, interpretation must protect the dignity of users and surrounding communities. Where access, photography, or ticketing is unstable, the project should state that the information is unknown rather than convert an old report into a current rule. The most valuable conclusion is not that the monument represents one fixed style, but that it records changing institutions and memories within Cairo. That approach keeps the interpretation useful for visitors while remaining honest about uncertainty, continuing use, and the limits of documentary evidence.",
+      "textAr": "الأثر القائم اليوم نتيجة البقاء وإعادة البناء وتغير الاستخدام والترميم، ولا يمكن قراءته بوصفه بقايا لم تمس منذ سنة التأسيس. فقد تنتمي بعض السمات إلى رعاة لاحقين، بينما أُصلحت عناصر أخرى بمواد جديدة أو أعيد تركيبها أثناء الترميم. وإذا ظل الموقع مرتبطًا بالعبادة أو الدفن، فيجب أن يحمي التفسير كرامة المستخدمين والمجتمعات المحيطة. وحين تكون قواعد الوصول أو التصوير أو التذاكر متغيرة، ينبغي للمشروع أن يصرح بأن المعلومة غير معروفة بدل تحويل تقرير قديم إلى قاعدة حالية. والخلاصة الأهم أن الأثر لا يمثل طرازًا ثابتًا واحدًا، بل يسجل مؤسسات وذكريات متغيرة داخل القاهرة. ويحافظ هذا النهج على فائدة التفسير للزائر مع الصراحة بشأن عدم اليقين واستمرار الاستخدام وحدود الأدلة الوثائقية.",
+      "confidence": "supported",
+      "sourceIds": [
+        "src-sulayman-pasha-archnet",
+        "src-sulayman-pasha-plan"
+      ],
+      "provenance": [
+        "baseline_v4"
+      ],
+      "provenanceGroup": "baseline_v4",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "sulayman-pasha-al-khadim-mosque-history",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Built by Sulayman Pasha al-Khadim in the Citadel during the first Ottoman period in Egypt. It is commonly identified as the first Ottoman-style mosque built in Cairo.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+        "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "sulayman-pasha-al-khadim-mosque-architecture",
+      "placeSlug": "sulayman-pasha-al-khadim-mosque",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "A domed prayer hall with Ottoman spatial organization, a surrounding cemetery and service spaces, and a minaret that differs from the dominant Mamluk forms of the Citadel.",
+      "textAr": "يتطلب النص العربي الكامل مراجعة محرر متخصص قبل النشر العام.",
+      "confidence": "medium",
+      "sourceIds": [
+        "sulayman-pasha-al-khadim-mosque:unesco-historic-cairo",
+        "sulayman-pasha-al-khadim-mosque:mota-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}

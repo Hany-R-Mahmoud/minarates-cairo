@@ -1,0 +1,122 @@
+{
+  "slug": "al-aqmar-mosque",
+  "status": "PUBLISHED_MEDIA",
+  "nameEn": "Al-Aqmar Mosque",
+  "nameAr": "جامع الأقمر",
+  "transliteration": "Jāmiʿ al-Aqmar",
+  "alternativeNames": [
+    "Mosque of the Moonlit",
+    "Al-Aqmar"
+  ],
+  "relatedSlugs": [
+    "mosque-al-aqmar"
+  ],
+  "placeType": "Mosque",
+  "district": "Al-Gamaleya / Al-Mu'izz Street",
+  "location": {
+    "descriptionEn": "Located on the northern section of Al-Mu'izz li-Din Allah Street in Historic Cairo.",
+    "descriptionAr": "يقع في الجزء الشمالي من شارع المعز لدين الله الفاطمي في القاهرة التاريخية.",
+    "latitude": 30.0507,
+    "longitude": 31.2612,
+    "confidence": "high"
+  },
+  "historicalPeriods": [
+    "Fatimid"
+  ],
+  "historicalSummary": {
+    "en": "Built in 1125 AD (519 AH) under Fatimid Vizier Al-Ma'mun al-Bata'ihi during the reign of Caliph Al-Amir bi-Ahkam Allah. Notable for being one of the earliest mosques in Cairo to feature a street-adjusted facade offset from its interior qibla orientation.",
+    "ar": "بُني عام 1125 م (519 هـ) في عهد الوزير الفاطمي المأمون البطائحي والخليفة الآمر بأحكام الله. يتميز بكونه من أوائل المساجد في القاهرة التي ضبطت واجهتها مع خط الشارع بخلاف اتجاه القبلة الداخلي."
+  },
+  "architectureSummary": {
+    "en": "Features an elaborately carved stone facade with stalactite hood (muqarnas) niches, a central medallion, and early Arabic epigraphy. The interior contains a small hypostyle courtyard surrounded by pointed arches.",
+    "ar": "يتميز بواجهة حجرية منحوتة ببراعة تحوي مقرنصات وميدالية مركزية وكتابات خطية كوفية. يتكون الداخل من صحن صغير مكشوف تحيط به أروقة ذات عقود مدببة."
+  },
+  "architecturalElements": [
+    "Muqarnas Hoods",
+    "Stone Facade Alignment",
+    "Keel Arches",
+    "Kufic Inscriptions"
+  ],
+  "stories": [
+    {
+      "titleEn": "Street Orientation Innovation",
+      "titleAr": "ابتكار التوافق مع الشارع",
+      "summaryEn": "Architects aligned the facade with the existing Fatimid avenue grid while rotating the interior layout toward Mecca.",
+      "summaryAr": "قام المهندسون بمحاذاة الواجهة مع مسار الشارع الفاطمي مع تدوير التخطيط الداخلي ليواجه القبلة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-ARCHNET-AQMAR",
+        "SRC-MTA-AQMAR"
+      ]
+    }
+  ],
+  "visitorInformation": {
+    "openingHours": "09:00 - 17:00",
+    "ticketPrice": "Included in Al-Mu'izz street visitor pass / standard historic site entry",
+    "photographyRules": "Allowed without flash; tripod permissions required",
+    "dressRequirements": "Modest dress required; head covering for women upon entry to prayer hall",
+    "accessibility": "Level entrance with minor threshold step",
+    "currentStatus": "Open to visitors",
+    "lastChecked": "2026-03-01"
+  },
+  "claims": [
+    {
+      "claimId": "CLM-AQMAR-01",
+      "claimType": "history",
+      "textEn": "The mosque was commissioned in 1125 AD by Vizier al-Ma'mun al-Bata'ihi.",
+      "textAr": "تأسس المسجد عام 1125 م على يد الوزير المأمون البطائحي.",
+      "confidence": "high",
+      "sourceIds": [
+        "SRC-ARCHNET-AQMAR",
+        "SRC-MTA-AQMAR"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourceId": "SRC-ARCHNET-AQMAR",
+      "title": "Archnet: Al-Aqmar Mosque",
+      "url": "https://archnet.org/sites/2217",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center at MIT",
+      "publicationDate": "2011-01-01",
+      "accessedDate": "2026-01-15",
+      "supports": [
+        "CLM-AQMAR-01"
+      ],
+      "notes": "Comprehensive architectural documentation."
+    },
+    {
+      "sourceId": "SRC-MTA-AQMAR",
+      "title": "Egyptian Ministry of Tourism and Antiquities - Al-Aqmar",
+      "url": "https://egymonuments.gov.eg/en/monuments/al-aqmar-mosque",
+      "sourceType": "official_portal",
+      "publisher": "Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-05-10",
+      "accessedDate": "2026-02-10",
+      "supports": [
+        "CLM-AQMAR-01"
+      ],
+      "notes": "Official state heritage listing."
+    }
+  ],
+  "photos": [
+    {
+      "role": "cover",
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Al-Aqmar_Mosque_Cairo.jpg",
+      "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Al-Aqmar_Mosque_Cairo.jpg",
+      "title": "Al-Aqmar Mosque Main Facade",
+      "creator": "Wikimedia Contributor",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+      "modificationRequirements": "Attribute original author and share under same license",
+      "width": 1920,
+      "height": 1080,
+      "rightsConfidence": "high",
+      "checkedDate": "2026-01-20",
+      "notes": "Verified public license."
+    }
+  ],
+  "unresolved": []
+}

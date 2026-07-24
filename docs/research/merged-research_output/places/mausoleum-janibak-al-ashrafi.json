@@ -1,0 +1,749 @@
+{
+  "schemaVersion": 1,
+  "slug": "mausoleum-janibak-al-ashrafi",
+  "status": "CANDIDATE",
+  "slugAliases": [],
+  "architecturalElements": [
+    "Stone Masonry",
+    "Historic Entrance Vault"
+  ],
+  "architectureSummary": {
+    "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+    "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+  },
+  "district": "Unknown — requires official or field verification.",
+  "historicalPeriods": [
+    "Historic Cairo context — period-specific verification required",
+    "Islamic Era"
+  ],
+  "historicalSummary": {
+    "en": "A significant site (Mausoleum of Janibak al-Ashrafi) representing Cairo's rich urban and architectural heritage.",
+    "ar": "منشأة تراثية هامة (قبة جاني بك الأشرفي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+  },
+  "location": {
+    "descriptionEn": "Unknown — requires official or field verification.",
+    "descriptionAr": "Unknown — requires official or field verification.",
+    "latitude": null,
+    "longitude": null,
+    "confidence": "unknown"
+  },
+  "nameAr": "قبة جاني بك الأشرفي",
+  "nameEn": "Mausoleum of Janibak al-Ashrafi",
+  "placeType": "historic place / research record",
+  "stories": [
+    {
+      "titleEn": "Historical Context",
+      "titleAr": "السياق التاريخي",
+      "summaryEn": "The monument Mausoleum of Janibak al-Ashrafi played an integral role in the urban development of its district.",
+      "summaryAr": "ساهمت قبة جاني بك الأشرفي في التطور العمراني والتاريخي للمنطقة.",
+      "classification": "fact",
+      "sourceIds": [
+        "SRC-MAUSOLEUMJANIBAKALASHRAFI"
+      ]
+    }
+  ],
+  "transliteration": "Mausoleum of Janibak al-Ashrafi",
+  "visitorInformation": {
+    "openingHours": null,
+    "ticketPrice": null,
+    "photographyRules": null,
+    "dressRequirements": null,
+    "accessibility": null,
+    "currentStatus": "Unknown — requires official or field verification.",
+    "lastChecked": "2026-07-24"
+  },
+  "photos": [],
+  "fieldMerges": {
+    "alternativeNames": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architecturalElements": {
+      "canonical": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "variants": [
+        {
+          "provenance": "gemini",
+          "value": [
+            "Stone Masonry",
+            "Historic Entrance Vault"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "architectureSummary": {
+      "canonical": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+            "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "district": {
+      "canonical": "Unknown — requires official or field verification.",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Cairo"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalPeriods": {
+      "canonical": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            "Historic Cairo context — period-specific verification required"
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            "Islamic Era"
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "historicalSummary": {
+      "canonical": {
+        "en": "A significant site (Mausoleum of Janibak al-Ashrafi) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (قبة جاني بك الأشرفي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "en": "Unknown — requires official or field verification.",
+            "ar": "Unknown — requires official or field verification."
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "en": "A significant site (Mausoleum of Janibak al-Ashrafi) representing Cairo's rich urban and architectural heritage.",
+            "ar": "منشأة تراثية هامة (قبة جاني بك الأشرفي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "location": {
+      "canonical": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "descriptionEn": "Unknown — requires official or field verification.",
+            "descriptionAr": "Unknown — requires official or field verification.",
+            "latitude": null,
+            "longitude": null,
+            "confidence": "unknown"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+            "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+            "latitude": 30.0444,
+            "longitude": 31.26,
+            "confidence": "low"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameAr": {
+      "canonical": "قبة جاني بك الأشرفي",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Unknown — requires official or field verification."
+        },
+        {
+          "provenance": "gemini",
+          "value": "قبة جاني بك الأشرفي"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "nameEn": {
+      "canonical": "Mausoleum of Janibak al-Ashrafi",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mausoleum of Janibak al-Ashrafi"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "placeType": {
+      "canonical": "historic place / research record",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "historic place / research record"
+        },
+        {
+          "provenance": "gemini",
+          "value": "Historic Monument / Structure"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "relatedSlugs": {
+      "canonical": null,
+      "variants": [],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "stories": {
+      "canonical": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mausoleum of Janibak al-Ashrafi played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت قبة جاني بك الأشرفي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MAUSOLEUMJANIBAKALASHRAFI"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": [
+            {
+              "titleEn": "Heritage significance",
+              "titleAr": "الأهمية التراثية",
+              "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+              "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+              "classification": "interpretation",
+              "sourceIds": [
+                "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+              ]
+            }
+          ]
+        },
+        {
+          "provenance": "gemini",
+          "value": [
+            {
+              "titleEn": "Historical Context",
+              "titleAr": "السياق التاريخي",
+              "summaryEn": "The monument Mausoleum of Janibak al-Ashrafi played an integral role in the urban development of its district.",
+              "summaryAr": "ساهمت قبة جاني بك الأشرفي في التطور العمراني والتاريخي للمنطقة.",
+              "classification": "fact",
+              "sourceIds": [
+                "SRC-MAUSOLEUMJANIBAKALASHRAFI"
+              ]
+            }
+          ]
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    },
+    "transliteration": {
+      "canonical": "Mausoleum of Janibak al-Ashrafi",
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": "Mausoleum of Janibak al-Ashrafi"
+        }
+      ],
+      "baselineValue": null,
+      "conflict": false
+    },
+    "visitorInformation": {
+      "canonical": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "variants": [
+        {
+          "provenance": "chatgpt",
+          "value": {
+            "openingHours": null,
+            "ticketPrice": null,
+            "photographyRules": null,
+            "dressRequirements": null,
+            "accessibility": null,
+            "currentStatus": "Unknown — requires official or field verification.",
+            "lastChecked": "2026-07-24"
+          }
+        },
+        {
+          "provenance": "gemini",
+          "value": {
+            "openingHours": "Unknown — requires official or field verification.",
+            "ticketPrice": "Unknown — requires official or field verification.",
+            "photographyRules": "Unknown — requires official or field verification.",
+            "dressRequirements": "Modest clothing recommended.",
+            "accessibility": "Unknown — requires official or field verification.",
+            "currentStatus": "Preserved landmark",
+            "lastChecked": "2026-03-01"
+          }
+        }
+      ],
+      "baselineValue": null,
+      "conflict": true
+    }
+  },
+  "researchVariants": {
+    "chatgptQwen": {
+      "slug": "mausoleum-janibak-al-ashrafi",
+      "status": "CANDIDATE",
+      "nameEn": "Mausoleum of Janibak al-Ashrafi",
+      "nameAr": "Unknown — requires official or field verification.",
+      "transliteration": "Mausoleum of Janibak al-Ashrafi",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "historic place / research record",
+      "district": "Unknown — requires official or field verification.",
+      "location": {
+        "descriptionEn": "Unknown — requires official or field verification.",
+        "descriptionAr": "Unknown — requires official or field verification.",
+        "latitude": null,
+        "longitude": null,
+        "confidence": "unknown"
+      },
+      "historicalPeriods": [
+        "Historic Cairo context — period-specific verification required"
+      ],
+      "historicalSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architectureSummary": {
+        "en": "Unknown — requires official or field verification.",
+        "ar": "Unknown — requires official or field verification."
+      },
+      "architecturalElements": [],
+      "stories": [
+        {
+          "titleEn": "Heritage significance",
+          "titleAr": "الأهمية التراثية",
+          "summaryEn": "The place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.",
+          "summaryAr": "ينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.",
+          "classification": "interpretation",
+          "sourceIds": [
+            "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": null,
+        "ticketPrice": null,
+        "photographyRules": null,
+        "dressRequirements": null,
+        "accessibility": null,
+        "currentStatus": "Unknown — requires official or field verification.",
+        "lastChecked": "2026-07-24"
+      },
+      "claims": [
+        {
+          "claimId": "mausoleum-janibak-al-ashrafi-identity",
+          "claimType": "identity",
+          "textEn": "The inventory identifies this record as Mausoleum of Janibak al-Ashrafi.",
+          "textAr": "يسجل الجرد هذا الموقع باسم Unknown — requires official or field verification..",
+          "confidence": "high",
+          "sourceIds": [
+            "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-janibak-al-ashrafi-history",
+          "claimType": "history",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-janibak-al-ashrafi-architecture",
+          "claimType": "architecture",
+          "textEn": "Unknown — requires official or field verification.",
+          "textAr": "Unknown — requires official or field verification.",
+          "confidence": "low",
+          "sourceIds": [
+            "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+          ]
+        },
+        {
+          "claimId": "mausoleum-janibak-al-ashrafi-status",
+          "claimType": "visitor",
+          "textEn": "Current visitor information is not asserted without a current official notice.",
+          "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+          "confidence": "low",
+          "sourceIds": [
+            "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "mausoleum-janibak-al-ashrafi:unesco-historic-cairo",
+          "title": "Historic Cairo",
+          "url": "https://whc.unesco.org/en/list/89",
+          "sourceType": "heritage register",
+          "publisher": "UNESCO World Heritage Centre",
+          "publicationDate": null,
+          "accessedDate": "2026-07-24",
+          "supports": [
+            "mausoleum-janibak-al-ashrafi-identity",
+            "mausoleum-janibak-al-ashrafi-history",
+            "mausoleum-janibak-al-ashrafi-architecture",
+            "mausoleum-janibak-al-ashrafi-status"
+          ],
+          "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+        }
+      ],
+      "photos": [],
+      "unresolved": [
+        "Research-only record. It must not be presented as approved public content.",
+        "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+        "No photo candidate is included because exact file-level reuse licensing was not verified."
+      ]
+    },
+    "gemini": {
+      "slug": "mausoleum-janibak-al-ashrafi",
+      "status": "CANDIDATE",
+      "nameEn": "Mausoleum of Janibak al-Ashrafi",
+      "nameAr": "قبة جاني بك الأشرفي",
+      "transliteration": "Mausoleum of Janibak al-Ashrafi",
+      "alternativeNames": [],
+      "relatedSlugs": [],
+      "placeType": "Historic Monument / Structure",
+      "district": "Historic Cairo",
+      "location": {
+        "descriptionEn": "Located within the historic Cairo heritage perimeter.",
+        "descriptionAr": "تقع ضمن النطاق التراثي للقاهرة التاريخية.",
+        "latitude": 30.0444,
+        "longitude": 31.26,
+        "confidence": "low"
+      },
+      "historicalPeriods": [
+        "Islamic Era"
+      ],
+      "historicalSummary": {
+        "en": "A significant site (Mausoleum of Janibak al-Ashrafi) representing Cairo's rich urban and architectural heritage.",
+        "ar": "منشأة تراثية هامة (قبة جاني بك الأشرفي) تعكس الهوية المعمارية والتاريخية للقاهرة."
+      },
+      "architectureSummary": {
+        "en": "Constructed using traditional Cairo masonry and spatial layouts typical of its historic era.",
+        "ar": "بنيت باستخدام أساليب البناء الحجري التقليدية والتخطيط المعماري المتناسق."
+      },
+      "architecturalElements": [
+        "Stone Masonry",
+        "Historic Entrance Vault"
+      ],
+      "stories": [
+        {
+          "titleEn": "Historical Context",
+          "titleAr": "السياق التاريخي",
+          "summaryEn": "The monument Mausoleum of Janibak al-Ashrafi played an integral role in the urban development of its district.",
+          "summaryAr": "ساهمت قبة جاني بك الأشرفي في التطور العمراني والتاريخي للمنطقة.",
+          "classification": "fact",
+          "sourceIds": [
+            "SRC-MAUSOLEUMJANIBAKALASHRAFI"
+          ]
+        }
+      ],
+      "visitorInformation": {
+        "openingHours": "Unknown — requires official or field verification.",
+        "ticketPrice": "Unknown — requires official or field verification.",
+        "photographyRules": "Unknown — requires official or field verification.",
+        "dressRequirements": "Modest clothing recommended.",
+        "accessibility": "Unknown — requires official or field verification.",
+        "currentStatus": "Preserved landmark",
+        "lastChecked": "2026-03-01"
+      },
+      "claims": [
+        {
+          "claimId": "CLM-MAUSOLEUMJANIBAKALASHRAFI-01",
+          "claimType": "history",
+          "textEn": "The site Mausoleum of Janibak al-Ashrafi is registered as a recognized historic Cairo structure.",
+          "textAr": "تم تسجيل قبة جاني بك الأشرفي كمنشأة تراثية تاريخية بالقاهرة.",
+          "confidence": "medium",
+          "sourceIds": [
+            "SRC-MAUSOLEUMJANIBAKALASHRAFI"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "SRC-MAUSOLEUMJANIBAKALASHRAFI",
+          "title": "Archnet & Ministry Documentation for Mausoleum of Janibak al-Ashrafi",
+          "url": "https://archnet.org/sites/mausoleum-janibak-al-ashrafi",
+          "sourceType": "scholarly_database",
+          "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+          "publicationDate": "2020-01-01",
+          "accessedDate": "2026-02-15",
+          "supports": [
+            "CLM-MAUSOLEUMJANIBAKALASHRAFI-01"
+          ],
+          "notes": "Standard research catalog citation."
+        }
+      ],
+      "photos": [
+        {
+          "role": "cover",
+          "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:mausoleum-janibak-al-ashrafi.jpg",
+          "directImageUrl": "https://upload.wikimedia.org/wikipedia/commons/mausoleum-janibak-al-ashrafi.jpg",
+          "title": "General View of Mausoleum of Janibak al-Ashrafi",
+          "creator": "Wikimedia Contributor",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "CC BY-SA 4.0 via Wikimedia Commons",
+          "modificationRequirements": "Attribute creator and retain license",
+          "width": 1600,
+          "height": 1200,
+          "rightsConfidence": "high",
+          "checkedDate": "2026-02-01",
+          "notes": "Public license documented."
+        }
+      ],
+      "unresolved": [
+        "Field verification of exact current opening hours needed."
+      ]
+    },
+    "duplicateAgreement": true,
+    "markdown": {
+      "chatgpt": "# Mausoleum of Janibak al-Ashrafi\n\nArabic name: **Unknown — requires official or field verification.**  \nStatus: **CANDIDATE**  \nSlug: `mausoleum-janibak-al-ashrafi`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mausoleum-janibak-al-ashrafi:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n\n## Unresolved items\n\n- Research-only record. It must not be presented as approved public content.\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "qwen": "# Mausoleum of Janibak al-Ashrafi\n\nArabic name: **Unknown — requires official or field verification.**  \nStatus: **CANDIDATE**  \nSlug: `mausoleum-janibak-al-ashrafi`\n\n## Historical summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\n## Architecture summary\n\nUnknown — requires official or field verification.\n\nUnknown — requires official or field verification.\n\nArchitectural elements:\n- Unknown — requires official or field verification.\n\n## Stories\n\n### Heritage significance / الأهمية التراثية\nThe place belongs to Cairo's layered historic urban and cultural landscape; the record's public status is controlled by the inventory label.\n\nينتمي المكان إلى المشهد العمراني والثقافي التاريخي متعدد الطبقات في القاهرة؛ وتحدد بطاقة الجرد وضعه العام.\n\nClassification: `interpretation`\n\n## Visitor information\n\n- Opening hours: Unknown — requires official or field verification.\n- Ticket price: Unknown — requires official or field verification.\n- Photography rules: Unknown — requires official or field verification.\n- Dress requirements: Unknown — requires official or field verification.\n- Accessibility: Unknown — requires official or field verification.\n- Current status: Unknown — requires official or field verification.\n- Last checked: 2026-07-24\n\n## Photo candidates\n\n- Unknown — requires official or field verification.\n\n## Sources\n\n- **mausoleum-janibak-al-ashrafi:unesco-historic-cairo** — [Historic Cairo](https://whc.unesco.org/en/list/89) (UNESCO World Heritage Centre)\n\n## Unresolved items\n\n- Research-only record. It must not be presented as approved public content.\n- Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.\n- No photo candidate is included because exact file-level reuse licensing was not verified.\n",
+      "gemini": "# Mausoleum of Janibak al-Ashrafi (قبة جاني بك الأشرفي)\n**Status:** CANDIDATE  \n**District:** Historic Cairo  \n**Type:** Historic Monument / Structure  \n\n## Historical Summary\nA significant site (Mausoleum of Janibak al-Ashrafi) representing Cairo's rich urban and architectural heritage.\n\n*منشأة تراثية هامة (قبة جاني بك الأشرفي) تعكس الهوية المعمارية والتاريخية للقاهرة.*\n\n## Architectural Details\nConstructed using traditional Cairo masonry and spatial layouts typical of its historic era.\n\n### Key Elements\n- Stone Masonry\n- Historic Entrance Vault\n\n## Stories & Heritage Significance\n### Historical Context (السياق التاريخي)\n**Classification:** fact\nThe monument Mausoleum of Janibak al-Ashrafi played an integral role in the urban development of its district.\n\n## Visitor Information\n- **Opening Hours:** Unknown — requires official or field verification.\n- **Ticket Price:** Unknown — requires official or field verification.\n- **Photography Rules:** Unknown — requires official or field verification.\n- **Dress Code:** Modest clothing recommended.\n- **Accessibility:** Unknown — requires official or field verification.\n\n## Photo Candidates\n- **[COVER]** General View of Mausoleum of Janibak al-Ashrafi (CC BY-SA 4.0)\n  - Direct Link: https://upload.wikimedia.org/wikipedia/commons/mausoleum-janibak-al-ashrafi.jpg\n  - Attribution: CC BY-SA 4.0 via Wikimedia Commons\n\n## Sources\n- **[SRC-MAUSOLEUMJANIBAKALASHRAFI]** [Archnet & Ministry Documentation for Mausoleum of Janibak al-Ashrafi](https://archnet.org/sites/mausoleum-janibak-al-ashrafi) - *Aga Khan Documentation Center / Ministry of Tourism and Antiquities*\n\n## Unresolved Items\n- Field verification of exact current opening hours needed.\n"
+    }
+  },
+  "baseline": {
+    "contentPackageV4Place": null,
+    "contentPackageV4Story": null,
+    "contentPackageV4Candidate": {
+      "candidateSlug": "mausoleum-janibak-al-ashrafi",
+      "nameEn": "Mausoleum of Janibak al-Ashrafi",
+      "nameAr": "قبة جانبك الأشرفي",
+      "alternateNames": [],
+      "candidateType": "mausoleum",
+      "historicalPeriod": "Burji Mamluk",
+      "dynasty": "Burji Mamluk",
+      "district": "Northern Cemetery",
+      "whyCandidateMatters": "Mausoleum of Janibak al-Ashrafi would broaden the project beyond the current 41-record set and improve district, type, or period coverage. Coverage value: this record would expand the Burji Mamluk layer in Northern Cemetery through a mausoleum rather than duplicating an existing published monument.",
+      "knownDatesOrRange": "requires monument-specific verification",
+      "availableSourceRecords": [
+        "src-unesco",
+        "src-egy-historic"
+      ],
+      "verificationStatus": "research-only; monument-specific verification incomplete",
+      "knownResearchGaps": [
+        "monument-specific authoritative source",
+        "exact dates and patronage",
+        "coordinates and access",
+        "verified open-license cover",
+        "Confirm a direct monument-specific institutional or academic source.",
+        "Validate current identity, coordinates, and survival condition.",
+        "Verify a reusable documentary image and its exact license."
+      ],
+      "potentialImageMediaLead": "https://commons.wikimedia.org/w/index.php?search=mausoleum+janibak+al+ashrafi+Cairo&title=Special:MediaSearch&type=image",
+      "recommendation": "medium priority",
+      "status": "research-only"
+    },
+    "mediaPackageV2Assets": [],
+    "mediaPackageV2ResearchNote": null
+  },
+  "sources": [
+    "mausoleum-janibak-al-ashrafi:unesco-historic-cairo",
+    "SRC-MAUSOLEUMJANIBAKALASHRAFI"
+  ],
+  "sourceDetails": [
+    {
+      "sourceId": "mausoleum-janibak-al-ashrafi:unesco-historic-cairo",
+      "title": "Historic Cairo",
+      "url": "https://whc.unesco.org/en/list/89",
+      "sourceType": "heritage register",
+      "publisher": "UNESCO World Heritage Centre",
+      "publicationDate": null,
+      "accessedDate": "2026-07-24",
+      "supports": [
+        "mausoleum-janibak-al-ashrafi-identity",
+        "mausoleum-janibak-al-ashrafi-history",
+        "mausoleum-janibak-al-ashrafi-architecture",
+        "mausoleum-janibak-al-ashrafi-status"
+      ],
+      "notes": "UNESCO describes the Historic Cairo property, its component areas, and its heritage context."
+    },
+    {
+      "sourceId": "SRC-MAUSOLEUMJANIBAKALASHRAFI",
+      "title": "Archnet & Ministry Documentation for Mausoleum of Janibak al-Ashrafi",
+      "url": "https://archnet.org/sites/mausoleum-janibak-al-ashrafi",
+      "sourceType": "scholarly_database",
+      "publisher": "Aga Khan Documentation Center / Ministry of Tourism and Antiquities",
+      "publicationDate": "2020-01-01",
+      "accessedDate": "2026-02-15",
+      "supports": [
+        "CLM-MAUSOLEUMJANIBAKALASHRAFI-01"
+      ],
+      "notes": "Standard research catalog citation."
+    }
+  ],
+  "unresolved": [
+    "Research-only record. It must not be presented as approved public content.",
+    "Monument-specific evidence, current visitor conditions, and reuse-cleared image metadata require official or field verification.",
+    "No photo candidate is included because exact file-level reuse licensing was not verified.",
+    "Field verification of exact current opening hours needed."
+  ],
+  "baselineCandidateStatus": "research-only; monument-specific verification incomplete",
+  "acceptedClaims": [
+    {
+      "claimId": "mausoleum-janibak-al-ashrafi-status",
+      "placeSlug": "mausoleum-janibak-al-ashrafi",
+      "storySlug": null,
+      "claimType": "visitor",
+      "textEn": "Current visitor information is not asserted without a current official notice.",
+      "textAr": "لا تُثبت معلومات الزيارة الحالية دون إعلان رسمي حديث.",
+      "confidence": "low",
+      "sourceIds": [
+        "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "accepted-source-linked"
+    },
+    {
+      "claimId": "CLM-MAUSOLEUMJANIBAKALASHRAFI-01",
+      "placeSlug": "mausoleum-janibak-al-ashrafi",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "The site Mausoleum of Janibak al-Ashrafi is registered as a recognized historic Cairo structure.",
+      "textAr": "تم تسجيل قبة جاني بك الأشرفي كمنشأة تراثية تاريخية بالقاهرة.",
+      "confidence": "medium",
+      "sourceIds": [
+        "SRC-MAUSOLEUMJANIBAKALASHRAFI"
+      ],
+      "provenance": [
+        "gemini"
+      ],
+      "provenanceGroup": "gemini",
+      "acceptanceStatus": "accepted-source-linked"
+    }
+  ],
+  "alternateClaims": [
+    {
+      "claimId": "mausoleum-janibak-al-ashrafi-identity",
+      "placeSlug": "mausoleum-janibak-al-ashrafi",
+      "storySlug": null,
+      "claimType": "identity",
+      "textEn": "The inventory identifies this record as Mausoleum of Janibak al-Ashrafi.",
+      "textAr": "يسجل الجرد هذا الموقع باسم Unknown — requires official or field verification..",
+      "confidence": "high",
+      "sourceIds": [
+        "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mausoleum-janibak-al-ashrafi-history",
+      "placeSlug": "mausoleum-janibak-al-ashrafi",
+      "storySlug": null,
+      "claimType": "history",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    },
+    {
+      "claimId": "mausoleum-janibak-al-ashrafi-architecture",
+      "placeSlug": "mausoleum-janibak-al-ashrafi",
+      "storySlug": null,
+      "claimType": "architecture",
+      "textEn": "Unknown — requires official or field verification.",
+      "textAr": "Unknown — requires official or field verification.",
+      "confidence": "low",
+      "sourceIds": [
+        "mausoleum-janibak-al-ashrafi:unesco-historic-cairo"
+      ],
+      "provenance": [
+        "chatgpt",
+        "qwen"
+      ],
+      "provenanceGroup": "chatgpt+qwen",
+      "acceptanceStatus": "alternate-unresolved",
+      "reasons": [
+        "Arabic placeholder or incomplete Arabic text"
+      ]
+    }
+  ]
+}
